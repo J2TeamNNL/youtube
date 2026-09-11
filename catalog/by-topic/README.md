@@ -12,6 +12,8 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | TikTok / công cụ | [tiktok-cong-cu.md](./tiktok-cong-cu.md) |
 | SQL | [sql.md](./sql.md) |
 | Database | [database.md](./database.md) |
+| Index | [index.md](./index.md) |
+| View | [view.md](./view.md) |
 | HTML | [html.md](./html.md) |
 | Web | [web.md](./web.md) |
 | UX | [ux.md](./ux.md) |

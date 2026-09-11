@@ -11,6 +11,7 @@
 | `6OQhvSQ1ZEo` | SQL Buổi 7 P1 Nối bảng | 2021-10-01 | [entry](../entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md) |
 | `rwMLTX7vKrE` | SQL Buổi 7 P2 Nối bảng | 2021-10-03 | [entry](../entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md) |
 | `wiYWbm3r48A` | Lập trình web cơ bản buổi 1 HTML | 2021-10-05 | [entry](../entries/lap-trinh-web-co-ban-buoi-1-html-wiYWbm3r48A.md) |
+| `uJn89Ua7D8M` | SQL chuyên sâu Buổi 1 Index View | 2021-10-07 | [entry](../entries/sql-chuyen-sau-buoi-1-index-view-uJn89Ua7D8M.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
