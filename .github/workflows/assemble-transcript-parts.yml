@@ -1,0 +1,41 @@
+name: Assemble transcript parts
+on:
+  push:
+    paths:
+      - 'transcripts/**/parts/*.txt'
+      - '.github/workflows/assemble-transcript-parts.yml'
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Concatenate parts into transcript.md
+        run: |
+          set -euo pipefail
+          changed=0
+          for parts_dir in transcripts/*/parts; do
+            [ -d "$parts_dir" ] || continue
+            folder=$(dirname "$parts_dir")
+            out="$folder/transcript.md"
+            tmp=$(mktemp)
+            cat "$parts_dir"/*.txt > "$tmp"
+            if [ ! -f "$out" ] || ! cmp -s "$tmp" "$out"; then
+              mv "$tmp" "$out"
+              changed=1
+              echo "Updated $out"
+            else
+              rm -f "$tmp"
+              echo "Unchanged $out"
+            fi
+          done
+          echo "changed=$changed" >> "$GITHUB_ENV"
+      - name: Commit assembled transcripts
+        if: env.changed == '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add transcripts/*/transcript.md
+          git commit -m "Assemble transcript.md from parts"
+          git push
