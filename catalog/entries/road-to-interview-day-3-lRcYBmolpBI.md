@@ -6,7 +6,7 @@
 - **duration:** 4917s (~1h22)
 - **kind:** live
 - **subtitle_source:** auto (ASR — có thể nhiễu / sai từ)
-- **folder:** [`transcripts/`](../../transcripts/) _(theo id `lRcYBmolpBI`)_
+- **folder:** [`transcripts/road-to-interview-day-3-lRcYBmolpBI/`](../../transcripts/road-to-interview-day-3-lRcYBmolpBI/)
 - **topics:** phỏng vấn, system design, AI
 - **series:** Road to Interview — day 3
 
