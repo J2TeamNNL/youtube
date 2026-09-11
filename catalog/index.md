@@ -12,3 +12,4 @@
 | `8T0edb1AYUg` | SQL Buổi 2 Những câu lệnh cơ bản | 2021-09-14 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-2-nhung-cau-lenh-co-ban-8T0edb1AYUg.md](./entries/sql-buoi-2-nhung-cau-lenh-co-ban-8T0edb1AYUg.md) |
 | `d8-KYLxMPpM` | SQL Buổi 3 Những ràng buộc | 2021-09-18 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-3-nhung-rang-buoc-d8-KYLxMPpM.md](./entries/sql-buoi-3-nhung-rang-buoc-d8-KYLxMPpM.md) |
 | `A0qfh0mEoLE` | SQL Buổi 4 Những hàm cơ bản | 2021-09-21 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md](./entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md) |
+| `1koJCVv8Os4` | SQL Buổi 5 Những hàm nhóm và thống kê | 2021-09-23 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md](./entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md) |
