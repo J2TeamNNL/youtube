@@ -9,3 +9,7 @@ Series học SQL cơ bản (buổi live), bắt đầu từ làm quen CSDL và k
 ## Buổi 2
 
 - [SQL Buổi 2 Những câu lệnh cơ bản](../entries/sql-buoi-2-nhung-cau-lenh-co-ban-8T0edb1AYUg.md) (`8T0edb1AYUg`) — live · 2021-09-14 · ASR auto
+
+## Buổi 3
+
+- [SQL Buổi 3 Những ràng buộc](../entries/sql-buoi-3-nhung-rang-buoc-d8-KYLxMPpM.md) (`d8-KYLxMPpM`) — live · 2021-09-18 · ASR auto
