@@ -2,7 +2,9 @@
 
 Series luyện phỏng vấn / system design / AI trong sự nghiệp.
 
-> Day 1: **chưa có** trong catalog.
+## Day 1
+
+- [Road to Interview (day 1)](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) (`LLeI4VFNtVE`) — live · 2026-03-11 · ASR auto
 
 ## Day 2
 
