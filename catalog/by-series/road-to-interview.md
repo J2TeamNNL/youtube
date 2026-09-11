@@ -2,7 +2,11 @@
 
 Series luyện phỏng vấn / system design / AI trong sự nghiệp.
 
-> Day 1–3: **chưa có** trong catalog.
+> Day 1–2: **chưa có** trong catalog.
+
+## Day 3
+
+- [Road to Interview (day 3)](../entries/road-to-interview-day-3-lRcYBmolpBI.md) (`lRcYBmolpBI`) — live · 2026-06-16 · ASR auto
 
 ## Day 4
 

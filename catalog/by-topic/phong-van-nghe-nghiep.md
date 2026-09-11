@@ -4,4 +4,5 @@ Cập nhật sự nghiệp, CV, offer, và luyện phỏng vấn (kể cả seri
 
 ## Entries
 
+- [Road to Interview (day 3)](../entries/road-to-interview-day-3-lRcYBmolpBI.md) (`lRcYBmolpBI`)
 - [Road to Interview (day 4)](../entries/road-to-interview-day-4-D3RdLhbceoc.md) (`D3RdLhbceoc`)
