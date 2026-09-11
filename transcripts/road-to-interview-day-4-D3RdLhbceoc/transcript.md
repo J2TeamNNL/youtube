@@ -1,1 +1,1 @@
-file:///tmp/live_transcript.md
+file:///home/box/.cursor/projects/workspace/agent-tools/7da63934-df8c-4b23-878d-714f82cd7baf.txt
