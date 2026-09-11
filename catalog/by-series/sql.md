@@ -13,3 +13,7 @@ Series học SQL cơ bản (buổi live), bắt đầu từ làm quen CSDL và k
 ## Buổi 3
 
 - [SQL Buổi 3 Những ràng buộc](../entries/sql-buoi-3-nhung-rang-buoc-d8-KYLxMPpM.md) (`d8-KYLxMPpM`) — live · 2021-09-18 · ASR auto
+
+## Buổi 4
+
+- [SQL Buổi 4 Những hàm cơ bản](../entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md) (`A0qfh0mEoLE`) — live · 2021-09-21 · ASR auto
