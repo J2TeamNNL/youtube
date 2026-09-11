@@ -1,6 +1,5 @@
 # Mục lục video
 
-Chưa có transcript nào. Khi Transcript đẩy batch đầu, mục lục sẽ được cập nhật tại đây.
-
-| video-id | Tiêu đề | Ngày | Chủ đề | Series |
-| --- | --- | --- | --- | --- |
+| video-id | Tiêu đề | Ngày | Chủ đề | Series | Transcript |
+| --- | --- | --- | --- | --- | --- |
+| `9OFnxGas9Fc` | TikTok DM helper | 2026-06-20 | TikTok / công cụ | — | không có phụ đề |

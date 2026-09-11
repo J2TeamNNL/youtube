@@ -1,5 +1,7 @@
 # Theo chủ đề
 
-Mỗi file (hoặc thư mục) tương ứng một chủ đề. Bên trong liệt kê video liên quan kèm tóm tắt ngắn từ transcript.
+Mỗi file tương ứng một chủ đề. Bên trong liệt kê video liên quan kèm tóm tắt ngắn từ transcript (nếu có).
 
-_Chưa có chủ đề — sẽ xuất hiện sau khi có transcript._
+| Chủ đề | File |
+| --- | --- |
+| TikTok / công cụ | [tiktok-cong-cu.md](./tiktok-cong-cu.md) |
