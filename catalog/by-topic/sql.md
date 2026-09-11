@@ -11,3 +11,4 @@ Học SQL / truy vấn, kiểu dữ liệu, và thao tác bảng cơ bản (INSE
 - [SQL Buổi 5 Những hàm nhóm và thống kê](../entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md) (`1koJCVv8Os4`)
 - [SQL Buổi 6 Những ràng buộc khóa](../entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md) (`a0ezTyvEhY8`)
 - [SQL Buổi 7 P1 Nối bảng](../entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md) (`6OQhvSQ1ZEo`)
+- [SQL Buổi 7 P2 Nối bảng](../entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md) (`rwMLTX7vKrE`)

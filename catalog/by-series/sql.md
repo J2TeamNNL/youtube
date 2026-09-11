@@ -29,3 +29,7 @@ Series học SQL cơ bản (buổi live), bắt đầu từ làm quen CSDL và k
 ## Buổi 7 P1
 
 - [SQL Buổi 7 P1 Nối bảng](../entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md) (`6OQhvSQ1ZEo`) — live · 2021-10-01 · ASR auto
+
+## Buổi 7 P2
+
+- [SQL Buổi 7 P2 Nối bảng](../entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md) (`rwMLTX7vKrE`) — live · 2021-10-03 · ASR auto
