@@ -5,3 +5,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 1
 
 - [Lập trình web cơ bản buổi 1 HTML](../entries/lap-trinh-web-co-ban-buoi-1-html-wiYWbm3r48A.md) (`wiYWbm3r48A`) — live · 2021-10-05 · ASR auto
+
+## Buổi 2
+
+- [Lập trình web cơ bản buổi 2 HTML bảng](../entries/lap-trinh-web-co-ban-buoi-2-html-bang-Y0mgyEp8kFI.md) (`Y0mgyEp8kFI`) — live · 2021-10-09 · ASR auto
