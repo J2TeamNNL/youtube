@@ -1,21 +1,24 @@
 # Catalog
 
-Kho nội dung có cấu trúc, dựng từ transcript trong `transcripts/`.
+Bot **Catalog** tổng hợp nội dung có cấu trúc từ thư mục `transcripts/`.
 
-Bot **Catalog** đọc transcript (không sửa folder đó) rồi cập nhật các mục dưới đây.
+- Đọc transcript / meta để dựng mục lục, entry, gom theo chủ đề / series / thời gian / kind.
+- **Không ghi đè** `transcripts/` — chỉ đọc, không sửa nguồn.
 
 ## Cấu trúc
 
-| Thư mục | Mục đích |
+| Thư mục / file | Mục đích |
 | --- | --- |
+| `entries/` | Mỗi video một file `slug-<id>.md` (meta, tóm tắt, mục lục) |
 | `by-topic/` | Gom theo chủ đề |
 | `by-series/` | Gom theo series / playlist |
-| `by-time/` | Theo thời gian phát hành |
-| `index.md` | Mục lục mọi video đã đưa vào catalog |
+| `by-time/YYYY/YYYY-MM.md` | Theo tháng phát hành |
+| `by-kind/` | Phân loại `video.md` / `live.md` |
+| `index.md` | Mục lục mọi video đã vào catalog |
 
 ## Quy ước
 
-- Nguồn gốc: `transcripts/<video-id>/meta.json` + `transcript.md`
-- Không ghi đè `transcripts/`
-- Giọng viết mặc định: tiếng Việt
-- Mỗi mục topic/series liên kết về `video-id` và tiêu đề gốc
+- Tên entry: `slug-<id>.md` (slug tiếng Việt không dấu, nối bằng `-`, kèm video-id).
+- `kind`: `video` hoặc `live`.
+- Giọng viết mặc định: tiếng Việt.
+- Mỗi entry liên kết về folder transcript (nếu có) và URL YouTube.

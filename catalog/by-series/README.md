@@ -1,5 +1,7 @@
 # Theo series
 
-Gom video theo series / playlist (nếu meta hoặc nội dung cho thấy thuộc một chuỗi).
+Gom video theo series / playlist.
 
-_Chưa có series — sẽ xuất hiện sau khi có transcript._
+| Series | File |
+| --- | --- |
+| Road to Interview | [road-to-interview.md](./road-to-interview.md) |
