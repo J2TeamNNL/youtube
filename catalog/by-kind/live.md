@@ -8,6 +8,7 @@
 | `A0qfh0mEoLE` | SQL Buổi 4 Những hàm cơ bản | 2021-09-21 | [entry](../entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md) |
 | `1koJCVv8Os4` | SQL Buổi 5 Những hàm nhóm và thống kê | 2021-09-23 | [entry](../entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md) |
 | `a0ezTyvEhY8` | SQL Buổi 6 Những ràng buộc khóa | 2021-09-28 | [entry](../entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md) |
+| `6OQhvSQ1ZEo` | SQL Buổi 7 P1 Nối bảng | 2021-10-01 | [entry](../entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
