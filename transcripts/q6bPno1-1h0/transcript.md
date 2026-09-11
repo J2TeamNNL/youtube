@@ -1,1 +1,0 @@
-PLACEHOLDER_LOAD_FROM_/tmp/mcp_file_1.txt
