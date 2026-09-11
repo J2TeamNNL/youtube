@@ -16,3 +16,4 @@
 | `a0ezTyvEhY8` | SQL Buổi 6 Những ràng buộc khóa | 2021-09-28 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md](./entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md) |
 | `6OQhvSQ1ZEo` | SQL Buổi 7 P1 Nối bảng | 2021-10-01 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md](./entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md) |
 | `rwMLTX7vKrE` | SQL Buổi 7 P2 Nối bảng | 2021-10-03 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md](./entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md) |
+| `wiYWbm3r48A` | Lập trình web cơ bản buổi 1 HTML | 2021-10-05 | live | html, web, ux | Lập trình web cơ bản | có (auto) | [entries/lap-trinh-web-co-ban-buoi-1-html-wiYWbm3r48A.md](./entries/lap-trinh-web-co-ban-buoi-1-html-wiYWbm3r48A.md) |
