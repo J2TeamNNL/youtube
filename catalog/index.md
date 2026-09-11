@@ -14,7 +14,7 @@
 | `A0qfh0mEoLE` | SQL Buổi 4 Những hàm cơ bản | 2021-09-21 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md](./entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md) |
 | `1koJCVv8Os4` | SQL Buổi 5 Những hàm nhóm và thống kê | 2021-09-23 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md](./entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md) |
 | `a0ezTyvEhY8` | SQL Buổi 6 Những ràng buộc khóa | 2021-09-28 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md](./entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md) |
-| `6OQhvSQ1ZEo` | SQL Buổi 7 P1 Nối bảng | 2021-10-01 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md](./entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md) |
+| `6OQhvSQ1ZEo` | SQL Buổi 7 P1 Nối bảng | 2021-10-01 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md](./entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md) |
 | `rwMLTX7vKrE` | SQL Buổi 7 P2 Nối bảng | 2021-10-03 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md](./entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md) |
 | `wiYWbm3r48A` | Lập trình web cơ bản buổi 1 HTML | 2021-10-05 | live | html, web, ux | Lập trình web cơ bản | có (auto) | [entries/lap-trinh-web-co-ban-buoi-1-html-wiYWbm3r48A.md](./entries/lap-trinh-web-co-ban-buoi-1-html-wiYWbm3r48A.md) |
 | `uJn89Ua7D8M` | SQL chuyên sâu Buổi 1 Index View | 2021-10-07 | live | sql, database, index, view | SQL chuyên sâu | có (auto) | [entries/sql-chuyen-sau-buoi-1-index-view-uJn89Ua7D8M.md](./entries/sql-chuyen-sau-buoi-1-index-view-uJn89Ua7D8M.md) |
