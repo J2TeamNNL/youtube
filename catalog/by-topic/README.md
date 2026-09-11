@@ -10,3 +10,5 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Phỏng vấn / nghề nghiệp | [phong-van-nghe-nghiep.md](./phong-van-nghe-nghiep.md) |
 | AI / công cụ | [ai-cong-cu.md](./ai-cong-cu.md) |
 | TikTok / công cụ | [tiktok-cong-cu.md](./tiktok-cong-cu.md) |
+| SQL | [sql.md](./sql.md) |
+| Database | [database.md](./database.md) |
