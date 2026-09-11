@@ -9,3 +9,4 @@
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | live | phỏng vấn, system design, AI | Road to Interview | có (auto) | [entries/road-to-interview-day-3-lRcYBmolpBI.md](./entries/road-to-interview-day-3-lRcYBmolpBI.md) |
 | `D3RdLhbceoc` | Road to Interview (day 4) | 2026-09-10 | live | phỏng vấn, system design, AI | Road to Interview | có (auto) | [entries/road-to-interview-day-4-D3RdLhbceoc.md](./entries/road-to-interview-day-4-D3RdLhbceoc.md) |
 | `-OCOG15SD1w` | SQL Buổi 1 Làm quen | 2021-09-12 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-1-lam-quen--OCOG15SD1w.md](./entries/sql-buoi-1-lam-quen--OCOG15SD1w.md) |
+| `8T0edb1AYUg` | SQL Buổi 2 Những câu lệnh cơ bản | 2021-09-14 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-2-nhung-cau-lenh-co-ban-8T0edb1AYUg.md](./entries/sql-buoi-2-nhung-cau-lenh-co-ban-8T0edb1AYUg.md) |

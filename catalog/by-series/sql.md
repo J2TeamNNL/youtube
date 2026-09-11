@@ -5,3 +5,7 @@ Series học SQL cơ bản (buổi live), bắt đầu từ làm quen CSDL và k
 ## Buổi 1
 
 - [SQL Buổi 1 Làm quen](../entries/sql-buoi-1-lam-quen--OCOG15SD1w.md) (`-OCOG15SD1w`) — live · 2021-09-12 · ASR auto
+
+## Buổi 2
+
+- [SQL Buổi 2 Những câu lệnh cơ bản](../entries/sql-buoi-2-nhung-cau-lenh-co-ban-8T0edb1AYUg.md) (`8T0edb1AYUg`) — live · 2021-09-14 · ASR auto
