@@ -13,3 +13,4 @@ Học SQL / truy vấn, kiểu dữ liệu, và thao tác bảng cơ bản (INSE
 - [SQL Buổi 7 P1 Nối bảng](../entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md) (`6OQhvSQ1ZEo`)
 - [SQL Buổi 7 P2 Nối bảng](../entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md) (`rwMLTX7vKrE`)
 - [SQL chuyên sâu Buổi 1 Index View](../entries/sql-chuyen-sau-buoi-1-index-view-uJn89Ua7D8M.md) (`uJn89Ua7D8M`)
+- [SQL chuyên sâu Buổi 2 Procedure](../entries/sql-chuyen-sau-buoi-2-procedure-yCyHpZALCG0.md) (`yCyHpZALCG0`)

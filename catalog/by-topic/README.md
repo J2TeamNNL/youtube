@@ -14,6 +14,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Database | [database.md](./database.md) |
 | Index | [index.md](./index.md) |
 | View | [view.md](./view.md) |
+| Procedure | [procedure.md](./procedure.md) |
 | HTML | [html.md](./html.md) |
 | Web | [web.md](./web.md) |
 | UX | [ux.md](./ux.md) |
