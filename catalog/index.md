@@ -13,3 +13,4 @@
 | `d8-KYLxMPpM` | SQL Buổi 3 Những ràng buộc | 2021-09-18 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-3-nhung-rang-buoc-d8-KYLxMPpM.md](./entries/sql-buoi-3-nhung-rang-buoc-d8-KYLxMPpM.md) |
 | `A0qfh0mEoLE` | SQL Buổi 4 Những hàm cơ bản | 2021-09-21 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md](./entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md) |
 | `1koJCVv8Os4` | SQL Buổi 5 Những hàm nhóm và thống kê | 2021-09-23 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md](./entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md) |
+| `a0ezTyvEhY8` | SQL Buổi 6 Những ràng buộc khóa | 2021-09-28 | live | sql, database | SQL | có (auto) | [entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md](./entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md) |

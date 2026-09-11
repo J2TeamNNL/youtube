@@ -21,3 +21,7 @@ Series học SQL cơ bản (buổi live), bắt đầu từ làm quen CSDL và k
 ## Buổi 5
 
 - [SQL Buổi 5 Những hàm nhóm và thống kê](../entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md) (`1koJCVv8Os4`) — live · 2021-09-23 · ASR auto
+
+## Buổi 6
+
+- [SQL Buổi 6 Những ràng buộc khóa](../entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md) (`a0ezTyvEhY8`) — live · 2021-09-28 · ASR auto
