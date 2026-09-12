@@ -49,3 +49,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 12
 
 - [Lập trình web cơ bản buổi 12 JavaScript Validate Form](../entries/lap-trinh-web-co-ban-buoi-12-javascript-validate-form-uBanTLR3YeE.md) (`uBanTLR3YeE`) — live · 2021-11-16 · ASR auto
+
+## Buổi 13
+
+- [Lập trình web cơ bản buổi 13 JavaScript DOM BOM Tools](../entries/lap-trinh-web-co-ban-buoi-13-javascript-dom-bom-tools-8QxwiQPrNHs.md) (`8QxwiQPrNHs`) — live · 2021-11-23 · ASR auto
