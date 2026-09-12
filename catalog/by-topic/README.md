@@ -25,6 +25,8 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Loop | [loop.md](./loop.md) |
 | Array | [array.md](./array.md) |
 | Regex | [regex.md](./regex.md) |
+| DOM | [dom.md](./dom.md) |
+| BOM | [bom.md](./bom.md) |
 | Layout | [layout.md](./layout.md) |
 | Selector | [selector.md](./selector.md) |
 | Web | [web.md](./web.md) |
