@@ -16,3 +16,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Livecode - Lấy ra những bình luận chưa trả lời trên Teachable - JavaScript](../entries/livecode-lay-ra-nhung-binh-luan-chua-tra-loi-tren-teachable-javascript-21sAAG9inYI.md) (`21sAAG9inYI`)
 - [Lập trình web cơ bản buổi 10 JavaScript Array](../entries/lap-trinh-web-co-ban-buoi-10-javascript-array-KjHtFIR79XI.md) (`KjHtFIR79XI`)
 - [Lập trình web cơ bản buổi 11 JavaScript Regex](../entries/lap-trinh-web-co-ban-buoi-11-javascript-regex-nQcEK4HLoQs.md) (`nQcEK4HLoQs`)
+- [Lập trình web cơ bản buổi 12 JavaScript Validate Form](../entries/lap-trinh-web-co-ban-buoi-12-javascript-validate-form-uBanTLR3YeE.md) (`uBanTLR3YeE`)
