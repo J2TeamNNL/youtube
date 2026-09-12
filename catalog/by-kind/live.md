@@ -37,6 +37,7 @@
 | `xXmCzhU0BNY` | Lập trình web cơ bản buổi 17 PHP CRUD Pagination Searching Hacking | 2021-12-03 | [entry](../entries/lap-trinh-web-co-ban-buoi-17-php-crud-pagination-searching-hacking-xXmCzhU0BNY.md) |
 | `Wlo5aQw2UeI` | Lập trình web cơ bản buổi 18 PHP ôn tập layout | 2021-12-05 | [entry](../entries/lap-trinh-web-co-ban-buoi-18-php-on-tap-layout-Wlo5aQw2UeI.md) |
 | `pOzcjuEaXVI` | Đồ án Web cơ bản - Phân nhóm & định hướng | 2021-12-05 | [entry](../entries/do-an-web-co-ban-phan-nhom-dinh-huong-pOzcjuEaXVI.md) |
+| `MemEhFGO2X0` | Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết | 2021-12-07 | [entry](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
