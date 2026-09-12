@@ -21,3 +21,7 @@ Series SQL nâng cao (buổi live), tách khỏi [SQL cơ bản](./sql.md). Bắ
 ## Buổi 5
 
 - [SQL chuyên sâu Buổi 5 Trigger Instead of](../entries/sql-chuyen-sau-buoi-5-trigger-instead-of-BRk36X7prK0.md) (`BRk36X7prK0`) — live · 2021-11-04 · ASR auto
+
+## Buổi 6
+
+- [SQL chuyên sâu Buổi 6 Chữa bài tập Transaction](../entries/sql-chuyen-sau-buoi-6-chua-bai-tap-transaction-xPllalzVL_4.md) (`xPllalzVL_4`) — live · 2021-11-12 · ASR auto

@@ -17,6 +17,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Procedure | [procedure.md](./procedure.md) |
 | Function | [function.md](./function.md) |
 | Trigger | [trigger.md](./trigger.md) |
+| Transaction | [transaction.md](./transaction.md) |
 | HTML | [html.md](./html.md) |
 | CSS | [css.md](./css.md) |
 | JavaScript | [javascript.md](./javascript.md) |

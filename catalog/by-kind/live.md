@@ -26,6 +26,7 @@
 | `9HG9MmtpE7Y` | Lập trình web cơ bản buổi 9 JavaScript Loop & Input | 2021-11-07 | [entry](../entries/lap-trinh-web-co-ban-buoi-9-javascript-loop-input-9HG9MmtpE7Y.md) |
 | `21sAAG9inYI` | Livecode - Lấy ra những bình luận chưa trả lời trên Teachable - JavaScript | 2021-11-07 | [entry](../entries/livecode-lay-ra-nhung-binh-luan-chua-tra-loi-tren-teachable-javascript-21sAAG9inYI.md) |
 | `KjHtFIR79XI` | Lập trình web cơ bản buổi 10 JavaScript Array | 2021-11-09 | [entry](../entries/lap-trinh-web-co-ban-buoi-10-javascript-array-KjHtFIR79XI.md) |
+| `xPllalzVL_4` | SQL chuyên sâu Buổi 6 Chữa bài tập Transaction | 2021-11-12 | [entry](../entries/sql-chuyen-sau-buoi-6-chua-bai-tap-transaction-xPllalzVL_4.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
