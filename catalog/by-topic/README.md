@@ -5,6 +5,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Chủ đề | File |
 | --- | --- |
 | Bảo vệ đồ án | [bao-ve-do-an.md](./bao-ve-do-an.md) |
+| Đồ án | [do-an.md](./do-an.md) |
 | Marketplace đồ cũ | [marketplace-do-cu.md](./marketplace-do-cu.md) |
 | System design | [system-design.md](./system-design.md) |
 | Phỏng vấn / nghề nghiệp | [phong-van-nghe-nghiep.md](./phong-van-nghe-nghiep.md) |

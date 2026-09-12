@@ -23,3 +23,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web cơ bản buổi 16 PHP CRUD](../entries/lap-trinh-web-co-ban-buoi-16-php-crud-63H58_jGDco.md) (`63H58_jGDco`)
 - [Lập trình web cơ bản buổi 17 PHP CRUD Pagination Searching Hacking](../entries/lap-trinh-web-co-ban-buoi-17-php-crud-pagination-searching-hacking-xXmCzhU0BNY.md) (`xXmCzhU0BNY`)
 - [Lập trình web cơ bản buổi 18 PHP ôn tập layout](../entries/lap-trinh-web-co-ban-buoi-18-php-on-tap-layout-Wlo5aQw2UeI.md) (`Wlo5aQw2UeI`)
+- [Đồ án Web cơ bản - Phân nhóm & định hướng](../entries/do-an-web-co-ban-phan-nhom-dinh-huong-pOzcjuEaXVI.md) (`pOzcjuEaXVI`)
