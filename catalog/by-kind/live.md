@@ -32,6 +32,7 @@
 | `E6lizfokiWA` | SQL chuyên sâu Buổi cuối Thi vấn đáp | 2021-11-18 | [entry](../entries/sql-chuyen-sau-buoi-cuoi-thi-van-dap-E6lizfokiWA.md) |
 | `8QxwiQPrNHs` | Lập trình web cơ bản buổi 13 JavaScript DOM BOM Tools | 2021-11-23 | [entry](../entries/lap-trinh-web-co-ban-buoi-13-javascript-dom-bom-tools-8QxwiQPrNHs.md) |
 | `uEUa4qB97Kk` | Lập trình web cơ bản buổi 14 PHP Giới thiệu | 2021-11-25 | [entry](../entries/lap-trinh-web-co-ban-buoi-14-php-gioi-thieu-uEUa4qB97Kk.md) |
+| `AH9STS4sJSo` | Lập trình web cơ bản buổi 15 PHP Làm việc với Form | 2021-11-27 | [entry](../entries/lap-trinh-web-co-ban-buoi-15-php-lam-viec-voi-form-AH9STS4sJSo.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
