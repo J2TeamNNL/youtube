@@ -37,3 +37,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 9
 
 - [Lập trình web cơ bản buổi 9 JavaScript Loop & Input](../entries/lap-trinh-web-co-ban-buoi-9-javascript-loop-input-9HG9MmtpE7Y.md) (`9HG9MmtpE7Y`) — live · 2021-11-07 · ASR auto
+
+## Buổi 10
+
+- [Lập trình web cơ bản buổi 10 JavaScript Array](../entries/lap-trinh-web-co-ban-buoi-10-javascript-array-KjHtFIR79XI.md) (`KjHtFIR79XI`) — live · 2021-11-09 · ASR auto
