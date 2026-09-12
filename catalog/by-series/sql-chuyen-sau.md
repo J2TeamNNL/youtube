@@ -17,3 +17,7 @@ Series SQL nâng cao (buổi live), tách khỏi [SQL cơ bản](./sql.md). Bắ
 ## Buổi 4
 
 - [SQL chuyên sâu Buổi 4 Trigger After](../entries/sql-chuyen-sau-buoi-4-trigger-after-Oc-IlA-1jxc.md) (`Oc-IlA-1jxc`) — live · 2021-10-28 · ASR auto
+
+## Buổi 5
+
+- [SQL chuyên sâu Buổi 5 Trigger Instead of](../entries/sql-chuyen-sau-buoi-5-trigger-instead-of-BRk36X7prK0.md) (`BRk36X7prK0`) — live · 2021-11-04 · ASR auto
