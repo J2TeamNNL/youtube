@@ -20,3 +20,4 @@ Cơ sở dữ liệu, bảng/cột, mô hình lưu trữ và nghề liên quan (
 - [SQL chuyên sâu Buổi 6 Chữa bài tập Transaction](../entries/sql-chuyen-sau-buoi-6-chua-bai-tap-transaction-xPllalzVL_4.md) (`xPllalzVL_4`)
 - [SQL chuyên sâu Buổi cuối Thi vấn đáp](../entries/sql-chuyen-sau-buoi-cuoi-thi-van-dap-E6lizfokiWA.md) (`E6lizfokiWA`)
 - [Lập trình web cơ bản buổi 16 PHP CRUD](../entries/lap-trinh-web-co-ban-buoi-16-php-crud-63H58_jGDco.md) (`63H58_jGDco`)
+- [Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) (`MemEhFGO2X0`)
