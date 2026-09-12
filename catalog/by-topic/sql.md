@@ -16,3 +16,4 @@ Học SQL / truy vấn, kiểu dữ liệu, và thao tác bảng cơ bản (INSE
 - [SQL chuyên sâu Buổi 2 Procedure](../entries/sql-chuyen-sau-buoi-2-procedure-yCyHpZALCG0.md) (`yCyHpZALCG0`)
 - [SQL chuyên sâu Buổi 3 Function](../entries/sql-chuyen-sau-buoi-3-function-AlOM-lbJ1t8.md) (`AlOM-lbJ1t8`)
 - [SQL chuyên sâu Buổi 4 Trigger After](../entries/sql-chuyen-sau-buoi-4-trigger-after-Oc-IlA-1jxc.md) (`Oc-IlA-1jxc`)
+- [SQL chuyên sâu Buổi 5 Trigger Instead of](../entries/sql-chuyen-sau-buoi-5-trigger-instead-of-BRk36X7prK0.md) (`BRk36X7prK0`)
