@@ -53,3 +53,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 13
 
 - [Lập trình web cơ bản buổi 13 JavaScript DOM BOM Tools](../entries/lap-trinh-web-co-ban-buoi-13-javascript-dom-bom-tools-8QxwiQPrNHs.md) (`8QxwiQPrNHs`) — live · 2021-11-23 · ASR auto
+
+## Buổi 14
+
+- [Lập trình web cơ bản buổi 14 PHP Giới thiệu](../entries/lap-trinh-web-co-ban-buoi-14-php-gioi-thieu-uEUa4qB97Kk.md) (`uEUa4qB97Kk`) — live · 2021-11-25 · ASR auto
