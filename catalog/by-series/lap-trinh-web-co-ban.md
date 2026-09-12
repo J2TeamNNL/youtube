@@ -61,3 +61,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 15
 
 - [Lập trình web cơ bản buổi 15 PHP Làm việc với Form](../entries/lap-trinh-web-co-ban-buoi-15-php-lam-viec-voi-form-AH9STS4sJSo.md) (`AH9STS4sJSo`) — live · 2021-11-27 · ASR auto
+
+## Buổi 16
+
+- [Lập trình web cơ bản buổi 16 PHP CRUD](../entries/lap-trinh-web-co-ban-buoi-16-php-crud-63H58_jGDco.md) (`63H58_jGDco`) — live · 2021-11-30 · ASR auto

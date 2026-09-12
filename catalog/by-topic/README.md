@@ -23,6 +23,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | CSS | [css.md](./css.md) |
 | JavaScript | [javascript.md](./javascript.md) |
 | PHP | [php.md](./php.md) |
+| CRUD | [crud.md](./crud.md) |
 | Loop | [loop.md](./loop.md) |
 | Array | [array.md](./array.md) |
 | Regex | [regex.md](./regex.md) |

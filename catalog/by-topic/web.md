@@ -20,3 +20,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web cơ bản buổi 13 JavaScript DOM BOM Tools](../entries/lap-trinh-web-co-ban-buoi-13-javascript-dom-bom-tools-8QxwiQPrNHs.md) (`8QxwiQPrNHs`)
 - [Lập trình web cơ bản buổi 14 PHP Giới thiệu](../entries/lap-trinh-web-co-ban-buoi-14-php-gioi-thieu-uEUa4qB97Kk.md) (`uEUa4qB97Kk`)
 - [Lập trình web cơ bản buổi 15 PHP Làm việc với Form](../entries/lap-trinh-web-co-ban-buoi-15-php-lam-viec-voi-form-AH9STS4sJSo.md) (`AH9STS4sJSo`)
+- [Lập trình web cơ bản buổi 16 PHP CRUD](../entries/lap-trinh-web-co-ban-buoi-16-php-crud-63H58_jGDco.md) (`63H58_jGDco`)
