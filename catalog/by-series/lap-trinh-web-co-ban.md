@@ -81,3 +81,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 20
 
 - [Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) (`cEwux79AiKw`) — live · 2021-12-10 · ASR auto
+
+## Buổi 21
+
+- [Lập trình web cơ bản buổi 21 PHP Signing & Hacking](../entries/lap-trinh-web-co-ban-buoi-21-php-signing-hacking-7pWAqw9XjVM.md) (`7pWAqw9XjVM`) — live · 2021-12-14 · ASR auto
