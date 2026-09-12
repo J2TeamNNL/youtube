@@ -17,6 +17,7 @@
 | `yCyHpZALCG0` | SQL chuyên sâu Buổi 2 Procedure | 2021-10-14 | [entry](../entries/sql-chuyen-sau-buoi-2-procedure-yCyHpZALCG0.md) |
 | `8t9qLdrlAvA` | Lập trình web cơ bản buổi 4 HTML Form | 2021-10-16 | [entry](../entries/lap-trinh-web-co-ban-buoi-4-html-form-8t9qLdrlAvA.md) |
 | `iSdXPJg6G9k` | Lập trình web cơ bản buổi 5 CSS làm quen | 2021-10-19 | [entry](../entries/lap-trinh-web-co-ban-buoi-5-css-lam-quen-iSdXPJg6G9k.md) |
+| `AlOM-lbJ1t8` | SQL chuyên sâu Buổi 3 Function | 2021-10-22 | [entry](../entries/sql-chuyen-sau-buoi-3-function-AlOM-lbJ1t8.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
