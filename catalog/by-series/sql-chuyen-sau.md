@@ -9,3 +9,7 @@ Series SQL nâng cao (buổi live), tách khỏi [SQL cơ bản](./sql.md). Bắ
 ## Buổi 2
 
 - [SQL chuyên sâu Buổi 2 Procedure](../entries/sql-chuyen-sau-buoi-2-procedure-yCyHpZALCG0.md) (`yCyHpZALCG0`) — live · 2021-10-14 · ASR auto
+
+## Buổi 3
+
+- [SQL chuyên sâu Buổi 3 Function](../entries/sql-chuyen-sau-buoi-3-function-AlOM-lbJ1t8.md) (`AlOM-lbJ1t8`) — live · 2021-10-22 · ASR auto

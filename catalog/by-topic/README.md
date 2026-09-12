@@ -15,6 +15,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Index | [index.md](./index.md) |
 | View | [view.md](./view.md) |
 | Procedure | [procedure.md](./procedure.md) |
+| Function | [function.md](./function.md) |
 | HTML | [html.md](./html.md) |
 | CSS | [css.md](./css.md) |
 | Web | [web.md](./web.md) |
