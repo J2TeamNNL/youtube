@@ -25,3 +25,7 @@ Series SQL nâng cao (buổi live), tách khỏi [SQL cơ bản](./sql.md). Bắ
 ## Buổi 6
 
 - [SQL chuyên sâu Buổi 6 Chữa bài tập Transaction](../entries/sql-chuyen-sau-buoi-6-chua-bai-tap-transaction-xPllalzVL_4.md) (`xPllalzVL_4`) — live · 2021-11-12 · ASR auto
+
+## Buổi cuối
+
+- [SQL chuyên sâu Buổi cuối Thi vấn đáp](../entries/sql-chuyen-sau-buoi-cuoi-thi-van-dap-E6lizfokiWA.md) (`E6lizfokiWA`) — live · 2021-11-18 · ASR auto

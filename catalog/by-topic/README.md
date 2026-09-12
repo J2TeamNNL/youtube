@@ -8,6 +8,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Marketplace đồ cũ | [marketplace-do-cu.md](./marketplace-do-cu.md) |
 | System design | [system-design.md](./system-design.md) |
 | Phỏng vấn / nghề nghiệp | [phong-van-nghe-nghiep.md](./phong-van-nghe-nghiep.md) |
+| Vấn đáp | [van-dap.md](./van-dap.md) |
 | AI / công cụ | [ai-cong-cu.md](./ai-cong-cu.md) |
 | TikTok / công cụ | [tiktok-cong-cu.md](./tiktok-cong-cu.md) |
 | SQL | [sql.md](./sql.md) |
