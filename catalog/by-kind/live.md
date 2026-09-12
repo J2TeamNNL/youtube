@@ -40,6 +40,7 @@
 | `MemEhFGO2X0` | Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết | 2021-12-07 | [entry](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) |
 | `cEwux79AiKw` | Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng | 2021-12-10 | [entry](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) |
 | `5o3BugEmhLk` | Đồ án Web cơ bản - Phân tích và thiết kế | 2021-12-12 | [entry](../entries/do-an-web-co-ban-phan-tich-va-thiet-ke-5o3BugEmhLk.md) |
+| `7pWAqw9XjVM` | Lập trình web cơ bản buổi 21 PHP Signing & Hacking | 2021-12-14 | [entry](../entries/lap-trinh-web-co-ban-buoi-21-php-signing-hacking-7pWAqw9XjVM.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |

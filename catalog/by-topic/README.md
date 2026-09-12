@@ -28,6 +28,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Pagination | [pagination.md](./pagination.md) |
 | Searching | [searching.md](./searching.md) |
 | Security | [security.md](./security.md) |
+| Signing | [signing.md](./signing.md) |
 | Loop | [loop.md](./loop.md) |
 | Array | [array.md](./array.md) |
 | Regex | [regex.md](./regex.md) |
