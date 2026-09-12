@@ -13,3 +13,7 @@ Series SQL nâng cao (buổi live), tách khỏi [SQL cơ bản](./sql.md). Bắ
 ## Buổi 3
 
 - [SQL chuyên sâu Buổi 3 Function](../entries/sql-chuyen-sau-buoi-3-function-AlOM-lbJ1t8.md) (`AlOM-lbJ1t8`) — live · 2021-10-22 · ASR auto
+
+## Buổi 4
+
+- [SQL chuyên sâu Buổi 4 Trigger After](../entries/sql-chuyen-sau-buoi-4-trigger-after-Oc-IlA-1jxc.md) (`Oc-IlA-1jxc`) — live · 2021-10-28 · ASR auto

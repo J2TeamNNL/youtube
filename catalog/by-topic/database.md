@@ -15,3 +15,4 @@ Cơ sở dữ liệu, bảng/cột, mô hình lưu trữ và nghề liên quan (
 - [SQL chuyên sâu Buổi 1 Index View](../entries/sql-chuyen-sau-buoi-1-index-view-uJn89Ua7D8M.md) (`uJn89Ua7D8M`)
 - [SQL chuyên sâu Buổi 2 Procedure](../entries/sql-chuyen-sau-buoi-2-procedure-yCyHpZALCG0.md) (`yCyHpZALCG0`)
 - [SQL chuyên sâu Buổi 3 Function](../entries/sql-chuyen-sau-buoi-3-function-AlOM-lbJ1t8.md) (`AlOM-lbJ1t8`)
+- [SQL chuyên sâu Buổi 4 Trigger After](../entries/sql-chuyen-sau-buoi-4-trigger-after-Oc-IlA-1jxc.md) (`Oc-IlA-1jxc`)
