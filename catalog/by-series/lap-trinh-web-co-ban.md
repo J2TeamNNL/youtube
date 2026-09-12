@@ -25,3 +25,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 6
 
 - [Lập trình web cơ bản buổi 6 CSS Layout](../entries/lap-trinh-web-co-ban-buoi-6-css-layout-dJ2K_5VaUgc.md) (`dJ2K_5VaUgc`) — live · 2021-10-24 · ASR auto
+
+## Buổi 7
+
+- [Lập trình web cơ bản buổi 7 CSS Pseudo & Selector](../entries/lap-trinh-web-co-ban-buoi-7-css-pseudo-selector-qJusq22MRvA.md) (`qJusq22MRvA`) — live · 2021-10-26 · ASR auto
