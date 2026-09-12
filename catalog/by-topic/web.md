@@ -11,3 +11,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web cơ bản buổi 5 CSS làm quen](../entries/lap-trinh-web-co-ban-buoi-5-css-lam-quen-iSdXPJg6G9k.md) (`iSdXPJg6G9k`)
 - [Lập trình web cơ bản buổi 6 CSS Layout](../entries/lap-trinh-web-co-ban-buoi-6-css-layout-dJ2K_5VaUgc.md) (`dJ2K_5VaUgc`)
 - [Lập trình web cơ bản buổi 7 CSS Pseudo & Selector](../entries/lap-trinh-web-co-ban-buoi-7-css-pseudo-selector-qJusq22MRvA.md) (`qJusq22MRvA`)
+- [Lập trình web cơ bản buổi 8 JavaScript làm quen](../entries/lap-trinh-web-co-ban-buoi-8-javascript-lam-quen-h4wTJgQxnJg.md) (`h4wTJgQxnJg`)

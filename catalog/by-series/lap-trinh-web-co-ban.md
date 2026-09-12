@@ -29,3 +29,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 7
 
 - [Lập trình web cơ bản buổi 7 CSS Pseudo & Selector](../entries/lap-trinh-web-co-ban-buoi-7-css-pseudo-selector-qJusq22MRvA.md) (`qJusq22MRvA`) — live · 2021-10-26 · ASR auto
+
+## Buổi 8
+
+- [Lập trình web cơ bản buổi 8 JavaScript làm quen](../entries/lap-trinh-web-co-ban-buoi-8-javascript-lam-quen-h4wTJgQxnJg.md) (`h4wTJgQxnJg`) — live · 2021-11-03 · ASR auto

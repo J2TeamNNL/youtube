@@ -19,6 +19,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Trigger | [trigger.md](./trigger.md) |
 | HTML | [html.md](./html.md) |
 | CSS | [css.md](./css.md) |
+| JavaScript | [javascript.md](./javascript.md) |
 | Layout | [layout.md](./layout.md) |
 | Selector | [selector.md](./selector.md) |
 | Web | [web.md](./web.md) |

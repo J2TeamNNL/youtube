@@ -21,6 +21,7 @@
 | `dJ2K_5VaUgc` | Lập trình web cơ bản buổi 6 CSS Layout | 2021-10-24 | [entry](../entries/lap-trinh-web-co-ban-buoi-6-css-layout-dJ2K_5VaUgc.md) |
 | `qJusq22MRvA` | Lập trình web cơ bản buổi 7 CSS Pseudo & Selector | 2021-10-26 | [entry](../entries/lap-trinh-web-co-ban-buoi-7-css-pseudo-selector-qJusq22MRvA.md) |
 | `Oc-IlA-1jxc` | SQL chuyên sâu Buổi 4 Trigger After | 2021-10-28 | [entry](../entries/sql-chuyen-sau-buoi-4-trigger-after-Oc-IlA-1jxc.md) |
+| `h4wTJgQxnJg` | Lập trình web cơ bản buổi 8 JavaScript làm quen | 2021-11-03 | [entry](../entries/lap-trinh-web-co-ban-buoi-8-javascript-lam-quen-h4wTJgQxnJg.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
