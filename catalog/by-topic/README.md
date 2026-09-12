@@ -21,6 +21,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | CSS | [css.md](./css.md) |
 | JavaScript | [javascript.md](./javascript.md) |
 | Loop | [loop.md](./loop.md) |
+| Array | [array.md](./array.md) |
 | Layout | [layout.md](./layout.md) |
 | Selector | [selector.md](./selector.md) |
 | Web | [web.md](./web.md) |
