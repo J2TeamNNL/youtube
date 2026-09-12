@@ -41,3 +41,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 10
 
 - [Lập trình web cơ bản buổi 10 JavaScript Array](../entries/lap-trinh-web-co-ban-buoi-10-javascript-array-KjHtFIR79XI.md) (`KjHtFIR79XI`) — live · 2021-11-09 · ASR auto
+
+## Buổi 11
+
+- [Lập trình web cơ bản buổi 11 JavaScript Regex](../entries/lap-trinh-web-co-ban-buoi-11-javascript-regex-nQcEK4HLoQs.md) (`nQcEK4HLoQs`) — live · 2021-11-14 · ASR auto
