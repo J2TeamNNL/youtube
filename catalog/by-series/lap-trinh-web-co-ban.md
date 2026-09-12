@@ -77,3 +77,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 19
 
 - [Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) (`MemEhFGO2X0`) — live · 2021-12-07 · ASR auto
+
+## Buổi 20
+
+- [Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) (`cEwux79AiKw`) — live · 2021-12-10 · ASR auto
