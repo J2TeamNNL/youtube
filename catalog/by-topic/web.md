@@ -9,3 +9,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web cơ bản buổi 3 HTML những thẻ thường gặp](../entries/lap-trinh-web-co-ban-buoi-3-html-nhung-the-thuong-gap-cSgY3RWqqNc.md) (`cSgY3RWqqNc`)
 - [Lập trình web cơ bản buổi 4 HTML Form](../entries/lap-trinh-web-co-ban-buoi-4-html-form-8t9qLdrlAvA.md) (`8t9qLdrlAvA`)
 - [Lập trình web cơ bản buổi 5 CSS làm quen](../entries/lap-trinh-web-co-ban-buoi-5-css-lam-quen-iSdXPJg6G9k.md) (`iSdXPJg6G9k`)
+- [Lập trình web cơ bản buổi 6 CSS Layout](../entries/lap-trinh-web-co-ban-buoi-6-css-layout-dJ2K_5VaUgc.md) (`dJ2K_5VaUgc`)

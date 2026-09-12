@@ -18,6 +18,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Function | [function.md](./function.md) |
 | HTML | [html.md](./html.md) |
 | CSS | [css.md](./css.md) |
+| Layout | [layout.md](./layout.md) |
 | Web | [web.md](./web.md) |
 | Form | [form.md](./form.md) |
 | UX | [ux.md](./ux.md) |
