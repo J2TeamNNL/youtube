@@ -26,3 +26,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) (`MemEhFGO2X0`)
 - [Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) (`cEwux79AiKw`)
 - [Đồ án Web cơ bản - Phân nhóm & định hướng](../entries/do-an-web-co-ban-phan-nhom-dinh-huong-pOzcjuEaXVI.md) (`pOzcjuEaXVI`)
+- [Đồ án Web cơ bản - Phân tích và thiết kế](../entries/do-an-web-co-ban-phan-tich-va-thiet-ke-5o3BugEmhLk.md) (`5o3BugEmhLk`)
