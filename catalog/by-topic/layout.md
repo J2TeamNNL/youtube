@@ -5,3 +5,4 @@ CSS layout: position (static/relative/absolute/fixed), z-index, box model (conte
 ## Entries
 
 - [Lập trình web cơ bản buổi 6 CSS Layout](../entries/lap-trinh-web-co-ban-buoi-6-css-layout-dJ2K_5VaUgc.md) (`dJ2K_5VaUgc`)
+- [Lập trình web cơ bản buổi 18 PHP ôn tập layout](../entries/lap-trinh-web-co-ban-buoi-18-php-on-tap-layout-Wlo5aQw2UeI.md) (`Wlo5aQw2UeI`)

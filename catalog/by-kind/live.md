@@ -35,6 +35,7 @@
 | `AH9STS4sJSo` | Lập trình web cơ bản buổi 15 PHP Làm việc với Form | 2021-11-27 | [entry](../entries/lap-trinh-web-co-ban-buoi-15-php-lam-viec-voi-form-AH9STS4sJSo.md) |
 | `63H58_jGDco` | Lập trình web cơ bản buổi 16 PHP CRUD | 2021-11-30 | [entry](../entries/lap-trinh-web-co-ban-buoi-16-php-crud-63H58_jGDco.md) |
 | `xXmCzhU0BNY` | Lập trình web cơ bản buổi 17 PHP CRUD Pagination Searching Hacking | 2021-12-03 | [entry](../entries/lap-trinh-web-co-ban-buoi-17-php-crud-pagination-searching-hacking-xXmCzhU0BNY.md) |
+| `Wlo5aQw2UeI` | Lập trình web cơ bản buổi 18 PHP ôn tập layout | 2021-12-05 | [entry](../entries/lap-trinh-web-co-ban-buoi-18-php-on-tap-layout-Wlo5aQw2UeI.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
