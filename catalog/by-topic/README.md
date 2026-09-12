@@ -20,6 +20,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | HTML | [html.md](./html.md) |
 | CSS | [css.md](./css.md) |
 | JavaScript | [javascript.md](./javascript.md) |
+| Loop | [loop.md](./loop.md) |
 | Layout | [layout.md](./layout.md) |
 | Selector | [selector.md](./selector.md) |
 | Web | [web.md](./web.md) |
