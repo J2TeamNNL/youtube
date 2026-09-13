@@ -43,6 +43,7 @@
 | `7pWAqw9XjVM` | Lập trình web cơ bản buổi 21 PHP Signing & Hacking | 2021-12-14 | [entry](../entries/lap-trinh-web-co-ban-buoi-21-php-signing-hacking-7pWAqw9XjVM.md) |
 | `27UPwj789E4` | Lập trình web cơ bản buổi 22 PHP Cookies | 2021-12-17 | [entry](../entries/lap-trinh-web-co-ban-buoi-22-php-cookies-27UPwj789E4.md) |
 | `1t9Hzq9_Rck` | Lập trình web cơ bản buổi 23 PHP Giỏ hàng | 2021-12-18 | [entry](../entries/lap-trinh-web-co-ban-buoi-23-php-gio-hang-1t9Hzq9_Rck.md) |
+| `yndPkfUMozI` | Lập trình web cơ bản buổi 24 PHP Đặt hàng | 2021-12-22 | [entry](../entries/lap-trinh-web-co-ban-buoi-24-php-dat-hang-yndPkfUMozI.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
