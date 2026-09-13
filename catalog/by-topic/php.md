@@ -12,3 +12,4 @@ Ngôn ngữ lập trình phía server: xử lý request, sinh HTML trả về tr
 - [Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) (`MemEhFGO2X0`)
 - [Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) (`cEwux79AiKw`)
 - [Lập trình web cơ bản buổi 21 PHP Signing & Hacking](../entries/lap-trinh-web-co-ban-buoi-21-php-signing-hacking-7pWAqw9XjVM.md) (`7pWAqw9XjVM`)
+- [Lập trình web cơ bản buổi 22 PHP Cookies](../entries/lap-trinh-web-co-ban-buoi-22-php-cookies-27UPwj789E4.md) (`27UPwj789E4`)
