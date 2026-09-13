@@ -31,6 +31,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Signing | [signing.md](./signing.md) |
 | Cookie | [cookie.md](./cookie.md) |
 | Giỏ hàng | [gio-hang.md](./gio-hang.md) |
+| Đặt hàng | [dat-hang.md](./dat-hang.md) |
 | Loop | [loop.md](./loop.md) |
 | Array | [array.md](./array.md) |
 | Regex | [regex.md](./regex.md) |
