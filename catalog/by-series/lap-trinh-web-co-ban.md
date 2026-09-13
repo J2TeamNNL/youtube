@@ -85,3 +85,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 21
 
 - [Lập trình web cơ bản buổi 21 PHP Signing & Hacking](../entries/lap-trinh-web-co-ban-buoi-21-php-signing-hacking-7pWAqw9XjVM.md) (`7pWAqw9XjVM`) — live · 2021-12-14 · ASR auto
+
+## Buổi 22
+
+- [Lập trình web cơ bản buổi 22 PHP Cookies](../entries/lap-trinh-web-co-ban-buoi-22-php-cookies-27UPwj789E4.md) (`27UPwj789E4`) — live · 2021-12-17 · ASR auto
