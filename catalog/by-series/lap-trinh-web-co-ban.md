@@ -89,3 +89,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 22
 
 - [Lập trình web cơ bản buổi 22 PHP Cookies](../entries/lap-trinh-web-co-ban-buoi-22-php-cookies-27UPwj789E4.md) (`27UPwj789E4`) — live · 2021-12-17 · ASR auto
+
+## Buổi 23
+
+- [Lập trình web cơ bản buổi 23 PHP Giỏ hàng](../entries/lap-trinh-web-co-ban-buoi-23-php-gio-hang-1t9Hzq9_Rck.md) (`1t9Hzq9_Rck`) — live · 2021-12-18 · ASR auto
