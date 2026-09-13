@@ -97,3 +97,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 24
 
 - [Lập trình web cơ bản buổi 24 PHP Đặt hàng](../entries/lap-trinh-web-co-ban-buoi-24-php-dat-hang-yndPkfUMozI.md) (`yndPkfUMozI`) — live · 2021-12-22 · ASR auto
+
+## Buổi 25
+
+- [Lập trình web cơ bản buổi 25 PHP Admin](../entries/lap-trinh-web-co-ban-buoi-25-php-admin-TdEOdeIOVEQ.md) (`TdEOdeIOVEQ`) — live · 2021-12-23 · ASR auto
