@@ -92,7 +92,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 
 ## Buổi 23
 
-- [Lập trình web cơ bản buổi 23 PHP Giỏ hàng](../entries/lap-trinh-web-co-ban-buoi-23-php-gio-hang-1t9Hzq9_Rck.md) (`1t9Hzq9_Rck`) — live · 2021-12-18 · ASR auto
+- [Lập trình web cơ bản buổi 23 PHP Giỏ hàng](../entries/lap-trinh-web-co-ban-buoi-23-php-gio-hang-1t9Hzq9_Rck.md) (`1t9Hzq9_Rck.md`) — live · 2021-12-18 · ASR auto
 
 ## Buổi 24
 
@@ -129,3 +129,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 32
 
 - [Lập trình web cơ bản buổi 32 PHP jQuery Rating Live search JSON](../entries/lap-trinh-web-co-ban-buoi-32-php-jquery-rating-live-search-json-0M0AB3k4C4c.md) (`0M0AB3k4C4c`) — live · 2022-01-21 · ASR auto
+
+## Buổi 33
+
+- [Lập trình web cơ bản buổi 33 PHP jQuery Tags Notify](../entries/lap-trinh-web-co-ban-buoi-33-php-jquery-tags-notify-i5SpM6mvCt4.md) (`i5SpM6mvCt4`) — live · 2022-01-25 · ASR auto
