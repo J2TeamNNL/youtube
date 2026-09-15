@@ -16,6 +16,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | TikTok / công cụ | [tiktok-cong-cu.md](./tiktok-cong-cu.md) |
 | SQL | [sql.md](./sql.md) |
 | Database | [database.md](./database.md) |
+| CSDL | [csdl.md](./csdl.md) |
 | Index | [index.md](./index.md) |
 | View | [view.md](./view.md) |
 | Procedure | [procedure.md](./procedure.md) |
@@ -36,6 +37,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Đặt hàng | [dat-hang.md](./dat-hang.md) |
 | Admin | [admin.md](./admin.md) |
 | Email | [email.md](./email.md) |
+| Quên mật khẩu | [quen-mat-khau.md](./quen-mat-khau.md) |
 | Loop | [loop.md](./loop.md) |
 | Array | [array.md](./array.md) |
 | Regex | [regex.md](./regex.md) |
