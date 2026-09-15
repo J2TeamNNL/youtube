@@ -37,3 +37,7 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 ## Kiểm tra & chuẩn bị
 
 - [Đồ án Web cơ bản - Kiểm tra & chuẩn bị](../entries/do-an-web-co-ban-kiem-tra-chuan-bi-MTSeaTlRI6I.md) (`MTSeaTlRI6I`) — live · 2022-02-12 · ASR auto
+
+## Kiểm tra & hướng dẫn tài liệu
+
+- [Đồ án Web cơ bản - Kiểm tra & hướng dẫn tài liệu](../entries/do-an-web-co-ban-kiem-tra-huong-dan-tai-lieu-UVVdg9jcggM.md) (`UVVdg9jcggM`) — live · 2022-02-15 · ASR auto
