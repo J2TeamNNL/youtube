@@ -80,7 +80,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 
 ## Buổi 20
 
-- [Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) (`cEwux79AiKw`) — live · 2021-12-10 · ASR auto
+- [Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) (`cEwux79AiKw`) — live · 2021-11-10 · ASR auto
 
 ## Buổi 21
 
@@ -105,3 +105,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 26
 
 - [Lập trình web cơ bản buổi 26 PHP Gửi email & Tâm sự cuối năm](../entries/lap-trinh-web-co-ban-buoi-26-php-gui-email-tam-su-cuoi-nam-fH9BVGeomMI.md) (`fH9BVGeomMI`) — live · 2021-12-30 · ASR auto
+
+## Buổi 27
+
+- [Lập trình web cơ bản buổi 27 PHP Cấu hình CSDL & Quên mật khẩu](../entries/lap-trinh-web-co-ban-buoi-27-php-cau-hinh-csdl-va-quen-mat-khau-QG8Ai3oR8G4.md) (`QG8Ai3oR8G4`) — live · 2022-01-04 · ASR auto
