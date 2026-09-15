@@ -36,6 +36,7 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web cơ bản buổi 29 PHP jQuery làm quen Ajax](../entries/lap-trinh-web-co-ban-buoi-29-php-jquery-lam-quen-ajax-HszrnYMdfAU.md) (`HszrnYMdfAU`)
 - [Lập trình web cơ bản buổi 30 PHP jQuery Modal Signin Signup Validate](../entries/lap-trinh-web-co-ban-buoi-30-php-jquery-modal-signin-signup-validate-x_XNnYk1aiw.md) (`x_XNnYk1aiw`)
 - [Lập trình web cơ bản buổi 31 PHP jQuery Biểu đồ thống kê](../entries/lap-trinh-web-co-ban-buoi-31-php-jquery-bieu-do-thong-ke-izjKIbgCT6Y.md) (`izjKIbgCT6Y`)
+- [Lập trình web cơ bản buổi 32 PHP jQuery Rating Live search JSON](../entries/lap-trinh-web-co-ban-buoi-32-php-jquery-rating-live-search-json-0M0AB3k4C4c.md) (`0M0AB3k4C4c`)
 - [Đồ án Web cơ bản - Phân nhóm & định hướng](../entries/do-an-web-co-ban-phan-nhom-dinh-huong-pOzcjuEaXVI.md) (`pOzcjuEaXVI`)
 - [Đồ án Web cơ bản - Phân tích và thiết kế](../entries/do-an-web-co-ban-phan-tich-va-thiet-ke-5o3BugEmhLk.md) (`5o3BugEmhLk`)
 - [Giao lưu và chia sẻ về Đồ án](../entries/giao-luu-va-chia-se-ve-do-an-84JkzsD4-Sc.md) (`84JkzsD4-Sc`)
