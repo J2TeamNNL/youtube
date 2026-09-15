@@ -13,3 +13,7 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 ## Giao lưu & chia sẻ
 
 - [Giao lưu và chia sẻ về Đồ án](../entries/giao-luu-va-chia-se-ve-do-an-84JkzsD4-Sc.md) (`84JkzsD4-Sc`) — live · 2021-12-25 · ASR auto
+
+## Livecode / chấm đồ án
+
+- [Livecode Tool chấm đồ án](../entries/livecode-tool-cham-do-an-wrFP4BAp4ok.md) (`wrFP4BAp4ok`) — live · 2021-12-28 · ASR auto
