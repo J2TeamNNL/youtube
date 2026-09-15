@@ -68,7 +68,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 
 ## Buổi 17
 
-- [Lập trình web cơ bản buổi 17 PHP CRUD Pagination Searching Hacking](../entries/lap-trinh-web-co-ban-buoi-17-php-crud-pagination-searching-hacking-xXmCzhU0BNY.md) (`xXmCzhU0BNY`) — live · 2021-12-03 · ASR auto
+- [Lập trình web cơ bản buổi 17 PHP CRUD Pagination Searching Hacking](../entries/lap-trinh-web-co-ban-buoi-17-php-crud-pagination-searching-hacking-xXmCzhU0BNY.md) (`xXmCzhU0BNY`) — live · 2021-11-03 · ASR auto
 
 ## Buổi 18
 
@@ -109,3 +109,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 27
 
 - [Lập trình web cơ bản buổi 27 PHP Cấu hình CSDL & Quên mật khẩu](../entries/lap-trinh-web-co-ban-buoi-27-php-cau-hinh-csdl-va-quen-mat-khau-QG8Ai3oR8G4.md) (`QG8Ai3oR8G4`) — live · 2022-01-04 · ASR auto
+
+## Buổi 28
+
+- [Lập trình web cơ bản buổi 28 PHP Thống kê](../entries/lap-trinh-web-co-ban-buoi-28-php-thong-ke-T1RCc4zALNc.md) (`T1RCc4zALNc`) — live · 2022-01-07 · ASR auto
