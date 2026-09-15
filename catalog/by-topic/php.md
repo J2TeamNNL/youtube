@@ -20,3 +20,4 @@ Ngôn ngữ lập trình phía server: xử lý request, sinh HTML trả về tr
 - [Lập trình web cơ bản buổi 27 PHP Cấu hình CSDL & Quên mật khẩu](../entries/lap-trinh-web-co-ban-buoi-27-php-cau-hinh-csdl-va-quen-mat-khau-QG8Ai3oR8G4.md) (`QG8Ai3oR8G4`)
 - [Lập trình web cơ bản buổi 28 PHP Thống kê](../entries/lap-trinh-web-co-ban-buoi-28-php-thong-ke-T1RCc4zALNc.md) (`T1RCc4zALNc`)
 - [Lập trình web cơ bản buổi 29 PHP jQuery làm quen Ajax](../entries/lap-trinh-web-co-ban-buoi-29-php-jquery-lam-quen-ajax-HszrnYMdfAU.md) (`HszrnYMdfAU`)
+- [Lập trình web cơ bản buổi 30 PHP jQuery Modal Signin Signup Validate](../entries/lap-trinh-web-co-ban-buoi-30-php-jquery-modal-signin-signup-validate-x_XNnYk1aiw.md) (`x_XNnYk1aiw`)
