@@ -25,3 +25,7 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 ## Kiểm tra & đánh giá CRUD
 
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá - CRUD](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-crud-DU_SRXoNbTc.md) (`DU_SRXoNbTc`) — live · 2022-01-08 · ASR auto
+
+## Kiểm tra & đánh giá Validate
+
+- [Đồ án Web cơ bản - Kiểm tra và đánh giá - Validate](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-validate-TbZKv9kGXWc.md) (`TbZKv9kGXWc`) — live · 2022-01-15 · ASR auto
