@@ -28,6 +28,9 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | JavaScript | [javascript.md](./javascript.md) |
 | jQuery | [jquery.md](./jquery.md) |
 | Ajax | [ajax.md](./ajax.md) |
+| JSON | [json.md](./json.md) |
+| Live search | [live-search.md](./live-search.md) |
+| Rating | [rating.md](./rating.md) |
 | Modal | [modal.md](./modal.md) |
 | Validate | [validate.md](./validate.md) |
 | PHP | [php.md](./php.md) |
