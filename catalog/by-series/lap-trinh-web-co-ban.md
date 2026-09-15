@@ -125,3 +125,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 31
 
 - [Lập trình web cơ bản buổi 31 PHP jQuery Biểu đồ thống kê](../entries/lap-trinh-web-co-ban-buoi-31-php-jquery-bieu-do-thong-ke-izjKIbgCT6Y.md) (`izjKIbgCT6Y`) — live · 2022-01-18 · no-subs
+
+## Buổi 32
+
+- [Lập trình web cơ bản buổi 32 PHP jQuery Rating Live search JSON](../entries/lap-trinh-web-co-ban-buoi-32-php-jquery-rating-live-search-json-0M0AB3k4C4c.md) (`0M0AB3k4C4c`) — live · 2022-01-21 · ASR auto
