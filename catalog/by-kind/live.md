@@ -52,6 +52,7 @@
 | `QG8Ai3oR8G4` | Lập trình web cơ bản buổi 27 PHP Cấu hình CSDL & Quên mật khẩu | 2022-01-04 | [entry](../entries/lap-trinh-web-co-ban-buoi-27-php-cau-hinh-csdl-va-quen-mat-khau-QG8Ai3oR8G4.md) |
 | `T1RCc4zALNc` | Lập trình web cơ bản buổi 28 PHP Thống kê | 2022-01-07 | [entry](../entries/lap-trinh-web-co-ban-buoi-28-php-thong-ke-T1RCc4zALNc.md) |
 | `DU_SRXoNbTc` | Đồ án Web cơ bản - Kiểm tra và đánh giá - CRUD | 2022-01-08 | [entry](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-crud-DU_SRXoNbTc.md) |
+| `HszrnYMdfAU` | Lập trình web cơ bản buổi 29 PHP jQuery làm quen Ajax | 2022-01-11 | [entry](../entries/lap-trinh-web-co-ban-buoi-29-php-jquery-lam-quen-ajax-HszrnYMdfAU.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
