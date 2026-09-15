@@ -43,6 +43,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Email | [email.md](./email.md) |
 | Quên mật khẩu | [quen-mat-khau.md](./quen-mat-khau.md) |
 | Thống kê | [thong-ke.md](./thong-ke.md) |
+| Biểu đồ | [bieu-do.md](./bieu-do.md) |
 | Loop | [loop.md](./loop.md) |
 | Array | [array.md](./array.md) |
 | Regex | [regex.md](./regex.md) |
