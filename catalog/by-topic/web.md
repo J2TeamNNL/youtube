@@ -33,6 +33,7 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web cơ bản buổi 26 PHP Gửi email & Tâm sự cuối năm](../entries/lap-trinh-web-co-ban-buoi-26-php-gui-email-tam-su-cuoi-nam-fH9BVGeomMI.md) (`fH9BVGeomMI`)
 - [Lập trình web cơ bản buổi 27 PHP Cấu hình CSDL & Quên mật khẩu](../entries/lap-trinh-web-co-ban-buoi-27-php-cau-hinh-csdl-va-quen-mat-khau-QG8Ai3oR8G4.md) (`QG8Ai3oR8G4`)
 - [Lập trình web cơ bản buổi 28 PHP Thống kê](../entries/lap-trinh-web-co-ban-buoi-28-php-thong-ke-T1RCc4zALNc.md) (`T1RCc4zALNc`)
+- [Lập trình web cơ bản buổi 29 PHP jQuery làm quen Ajax](../entries/lap-trinh-web-co-ban-buoi-29-php-jquery-lam-quen-ajax-HszrnYMdfAU.md) (`HszrnYMdfAU`)
 - [Đồ án Web cơ bản - Phân nhóm & định hướng](../entries/do-an-web-co-ban-phan-nhom-dinh-huong-pOzcjuEaXVI.md) (`pOzcjuEaXVI`)
 - [Đồ án Web cơ bản - Phân tích và thiết kế](../entries/do-an-web-co-ban-phan-tich-va-thiet-ke-5o3BugEmhLk.md) (`5o3BugEmhLk`)
 - [Giao lưu và chia sẻ về Đồ án](../entries/giao-luu-va-chia-se-ve-do-an-84JkzsD4-Sc.md) (`84JkzsD4-Sc`)
