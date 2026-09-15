@@ -8,3 +8,4 @@ Giao lưu, động viên, kỹ năng mềm, mindset học tập / làm việc nh
 - [Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm](../entries/do-an-web-co-ban-kiem-tra-va-tam-su-dau-nam-Eb1gKNpw2M0.md) (`Eb1gKNpw2M0`)
 - [Đồ án Web cơ bản - Kiểm tra & chuẩn bị](../entries/do-an-web-co-ban-kiem-tra-chuan-bi-MTSeaTlRI6I.md) (`MTSeaTlRI6I`)
 - [Đồ án Web cơ bản - Kiểm tra & chia sẻ](../entries/do-an-web-co-ban-kiem-tra-chia-se-X-G-knWMiu8.md) (`X-G-knWMiu8`)
+- [Đồ án Web cơ bản - Bảo vệ thử lần 1](../entries/do-an-web-co-ban-bao-ve-thu-lan-1-vw4c3Z3ycmw.md) (`vw4c3Z3ycmw`)
