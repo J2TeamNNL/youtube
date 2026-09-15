@@ -121,3 +121,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 30
 
 - [Lập trình web cơ bản buổi 30 PHP jQuery Modal Signin Signup Validate](../entries/lap-trinh-web-co-ban-buoi-30-php-jquery-modal-signin-signup-validate-x_XNnYk1aiw.md) (`x_XNnYk1aiw`) — live · 2022-01-13 · ASR auto
+
+## Buổi 31
+
+- [Lập trình web cơ bản buổi 31 PHP jQuery Biểu đồ thống kê](../entries/lap-trinh-web-co-ban-buoi-31-php-jquery-bieu-do-thong-ke-izjKIbgCT6Y.md) (`izjKIbgCT6Y`) — live · 2022-01-18 · no-subs

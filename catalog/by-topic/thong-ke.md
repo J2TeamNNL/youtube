@@ -5,3 +5,4 @@ Thống kê / analytics cho admin bán hàng: chỉ số (đơn theo thời gian
 ## Entries
 
 - [Lập trình web cơ bản buổi 28 PHP Thống kê](../entries/lap-trinh-web-co-ban-buoi-28-php-thong-ke-T1RCc4zALNc.md) (`T1RCc4zALNc`)
+- [Lập trình web cơ bản buổi 31 PHP jQuery Biểu đồ thống kê](../entries/lap-trinh-web-co-ban-buoi-31-php-jquery-bieu-do-thong-ke-izjKIbgCT6Y.md) (`izjKIbgCT6Y`)
