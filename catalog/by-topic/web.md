@@ -49,3 +49,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Đồ án Web cơ bản - Kiểm tra & chuẩn bị](../entries/do-an-web-co-ban-kiem-tra-chuan-bi-MTSeaTlRI6I.md) (`MTSeaTlRI6I`)
 - [Đồ án Web cơ bản - Kiểm tra & hướng dẫn tài liệu](../entries/do-an-web-co-ban-kiem-tra-huong-dan-tai-lieu-UVVdg9jcggM.md) (`UVVdg9jcggM`)
 - [Đồ án Web cơ bản - Kiểm tra & chia sẻ](../entries/do-an-web-co-ban-kiem-tra-chia-se-X-G-knWMiu8.md) (`X-G-knWMiu8`)
+- [Đồ án Web cơ bản - Bảo vệ thử lần 1](../entries/do-an-web-co-ban-bao-ve-thu-lan-1-vw4c3Z3ycmw.md) (`vw4c3Z3ycmw`)
