@@ -101,3 +101,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 25
 
 - [Lập trình web cơ bản buổi 25 PHP Admin](../entries/lap-trinh-web-co-ban-buoi-25-php-admin-TdEOdeIOVEQ.md) (`TdEOdeIOVEQ`) — live · 2021-12-23 · ASR auto
+
+## Buổi 26
+
+- [Lập trình web cơ bản buổi 26 PHP Gửi email & Tâm sự cuối năm](../entries/lap-trinh-web-co-ban-buoi-26-php-gui-email-tam-su-cuoi-nam-fH9BVGeomMI.md) (`fH9BVGeomMI`) — live · 2021-12-30 · ASR auto

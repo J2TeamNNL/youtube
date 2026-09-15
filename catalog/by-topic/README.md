@@ -34,6 +34,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Giỏ hàng | [gio-hang.md](./gio-hang.md) |
 | Đặt hàng | [dat-hang.md](./dat-hang.md) |
 | Admin | [admin.md](./admin.md) |
+| Email | [email.md](./email.md) |
 | Loop | [loop.md](./loop.md) |
 | Array | [array.md](./array.md) |
 | Regex | [regex.md](./regex.md) |

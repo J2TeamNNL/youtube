@@ -16,3 +16,4 @@ Ngôn ngữ lập trình phía server: xử lý request, sinh HTML trả về tr
 - [Lập trình web cơ bản buổi 23 PHP Giỏ hàng](../entries/lap-trinh-web-co-ban-buoi-23-php-gio-hang-1t9Hzq9_Rck.md) (`1t9Hzq9_Rck`)
 - [Lập trình web cơ bản buổi 24 PHP Đặt hàng](../entries/lap-trinh-web-co-ban-buoi-24-php-dat-hang-yndPkfUMozI.md) (`yndPkfUMozI`)
 - [Lập trình web cơ bản buổi 25 PHP Admin](../entries/lap-trinh-web-co-ban-buoi-25-php-admin-TdEOdeIOVEQ.md) (`TdEOdeIOVEQ`)
+- [Lập trình web cơ bản buổi 26 PHP Gửi email & Tâm sự cuối năm](../entries/lap-trinh-web-co-ban-buoi-26-php-gui-email-tam-su-cuoi-nam-fH9BVGeomMI.md) (`fH9BVGeomMI`)
