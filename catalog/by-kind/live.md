@@ -58,6 +58,7 @@
 | `izjKIbgCT6Y` | Lập trình web cơ bản buổi 31 PHP jQuery Biểu đồ thống kê | 2022-01-18 | [entry](../entries/lap-trinh-web-co-ban-buoi-31-php-jquery-bieu-do-thong-ke-izjKIbgCT6Y.md) |
 | `0M0AB3k4C4c` | Lập trình web cơ bản buổi 32 PHP jQuery Rating Live search JSON | 2022-01-21 | [entry](../entries/lap-trinh-web-co-ban-buoi-32-php-jquery-rating-live-search-json-0M0AB3k4C4c.md) |
 | `i5SpM6mvCt4` | Lập trình web cơ bản buổi 33 PHP jQuery Tags Notify | 2022-01-25 | [entry](../entries/lap-trinh-web-co-ban-buoi-33-php-jquery-tags-notify-i5SpM6mvCt4.md) |
+| `Eb1gKNpw2M0` | Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm | 2022-02-08 | [entry](../entries/do-an-web-co-ban-kiem-tra-va-tam-su-dau-nam-Eb1gKNpw2M0.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
