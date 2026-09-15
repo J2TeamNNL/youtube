@@ -92,7 +92,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 
 ## Buổi 23
 
-- [Lập trình web cơ bản buổi 23 PHP Giỏ hàng](../entries/lap-trinh-web-co-ban-buoi-23-php-gio-hang-1t9Hzq9_Rck.md) (`1t9Hzq9_Rck.md`) — live · 2021-12-18 · ASR auto
+- [Lập trình web cơ bản buổi 23 PHP Giỏ hàng](../entries/lap-trinh-web-co-ban-buoi-23-php-gio-hang-1t9Hzq9_Rck.md) (`1t9Hzq9_Rck`) — live · 2021-12-18 · ASR auto
 
 ## Buổi 24
 
