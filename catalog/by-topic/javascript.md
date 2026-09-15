@@ -11,3 +11,4 @@ Ngôn ngữ lập trình phía trình duyệt: biến, điều kiện, thao tác
 - [Lập trình web cơ bản buổi 11 JavaScript Regex](../entries/lap-trinh-web-co-ban-buoi-11-javascript-regex-nQcEK4HLoQs.md) (`nQcEK4HLoQs`)
 - [Lập trình web cơ bản buổi 12 JavaScript Validate Form](../entries/lap-trinh-web-co-ban-buoi-12-javascript-validate-form-uBanTLR3YeE.md) (`uBanTLR3YeE`)
 - [Lập trình web cơ bản buổi 13 JavaScript DOM BOM Tools](../entries/lap-trinh-web-co-ban-buoi-13-javascript-dom-bom-tools-8QxwiQPrNHs.md) (`8QxwiQPrNHs`)
+- [Lập trình web cơ bản buổi 29 PHP jQuery làm quen Ajax](../entries/lap-trinh-web-co-ban-buoi-29-php-jquery-lam-quen-ajax-HszrnYMdfAU.md) (`HszrnYMdfAU`)
