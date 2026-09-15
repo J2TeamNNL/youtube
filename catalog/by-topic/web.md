@@ -46,3 +46,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá - CRUD](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-crud-DU_SRXoNbTc.md) (`DU_SRXoNbTc`)
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá - Validate](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-validate-TbZKv9kGXWc.md) (`TbZKv9kGXWc`)
 - [Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm](../entries/do-an-web-co-ban-kiem-tra-va-tam-su-dau-nam-Eb1gKNpw2M0.md) (`Eb1gKNpw2M0`)
+- [Đồ án Web cơ bản - Kiểm tra & chuẩn bị](../entries/do-an-web-co-ban-kiem-tra-chuan-bi-MTSeaTlRI6I.md) (`MTSeaTlRI6I`)
