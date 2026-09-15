@@ -6,3 +6,4 @@ Giao lưu, động viên, kỹ năng mềm, mindset học tập / làm việc nh
 
 - [Giao lưu và chia sẻ về Đồ án](../entries/giao-luu-va-chia-se-ve-do-an-84JkzsD4-Sc.md) (`84JkzsD4-Sc`)
 - [Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm](../entries/do-an-web-co-ban-kiem-tra-va-tam-su-dau-nam-Eb1gKNpw2M0.md) (`Eb1gKNpw2M0`)
+- [Đồ án Web cơ bản - Kiểm tra & chuẩn bị](../entries/do-an-web-co-ban-kiem-tra-chuan-bi-MTSeaTlRI6I.md) (`MTSeaTlRI6I`)
