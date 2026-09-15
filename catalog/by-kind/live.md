@@ -27,7 +27,7 @@
 | `21sAAG9inYI` | Livecode - Lấy ra những bình luận chưa trả lời trên Teachable - JavaScript | 2021-11-07 | [entry](../entries/livecode-lay-ra-nhung-binh-luan-chua-tra-loi-tren-teachable-javascript-21sAAG9inYI.md) |
 | `KjHtFIR79XI` | Lập trình web cơ bản buổi 10 JavaScript Array | 2021-11-09 | [entry](../entries/lap-trinh-web-co-ban-buoi-10-javascript-array-KjHtFIR79XI.md) |
 | `xPllalzVL_4` | SQL chuyên sâu Buổi 6 Chữa bài tập Transaction | 2021-11-12 | [entry](../entries/sql-chuyen-sau-buoi-6-chua-bai-tap-transaction-xPllalzVL_4.md) |
-| `nQcEK4HLoQs` | Lập trình web cơ bản buổi 11 JavaScript Regex | 2021-11-14 | [entry](../entries/lap-trinh-web-co-ban-buoi-11-javascript-regex-nQcEK4HLoQs.md) |
+| `nQcEK4HLoQs` | Lập trình web cơ bản buổi 11 JavaScript Regex | 2021-11-14 | [entry](../entries/sql-chuyen-sau-buoi-11-javascript-regex-nQcEK4HLoQs.md) |
 | `uBanTLR3YeE` | Lập trình web cơ bản buổi 12 JavaScript Validate Form | 2021-11-16 | [entry](../entries/lap-trinh-web-co-ban-buoi-12-javascript-validate-form-uBanTLR3YeE.md) |
 | `E6lizfokiWA` | SQL chuyên sâu Buổi cuối Thi vấn đáp | 2021-11-18 | [entry](../entries/sql-chuyen-sau-buoi-cuoi-thi-van-dap-E6lizfokiWA.md) |
 | `8QxwiQPrNHs` | Lập trình web cơ bản buổi 13 JavaScript DOM BOM Tools | 2021-11-23 | [entry](../entries/lap-trinh-web-co-ban-buoi-13-javascript-dom-bom-tools-8QxwiQPrNHs.md) |
@@ -59,6 +59,7 @@
 | `0M0AB3k4C4c` | Lập trình web cơ bản buổi 32 PHP jQuery Rating Live search JSON | 2022-01-21 | [entry](../entries/lap-trinh-web-co-ban-buoi-32-php-jquery-rating-live-search-json-0M0AB3k4C4c.md) |
 | `i5SpM6mvCt4` | Lập trình web cơ bản buổi 33 PHP jQuery Tags Notify | 2022-01-25 | [entry](../entries/lap-trinh-web-co-ban-buoi-33-php-jquery-tags-notify-i5SpM6mvCt4.md) |
 | `Eb1gKNpw2M0` | Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm | 2022-02-08 | [entry](../entries/do-an-web-co-ban-kiem-tra-va-tam-su-dau-nam-Eb1gKNpw2M0.md) |
+| `MTSeaTlRI6I` | Đồ án Web cơ bản - Kiểm tra & chuẩn bị | 2022-02-12 | [entry](../entries/do-an-web-co-ban-kiem-tra-chuan-bi-MTSeaTlRI6I.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
