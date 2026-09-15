@@ -113,3 +113,7 @@ Series học lập trình web cơ bản (buổi live): HTML → CSS → JavaScri
 ## Buổi 28
 
 - [Lập trình web cơ bản buổi 28 PHP Thống kê](../entries/lap-trinh-web-co-ban-buoi-28-php-thong-ke-T1RCc4zALNc.md) (`T1RCc4zALNc`) — live · 2022-01-07 · ASR auto
+
+## Buổi 29
+
+- [Lập trình web cơ bản buổi 29 PHP jQuery làm quen Ajax](../entries/lap-trinh-web-co-ban-buoi-29-php-jquery-lam-quen-ajax-HszrnYMdfAU.md) (`HszrnYMdfAU`) — live · 2022-01-11 · ASR auto
