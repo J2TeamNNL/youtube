@@ -17,3 +17,7 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 ## Livecode / chấm đồ án
 
 - [Livecode Tool chấm đồ án](../entries/livecode-tool-cham-do-an-wrFP4BAp4ok.md) (`wrFP4BAp4ok`) — live · 2021-12-28 · ASR auto
+
+## Kiểm tra & đánh giá thiết kế
+
+- [Đồ án Web cơ bản - Kiểm tra và đánh giá - Thiết kế](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-thiet-ke-YGc7zc0ZXvM.md) (`YGc7zc0ZXvM`) — live · 2022-01-01 · ASR auto
