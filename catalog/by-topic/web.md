@@ -35,3 +35,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Đồ án Web cơ bản - Phân tích và thiết kế](../entries/do-an-web-co-ban-phan-tich-va-thiet-ke-5o3BugEmhLk.md) (`5o3BugEmhLk`)
 - [Giao lưu và chia sẻ về Đồ án](../entries/giao-luu-va-chia-se-ve-do-an-84JkzsD4-Sc.md) (`84JkzsD4-Sc`)
 - [Livecode Tool chấm đồ án](../entries/livecode-tool-cham-do-an-wrFP4BAp4ok.md) (`wrFP4BAp4ok`)
+- [Đồ án Web cơ bản - Kiểm tra và đánh giá - Thiết kế](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-thiet-ke-YGc7zc0ZXvM.md) (`YGc7zc0ZXvM`)

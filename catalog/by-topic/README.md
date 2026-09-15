@@ -7,6 +7,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Bảo vệ đồ án | [bao-ve-do-an.md](./bao-ve-do-an.md) |
 | Đồ án | [do-an.md](./do-an.md) |
 | Soft skills / giao lưu | [soft-skills.md](./soft-skills.md) |
+| Thiết kế / design review | [thiet-ke.md](./thiet-ke.md) |
 | Marketplace đồ cũ | [marketplace-do-cu.md](./marketplace-do-cu.md) |
 | System design | [system-design.md](./system-design.md) |
 | Phỏng vấn / nghề nghiệp | [phong-van-nghe-nghiep.md](./phong-van-nghe-nghiep.md) |
