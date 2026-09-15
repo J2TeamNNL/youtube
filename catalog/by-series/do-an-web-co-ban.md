@@ -29,3 +29,7 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 ## Kiểm tra & đánh giá Validate
 
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá - Validate](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-validate-TbZKv9kGXWc.md) (`TbZKv9kGXWc`) — live · 2022-01-15 · ASR auto
+
+## Kiểm tra & tâm sự đầu năm
+
+- [Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm](../entries/do-an-web-co-ban-kiem-tra-va-tam-su-dau-nam-Eb1gKNpw2M0.md) (`Eb1gKNpw2M0`) — live · 2022-02-08 · ASR auto

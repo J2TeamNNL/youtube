@@ -11,3 +11,4 @@ Nội dung liên quan đồ án / project: phân nhóm, định hướng đề t
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá - Thiết kế](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-thiet-ke-YGc7zc0ZXvM.md) (`YGc7zc0ZXvM`)
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá - CRUD](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-crud-DU_SRXoNbTc.md) (`DU_SRXoNbTc`)
 - [Đồ án Web cơ bản - Kiểm tra và đánh giá - Validate](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-validate-TbZKv9kGXWc.md) (`TbZKv9kGXWc`)
+- [Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm](../entries/do-an-web-co-ban-kiem-tra-va-tam-su-dau-nam-Eb1gKNpw2M0.md) (`Eb1gKNpw2M0`)
