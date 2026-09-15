@@ -49,3 +49,7 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 ## Bảo vệ thử lần 1
 
 - [Đồ án Web cơ bản - Bảo vệ thử lần 1](../entries/do-an-web-co-ban-bao-ve-thu-lan-1-vw4c3Z3ycmw.md) (`vw4c3Z3ycmw`) — live · 2022-02-20 · ASR auto
+
+## Bảo vệ thử lần 2
+
+- [Đồ án Web cơ bản - Bảo vệ thử lần 2](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-2-axwrzotSo.md) (`2-axwrzotSo`) — live · 2022-02-22 · ASR auto
