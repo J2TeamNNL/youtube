@@ -41,3 +41,7 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 ## Kiểm tra & hướng dẫn tài liệu
 
 - [Đồ án Web cơ bản - Kiểm tra & hướng dẫn tài liệu](../entries/do-an-web-co-ban-kiem-tra-huong-dan-tai-lieu-UVVdg9jcggM.md) (`UVVdg9jcggM`) — live · 2022-02-15 · ASR auto
+
+## Kiểm tra & chia sẻ
+
+- [Đồ án Web cơ bản - Kiểm tra & chia sẻ](../entries/do-an-web-co-ban-kiem-tra-chia-se-X-G-knWMiu8.md) (`X-G-knWMiu8`) — live · 2022-02-17 · ASR auto
