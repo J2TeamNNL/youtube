@@ -71,6 +71,7 @@
 | `XaeVax9pZcY` | Đồ án Web cơ bản - Bảo vệ & Chấm | 2022-03-05 | [entry](../entries/do-an-web-co-ban-bao-ve-cham-XaeVax9pZcY.md) |
 | `wbY4fBBpFuk` | Lập trình web chuyên sâu - 1 - MVC | 2022-03-08 | [entry](../entries/lap-trinh-web-chuyen-sau-1-mvc-wbY4fBBpFuk.md) |
 | `pPy0sc-ptqg` | Lập trình web chuyên sâu - 2 - MVC - CRUD | 2022-03-10 | [entry](../entries/lap-trinh-web-chuyen-sau-2-mvc-crud-pPy0sc-ptqg.md) |
+| `3V5iGyUyfxA` | Lập trình web chuyên sâu - 3 - MVC - CRUD 2 bảng | 2022-03-13 | [entry](../entries/lap-trinh-web-chuyen-sau-3-mvc-crud-2-bang-3V5iGyUyfxA.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
