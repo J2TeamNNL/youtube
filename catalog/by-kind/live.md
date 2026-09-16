@@ -68,6 +68,7 @@
 | `z1PeehHf0pE` | Đồ án Web cơ bản - Bảo vệ thử lần 3 | 2022-02-24 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-3-z1PeehHf0pE.md) |
 | `K_N9Ek6S6SY` | Đồ án Web cơ bản - Bảo vệ lần 1 | 2022-02-26 | [entry](../entries/do-an-web-co-ban-bao-ve-lan-1-K_N9Ek6S6SY.md) |
 | `h_qgx1oLlgM` | Đồ án Web cơ bản - Tâm sự | 2022-03-04 | [entry](../entries/do-an-web-co-ban-tam-su-h_qgx1oLlgM.md) |
+| `XaeVax9pZcY` | Đồ án Web cơ bản - Bảo vệ & Chấm | 2022-03-05 | [entry](../entries/do-an-web-co-ban-bao-ve-cham-XaeVax9pZcY.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
