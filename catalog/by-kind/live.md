@@ -64,7 +64,7 @@
 | `X-G-knWMiu8` | Đồ án Web cơ bản - Kiểm tra & chia sẻ | 2022-02-17 | [entry](../entries/do-an-web-co-ban-kiem-tra-chia-se-X-G-knWMiu8.md) |
 | `vw4c3Z3ycmw` | Đồ án Web cơ bản - Bảo vệ thử lần 1 | 2022-02-20 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-1-vw4c3Z3ycmw.md) |
 | `2-axwrzotSo` | Đồ án Web cơ bản - Bảo vệ thử lần 2 | 2022-02-22 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-2-axwrzotSo.md) |
-| `BCvrO9vDMFE` | Đồ án Web cơ bản - Bảo vệ thử lần 2 (P2) | 2022-02-24 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-p2-BCvrO9vDMFE.md) |
+| `BCvrO9vDMFE` | Đồ án Web cơ bản - Bảo vệ thử lần 2 (P2) | 2022-02-22 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-p2-BCvrO9vDMFE.md) |
 | `z1PeehHf0pE` | Đồ án Web cơ bản - Bảo vệ thử lần 3 | 2022-02-24 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-3-z1PeehHf0pE.md) |
 | `K_N9Ek6S6SY` | Đồ án Web cơ bản - Bảo vệ lần 1 | 2022-02-26 | [entry](../entries/do-an-web-co-ban-bao-ve-lan-1-K_N9Ek6S6SY.md) |
 | `h_qgx1oLlgM` | Đồ án Web cơ bản - Tâm sự | 2022-03-04 | [entry](../entries/do-an-web-co-ban-tam-su-h_qgx1oLlgM.md) |
