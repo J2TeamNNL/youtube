@@ -5,3 +5,7 @@ Series lập trình web nâng cao (buổi live), sau [Đồ án web cơ bản](.
 ## Buổi 1
 
 - [Lập trình web chuyên sâu - 1 - MVC](../entries/lap-trinh-web-chuyen-sau-1-mvc-wbY4fBBpFuk.md) (`wbY4fBBpFuk`) — live · 2022-03-08 · ASR auto
+
+## Buổi 2
+
+- [Lập trình web chuyên sâu - 2 - MVC - CRUD](../entries/lap-trinh-web-chuyen-sau-2-mvc-crud-pPy0sc-ptqg.md) (`pPy0sc-ptqg`) — live · 2022-03-10 · ASR auto
