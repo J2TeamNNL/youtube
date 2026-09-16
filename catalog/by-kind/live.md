@@ -65,6 +65,7 @@
 | `vw4c3Z3ycmw` | Đồ án Web cơ bản - Bảo vệ thử lần 1 | 2022-02-20 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-1-vw4c3Z3ycmw.md) |
 | `2-axwrzotSo` | Đồ án Web cơ bản - Bảo vệ thử lần 2 | 2022-02-22 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-2-axwrzotSo.md) |
 | `BCvrO9vDMFE` | Đồ án Web cơ bản - Bảo vệ thử lần 2 (P2) | 2022-02-22 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-p2-BCvrO9vDMFE.md) |
+| `z1PeehHf0pE` | Đồ án Web cơ bản - Bảo vệ thử lần 3 | 2022-02-24 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-3-z1PeehHf0pE.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
