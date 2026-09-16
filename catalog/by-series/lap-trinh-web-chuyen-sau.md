@@ -17,3 +17,7 @@ Series lập trình web nâng cao (buổi live), sau [Đồ án web cơ bản](.
 ## Buổi 4
 
 - [Lập trình web chuyên sâu - 4 - MVC & OOP](../entries/lap-trinh-web-chuyen-sau-4-mvc-oop-R3-cXDCtyvA.md) (`R3-cXDCtyvA`) — live · 2022-03-17 · ASR auto
+
+## Buổi 5
+
+- [Lập trình web chuyên sâu - 5 - MVC & OOP (tối ưu)](../entries/lap-trinh-web-chuyen-sau-5-mvc-oop-toi-uu-oUmOpwtxXQU.md) (`oUmOpwtxXQU`) — live · 2022-03-19 · no-subs

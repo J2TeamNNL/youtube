@@ -23,7 +23,7 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web cơ bản buổi 16 PHP CRUD](../entries/lap-trinh-web-co-ban-buoi-16-php-crud-63H58_jGDco.md) (`63H58_jGDco`)
 - [Lập trình web cơ bản buổi 17 PHP CRUD Pagination Searching Hacking](../entries/lap-trinh-web-co-ban-buoi-17-php-crud-pagination-searching-hacking-xXmCzhU0BNY.md) (`xXmCzhU0BNY`)
 - [Lập trình web cơ bản buổi 18 PHP ôn tập layout](../entries/lap-trinh-web-co-ban-buoi-18-php-on-tap-layout-Wlo5aQw2UeI.md) (`Wlo5aQw2UeI`)
-- [Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) (`MemEhFGO2X0`)
+- [Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết](../entries/lap-trinh-web-co-ban-buổi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) (`MemEhFGO2X0`)
 - [Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) (`cEwux79AiKw`)
 - [Lập trình web cơ bản buổi 21 PHP Signing & Hacking](../entries/lap-trinh-web-co-ban-buoi-21-php-signing-hacking-7pWAqw9XjVM.md) (`7pWAqw9XjVM`)
 - [Lập trình web cơ bản buổi 22 PHP Cookies](../entries/lap-trinh-web-co-ban-buoi-22-php-cookies-27UPwj789E4.md) (`27UPwj789E4`)
@@ -60,3 +60,4 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web chuyên sâu - 2 - MVC - CRUD](../entries/lap-trinh-web-chuyen-sau-2-mvc-crud-pPy0sc-ptqg.md) (`pPy0sc-ptqg`)
 - [Lập trình web chuyên sâu - 3 - MVC - CRUD 2 bảng](../entries/lap-trinh-web-chuyen-sau-3-mvc-crud-2-bang-3V5iGyUyfxA.md) (`3V5iGyUyfxA`)
 - [Lập trình web chuyên sâu - 4 - MVC & OOP](../entries/lap-trinh-web-chuyen-sau-4-mvc-oop-R3-cXDCtyvA.md) (`R3-cXDCtyvA`)
+- [Lập trình web chuyên sâu - 5 - MVC & OOP (tối ưu)](../entries/lap-trinh-web-chuyen-sau-5-mvc-oop-toi-uu-oUmOpwtxXQU.md) (`oUmOpwtxXQU`)

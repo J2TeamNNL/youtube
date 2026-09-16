@@ -5,7 +5,7 @@ Ngôn ngữ lập trình phía server: xử lý request, sinh HTML trả về tr
 ## Entries
 
 - [Lập trình web cơ bản buổi 14 PHP Giới thiệu](../entries/lap-trinh-web-co-ban-buoi-14-php-gioi-thieu-uEUa4qB97Kk.md) (`uEUa4qB97Kk`)
-- [Lập trình web cơ bản buổi 15 PHP Làm việc với Form](../entries/lap-trinh-web-co-ban-buoi-15-php-lam-viec-voi-form-AH9STS4sJSo.md) (`AH9STS4sJSo`)
+- [Lập trình web cơ bản buổi 15 PHP Làm việc với Form](../entries/lap-trinh-web-co-ban-buổi-15-php-lam-viec-voi-form-AH9STS4sJSo.md) (`AH9STS4sJSo`)
 - [Lập trình web cơ bản buổi 16 PHP CRUD](../entries/lap-trinh-web-co-ban-buoi-16-php-crud-63H58_jGDco.md) (`63H58_jGDco`)
 - [Lập trình web cơ bản buổi 17 PHP CRUD Pagination Searching Hacking](../entries/lap-trinh-web-co-ban-buoi-17-php-crud-pagination-searching-hacking-xXmCzhU0BNY.md) (`xXmCzhU0BNY`)
 - [Lập trình web cơ bản buổi 18 PHP ôn tập layout](../entries/lap-trinh-web-co-ban-buoi-18-php-on-tap-layout-Wlo5aQw2UeI.md) (`Wlo5aQw2UeI`)
@@ -28,3 +28,4 @@ Ngôn ngữ lập trình phía server: xử lý request, sinh HTML trả về tr
 - [Lập trình web chuyên sâu - 2 - MVC - CRUD](../entries/lap-trinh-web-chuyen-sau-2-mvc-crud-pPy0sc-ptqg.md) (`pPy0sc-ptqg`)
 - [Lập trình web chuyên sâu - 3 - MVC - CRUD 2 bảng](../entries/lap-trinh-web-chuyen-sau-3-mvc-crud-2-bang-3V5iGyUyfxA.md) (`3V5iGyUyfxA`)
 - [Lập trình web chuyên sâu - 4 - MVC & OOP](../entries/lap-trinh-web-chuyen-sau-4-mvc-oop-R3-cXDCtyvA.md) (`R3-cXDCtyvA`)
+- [Lập trình web chuyên sâu - 5 - MVC & OOP (tối ưu)](../entries/lap-trinh-web-chuyen-sau-5-mvc-oop-toi-uu-oUmOpwtxXQU.md) (`oUmOpwtxXQU`)
