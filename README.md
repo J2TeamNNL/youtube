@@ -1,14 +1,8 @@
-# youtube
+# Youtube
 
 Kho transcript + catalog từ kênh YouTube [J2TeamNNL Blog](https://www.youtube.com/channel/UCnL9cDH4iZcLmOIF8SzNGYw).
 
 Mỗi live/video có thư mục transcript (phụ đề chuẩn hóa + metadata). Catalog gom theo series / chủ đề / thời gian. Mô tả trên YouTube gắn mục lục timestamp, Discord, hashtag topic, và trỏ về repo này.
-
-## Liên kết
-
-- **Discord:** [https://discord.gg/8G39DeVhDX](https://discord.gg/8G39DeVhDX)
-- **Kênh YouTube:** [J2TeamNNL Blog](https://www.youtube.com/channel/UCnL9cDH4iZcLmOIF8SzNGYw)
-- **Repo:** [https://github.com/J2TeamNNL/youtube](https://github.com/J2TeamNNL/youtube)
 
 ## Cấu trúc
 
