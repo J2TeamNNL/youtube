@@ -26,3 +26,4 @@ Ngôn ngữ lập trình phía server: xử lý request, sinh HTML trả về tr
 - [Lập trình web cơ bản buổi 33 PHP jQuery Tags Notify](../entries/lap-trinh-web-co-ban-buoi-33-php-jquery-tags-notify-i5SpM6mvCt4.md) (`i5SpM6mvCt4`)
 - [Lập trình web chuyên sâu - 1 - MVC](../entries/lap-trinh-web-chuyen-sau-1-mvc-wbY4fBBpFuk.md) (`wbY4fBBpFuk`)
 - [Lập trình web chuyên sâu - 2 - MVC - CRUD](../entries/lap-trinh-web-chuyen-sau-2-mvc-crud-pPy0sc-ptqg.md) (`pPy0sc-ptqg`)
+- [Lập trình web chuyên sâu - 3 - MVC - CRUD 2 bảng](../entries/lap-trinh-web-chuyen-sau-3-mvc-crud-2-bang-3V5iGyUyfxA.md) (`3V5iGyUyfxA`)
