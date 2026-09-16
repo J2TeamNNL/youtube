@@ -64,3 +64,9 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 Đây là buổi bảo vệ chính thức, sau các buổi Bảo vệ thử lần 1/2/3.
 
 - [Đồ án Web cơ bản - Bảo vệ lần 1](../entries/do-an-web-co-ban-bao-ve-lan-1-K_N9Ek6S6SY.md) (`K_N9Ek6S6SY`) — live · 2022-02-26 · no-subs
+
+## Tâm sự
+
+Buổi tâm sự nghề nghiệp sau bảo vệ lần 1 (không phải buổi bảo vệ).
+
+- [Đồ án Web cơ bản - Tâm sự](../entries/do-an-web-co-ban-tam-su-h_qgx1oLlgM.md) (`h_qgx1oLlgM`) — live · 2022-03-04 · ASR auto
