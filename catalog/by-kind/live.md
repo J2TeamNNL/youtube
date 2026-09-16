@@ -64,7 +64,7 @@
 | `X-G-knWMiu8` | Đồ án Web cơ bản - Kiểm tra & chia sẻ | 2022-02-17 | [entry](../entries/do-an-web-co-ban-kiem-tra-chia-se-X-G-knWMiu8.md) |
 | `vw4c3Z3ycmw` | Đồ án Web cơ bản - Bảo vệ thử lần 1 | 2022-02-20 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-1-vw4c3Z3ycmw.md) |
 | `2-axwrzotSo` | Đồ án Web cơ bản - Bảo vệ thử lần 2 | 2022-02-22 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-2-axwrzotSo.md) |
-| `BCvrO9vDMFE` | Đồ án Web cơ bản - Bảo vệ thử lần 2 (P2) | 2022-02-22 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-p2-BCvrO9vDMFE.md) |
+| `BCvrO9vDMFE` | Đồ án Web cơ bản - Bảo vệ thử lần 2 (P2) | 2022-02-24 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-p2-BCvrO9vDMFE.md) |
 | `z1PeehHf0pE` | Đồ án Web cơ bản - Bảo vệ thử lần 3 | 2022-02-24 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-3-z1PeehHf0pE.md) |
 | `K_N9Ek6S6SY` | Đồ án Web cơ bản - Bảo vệ lần 1 | 2022-02-26 | [entry](../entries/do-an-web-co-ban-bao-ve-lan-1-K_N9Ek6S6SY.md) |
 | `h_qgx1oLlgM` | Đồ án Web cơ bản - Tâm sự | 2022-03-04 | [entry](../entries/do-an-web-co-ban-tam-su-h_qgx1oLlgM.md) |
@@ -72,6 +72,7 @@
 | `wbY4fBBpFuk` | Lập trình web chuyên sâu - 1 - MVC | 2022-03-08 | [entry](../entries/lap-trinh-web-chuyen-sau-1-mvc-wbY4fBBpFuk.md) |
 | `pPy0sc-ptqg` | Lập trình web chuyên sâu - 2 - MVC - CRUD | 2022-03-10 | [entry](../entries/lap-trinh-web-chuyen-sau-2-mvc-crud-pPy0sc-ptqg.md) |
 | `3V5iGyUyfxA` | Lập trình web chuyên sâu - 3 - MVC - CRUD 2 bảng | 2022-03-13 | [entry](../entries/lap-trinh-web-chuyen-sau-3-mvc-crud-2-bang-3V5iGyUyfxA.md) |
+| `R3-cXDCtyvA` | Lập trình web chuyên sâu - 4 - MVC & OOP | 2022-03-17 | [entry](../entries/lap-trinh-web-chuyen-sau-4-mvc-oop-R3-cXDCtyvA.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
