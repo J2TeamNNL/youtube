@@ -70,3 +70,9 @@ Series đồ án web cơ bản (live): phân nhóm, định hướng đề tài,
 Buổi tâm sự nghề nghiệp sau bảo vệ lần 1 (không phải buổi bảo vệ).
 
 - [Đồ án Web cơ bản - Tâm sự](../entries/do-an-web-co-ban-tam-su-h_qgx1oLlgM.md) (`h_qgx1oLlgM`) — live · 2022-03-04 · ASR auto
+
+## Bảo vệ & Chấm
+
+Buổi bảo vệ/chấm còn lại của đợt 1 (sau Bảo vệ lần 1 & Tâm sự); khác Bảo vệ thử và Bảo vệ lần 1.
+
+- [Đồ án Web cơ bản - Bảo vệ & Chấm](../entries/do-an-web-co-ban-bao-ve-cham-XaeVax9pZcY.md) (`XaeVax9pZcY`) — live · 2022-03-05 · ASR auto
