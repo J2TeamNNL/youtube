@@ -116,6 +116,11 @@
 | `nrZrqIC5B1w` | Dự án Web bán hàng - Cache & Git flow | 2023-12-07 | [entry](../entries/du-an-web-ban-hang-cache-git-flow-nrZrqIC5B1w.md) |
 | `ecgNACkVjyw` | Dự án Web bán hàng - Clear cache & Model Events | 2023-12-13 | [entry](../entries/du-an-web-ban-hang-clear-cache-model-events-ecgNACkVjyw.md) |
 | `Mi-4b4yXMIE` | Dự án Web bán hàng | 2023-12-19 | [entry](../entries/du-an-web-ban-hang-Mi-4b4yXMIE.md) |
+| `04vNxuyaWlQ` | Dự án Web bán hàng - Notification | 2023-12-22 | [entry](../entries/du-an-web-ban-hang-notification-04vNxuyaWlQ.md) |
+| `QBL0FdwnNKQ` | Dự án Web bán hàng - Update Product | 2024-01-05 | [entry](../entries/du-an-web-ban-hang-update-product-QBL0FdwnNKQ.md) |
+| `jtx_6JTs_sc` | Dự án Web bán hàng - Cart | 2024-01-09 | [entry](../entries/du-an-web-ban-hang-cart-jtx_6JTs_sc.md) |
+| `dNIYZkKnewQ` | Dự án Web bán hàng - Test | 2024-01-12 | [entry](../entries/du-an-web-ban-hang-test-dNIYZkKnewQ.md) |
+| `chUIXLxJkQs` | Dự án Web bán hàng | 2024-01-25 | [entry](../entries/du-an-web-ban-hang-chUIXLxJkQs.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
