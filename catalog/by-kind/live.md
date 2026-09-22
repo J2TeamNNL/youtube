@@ -76,6 +76,17 @@
 | `oUmOpwtxXQU` | Lập trình web chuyên sâu - 5 - MVC & OOP (tối ưu) | 2022-03-19 | [entry](../entries/lap-trinh-web-chuyen-sau-5-mvc-oop-toi-uu-oUmOpwtxXQU.md) |
 | `QFsPgDpBak0` | Lập trình web chuyên sâu - 8 - Laravel - CRUD | 2022-03-26 | [entry](../entries/lap-trinh-web-chuyen-sau-8-laravel-crud-QFsPgDpBak0.md) |
 | `lkhOFG8JqNc` | Lập trình web chuyên sâu - 9 - Laravel - CRUD | 2022-03-29 | [entry](../entries/lap-trinh-web-chuyen-sau-9-laravel-crud-lkhOFG8JqNc.md) |
+| `z1dkKfvJtdc` | Lập trình web chuyên sâu - 6 - MVC & OOP (2 bảng) | 2022-03-22 | [entry](../entries/lap-trinh-web-chuyen-sau-6-mvc-oop-2-bang-z1dkKfvJtdc.md) |
+| `WCjvRGoYfXo` | Lập trình web chuyên sâu - 7 - Laravel - Install & Beginning | 2022-03-24 | [entry](../entries/lap-trinh-web-chuyen-sau-7-laravel-install-beginning-WCjvRGoYfXo.md) |
+| `qIg9kebOh3A` | Lập trình web chuyên sâu - 10 - Laravel - Paginate & Validate | 2022-03-31 | [entry](../entries/lap-trinh-web-chuyen-sau-10-laravel-paginate-validate-qIg9kebOh3A.md) |
+| `FsLnv3FuGZ0` | Lập trình web chuyên sâu - 11 - Laravel - Template Blade & Project | 2022-04-03 | [entry](../entries/lap-trinh-web-chuyen-sau-11-laravel-template-blade-project-FsLnv3FuGZ0.md) |
+| `x12dPyo_CvU` | Lập trình web chuyên sâu - 12 - Laravel -  jQuery & REST API & Datatable | 2022-04-05 | [entry](../entries/lap-trinh-web-chuyen-sau-12-laravel-jquery-rest-api-datatable-x12dPyo_CvU.md) |
+| `sJGdUBojV4s` | Lập trình web chuyên sâu - 13 - Laravel -  jQuery & REST API & Select2 & Datatable | 2022-04-07 | [entry](../entries/lap-trinh-web-chuyen-sau-13-laravel-jquery-rest-api-select2-datatable-sJGdUBojV4s.md) |
+| `ona6XcLmgcs` | Đồ án Web môi giới - 1 - Phân tích | 2022-04-09 | [entry](../entries/do-an-web-moi-gioi-1-phan-tich-ona6XcLmgcs.md) |
+| `a65TbziA32k` | Lập trình web chuyên sâu - 14 - Laravel - Enum | 2022-04-12 | [entry](../entries/lap-trinh-web-chuyen-sau-14-laravel-enum-a65TbziA32k.md) |
+| `MgyHL6WTRuM` | Lập trình web chuyên sâu - 15 - Laravel - Relationship & Upload | 2022-04-14 | [entry](../entries/lap-trinh-web-chuyen-sau-15-laravel-relationship-upload-MgyHL6WTRuM.md) |
+| `lK6YVQzd0C8` | Đồ án Web chuyên sâu - 2 - Thiết kế | 2022-04-17 | [entry](../entries/do-an-web-chuyen-sau-2-thiet-ke-lK6YVQzd0C8.md) |
+| `zYvwN3oiFzM` | Lập trình web chuyên sâu - 16 - Laravel - Session & Middleware | 2022-04-19 | [entry](../entries/lap-trinh-web-chuyen-sau-16-laravel-session-middleware-zYvwN3oiFzM.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
