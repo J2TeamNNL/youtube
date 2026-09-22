@@ -19,3 +19,4 @@ Học SQL / truy vấn, kiểu dữ liệu, và thao tác bảng cơ bản (INSE
 - [SQL chuyên sâu Buổi 5 Trigger Instead of](../entries/sql-chuyen-sau-buoi-5-trigger-instead-of-BRk36X7prK0.md) (`BRk36X7prK0`)
 - [SQL chuyên sâu Buổi 6 Chữa bài tập Transaction](../entries/sql-chuyen-sau-buoi-6-chua-bai-tap-transaction-xPllalzVL_4.md) (`xPllalzVL_4`)
 - [SQL chuyên sâu Buổi cuối Thi vấn đáp](../entries/sql-chuyen-sau-buoi-cuoi-thi-van-dap-E6lizfokiWA.md) (`E6lizfokiWA`)
+- [Thi chứng chỉ SQL - HackerRank](../entries/thi-chung-chi-sql-hackerrank-2URNQyAA-tA.md) (`2URNQyAA-tA`)
