@@ -24,3 +24,7 @@ Giao lưu, động viên, kỹ năng mềm, mindset học tập / làm việc nh
 - [Tâm sự đầu năm](../entries/tam-su-dau-nam-Yu4_tWSVN2M.md) (`Yu4_tWSVN2M`)
 - [Tâm sự đầu năm](../entries/tam-su-dau-nam-szXSfaabPgE.md) (`szXSfaabPgE`)
 - [Tâm sự đầu năm](../entries/tam-su-dau-nam-85hfHdGvLn8.md) (`85hfHdGvLn8`)
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-MjU1eJT0g6U.md) (`MjU1eJT0g6U`)
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-4lWPKXgd2M4.md) (`4lWPKXgd2M4`)
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-p1f1Q7P5RCU.md) (`p1f1Q7P5RCU`)
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-D5VF5VXa_q8.md) (`D5VF5VXa_q8`)
