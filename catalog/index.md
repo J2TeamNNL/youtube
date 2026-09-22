@@ -1,1 +1,0 @@
-@file:///workspace/catalog-batch28/indexes/index.md
