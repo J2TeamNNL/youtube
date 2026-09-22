@@ -16,3 +16,4 @@ Gom video theo series / playlist.
 | Livestream trở lại | [livestream-tro-lai.md](./livestream-tro-lai.md) |
 | Chữa đồ án | [chua-do-an.md](./chua-do-an.md) |
 | Dự án Web bán hàng | [du-an-web-ban-hang.md](./du-an-web-ban-hang.md) |
+| 100 học Java | [100-hoc-java.md](./100-hoc-java.md) |
