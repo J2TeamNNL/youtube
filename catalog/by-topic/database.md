@@ -23,3 +23,4 @@ Cơ sở dữ liệu, bảng/cột, mô hình lưu trữ và nghề liên quan (
 - [Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) (`MemEhFGO2X0`)
 - [Đồ án Web chuyên sâu - 3 - Cơ sở dữ liệu](../entries/do-an-web-chuyen-sau-3-co-so-du-lieu-PIsyeleGTp4.md) (`PIsyeleGTp4`)
 - [Thi chứng chỉ SQL - HackerRank](../entries/thi-chung-chi-sql-hackerrank-2URNQyAA-tA.md) (`2URNQyAA-tA`)
+- [Dự án Web bán hàng - Phân tích](../entries/du-an-web-ban-hang-phan-tich-_FxLPlNugCw.md) (`_FxLPlNugCw`)
