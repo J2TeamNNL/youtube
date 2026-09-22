@@ -2,3 +2,136 @@
 
 | video-id | Tiêu đề | Ngày | Entry |
 | --- | --- | --- | --- |
+| `-OCOG15SD1w` | SQL Buổi 1 Làm quen | 2021-09-12 | [entry](../entries/sql-buoi-1-lam-quen--OCOG15SD1w.md) |
+| `8T0edb1AYUg` | SQL Buổi 2 Những câu lệnh cơ bản | 2021-09-14 | [entry](../entries/sql-buoi-2-nhung-cau-lenh-co-ban-8T0edb1AYUg.md) |
+| `d8-KYLxMPpM` | SQL Buổi 3 Những ràng buộc | 2021-09-18 | [entry](../entries/sql-buoi-3-nhung-rang-buoc-d8-KYLxMPpM.md) |
+| `A0qfh0mEoLE` | SQL Buổi 4 Những hàm cơ bản | 2021-09-21 | [entry](../entries/sql-buoi-4-nhung-ham-co-ban-A0qfh0mEoLE.md) |
+| `1koJCVv8Os4` | SQL Buổi 5 Những hàm nhóm và thống kê | 2021-09-23 | [entry](../entries/sql-buoi-5-nhung-ham-nhom-va-thong-ke-1koJCVv8Os4.md) |
+| `a0ezTyvEhY8` | SQL Buổi 6 Những ràng buộc khóa | 2021-09-28 | [entry](../entries/sql-buoi-6-nhung-rang-buoc-khoa-a0ezTyvEhY8.md) |
+| `6OQhvSQ1ZEo` | SQL Buổi 7 P1 Nối bảng | 2021-10-01 | [entry](../entries/sql-buoi-7-noi-bang-p1-6OQhvSQ1ZEo.md) |
+| `rwMLTX7vKrE` | SQL Buổi 7 P2 Nối bảng | 2021-10-03 | [entry](../entries/sql-buoi-7-noi-bang-p2-rwMLTX7vKrE.md) |
+| `wiYWbm3r48A` | Lập trình web cơ bản buổi 1 HTML | 2021-10-05 | [entry](../entries/lap-trinh-web-co-ban-buoi-1-html-wiYWbm3r48A.md) |
+| `uJn89Ua7D8M` | SQL chuyên sâu Buổi 1 Index View | 2021-10-07 | [entry](../entries/sql-chuyen-sau-buoi-1-index-view-uJn89Ua7D8M.md) |
+| `Y0mgyEp8kFI` | Lập trình web cơ bản buổi 2 HTML bảng | 2021-10-09 | [entry](../entries/lap-trinh-web-co-ban-buoi-2-html-bang-Y0mgyEp8kFI.md) |
+| `cSgY3RWqqNc` | Lập trình web cơ bản buổi 3 HTML những thẻ thường gặp | 2021-10-12 | [entry](../entries/lap-trinh-web-co-ban-buoi-3-html-nhung-the-thuong-gap-cSgY3RWqqNc.md) |
+| `yCyHpZALCG0` | SQL chuyên sâu Buổi 2 Procedure | 2021-10-14 | [entry](../entries/sql-chuyen-sau-buoi-2-procedure-yCyHpZALCG0.md) |
+| `8t9qLdrlAvA` | Lập trình web cơ bản buổi 4 HTML Form | 2021-10-16 | [entry](../entries/lap-trinh-web-co-ban-buoi-4-html-form-8t9qLdrlAvA.md) |
+| `iSdXPJg6G9k` | Lập trình web cơ bản buổi 5 CSS làm quen | 2021-10-19 | [entry](../entries/lap-trinh-web-co-ban-buoi-5-css-lam-quen-iSdXPJg6G9k.md) |
+| `AlOM-lbJ1t8` | SQL chuyên sâu Buổi 3 Function | 2021-10-22 | [entry](../entries/sql-chuyen-sau-buoi-3-function-AlOM-lbJ1t8.md) |
+| `dJ2K_5VaUgc` | Lập trình web cơ bản buổi 6 CSS Layout | 2021-10-24 | [entry](../entries/lap-trinh-web-co-ban-buoi-6-css-layout-dJ2K_5VaUgc.md) |
+| `qJusq22MRvA` | Lập trình web cơ bản buổi 7 CSS Pseudo & Selector | 2021-10-26 | [entry](../entries/lap-trinh-web-co-ban-buoi-7-css-pseudo-selector-qJusq22MRvA.md) |
+| `Oc-IlA-1jxc` | SQL chuyên sâu Buổi 4 Trigger After | 2021-10-28 | [entry](../entries/sql-chuyen-sau-buoi-4-trigger-after-Oc-IlA-1jxc.md) |
+| `h4wTJgQxnJg` | Lập trình web cơ bản buổi 8 JavaScript làm quen | 2021-11-03 | [entry](../entries/lap-trinh-web-co-ban-buoi-8-javascript-lam-quen-h4wTJgQxnJg.md) |
+| `BRk36X7prK0` | SQL chuyên sâu Buổi 5 Trigger Instead of | 2021-11-04 | [entry](../entries/sql-chuyen-sau-buoi-5-trigger-instead-of-BRk36X7prK0.md) |
+| `9HG9MmtpE7Y` | Lập trình web cơ bản buổi 9 JavaScript Loop & Input | 2021-11-07 | [entry](../entries/lap-trinh-web-co-ban-buoi-9-javascript-loop-input-9HG9MmtpE7Y.md) |
+| `21sAAG9inYI` | Livecode - Lấy ra những bình luận chưa trả lời trên Teachable - JavaScript | 2021-11-07 | [entry](../entries/livecode-lay-ra-nhung-binh-luan-chua-tra-loi-tren-teachable-javascript-21sAAG9inYI.md) |
+| `KjHtFIR79XI` | Lập trình web cơ bản buổi 10 JavaScript Array | 2021-11-09 | [entry](../entries/lap-trinh-web-co-ban-buoi-10-javascript-array-KjHtFIR79XI.md) |
+| `xPllalzVL_4` | SQL chuyên sâu Buổi 6 Chữa bài tập Transaction | 2021-11-12 | [entry](../entries/sql-chuyen-sau-buoi-6-chua-bai-tap-transaction-xPllalzVL_4.md) |
+| `nQcEK4HLoQs` | Lập trình web cơ bản buổi 11 JavaScript Regex | 2021-11-14 | [entry](../entries/lap-trinh-web-co-ban-buoi-11-javascript-regex-nQcEK4HLoQs.md) |
+| `uBanTLR3YeE` | Lập trình web cơ bản buổi 12 JavaScript Validate Form | 2021-11-16 | [entry](../entries/lap-trinh-web-co-ban-buoi-12-javascript-validate-form-uBanTLR3YeE.md) |
+| `E6lizfokiWA` | SQL chuyên sâu Buổi cuối Thi vấn đáp | 2021-11-18 | [entry](../entries/sql-chuyen-sau-buoi-cuoi-thi-van-dap-E6lizfokiWA.md) |
+| `8QxwiQPrNHs` | Lập trình web cơ bản buổi 13 JavaScript DOM BOM Tools | 2021-11-23 | [entry](../entries/lap-trinh-web-co-ban-buoi-13-javascript-dom-bom-tools-8QxwiQPrNHs.md) |
+| `uEUa4qB97Kk` | Lập trình web cơ bản buổi 14 PHP Giới thiệu | 2021-11-25 | [entry](../entries/lap-trinh-web-co-ban-buoi-14-php-gioi-thieu-uEUa4qB97Kk.md) |
+| `AH9STS4sJSo` | Lập trình web cơ bản buổi 15 PHP Làm việc với Form | 2021-11-27 | [entry](../entries/lap-trinh-web-co-ban-buoi-15-php-lam-viec-voi-form-AH9STS4sJSo.md) |
+| `63H58_jGDco` | Lập trình web cơ bản buổi 16 PHP CRUD | 2021-11-30 | [entry](../entries/lap-trinh-web-co-ban-buoi-16-php-crud-63H58_jGDco.md) |
+| `xXmCzhU0BNY` | Lập trình web cơ bản buổi 17 PHP CRUD Pagination Searching Hacking | 2021-12-03 | [entry](../entries/lap-trinh-web-co-ban-buoi-17-php-crud-pagination-searching-hacking-xXmCzhU0BNY.md) |
+| `Wlo5aQw2UeI` | Lập trình web cơ bản buổi 18 PHP ôn tập layout | 2021-12-05 | [entry](../entries/lap-trinh-web-co-ban-buoi-18-php-on-tap-layout-Wlo5aQw2UeI.md) |
+| `pOzcjuEaXVI` | Đồ án Web cơ bản - Phân nhóm & định hướng | 2021-12-05 | [entry](../entries/do-an-web-co-ban-phan-nhom-dinh-huong-pOzcjuEaXVI.md) |
+| `MemEhFGO2X0` | Lập trình web cơ bản buổi 19 PHP CRUD 2 bảng liên kết | 2021-12-07 | [entry](../entries/lap-trinh-web-co-ban-buoi-19-php-crud-2-bang-lien-ket-MemEhFGO2X0.md) |
+| `cEwux79AiKw` | Lập trình web cơ bản buổi 20 PHP Giao diện khách hàng | 2021-12-10 | [entry](../entries/lap-trinh-web-co-ban-buoi-20-php-giao-dien-khach-hang-cEwux79AiKw.md) |
+| `5o3BugEmhLk` | Đồ án Web cơ bản - Phân tích và thiết kế | 2021-12-12 | [entry](../entries/do-an-web-co-ban-phan-tich-va-thiet-ke-5o3BugEmhLk.md) |
+| `7pWAqw9XjVM` | Lập trình web cơ bản buổi 21 PHP Signing & Hacking | 2021-12-14 | [entry](../entries/lap-trinh-web-co-ban-buoi-21-php-signing-hacking-7pWAqw9XjVM.md) |
+| `27UPwj789E4` | Lập trình web cơ bản buổi 22 PHP Cookies | 2021-12-17 | [entry](../entries/lap-trinh-web-co-ban-buoi-22-php-cookies-27UPwj789E4.md) |
+| `1t9Hzq9_Rck` | Lập trình web cơ bản buổi 23 PHP Giỏ hàng | 2021-12-18 | [entry](../entries/lap-trinh-web-co-ban-buoi-23-php-gio-hang-1t9Hzq9_Rck.md) |
+| `yndPkfUMozI` | Lập trình web cơ bản buổi 24 PHP Đặt hàng | 2021-12-22 | [entry](../entries/lap-trinh-web-co-ban-buoi-24-php-dat-hang-yndPkfUMozI.md) |
+| `TdEOdeIOVEQ` | Lập trình web cơ bản buổi 25 PHP Admin | 2021-12-23 | [entry](../entries/lap-trinh-web-co-ban-buoi-25-php-admin-TdEOdeIOVEQ.md) |
+| `84JkzsD4-Sc` | Giao lưu và chia sẻ về Đồ án | 2021-12-25 | [entry](../entries/giao-luu-va-chia-se-ve-do-an-84JkzsD4-Sc.md) |
+| `wrFP4BAp4ok` | Livecode Tool chấm đồ án | 2021-12-28 | [entry](../entries/livecode-tool-cham-do-an-wrFP4BAp4ok.md) |
+| `fH9BVGeomMI` | Lập trình web cơ bản buổi 26 PHP Gửi email & Tâm sự cuối năm | 2021-12-30 | [entry](../entries/lap-trinh-web-co-ban-buoi-26-php-gui-email-tam-su-cuoi-nam-fH9BVGeomMI.md) |
+| `YGc7zc0ZXvM` | Đồ án Web cơ bản - Kiểm tra và đánh giá - Thiết kế | 2022-01-01 | [entry](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-thiet-ke-YGc7zc0ZXvM.md) |
+| `QG8Ai3oR8G4` | Lập trình web cơ bản buổi 27 PHP Cấu hình CSDL & Quên mật khẩu | 2022-01-04 | [entry](../entries/lap-trinh-web-co-ban-buoi-27-php-cau-hinh-csdl-va-quen-mat-khau-QG8Ai3oR8G4.md) |
+| `T1RCc4zALNc` | Lập trình web cơ bản buổi 28 PHP Thống kê | 2022-01-07 | [entry](../entries/lap-trinh-web-co-ban-buoi-28-php-thong-ke-T1RCc4zALNc.md) |
+| `DU_SRXoNbTc` | Đồ án Web cơ bản - Kiểm tra và đánh giá - CRUD | 2022-01-08 | [entry](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-crud-DU_SRXoNbTc.md) |
+| `HszrnYMdfAU` | Lập trình web cơ bản buổi 29 PHP jQuery làm quen Ajax | 2022-01-11 | [entry](../entries/lap-trinh-web-co-ban-buoi-29-php-jquery-lam-quen-ajax-HszrnYMdfAU.md) |
+| `x_XNnYk1aiw` | Lập trình web cơ bản buổi 30 PHP jQuery Modal Signin Signup Validate | 2022-01-13 | [entry](../entries/lap-trinh-web-co-ban-buoi-30-php-jquery-modal-signin-signup-validate-x_XNnYk1aiw.md) |
+| `TbZKv9kGXWc` | Đồ án Web cơ bản - Kiểm tra và đánh giá - Validate | 2022-01-15 | [entry](../entries/do-an-web-co-ban-kiem-tra-va-danh-gia-validate-TbZKv9kGXWc.md) |
+| `izjKIbgCT6Y` | Lập trình web cơ bản buổi 31 PHP jQuery Biểu đồ thống kê | 2022-01-18 | [entry](../entries/lap-trinh-web-co-ban-buoi-31-php-jquery-bieu-do-thong-ke-izjKIbgCT6Y.md) |
+| `0M0AB3k4C4c` | Lập trình web cơ bản buổi 32 PHP jQuery Rating Live search JSON | 2022-01-21 | [entry](../entries/lap-trinh-web-co-ban-buoi-32-php-jquery-rating-live-search-json-0M0AB3k4C4c.md) |
+| `i5SpM6mvCt4` | Lập trình web cơ bản buổi 33 PHP jQuery Tags Notify | 2022-01-25 | [entry](../entries/lap-trinh-web-co-ban-buoi-33-php-jquery-tags-notify-i5SpM6mvCt4.md) |
+| `Eb1gKNpw2M0` | Đồ án Web cơ bản - Kiểm tra và tâm sự đầu năm | 2022-02-08 | [entry](../entries/do-an-web-co-ban-kiem-tra-va-tam-su-dau-nam-Eb1gKNpw2M0.md) |
+| `MTSeaTlRI6I` | Đồ án Web cơ bản - Kiểm tra & chuẩn bị | 2022-02-12 | [entry](../entries/do-an-web-co-ban-kiem-tra-chuan-bi-MTSeaTlRI6I.md) |
+| `UVVdg9jcggM` | Đồ án Web cơ bản - Kiểm tra & hướng dẫn tài liệu | 2022-02-15 | [entry](../entries/do-an-web-co-ban-kiem-tra-huong-dan-tai-lieu-UVVdg9jcggM.md) |
+| `X-G-knWMiu8` | Đồ án Web cơ bản - Kiểm tra & chia sẻ | 2022-02-17 | [entry](../entries/do-an-web-co-ban-kiem-tra-chia-se-X-G-knWMiu8.md) |
+| `vw4c3Z3ycmw` | Đồ án Web cơ bản - Bảo vệ thử lần 1 | 2022-02-20 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-1-vw4c3Z3ycmw.md) |
+| `2-axwrzotSo` | Đồ án Web cơ bản - Bảo vệ thử lần 2 | 2022-02-22 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-2-axwrzotSo.md) |
+| `BCvrO9vDMFE` | Đồ án Web cơ bản - Bảo vệ thử lần 2 (P2) | 2022-02-22 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-2-p2-BCvrO9vDMFE.md) |
+| `z1PeehHf0pE` | Đồ án Web cơ bản - Bảo vệ thử lần 3 | 2022-02-24 | [entry](../entries/do-an-web-co-ban-bao-ve-thu-lan-3-z1PeehHf0pE.md) |
+| `K_N9Ek6S6SY` | Đồ án Web cơ bản - Bảo vệ lần 1 | 2022-02-26 | [entry](../entries/do-an-web-co-ban-bao-ve-lan-1-K_N9Ek6S6SY.md) |
+| `h_qgx1oLlgM` | Đồ án Web cơ bản - Tâm sự | 2022-03-04 | [entry](../entries/do-an-web-co-ban-tam-su-h_qgx1oLlgM.md) |
+| `XaeVax9pZcY` | Đồ án Web cơ bản - Bảo vệ & Chấm | 2022-03-05 | [entry](../entries/do-an-web-co-ban-bao-ve-cham-XaeVax9pZcY.md) |
+| `wbY4fBBpFuk` | Lập trình web chuyên sâu - 1 - MVC | 2022-03-08 | [entry](../entries/lap-trinh-web-chuyen-sau-1-mvc-wbY4fBBpFuk.md) |
+| `pPy0sc-ptqg` | Lập trình web chuyên sâu - 2 - MVC - CRUD | 2022-03-10 | [entry](../entries/lap-trinh-web-chuyen-sau-2-mvc-crud-pPy0sc-ptqg.md) |
+| `3V5iGyUyfxA` | Lập trình web chuyên sâu - 3 - MVC - CRUD 2 bảng | 2022-03-13 | [entry](../entries/lap-trinh-web-chuyen-sau-3-mvc-crud-2-bang-3V5iGyUyfxA.md) |
+| `R3-cXDCtyvA` | Lập trình web chuyên sâu - 4 - MVC & OOP | 2022-03-17 | [entry](../entries/lap-trinh-web-chuyen-sau-4-mvc-oop-R3-cXDCtyvA.md) |
+| `oUmOpwtxXQU` | Lập trình web chuyên sâu - 5 - MVC & OOP (tối ưu) | 2022-03-19 | [entry](../entries/lap-trinh-web-chuyen-sau-5-mvc-oop-toi-uu-oUmOpwtxXQU.md) |
+| `QFsPgDpBak0` | Lập trình web chuyên sâu - 8 - Laravel - CRUD | 2022-03-26 | [entry](../entries/lap-trinh-web-chuyen-sau-8-laravel-crud-QFsPgDpBak0.md) |
+| `lkhOFG8JqNc` | Lập trình web chuyên sâu - 9 - Laravel - CRUD | 2022-03-29 | [entry](../entries/lap-trinh-web-chuyen-sau-9-laravel-crud-lkhOFG8JqNc.md) |
+| `z1dkKfvJtdc` | Lập trình web chuyên sâu - 6 - MVC & OOP (2 bảng) | 2022-03-22 | [entry](../entries/lap-trinh-web-chuyen-sau-6-mvc-oop-2-bang-z1dkKfvJtdc.md) |
+| `WCjvRGoYfXo` | Lập trình web chuyên sâu - 7 - Laravel - Install & Beginning | 2022-03-24 | [entry](../entries/lap-trinh-web-chuyen-sau-7-laravel-install-beginning-WCjvRGoYfXo.md) |
+| `qIg9kebOh3A` | Lập trình web chuyên sâu - 10 - Laravel - Paginate & Validate | 2022-03-31 | [entry](../entries/lap-trinh-web-chuyen-sau-10-laravel-paginate-validate-qIg9kebOh3A.md) |
+| `FsLnv3FuGZ0` | Lập trình web chuyên sâu - 11 - Laravel - Template Blade & Project | 2022-04-03 | [entry](../entries/lap-trinh-web-chuyen-sau-11-laravel-template-blade-project-FsLnv3FuGZ0.md) |
+| `x12dPyo_CvU` | Lập trình web chuyên sâu - 12 - Laravel -  jQuery & REST API & Datatable | 2022-04-05 | [entry](../entries/lap-trinh-web-chuyen-sau-12-laravel-jquery-rest-api-datatable-x12dPyo_CvU.md) |
+| `sJGdUBojV4s` | Lập trình web chuyên sâu - 13 - Laravel -  jQuery & REST API & Select2 & Datatable | 2022-04-07 | [entry](../entries/lap-trinh-web-chuyen-sau-13-laravel-jquery-rest-api-select2-datatable-sJGdUBojV4s.md) |
+| `ona6XcLmgcs` | Đồ án Web môi giới - 1 - Phân tích | 2022-04-09 | [entry](../entries/do-an-web-moi-gioi-1-phan-tich-ona6XcLmgcs.md) |
+| `a65TbziA32k` | Lập trình web chuyên sâu - 14 - Laravel - Enum | 2022-04-12 | [entry](../entries/lap-trinh-web-chuyen-sau-14-laravel-enum-a65TbziA32k.md) |
+| `MgyHL6WTRuM` | Lập trình web chuyên sâu - 15 - Laravel - Relationship & Upload | 2022-04-14 | [entry](../entries/lap-trinh-web-chuyen-sau-15-laravel-relationship-upload-MgyHL6WTRuM.md) |
+| `lK6YVQzd0C8` | Đồ án Web chuyên sâu - 2 - Thiết kế | 2022-04-17 | [entry](../entries/do-an-web-chuyen-sau-2-thiet-ke-lK6YVQzd0C8.md) |
+| `zYvwN3oiFzM` | Lập trình web chuyên sâu - 16 - Laravel - Session & Middleware | 2022-04-19 | [entry](../entries/lap-trinh-web-chuyen-sau-16-laravel-session-middleware-zYvwN3oiFzM.md) |
+| `XV3sif_uLWA` | Lập trình web chuyên sâu - 17 - Laravel - Observer & Notification | 2022-04-22 | [entry](../entries/lap-trinh-web-chuyen-sau-17-laravel-observer-notification-XV3sif_uLWA.md) |
+| `PIsyeleGTp4` | Đồ án Web chuyên sâu - 3 - Cơ sở dữ liệu | 2022-04-23 | [entry](../entries/do-an-web-chuyen-sau-3-co-so-du-lieu-PIsyeleGTp4.md) |
+| `2URNQyAA-tA` | Thi chứng chỉ SQL - HackerRank | 2022-04-27 | [entry](../entries/thi-chung-chi-sql-hackerrank-2URNQyAA-tA.md) |
+| `GSBCwB984Mk` | Đồ án Web môi giới - 4 - Giao diện | 2022-05-03 | [entry](../entries/do-an-web-moi-gioi-4-giao-dien-GSBCwB984Mk.md) |
+| `8uhUGSITS2w` | Đồ án Web môi giới - 5 - Auth | 2022-05-06 | [entry](../entries/do-an-web-moi-gioi-5-auth-8uhUGSITS2w.md) |
+| `6KpD4E8IFc0` | Giao lưu, tâm sự và trả lời | 2022-05-07 | [entry](../entries/giao-luu-tam-su-va-tra-loi-6KpD4E8IFc0.md) |
+| `4TRS5KmjP_4` | Đồ án Web môi giới - 6 - CRM - Users | 2022-05-10 | [entry](../entries/do-an-web-moi-gioi-6-crm-users-4TRS5KmjP_4.md) |
+| `7bo0l0jrHL8` | Đồ án Web học viện - 1 - Phân tích | 2022-05-12 | [entry](../entries/do-an-web-hoc-vien-1-phan-tich-7bo0l0jrHL8.md) |
+| `vfRNBtEMWVY` | Đồ án Web môi giới - 7 - CRM | 2022-05-14 | [entry](../entries/do-an-web-moi-gioi-7-crm-vfRNBtEMWVY.md) |
+| `uOpEJFwgDH4` | Đồ án Web chuyên sâu - Các nhóm phân tích - 1 | 2022-05-16 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-1-uOpEJFwgDH4.md) |
+| `I3-w0LJzZu0` | Đồ án Web chuyên sâu - Các nhóm phân tích - 2 | 2022-05-17 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-2-I3-w0LJzZu0.md) |
+| `lP30aS0533s` | Đồ án Web chuyên sâu - Các nhóm phân tích - 3 | 2022-05-19 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-3-lP30aS0533s.md) |
+| `r9u1KuNft20` | Đồ án Web chuyên sâu - Các nhóm phân tích - 4 | 2022-05-21 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-4-r9u1KuNft20.md) |
+| `HGxvF8DKlpg` | Đồ án Web môi giới - 8 - Import CSV | 2022-05-24 | [entry](../entries/do-an-web-moi-gioi-8-import-csv-HGxvF8DKlpg.md) |
+| `V19Cp3MXtwc` | Đồ án Web chuyên sâu - Tài liệu | 2022-09-04 | [entry](../entries/do-an-web-chuyen-sau-tai-lieu-V19Cp3MXtwc.md) |
+| `xvIh33sfS20` | Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ | 2022-09-06 | [entry](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-xvIh33sfS20.md) |
+| `G8uV3E4A87c` | Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ | 2022-09-09 | [entry](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-G8uV3E4A87c.md) |
+| `p_7XCZlYJM8` | Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ | 2022-09-13 | [entry](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-p_7XCZlYJM8.md) |
+| `lxZnvpB2gAY` | Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ | 2022-09-15 | [entry](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-lxZnvpB2gAY.md) |
+| `qYK7xKxLV40` | Đồ án Web chuyên sâu - Bảo vệ chính thức | 2022-09-17 | [entry](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-qYK7xKxLV40.md) |
+| `dQ1qbHlol9o` | Đồ án Web chuyên sâu - Bảo vệ chính thức | 2022-09-29 | [entry](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-dQ1qbHlol9o.md) |
+| `SpbS2vhEzN4` | Livestream trở lại | 2023-11-21 | [entry](../entries/livestream-tro-lai-SpbS2vhEzN4.md) |
+| `bM8OZW68zCs` | Chữa đồ án | 2023-11-24 | [entry](../entries/chua-do-an-bM8OZW68zCs.md) |
+| `_FxLPlNugCw` | Dự án Web bán hàng - Phân tích | 2023-11-28 | [entry](../entries/du-an-web-ban-hang-phan-tich-_FxLPlNugCw.md) |
+| `qPpsO0zFDPM` | Dự án Web bán hàng - Homepage | 2023-11-30 | [entry](../entries/du-an-web-ban-hang-homepage-qPpsO0zFDPM.md) |
+| `Qix3fwDeCiQ` | Dự án Web bán hàng - Laravel Test & ChatGPT | 2023-12-05 | [entry](../entries/du-an-web-ban-hang-laravel-test-chatgpt-Qix3fwDeCiQ.md) |
+| `nrZrqIC5B1w` | Dự án Web bán hàng - Cache & Git flow | 2023-12-07 | [entry](../entries/du-an-web-ban-hang-cache-git-flow-nrZrqIC5B1w.md) |
+| `ecgNACkVjyw` | Dự án Web bán hàng - Clear cache & Model Events | 2023-12-13 | [entry](../entries/du-an-web-ban-hang-clear-cache-model-events-ecgNACkVjyw.md) |
+| `Mi-4b4yXMIE` | Dự án Web bán hàng | 2023-12-19 | [entry](../entries/du-an-web-ban-hang-Mi-4b4yXMIE.md) |
+| `04vNxuyaWlQ` | Dự án Web bán hàng - Notification | 2023-12-22 | [entry](../entries/du-an-web-ban-hang-notification-04vNxuyaWlQ.md) |
+| `QBL0FdwnNKQ` | Dự án Web bán hàng - Update Product | 2024-01-05 | [entry](../entries/du-an-web-ban-hang-update-product-QBL0FdwnNKQ.md) |
+| `jtx_6JTs_sc` | Dự án Web bán hàng - Cart | 2024-01-09 | [entry](../entries/du-an-web-ban-hang-cart-jtx_6JTs_sc.md) |
+| `dNIYZkKnewQ` | Dự án Web bán hàng - Test | 2024-01-12 | [entry](../entries/du-an-web-ban-hang-test-dNIYZkKnewQ.md) |
+| `chUIXLxJkQs` | Dự án Web bán hàng | 2024-01-25 | [entry](../entries/du-an-web-ban-hang-chUIXLxJkQs.md) |
+| `NpoeDk4IZAQ` | Dự án Web bán hàng | 2024-02-01 | [entry](../entries/du-an-web-ban-hang-NpoeDk4IZAQ.md) |
+| `1trpb3YH5vc` | Tâm sự cuối năm | 2024-02-06 | [entry](../entries/tam-su-cuoi-nam-1trpb3YH5vc.md) |
+| `Yu4_tWSVN2M` | Tâm sự đầu năm | 2024-02-20 | [entry](../entries/tam-su-dau-nam-Yu4_tWSVN2M.md) |
+| `szXSfaabPgE` | Tâm sự đầu năm | 2024-02-27 | [entry](../entries/tam-su-dau-nam-szXSfaabPgE.md) |
+| `85hfHdGvLn8` | Tâm sự đầu năm | 2024-02-29 | [entry](../entries/tam-su-dau-nam-85hfHdGvLn8.md) |
+| `MjU1eJT0g6U` | Chia sẻ & Trả lời câu hỏi | 2024-03-05 | [entry](../entries/chia-se-tra-loi-cau-hoi-MjU1eJT0g6U.md) |
+| `4lWPKXgd2M4` | Chia sẻ & Trả lời câu hỏi | 2024-03-07 | [entry](../entries/chia-se-tra-loi-cau-hoi-4lWPKXgd2M4.md) |
+| `lfClLDfljwc` | Dự án Web bán hàng | 2024-03-14 | [entry](../entries/du-an-web-ban-hang-lfClLDfljwc.md) |
+| `p1f1Q7P5RCU` | Chia sẻ & Trả lời câu hỏi | 2024-03-19 | [entry](../entries/chia-se-tra-loi-cau-hoi-p1f1Q7P5RCU.md) |
+| `D5VF5VXa_q8` | Chia sẻ & Trả lời câu hỏi | 2024-03-21 | [entry](../entries/chia-se-tra-loi-cau-hoi-D5VF5VXa_q8.md) |
+| `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
+| `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
+| `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
+| `D3RdLhbceoc` | Road to Interview (day 4) | 2026-09-10 | [entry](../entries/road-to-interview-day-4-D3RdLhbceoc.md) |
