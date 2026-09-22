@@ -45,3 +45,11 @@ Series Đồ án Web môi giới (buổi live).
 ## Buổi 13
 
 - [Đồ án Web môi giới - 13 - Post - Create (P4)](../entries/do-an-web-moi-gioi-13-post-create-p4-P6nhBJrGrbY.md) (`P6nhBJrGrbY`) — live · 2022-06-07 · ASR auto
+
+## Buổi 17
+
+- [Đồ án Web môi giới - 17 - Homepage (P3)](../entries/do-an-web-moi-gioi-17-homepage-p3-a44nuvw-lvg.md) (`a44nuvw-lvg`) — live · 2022-07-01 · ASR auto
+
+## Buổi 18
+
+- [Đồ án Web môi giới - 18 - Homepage (P4)](../entries/do-an-web-moi-gioi-18-homepage-p4-1yUrMbnD2lI.md) (`1yUrMbnD2lI`) — live · 2022-07-06 · ASR auto

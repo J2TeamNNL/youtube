@@ -25,3 +25,11 @@ Series Đồ án Web chuyên sâu (buổi live).
 ## Các nhóm phân tích 4
 
 - [Đồ án Web chuyên sâu - Các nhóm phân tích - 4](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-4-r9u1KuNft20.md) (`r9u1KuNft20`) — live · 2022-05-21 · ASR auto
+
+## Chữa L3
+
+- [Đồ án Web chuyên sâu - Chữa (L3)](../entries/do-an-web-chuyen-sau-chua-l3-WPFX4aC_vwI.md) (`WPFX4aC_vwI`) — live · 2022-06-26 · ASR auto
+
+## Chữa L4
+
+- [Đồ án Web chuyên sâu - Chữa (L4)](../entries/do-an-web-chuyen-sau-chua-l4-QJUoQIH1R9c.md) (`QJUoQIH1R9c`) — live · 2022-07-02 · ASR auto
