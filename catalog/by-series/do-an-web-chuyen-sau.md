@@ -61,3 +61,14 @@ Series Đồ án Web chuyên sâu (buổi live).
 ## Tài liệu
 
 - [Đồ án Web chuyên sâu - Tài liệu](../entries/do-an-web-chuyen-sau-tai-lieu-HHUV6JqIZpQ.md) (`HHUV6JqIZpQ`) — live · 2022-09-01 · ASR auto
+
+## Tài liệu (tiếp)
+
+- [Đồ án Web chuyên sâu - Tài liệu](../entries/do-an-web-chuyen-sau-tai-lieu-V19Cp3MXtwc.md) (`V19Cp3MXtwc`) — live · 2022-09-04 · ASR auto
+
+## Chuẩn bị cho buổi bảo vệ
+
+- [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-xvIh33sfS20.md) (`xvIh33sfS20`) — live · 2022-09-06 · ASR auto
+- [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-G8uV3E4A87c.md) (`G8uV3E4A87c`) — live · 2022-09-09 · ASR auto
+- [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-p_7XCZlYJM8.md) (`p_7XCZlYJM8`) — live · 2022-09-13 · ASR auto
+- [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-lxZnvpB2gAY.md) (`lxZnvpB2gAY`) — live · 2022-09-15 · ASR auto
