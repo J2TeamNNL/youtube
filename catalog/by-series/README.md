@@ -11,3 +11,5 @@ Gom video theo series / playlist.
 | Đồ án web cơ bản | [do-an-web-co-ban.md](./do-an-web-co-ban.md) |
 | Lập trình web chuyên sâu | [lap-trinh-web-chuyen-sau.md](./lap-trinh-web-chuyen-sau.md) |
 | Livecode | [livecode.md](./livecode.md) |
+| Đồ án Web môi giới | [do-an-web-moi-gioi.md](./do-an-web-moi-gioi.md) |
+| Đồ án Web chuyên sâu | [do-an-web-chuyen-sau.md](./do-an-web-chuyen-sau.md) |
