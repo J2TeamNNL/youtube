@@ -28,7 +28,7 @@ Series Đồ án Web chuyên sâu (buổi live).
 
 ## Chữa L3
 
-- [Đồ án Web chuyên sâu - Chữa (L3)](../entries/do-an-web-chuyen-sau-chua-l3-WPFX4aC_vwI.md) (`WPFX4aC_vwI`) — live · 2022-07-02 · ASR auto
+- [Đồ án Web chuyên sâu - Chữa (L3)](../entries/do-an-web-chuyen-sau-chua-l3-WPFX4aC_vwI.md) (`WPFX4aC_vwI`) — live · 2022-06-26 · ASR auto
 
 ## Chữa L4
 
