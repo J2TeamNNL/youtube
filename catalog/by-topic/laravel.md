@@ -14,3 +14,4 @@ Framework PHP (Eloquent, Blade, Artisan, routing…) dùng trong series Lập tr
 - [Lập trình web chuyên sâu - 14 - Laravel - Enum](../entries/lap-trinh-web-chuyen-sau-14-laravel-enum-a65TbziA32k.md) (`a65TbziA32k`)
 - [Lập trình web chuyên sâu - 15 - Laravel - Relationship & Upload](../entries/lap-trinh-web-chuyen-sau-15-laravel-relationship-upload-MgyHL6WTRuM.md) (`MgyHL6WTRuM`)
 - [Lập trình web chuyên sâu - 16 - Laravel - Session & Middleware](../entries/lap-trinh-web-chuyen-sau-16-laravel-session-middleware-zYvwN3oiFzM.md) (`zYvwN3oiFzM`)
+- [Lập trình web chuyên sâu - 17 - Laravel - Observer & Notification](../entries/lap-trinh-web-chuyen-sau-17-laravel-observer-notification-XV3sif_uLWA.md) (`XV3sif_uLWA`)
