@@ -65,3 +65,7 @@ Series lập trình web nâng cao (buổi live), sau [Đồ án web cơ bản](.
 ## Buổi 16
 
 - [Lập trình web chuyên sâu - 16 - Laravel - Session & Middleware](../entries/lap-trinh-web-chuyen-sau-16-laravel-session-middleware-zYvwN3oiFzM.md) (`zYvwN3oiFzM`) — live · 2022-04-19 · ASR auto
+
+## Buổi 17
+
+- [Lập trình web chuyên sâu - 17 - Laravel - Observer & Notification](../entries/lap-trinh-web-chuyen-sau-17-laravel-observer-notification-XV3sif_uLWA.md) (`XV3sif_uLWA`) — live · 2022-04-22 · ASR auto
