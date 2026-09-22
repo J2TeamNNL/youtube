@@ -131,6 +131,11 @@
 | `lfClLDfljwc` | Dự án Web bán hàng | 2024-03-14 | [entry](../entries/du-an-web-ban-hang-lfClLDfljwc.md) |
 | `p1f1Q7P5RCU` | Chia sẻ & Trả lời câu hỏi | 2024-03-19 | [entry](../entries/chia-se-tra-loi-cau-hoi-p1f1Q7P5RCU.md) |
 | `D5VF5VXa_q8` | Chia sẻ & Trả lời câu hỏi | 2024-03-21 | [entry](../entries/chia-se-tra-loi-cau-hoi-D5VF5VXa_q8.md) |
+| `vxA2jQ5Zm9g` | Chia sẻ & Trả lời câu hỏi | 2024-03-28 | [entry](../entries/chia-se-tra-loi-cau-hoi-vxA2jQ5Zm9g.md) |
+| `uBeXyhZFD_0` | Tâm sự tuổi chập chững | 2024-04-09 | [entry](../entries/tam-su-tuoi-chap-chung-uBeXyhZFD_0.md) |
+| `aM_YyXCXf0k` | Tâm sự tuổi chập chững | 2024-04-28 | [entry](../entries/tam-su-tuoi-chap-chung-aM_YyXCXf0k.md) |
+| `OlNzm1rdRps` | Tâm sự tuổi chập chững | 2024-07-28 | [entry](../entries/tam-su-tuoi-chap-chung-OlNzm1rdRps.md) |
+| `IRmbPDMU8Uo` | Tâm sự tuổi chập chững | 2025-07-18 | [entry](../entries/tam-su-tuoi-chap-chung-IRmbPDMU8Uo.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
