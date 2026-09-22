@@ -49,3 +49,15 @@ Series Đồ án Web chuyên sâu (buổi live).
 ## Chữa L9 — Review Code
 
 - [Đồ án Web chuyên sâu - Chữa (L9) - Review Code](../entries/do-an-web-chuyen-sau-chua-l9-review-code-nEJbdnBfCyU.md) (`nEJbdnBfCyU`) — live · 2022-07-28 · ASR auto
+
+## Chữa L14 — Review Code
+
+- [Đồ án Web chuyên sâu - Chữa (L14) - Review Code](../entries/do-an-web-chuyen-sau-chua-l14-review-code-OzZhJtmUcFg.md) (`OzZhJtmUcFg`) — live · 2022-08-19 · ASR auto
+
+## Bảo vệ thử đợt 2
+
+- [Đồ án Web chuyên sâu - Bảo vệ thử đợt 2](../entries/do-an-web-chuyen-sau-bao-ve-thu-dot-2-B_g_Hokn-L8.md) (`B_g_Hokn-L8`) — live · 2022-08-30 · ASR auto
+
+## Tài liệu
+
+- [Đồ án Web chuyên sâu - Tài liệu](../entries/do-an-web-chuyen-sau-tai-lieu-HHUV6JqIZpQ.md) (`HHUV6JqIZpQ`) — live · 2022-09-01 · ASR auto
