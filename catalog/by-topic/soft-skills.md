@@ -15,3 +15,7 @@ Giao lưu, động viên, kỹ năng mềm, mindset học tập / làm việc nh
 - [Đồ án Web cơ bản - Bảo vệ lần 1](../entries/do-an-web-co-ban-bao-ve-lan-1-K_N9Ek6S6SY.md) (`K_N9Ek6S6SY`)
 - [Đồ án Web cơ bản - Tâm sự](../entries/do-an-web-co-ban-tam-su-h_qgx1oLlgM.md) (`h_qgx1oLlgM`)
 - [Đồ án Web cơ bản - Bảo vệ & Chấm](../entries/do-an-web-co-ban-bao-ve-cham-XaeVax9pZcY.md) (`XaeVax9pZcY`)
+- [Đồ án Web chuyên sâu - Bảo vệ chính thức](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-qYK7xKxLV40.md) (`qYK7xKxLV40`)
+- [Đồ án Web chuyên sâu - Bảo vệ chính thức](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-dQ1qbHlol9o.md) (`dQ1qbHlol9o`)
+- [Livestream trở lại](../entries/livestream-tro-lai-SpbS2vhEzN4.md) (`SpbS2vhEzN4`)
+- [Chữa đồ án](../entries/chua-do-an-bM8OZW68zCs.md) (`bM8OZW68zCs`)
