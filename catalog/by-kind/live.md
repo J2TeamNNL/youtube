@@ -121,6 +121,11 @@
 | `jtx_6JTs_sc` | Dự án Web bán hàng - Cart | 2024-01-09 | [entry](../entries/du-an-web-ban-hang-cart-jtx_6JTs_sc.md) |
 | `dNIYZkKnewQ` | Dự án Web bán hàng - Test | 2024-01-12 | [entry](../entries/du-an-web-ban-hang-test-dNIYZkKnewQ.md) |
 | `chUIXLxJkQs` | Dự án Web bán hàng | 2024-01-25 | [entry](../entries/du-an-web-ban-hang-chUIXLxJkQs.md) |
+| `NpoeDk4IZAQ` | Dự án Web bán hàng | 2024-02-01 | [entry](../entries/du-an-web-ban-hang-NpoeDk4IZAQ.md) |
+| `1trpb3YH5vc` | Tâm sự cuối năm | 2024-02-06 | [entry](../entries/tam-su-cuoi-nam-1trpb3YH5vc.md) |
+| `Yu4_tWSVN2M` | Tâm sự đầu năm | 2024-02-20 | [entry](../entries/tam-su-dau-nam-Yu4_tWSVN2M.md) |
+| `szXSfaabPgE` | Tâm sự đầu năm | 2024-02-27 | [entry](../entries/tam-su-dau-nam-szXSfaabPgE.md) |
+| `85hfHdGvLn8` | Tâm sự đầu năm | 2024-02-29 | [entry](../entries/tam-su-dau-nam-85hfHdGvLn8.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
