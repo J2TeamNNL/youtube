@@ -16,3 +16,8 @@ Các buổi giao lưu, tâm sự và trả lời câu hỏi (soft skills / Q&A),
 - [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-4lWPKXgd2M4.md) (`4lWPKXgd2M4`) — live · 2024-03-07 · ASR auto
 - [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-p1f1Q7P5RCU.md) (`p1f1Q7P5RCU`) — live · 2024-03-19 · ASR auto
 - [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-D5VF5VXa_q8.md) (`D5VF5VXa_q8`) — live · 2024-03-21 · ASR auto
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-vxA2jQ5Zm9g.md) (`vxA2jQ5Zm9g`) — live · 2024-03-28 · ASR auto
+- [Tâm sự tuổi chập chững](../entries/tam-su-tuoi-chap-chung-uBeXyhZFD_0.md) (`uBeXyhZFD_0`) — live · 2024-04-09 · ASR auto
+- [Tâm sự tuổi chập chững](../entries/tam-su-tuoi-chap-chung-aM_YyXCXf0k.md) (`aM_YyXCXf0k`) — live · 2024-04-28 · ASR auto
+- [Tâm sự tuổi chập chững](../entries/tam-su-tuoi-chap-chung-OlNzm1rdRps.md) (`OlNzm1rdRps`) — live · 2024-07-28 · ASR auto
+- [Tâm sự tuổi chập chững](../entries/tam-su-tuoi-chap-chung-IRmbPDMU8Uo.md) (`IRmbPDMU8Uo`) — live · 2025-07-18 · ASR auto
