@@ -21,3 +21,7 @@ Series Đồ án Web môi giới (buổi live).
 ## Buổi 7
 
 - [Đồ án Web môi giới - 7 - CRM](../entries/do-an-web-moi-gioi-7-crm-vfRNBtEMWVY.md) (`vfRNBtEMWVY`) — live · 2022-05-14 · ASR auto
+
+## Buổi 8
+
+- [Đồ án Web môi giới - 8 - Import CSV](../entries/do-an-web-moi-gioi-8-import-csv-HGxvF8DKlpg.md) (`HGxvF8DKlpg`) — live · 2022-05-24 · ASR auto
