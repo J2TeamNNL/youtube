@@ -101,6 +101,16 @@
 | `lP30aS0533s` | Đồ án Web chuyên sâu - Các nhóm phân tích - 3 | 2022-05-19 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-3-lP30aS0533s.md) |
 | `r9u1KuNft20` | Đồ án Web chuyên sâu - Các nhóm phân tích - 4 | 2022-05-21 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-4-r9u1KuNft20.md) |
 | `HGxvF8DKlpg` | Đồ án Web môi giới - 8 - Import CSV | 2022-05-24 | [entry](../entries/do-an-web-moi-gioi-8-import-csv-HGxvF8DKlpg.md) |
+| `V19Cp3MXtwc` | Đồ án Web chuyên sâu - Tài liệu | 2022-09-04 | [entry](../entries/do-an-web-chuyen-sau-tai-lieu-V19Cp3MXtwc.md) |
+| `xvIh33sfS20` | Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ | 2022-09-06 | [entry](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-xvIh33sfS20.md) |
+| `G8uV3E4A87c` | Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ | 2022-09-09 | [entry](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-G8uV3E4A87c.md) |
+| `p_7XCZlYJM8` | Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ | 2022-09-13 | [entry](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-p_7XCZlYJM8.md) |
+| `lxZnvpB2gAY` | Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ | 2022-09-15 | [entry](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-lxZnvpB2gAY.md) |
+| `qYK7xKxLV40` | Đồ án Web chuyên sâu - Bảo vệ chính thức | 2022-09-17 | [entry](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-qYK7xKxLV40.md) |
+| `dQ1qbHlol9o` | Đồ án Web chuyên sâu - Bảo vệ chính thức | 2022-09-29 | [entry](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-dQ1qbHlol9o.md) |
+| `SpbS2vhEzN4` | Livestream trở lại | 2023-11-21 | [entry](../entries/livestream-tro-lai-SpbS2vhEzN4.md) |
+| `bM8OZW68zCs` | Chữa đồ án | 2023-11-24 | [entry](../entries/chua-do-an-bM8OZW68zCs.md) |
+| `_FxLPlNugCw` | Dự án Web bán hàng - Phân tích | 2023-11-28 | [entry](../entries/du-an-web-ban-hang-phan-tich-_FxLPlNugCw.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
