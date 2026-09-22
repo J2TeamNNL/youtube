@@ -30,3 +30,4 @@ Ngôn ngữ lập trình phía server: xử lý request, sinh HTML trả về tr
 - [Lập trình web chuyên sâu - 4 - MVC & OOP](../entries/lap-trinh-web-chuyen-sau-4-mvc-oop-R3-cXDCtyvA.md) (`R3-cXDCtyvA`)
 - [Lập trình web chuyên sâu - 5 - MVC & OOP (tối ưu)](../entries/lap-trinh-web-chuyen-sau-5-mvc-oop-toi-uu-oUmOpwtxXQU.md) (`oUmOpwtxXQU`)
 - [Lập trình web chuyên sâu - 9 - Laravel - CRUD](../entries/lap-trinh-web-chuyen-sau-9-laravel-crud-lkhOFG8JqNc.md) (`lkhOFG8JqNc`)
+- [Lập trình web chuyên sâu - 8 - Laravel - CRUD](../entries/lap-trinh-web-chuyen-sau-8-laravel-crud-QFsPgDpBak0.md) (`QFsPgDpBak0`)
