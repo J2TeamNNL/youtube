@@ -5,3 +5,4 @@ Cấu hình cơ sở dữ liệu trong ứng dụng PHP: bảng cấu hình (s�
 ## Entries
 
 - [Lập trình web cơ bản buổi 27 PHP Cấu hình CSDL & Quên mật khẩu](../entries/lap-trinh-web-co-ban-buoi-27-php-cau-hinh-csdl-va-quen-mat-khau-QG8Ai3oR8G4.md) (`QG8Ai3oR8G4`)
+- [Đồ án Web chuyên sâu - 3 - Cơ sở dữ liệu](../entries/do-an-web-chuyen-sau-3-co-so-du-lieu-PIsyeleGTp4.md) (`PIsyeleGTp4`)
