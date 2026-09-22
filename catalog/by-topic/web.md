@@ -74,3 +74,8 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Lập trình web chuyên sâu - 15 - Laravel - Relationship & Upload](../entries/lap-trinh-web-chuyen-sau-15-laravel-relationship-upload-MgyHL6WTRuM.md) (`MgyHL6WTRuM`)
 - [Đồ án Web chuyên sâu - 2 - Thiết kế](../entries/do-an-web-chuyen-sau-2-thiet-ke-lK6YVQzd0C8.md) (`lK6YVQzd0C8`)
 - [Lập trình web chuyên sâu - 16 - Laravel - Session & Middleware](../entries/lap-trinh-web-chuyen-sau-16-laravel-session-middleware-zYvwN3oiFzM.md) (`zYvwN3oiFzM`)
+- [Đồ án Web chuyên sâu - Bảo vệ chính thức](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-qYK7xKxLV40.md) (`qYK7xKxLV40`)
+- [Đồ án Web chuyên sâu - Bảo vệ chính thức](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-dQ1qbHlol9o.md) (`dQ1qbHlol9o`)
+- [Livestream trở lại](../entries/livestream-tro-lai-SpbS2vhEzN4.md) (`SpbS2vhEzN4`)
+- [Chữa đồ án](../entries/chua-do-an-bM8OZW68zCs.md) (`bM8OZW68zCs`)
+- [Dự án Web bán hàng - Phân tích](../entries/du-an-web-ban-hang-phan-tich-_FxLPlNugCw.md) (`_FxLPlNugCw`)
