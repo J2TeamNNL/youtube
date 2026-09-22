@@ -84,3 +84,8 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Dự án Web bán hàng - Cache & Git flow](../entries/du-an-web-ban-hang-cache-git-flow-nrZrqIC5B1w.md) (`nrZrqIC5B1w`)
 - [Dự án Web bán hàng - Clear cache & Model Events](../entries/du-an-web-ban-hang-clear-cache-model-events-ecgNACkVjyw.md) (`ecgNACkVjyw`)
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-Mi-4b4yXMIE.md) (`Mi-4b4yXMIE`)
+- [Dự án Web bán hàng - Notification](../entries/du-an-web-ban-hang-notification-04vNxuyaWlQ.md) (`04vNxuyaWlQ`)
+- [Dự án Web bán hàng - Update Product](../entries/du-an-web-ban-hang-update-product-QBL0FdwnNKQ.md) (`QBL0FdwnNKQ`)
+- [Dự án Web bán hàng - Cart](../entries/du-an-web-ban-hang-cart-jtx_6JTs_sc.md) (`jtx_6JTs_sc`)
+- [Dự án Web bán hàng - Test](../entries/du-an-web-ban-hang-test-dNIYZkKnewQ.md) (`dNIYZkKnewQ`)
+- [Dự án Web bán hàng](../entries/du-an-web-ban-hang-chUIXLxJkQs.md) (`chUIXLxJkQs`)
