@@ -37,6 +37,7 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Modal | [modal.md](./modal.md) |
 | Validate | [validate.md](./validate.md) |
 | PHP | [php.md](./php.md) |
+| Laravel | [laravel.md](./laravel.md) |
 | MVC | [mvc.md](./mvc.md) |
 | OOP | [oop.md](./oop.md) |
 | CRUD | [crud.md](./crud.md) |
