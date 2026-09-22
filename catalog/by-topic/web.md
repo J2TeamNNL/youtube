@@ -79,3 +79,8 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Livestream trở lại](../entries/livestream-tro-lai-SpbS2vhEzN4.md) (`SpbS2vhEzN4`)
 - [Chữa đồ án](../entries/chua-do-an-bM8OZW68zCs.md) (`bM8OZW68zCs`)
 - [Dự án Web bán hàng - Phân tích](../entries/du-an-web-ban-hang-phan-tich-_FxLPlNugCw.md) (`_FxLPlNugCw`)
+- [Dự án Web bán hàng - Homepage](../entries/du-an-web-ban-hang-homepage-qPpsO0zFDPM.md) (`qPpsO0zFDPM`)
+- [Dự án Web bán hàng - Laravel Test & ChatGPT](../entries/du-an-web-ban-hang-laravel-test-chatgpt-Qix3fwDeCiQ.md) (`Qix3fwDeCiQ`)
+- [Dự án Web bán hàng - Cache & Git flow](../entries/du-an-web-ban-hang-cache-git-flow-nrZrqIC5B1w.md) (`nrZrqIC5B1w`)
+- [Dự án Web bán hàng - Clear cache & Model Events](../entries/du-an-web-ban-hang-clear-cache-model-events-ecgNACkVjyw.md) (`ecgNACkVjyw`)
+- [Dự án Web bán hàng](../entries/du-an-web-ban-hang-Mi-4b4yXMIE.md) (`Mi-4b4yXMIE`)
