@@ -8,3 +8,4 @@ AI dùng hàng ngày (Cursor…), AI chấm bài, và vai trò AI trong coding /
 - [Road to Interview (day 2)](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) (`pb7WoPvRBd8`)
 - [Road to Interview (day 3)](../entries/road-to-interview-day-3-lRcYBmolpBI.md) (`lRcYBmolpBI`)
 - [Road to Interview (day 4)](../entries/road-to-interview-day-4-D3RdLhbceoc.md) (`D3RdLhbceoc`)
+- [Dự án Web bán hàng - Laravel Test & ChatGPT](../entries/du-an-web-ban-hang-laravel-test-chatgpt-Qix3fwDeCiQ.md) (`Qix3fwDeCiQ`)
