@@ -28,7 +28,7 @@ Series Đồ án Web chuyên sâu (buổi live).
 
 ## Chữa L3
 
-- [Đồ án Web chuyên sâu - Chữa (L3)](../entries/do-an-web-chuyen-sau-chua-l3-WPFX4aC_vwI.md) (`WPFX4aC_vwI`) — live · 2022-06-26 · ASR auto
+- [Đồ án Web chuyên sâu - Chữa (L3)](../entries/do-an-web-chuyen-sau-chua-l3-WPFX4aC_vwI.md) (`WPFX4aC_vwI`) — live · 2022-07-02 · ASR auto
 
 ## Chữa L4
 
@@ -72,3 +72,8 @@ Series Đồ án Web chuyên sâu (buổi live).
 - [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-G8uV3E4A87c.md) (`G8uV3E4A87c`) — live · 2022-09-09 · ASR auto
 - [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-p_7XCZlYJM8.md) (`p_7XCZlYJM8`) — live · 2022-09-13 · ASR auto
 - [Đồ án Web chuyên sâu - Chuẩn bị cho buổi bảo vệ](../entries/do-an-web-chuyen-sau-chuan-bi-cho-buoi-bao-ve-lxZnvpB2gAY.md) (`lxZnvpB2gAY`) — live · 2022-09-15 · ASR auto
+
+## Bảo vệ chính thức
+
+- [Đồ án Web chuyên sâu - Bảo vệ chính thức](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-qYK7xKxLV40.md) (`qYK7xKxLV40`) — live · 2022-09-17 · ASR auto
+- [Đồ án Web chuyên sâu - Bảo vệ chính thức](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-dQ1qbHlol9o.md) (`dQ1qbHlol9o`) — live · 2022-09-29 · ASR auto

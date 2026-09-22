@@ -13,3 +13,6 @@ Gom video theo series / playlist.
 | Livecode | [livecode.md](./livecode.md) |
 | Đồ án Web môi giới | [do-an-web-moi-gioi.md](./do-an-web-moi-gioi.md) |
 | Đồ án Web chuyên sâu | [do-an-web-chuyen-sau.md](./do-an-web-chuyen-sau.md) |
+| Livestream trở lại | [livestream-tro-lai.md](./livestream-tro-lai.md) |
+| Chữa đồ án | [chua-do-an.md](./chua-do-an.md) |
+| Dự án Web bán hàng | [du-an-web-ban-hang.md](./du-an-web-ban-hang.md) |
