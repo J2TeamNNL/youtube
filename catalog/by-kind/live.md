@@ -87,6 +87,20 @@
 | `MgyHL6WTRuM` | Lập trình web chuyên sâu - 15 - Laravel - Relationship & Upload | 2022-04-14 | [entry](../entries/lap-trinh-web-chuyen-sau-15-laravel-relationship-upload-MgyHL6WTRuM.md) |
 | `lK6YVQzd0C8` | Đồ án Web chuyên sâu - 2 - Thiết kế | 2022-04-17 | [entry](../entries/do-an-web-chuyen-sau-2-thiet-ke-lK6YVQzd0C8.md) |
 | `zYvwN3oiFzM` | Lập trình web chuyên sâu - 16 - Laravel - Session & Middleware | 2022-04-19 | [entry](../entries/lap-trinh-web-chuyen-sau-16-laravel-session-middleware-zYvwN3oiFzM.md) |
+| `XV3sif_uLWA` | Lập trình web chuyên sâu - 17 - Laravel - Observer & Notification | 2022-04-22 | [entry](../entries/lap-trinh-web-chuyen-sau-17-laravel-observer-notification-XV3sif_uLWA.md) |
+| `PIsyeleGTp4` | Đồ án Web chuyên sâu - 3 - Cơ sở dữ liệu | 2022-04-23 | [entry](../entries/do-an-web-chuyen-sau-3-co-so-du-lieu-PIsyeleGTp4.md) |
+| `2URNQyAA-tA` | Thi chứng chỉ SQL - HackerRank | 2022-04-27 | [entry](../entries/thi-chung-chi-sql-hackerrank-2URNQyAA-tA.md) |
+| `GSBCwB984Mk` | Đồ án Web môi giới - 4 - Giao diện | 2022-05-03 | [entry](../entries/do-an-web-moi-gioi-4-giao-dien-GSBCwB984Mk.md) |
+| `8uhUGSITS2w` | Đồ án Web môi giới - 5 - Auth | 2022-05-06 | [entry](../entries/do-an-web-moi-gioi-5-auth-8uhUGSITS2w.md) |
+| `6KpD4E8IFc0` | Giao lưu, tâm sự và trả lời | 2022-05-07 | [entry](../entries/giao-luu-tam-su-va-tra-loi-6KpD4E8IFc0.md) |
+| `4TRS5KmjP_4` | Đồ án Web môi giới - 6 - CRM - Users | 2022-05-10 | [entry](../entries/do-an-web-moi-gioi-6-crm-users-4TRS5KmjP_4.md) |
+| `7bo0l0jrHL8` | Đồ án Web học viện - 1 - Phân tích | 2022-05-12 | [entry](../entries/do-an-web-hoc-vien-1-phan-tich-7bo0l0jrHL8.md) |
+| `vfRNBtEMWVY` | Đồ án Web môi giới - 7 - CRM | 2022-05-14 | [entry](../entries/do-an-web-moi-gioi-7-crm-vfRNBtEMWVY.md) |
+| `uOpEJFwgDH4` | Đồ án Web chuyên sâu - Các nhóm phân tích - 1 | 2022-05-16 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-1-uOpEJFwgDH4.md) |
+| `I3-w0LJzZu0` | Đồ án Web chuyên sâu - Các nhóm phân tích - 2 | 2022-05-17 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-2-I3-w0LJzZu0.md) |
+| `lP30aS0533s` | Đồ án Web chuyên sâu - Các nhóm phân tích - 3 | 2022-05-19 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-3-lP30aS0533s.md) |
+| `r9u1KuNft20` | Đồ án Web chuyên sâu - Các nhóm phân tích - 4 | 2022-05-21 | [entry](../entries/do-an-web-chuyen-sau-cac-nhom-phan-tich-4-r9u1KuNft20.md) |
+| `HGxvF8DKlpg` | Đồ án Web môi giới - 8 - Import CSV | 2022-05-24 | [entry](../entries/do-an-web-moi-gioi-8-import-csv-HGxvF8DKlpg.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
