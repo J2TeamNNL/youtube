@@ -20,6 +20,7 @@ Giao lưu, động viên, kỹ năng mềm, mindset học tập / làm việc nh
 - [Livestream trở lại](../entries/livestream-tro-lai-SpbS2vhEzN4.md) (`SpbS2vhEzN4`)
 - [Chữa đồ án](../entries/chua-do-an-bM8OZW68zCs.md) (`bM8OZW68zCs`)
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-NpoeDk4IZAQ.md) (`NpoeDk4IZAQ`)
+- [Tâm sự](../entries/tam-su-sNL-neDMVmU.md) (`sNL-neDMVmU`)
 - [Tâm sự cuối năm](../entries/tam-su-cuoi-nam-1trpb3YH5vc.md) (`1trpb3YH5vc`)
 - [Tâm sự đầu năm](../entries/tam-su-dau-nam-Yu4_tWSVN2M.md) (`Yu4_tWSVN2M`)
 - [Tâm sự đầu năm](../entries/tam-su-dau-nam-szXSfaabPgE.md) (`szXSfaabPgE`)
