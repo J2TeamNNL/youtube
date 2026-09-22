@@ -66,3 +66,6 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | UX | [ux.md](./ux.md) |
 | Teachable | [teachable.md](./teachable.md) |
 | Livecode | [livecode.md](./livecode.md) |
+| Blade | [blade.md](./blade.md) |
+| Session | [session.md](./session.md) |
+| Middleware | [middleware.md](./middleware.md) |
