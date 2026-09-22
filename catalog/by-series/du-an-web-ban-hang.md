@@ -19,3 +19,4 @@ Series dự án web bán hàng (phân tích → triển khai).
 - [Dự án Web bán hàng - Test](../entries/du-an-web-ban-hang-test-dNIYZkKnewQ.md) (`dNIYZkKnewQ`) — live · 2024-01-12 · ASR auto
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-chUIXLxJkQs.md) (`chUIXLxJkQs`) — live · 2024-01-25 · ASR auto
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-NpoeDk4IZAQ.md) (`NpoeDk4IZAQ`) — live · 2024-02-01 · ASR auto
+- [Dự án Web bán hàng](../entries/du-an-web-ban-hang-lfClLDfljwc.md) (`lfClLDfljwc`) — live · 2024-03-14 · ASR auto

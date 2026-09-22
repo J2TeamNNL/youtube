@@ -12,3 +12,7 @@ Các buổi giao lưu, tâm sự và trả lời câu hỏi (soft skills / Q&A),
 - [Tâm sự đầu năm](../entries/tam-su-dau-nam-Yu4_tWSVN2M.md) (`Yu4_tWSVN2M`) — live · 2024-02-20 · ASR auto
 - [Tâm sự đầu năm](../entries/tam-su-dau-nam-szXSfaabPgE.md) (`szXSfaabPgE`) — live · 2024-02-27 · ASR auto
 - [Tâm sự đầu năm](../entries/tam-su-dau-nam-85hfHdGvLn8.md) (`85hfHdGvLn8`) — live · 2024-02-29 · ASR auto
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-MjU1eJT0g6U.md) (`MjU1eJT0g6U`) — live · 2024-03-05 · ASR auto
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-4lWPKXgd2M4.md) (`4lWPKXgd2M4`) — live · 2024-03-07 · ASR auto
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-p1f1Q7P5RCU.md) (`p1f1Q7P5RCU`) — live · 2024-03-19 · ASR auto
+- [Chia sẻ & Trả lời câu hỏi](../entries/chia-se-tra-loi-cau-hoi-D5VF5VXa_q8.md) (`D5VF5VXa_q8`) — live · 2024-03-21 · ASR auto
