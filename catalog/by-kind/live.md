@@ -117,6 +117,7 @@
 | `ecgNACkVjyw` | Dự án Web bán hàng - Clear cache & Model Events | 2023-12-13 | [entry](../entries/du-an-web-ban-hang-clear-cache-model-events-ecgNACkVjyw.md) |
 | `Mi-4b4yXMIE` | Dự án Web bán hàng | 2023-12-19 | [entry](../entries/du-an-web-ban-hang-Mi-4b4yXMIE.md) |
 | `04vNxuyaWlQ` | Dự án Web bán hàng - Notification | 2023-12-22 | [entry](../entries/du-an-web-ban-hang-notification-04vNxuyaWlQ.md) |
+| `sNL-neDMVmU` | Tâm sự | 2024-01-02 | [entry](../entries/tam-su-sNL-neDMVmU.md) |
 | `QBL0FdwnNKQ` | Dự án Web bán hàng - Update Product | 2024-01-05 | [entry](../entries/du-an-web-ban-hang-update-product-QBL0FdwnNKQ.md) |
 | `jtx_6JTs_sc` | Dự án Web bán hàng - Cart | 2024-01-09 | [entry](../entries/du-an-web-ban-hang-cart-jtx_6JTs_sc.md) |
 | `dNIYZkKnewQ` | Dự án Web bán hàng - Test | 2024-01-12 | [entry](../entries/du-an-web-ban-hang-test-dNIYZkKnewQ.md) |
@@ -136,6 +137,12 @@
 | `aM_YyXCXf0k` | Tâm sự tuổi chập chững | 2024-04-28 | [entry](../entries/tam-su-tuoi-chap-chung-aM_YyXCXf0k.md) |
 | `OlNzm1rdRps` | Tâm sự tuổi chập chững | 2024-07-28 | [entry](../entries/tam-su-tuoi-chap-chung-OlNzm1rdRps.md) |
 | `IRmbPDMU8Uo` | Tâm sự tuổi chập chững | 2025-07-18 | [entry](../entries/tam-su-tuoi-chap-chung-IRmbPDMU8Uo.md) |
+| `uDfa4llBjaQ` | Ngày 1+2/100 học Java - Primitive & Wrapper + String Pool | 2026-01-12 | [entry](../entries/ngay-1-2-100-hoc-java-primitive-wrapper-string-pool-uDfa4llBjaQ.md) |
+| `jA08bj_Wrlw` | Ngày 3/100 học Java - String Builder & String Buffer | 2026-01-13 | [entry](../entries/ngay-3-100-hoc-java-string-builder-string-buffer-jA08bj_Wrlw.md) |
+| `qzRWOT2qTjs` | Ngày 4/100 học Java - Heap & Stack | 2026-01-16 | [entry](../entries/ngay-4-100-hoc-java-heap-stack-qzRWOT2qTjs.md) |
+| `tihcfUObMG4` | Ngày 5/100 học Java - Generics | 2026-01-24 | [entry](../entries/ngay-5-100-hoc-java-generics-tihcfUObMG4.md) |
+| `NBJj3iqSVb0` | Ngày 6/100 học Java - Interface vs Abstract Class | 2026-01-25 | [entry](../entries/ngay-6-100-hoc-java-interface-vs-abstract-class-NBJj3iqSVb0.md) |
+| `WqLy2vlhO-8` | Ngày 7/100 học Java - Encapsulation & Access Modifiers | 2026-01-27 | [entry](../entries/ngay-7-100-hoc-java-encapsulation-access-modifiers-WqLy2vlhO-8.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
