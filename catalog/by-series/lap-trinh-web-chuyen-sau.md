@@ -25,3 +25,7 @@ Series lập trình web nâng cao (buổi live), sau [Đồ án web cơ bản](.
 ## Buổi 8
 
 - [Lập trình web chuyên sâu - 8 - Laravel - CRUD](../entries/lap-trinh-web-chuyen-sau-8-laravel-crud-QFsPgDpBak0.md) (`QFsPgDpBak0`) — live · 2022-03-26 · ASR auto
+
+## Buổi 9
+
+- [Lập trình web chuyên sâu - 9 - Laravel - CRUD](../entries/lap-trinh-web-chuyen-sau-9-laravel-crud-lkhOFG8JqNc.md) (`lkhOFG8JqNc`) — live · 2022-03-29 · ASR auto
