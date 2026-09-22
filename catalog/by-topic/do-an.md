@@ -22,3 +22,5 @@ Nội dung liên quan đồ án / project: phân nhóm, định hướng đề t
 - [Đồ án Web cơ bản - Bảo vệ lần 1](../entries/do-an-web-co-ban-bao-ve-lan-1-K_N9Ek6S6SY.md) (`K_N9Ek6S6SY`)
 - [Đồ án Web cơ bản - Tâm sự](../entries/do-an-web-co-ban-tam-su-h_qgx1oLlgM.md) (`h_qgx1oLlgM`)
 - [Đồ án Web cơ bản - Bảo vệ & Chấm](../entries/do-an-web-co-ban-bao-ve-cham-XaeVax9pZcY.md) (`XaeVax9pZcY`)
+- [Đồ án Web môi giới - 1 - Phân tích](../entries/do-an-web-moi-gioi-1-phan-tich-ona6XcLmgcs.md) (`ona6XcLmgcs`)
+- [Đồ án Web chuyên sâu - 2 - Thiết kế](../entries/do-an-web-chuyen-sau-2-thiet-ke-lK6YVQzd0C8.md) (`lK6YVQzd0C8`)
