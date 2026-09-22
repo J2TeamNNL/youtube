@@ -21,3 +21,11 @@ Series lập trình web nâng cao (buổi live), sau [Đồ án web cơ bản](.
 ## Buổi 5
 
 - [Lập trình web chuyên sâu - 5 - MVC & OOP (tối ưu)](../entries/lap-trinh-web-chuyen-sau-5-mvc-oop-toi-uu-oUmOpwtxXQU.md) (`oUmOpwtxXQU`) — live · 2022-03-19 · no-subs
+
+## Buổi 6–7
+
+_(chưa có trong catalog — có thể bổ sung sau)_
+
+## Buổi 8
+
+- [Lập trình web chuyên sâu - 8 - Laravel - CRUD](../entries/lap-trinh-web-chuyen-sau-8-laravel-crud-QFsPgDpBak0.md) (`QFsPgDpBak0`) — live · 2022-03-26 · ASR auto
