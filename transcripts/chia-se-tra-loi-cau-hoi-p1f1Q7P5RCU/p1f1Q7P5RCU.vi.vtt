@@ -1,0 +1,5284 @@
+WEBVTT
+
+00:00:40.200 --> 00:00:42.990
+Uầy không thấy có người xem n đã có một
+
+00:00:43.000 --> 00:00:46.310
+like rồi định thật Chào
+
+00:00:46.320 --> 00:00:49.069
+bạn chắc chắn là tôi không tự live cho
+
+00:00:49.079 --> 00:00:52.270
+tôi Ui hai like luôn đình
+
+00:00:52.280 --> 00:00:57.150
+thật các bạn live trước à thô tôi nói
+
+00:00:57.160 --> 00:00:58.910
+thế không phải kêu gọi live đâu Mấy ngồi
+
+00:00:58.920 --> 00:01:03.790
+live n đại mấy ông ngồi kiểu Ấn thích
+
+00:01:03.800 --> 00:01:07.109
+cũng chẳng để làm gì cả vì tôi cũng ẩn
+
+00:01:07.119 --> 00:01:12.030
+ẩn số lượng live mà Chào bạn
+
+00:01:12.040 --> 00:01:16.469
+Ờ hôm nay thực ra theo tiê đề thì đáng
+
+00:01:16.479 --> 00:01:19.990
+đáng lẽ Đáng lẽ là mình định vẫn dậy
+
+00:01:20.000 --> 00:01:23.069
+tiếp à Chính xác là kiểu ngồi livestream
+
+00:01:23.079 --> 00:01:27.069
+ngồi live code tiếp cái dự án nhưng mà
+
+00:01:27.079 --> 00:01:29.670
+hôm nay đúng là cũng hơi mệt dạo này tôi
+
+00:01:29.680 --> 00:01:31.149
+đang đang học cách
+
+00:01:31.159 --> 00:01:35.310
+kiểu cân bằng lại vì mọi khi thì tôi có
+
+00:01:35.320 --> 00:01:38.910
+nói mấy ông ấy là tôi làm buổi sáng xong
+
+00:01:38.920 --> 00:01:41.389
+rồi buổi tối này sẽ về tranh thù ngủ
+
+00:01:41.399 --> 00:01:43.950
+nhanh một tí để mà tối có sức mà còn
+
+00:01:43.960 --> 00:01:47.109
+livestream như này nhưng mà nó khá là
+
+00:01:47.119 --> 00:01:50.149
+hại điểm là mình ngủ thế xong ngồi tối
+
+00:01:50.159 --> 00:01:53.709
+nó bị kiểu khó ngủ ấy nên là gần đây là
+
+00:01:53.719 --> 00:01:56.950
+tôi đã học cách kiểu nói chung là phải
+
+00:01:56.960 --> 00:02:00.469
+sinh hoạt Ừ Cả ngày Xõa đi kiểu C thế để
+
+00:02:00.479 --> 00:02:04.270
+cho tối kiểu mệt xõa người để mệt giã
+
+00:02:04.280 --> 00:02:07.510
+người ấ để mà tối ngủ ngủ sâu ngủ ngon
+
+00:02:07.520 --> 00:02:09.949
+các thứ và ban ngày thì mình phải tỉnh
+
+00:02:09.959 --> 00:02:12.710
+táo còn đấy Nói chung là về tối sẽ ngủ
+
+00:02:12.720 --> 00:02:14.869
+được nên thành ra
+
+00:02:14.879 --> 00:02:17.430
+là chưa quen được với cái giờ giấc đấy
+
+00:02:17.440 --> 00:02:20.589
+không ạ Nên là buổi tối này đang vẫn
+
+00:02:20.599 --> 00:02:23.350
+chưa t đủ tỉnh táo nhưng mà buổi hôm nay
+
+00:02:23.360 --> 00:02:25.830
+tôi vẫn sẽ chữa bài kiểu hỗ trợ các bạn
+
+00:02:25.840 --> 00:02:29.030
+chữa trả lời vài câu hỏi tâm sự xong rồi
+
+00:02:29.040 --> 00:02:32.070
+có bạn cũng hỏi hỏi về thiết kế cơ sở
+
+00:02:32.080 --> 00:02:34.190
+liệu thì tôi sẽ hỗ trợ bạn đấy để giải
+
+00:02:34.200 --> 00:02:37.589
+đáp còn về live code thì chắc là buổi
+
+00:02:37.599 --> 00:02:42.750
+sau thì mình H vọng có thể thì mình sẽ
+
+00:02:46.560 --> 00:02:49.550
+nv không ạ tự Dương bản update vs code
+
+00:02:49.560 --> 00:02:51.149
+không hiển thị nv
+
+00:02:51.159 --> 00:02:55.949
+nữa tôi không thể mở vs code nv bây giờ
+
+00:02:55.959 --> 00:02:59.229
+được vì nó Phả khá nhạy cảm đúng không
+
+00:02:59.239 --> 00:03:02.030
+nhở
+
+00:03:06.080 --> 00:03:10.149
+nv bình thường không vấn đề gì
+
+00:03:10.159 --> 00:03:15.789
+cả Chắc là của em em em thử hỏi anh anh
+
+00:03:15.799 --> 00:03:18.350
+cá nhân Anh ấy thì đôi khi anh sẽ hỏi C
+
+00:03:18.360 --> 00:03:21.789
+pilot này vì rõ ràng copilot này là của
+
+00:03:21.799 --> 00:03:24.830
+Microsoft nó nó sẽ phải chuyên về vs
+
+00:03:24.840 --> 00:03:27.470
+code theo theo như mình muốn nó là như
+
+00:03:27.480 --> 00:03:29.390
+thế Theo mình hiểu nó như thế Như Đôi
+
+00:03:29.400 --> 00:03:32.110
+Khi hỏi mấy câu chat VT nó trả lời nó
+
+00:03:32.120 --> 00:03:34.710
+còn chuẩn
+
+00:03:38.360 --> 00:03:40.630
+thức nó cập nhật đến thời gian bao nhiêu
+
+00:03:40.640 --> 00:03:42.910
+nhưng mà đại khái thì tôi thấy CHT Hiện
+
+00:03:42.920 --> 00:03:45.869
+tại vẫn đang kiểu CHT đương nhiên là nó
+
+00:03:45.879 --> 00:03:47.910
+lấy nguồn thì cũng từ ngoài trên
+
+00:03:47.920 --> 00:03:51.270
+internet thôi nhưng mà có vẻ là nó bám
+
+00:03:51.280 --> 00:03:52.750
+sát
+
+00:03:52.760 --> 00:03:57.670
+hơn ờ đây tôi hỏi bằng tiếng Anh đấy nhá
+
+00:03:57.680 --> 00:04:00.509
+là gì nhỉ Đấy thì buổi hôm nay chắc là
+
+00:04:00.519 --> 00:04:03.949
+tôi sẽ tâm sự một tí sau đó thì tí chữa
+
+00:04:03.959 --> 00:04:07.190
+bài cho đầu tiên thì có bạn hỏi về thiết
+
+00:04:07.200 --> 00:04:11.030
+kế cơ sở liệu cho web bán hàng với đặc
+
+00:04:11.040 --> 00:04:14.589
+biệt là bạn bảo là cái quán bạn cũng hỏi
+
+00:04:14.599 --> 00:04:17.390
+trên discord này về quán ca phê chẳng
+
+00:04:17.400 --> 00:04:20.349
+hạn ô Vừ mới tạo thêm một cái vụ l lên
+
+00:04:20.359 --> 00:04:24.830
+kèo Tìm team giao lưu larel tại sò kìa Ồ
+
+00:04:24.840 --> 00:04:28.710
+tí tôi duyệt bàn này xem thế nào
+
+00:04:28.720 --> 00:04:31.390
+Ok thì gi tâm sự mỏng một tí trước đúng
+
+00:04:31.400 --> 00:04:33.310
+không ạ
+
+00:04:33.320 --> 00:04:37.670
+Ừ hôm trước nói chung là Ờ tôi cũng sẽ
+
+00:04:37.680 --> 00:04:41.310
+phải cân nhắc và việc là là những cái
+
+00:04:41.320 --> 00:04:43.870
+buổi mà mình tâm sự như này hồi trước
+
+00:04:43.880 --> 00:04:47.070
+thì tôi thường hay bảo là mình sẽ tâm sự
+
+00:04:47.080 --> 00:04:50.230
+buổi cái cái hồi đầu ấy thì là tâm sự ở
+
+00:04:50.240 --> 00:04:53.270
+cuối buổi để cho các bạn hiểu được là ví
+
+00:04:53.280 --> 00:04:56.029
+dụ có nhiều bạn thì muốn xem dạy học thì
+
+00:04:56.039 --> 00:05:00.029
+bạn đấy sẽ xem ở đầu video xu cuối video
+
+00:05:00.039 --> 00:05:03.070
+thì có thể bạn không quan tâm lắm
+
+00:05:03.080 --> 00:05:06.390
+đấy nghĩa là có những người mà theo dõi
+
+00:05:06.400 --> 00:05:08.830
+kênh tôi đúng kiểu để học thật thì người
+
+00:05:08.840 --> 00:05:11.790
+ta sẽ lại phải thường hay phải tua ấy
+
+00:05:11.800 --> 00:05:14.670
+phải tua qua những cái đoạn tâm sự gì gì
+
+00:05:14.680 --> 00:05:16.510
+đó
+
+00:05:16.520 --> 00:05:19.909
+Ờ còn có những người chỉ muốn nghe tâm
+
+00:05:19.919 --> 00:05:21.749
+sự thì chắc là đấy thì tôi đang nghĩ
+
+00:05:21.759 --> 00:05:24.670
+phải tách hẳn buổi ra Tâm sự riêng nhưng
+
+00:05:24.680 --> 00:05:27.629
+mà Đúng là hướng của kênh thì đúng là
+
+00:05:27.639 --> 00:05:30.070
+chắc là tâm sự nhiều hơn về dạy hay thứ
+
+00:05:30.080 --> 00:05:33.909
+thứ nó sẽ chỉ chia sẻ h th mang thên
+
+00:05:33.919 --> 00:05:35.790
+hướng về chia sẻ nhiều hơn chia sẻ về
+
+00:05:35.800 --> 00:05:38.390
+mọi thứ đấy không phải về M
+
+00:05:38.400 --> 00:05:42.230
+code như Nói chung là tôi sẽ Nên hồi
+
+00:05:42.240 --> 00:05:43.790
+trước là tôi sẽ thường hay làm cái mục
+
+00:05:43.800 --> 00:05:46.629
+lục nhưng mà tôi cảm thấy là cũng hơi
+
+00:05:46.639 --> 00:05:49.510
+lười để thường xuyên chỉnh sửa rồi Cập
+
+00:05:49.520 --> 00:05:54.870
+nhật cái mục lục đấy Nên là hơi khó nhỉ
+
+00:05:54.880 --> 00:05:58.350
+Ừ Nói chung là cái đấy rất là khó vì có
+
+00:05:58.360 --> 00:06:00.110
+rất nhiều người từng hỏi tôi những câu
+
+00:06:00.120 --> 00:06:03.029
+mà tôi trả lời rồi Tôi cũng muốn là kiểu
+
+00:06:03.039 --> 00:06:05.110
+gửi lại cho họ mấy cái kiểu đoạn mà tôi
+
+00:06:05.120 --> 00:06:06.670
+đã trả lời
+
+00:06:06.680 --> 00:06:10.110
+ho về sau phải cắt só ra kiểu cắt só ra
+
+00:06:10.120 --> 00:06:13.230
+để m gửi kiểu đăng lại xong rồi có ai
+
+00:06:13.240 --> 00:06:15.870
+hỏi gì mình sẽ gửi qua cái só Đấy cũng
+
+00:06:15.880 --> 00:06:18.029
+là một
+
+00:06:18.039 --> 00:06:21.950
+cách Ok Thế nên bây giờ cứ tranh thủ tâm
+
+00:06:21.960 --> 00:06:24.070
+sự trước thỉnh thoảng là những cái mà
+
+00:06:24.080 --> 00:06:26.070
+tôi ghi này này thường là tôi đi đường
+
+00:06:26.080 --> 00:06:28.430
+hoặ tôi kiểu thường chủ yếu nhất là đi
+
+00:06:28.440 --> 00:06:31.749
+đường à tôi sẽ kiểu suy nghĩ khá nhiều
+
+00:06:31.759 --> 00:06:36.510
+về mọi thứ Nên là tôi nhớ được cái gì
+
+00:06:36.520 --> 00:06:39.110
+tôi sẽ ghi nốt lại nhanh nhanh nghe nó
+
+00:06:39.120 --> 00:06:42.710
+kiểu hơi đôi khi hơi bị
+
+00:06:46.160 --> 00:06:50.390
+để nắm lợi thế tôi nhớ là cái lúc tôi
+
+00:06:50.400 --> 00:06:56.110
+ghi câu này là kiểu
+
+00:06:59.319 --> 00:07:00.990
+nhớ không lầm nó liên quan đến bài toán
+
+00:07:01.000 --> 00:07:02.309
+kinh doanh
+
+00:07:02.319 --> 00:07:06.790
+Ờ kiểu khi mà có một cái gì đó mà kiểu
+
+00:07:06.800 --> 00:07:09.950
+ví dụ Giả sử cái doanh nghiệp của các
+
+00:07:09.960 --> 00:07:12.110
+bạn đang gặp vấn đề gì gì
+
+00:07:12.120 --> 00:07:17.070
+đó thì nhiều người sẽ kiểu bỏ cuộc nhiều
+
+00:07:17.080 --> 00:07:19.710
+người từ bỏ để mà chuyển sang làm cái
+
+00:07:19.720 --> 00:07:22.909
+khác nhưng mà nhiều người sẽ tận dụng
+
+00:07:22.919 --> 00:07:26.430
+chính cái cái mà mình mình gặp khó bất
+
+00:07:26.440 --> 00:07:28.990
+lợi đấy rồi nảy ra một ý tưởng kinh
+
+00:07:29.000 --> 00:07:31.510
+doanh khác đấy để kinh doanh chính cái
+
+00:07:31.520 --> 00:07:33.589
+bất lợi đấy vì cảm thấy là mình gặp bất
+
+00:07:33.599 --> 00:07:35.430
+lợi này thì mấy thằng khác cũng gặp bất
+
+00:07:35.440 --> 00:07:37.710
+lợi giống mình nếu mà nó theo Giống mình
+
+00:07:37.720 --> 00:07:40.469
+hồi trước đấy đầu tiên mình học hỏi xem
+
+00:07:40.479 --> 00:07:42.510
+là những cái thằng kia nó đối mặt với
+
+00:07:42.520 --> 00:07:44.589
+cái vấn đề này như thế nào nó có gặp vấn
+
+00:07:44.599 --> 00:07:47.710
+đề này không đúng không ạ Nếu nếu mà giả
+
+00:07:47.720 --> 00:07:49.469
+sử nó cũng gặp cái vấn đề đấy đúng không
+
+00:07:49.479 --> 00:07:51.589
+Ok Thế lại một bài toán kinh doanh của
+
+00:07:51.599 --> 00:07:53.710
+mình ra đây rồi đúng không Nghĩa là hồi
+
+00:07:53.720 --> 00:07:56.029
+trước thì mình có đối thủ cạnh tranh
+
+00:07:56.039 --> 00:08:00.869
+đúng không là kiểu tất cả tất cả mấy ông
+
+00:08:00.879 --> 00:08:03.430
+cùng làm một thứ đúng không Thế bây giờ
+
+00:08:03.440 --> 00:08:06.469
+mình sẽ mà rõ ràng là mình gặp vấn đề
+
+00:08:06.479 --> 00:08:08.629
+này mà mình chưa tìm thấy mình chưa tìm
+
+00:08:08.639 --> 00:08:10.469
+ra được giải pháp chứng tỏ là chưa ông
+
+00:08:10.479 --> 00:08:12.270
+nào làm ra cái giải pháp cho cái vấn đề
+
+00:08:12.280 --> 00:08:15.230
+đấy cả đấy xong mình sẽ tìm hiểu xem thị
+
+00:08:15.240 --> 00:08:17.270
+trường là mấy cái thằng đối thủ Hồi
+
+00:08:17.280 --> 00:08:19.790
+trước mình ấy nó cũng có gặp vấn đề
+
+00:08:19.800 --> 00:08:23.029
+không có đúng không Ok Thế mình sẽ mình
+
+00:08:23.039 --> 00:08:25.909
+sẽ bán giải pháp giải quyết vấn đề đấy
+
+00:08:25.919 --> 00:08:28.869
+cho nó đấy Kiểu th Khi mà mình mình mà
+
+00:08:28.879 --> 00:08:31.029
+giải quyết được vấn đề các thử th mớ Ông
+
+00:08:31.039 --> 00:08:34.350
+hiểu ý tưởng tôi không ạ Đấy vậy tôi có
+
+00:08:34.360 --> 00:08:37.469
+nghĩ vụ đấy tôi nhớ cái vụ đấy là cái vụ
+
+00:08:37.479 --> 00:08:40.430
+gì ý Không nhớ về cái ví dụ lắm nhưng mà
+
+00:08:40.440 --> 00:08:42.389
+Mấy ông hình dùng ý tưởng đúng không Đấy
+
+00:08:42.399 --> 00:08:43.990
+đương nhiên là nếu mà mình nghĩ ra được
+
+00:08:44.000 --> 00:08:46.389
+cách giải quát giải pháp để xử lý được
+
+00:08:46.399 --> 00:08:48.470
+vấn đề đấy thì lại tốt quá đúng không th
+
+00:08:48.480 --> 00:08:51.070
+tự mình có thể xử lý cho mình nhưng mà
+
+00:08:51.080 --> 00:08:52.829
+trước mắt thì mình còn xử lý được cho
+
+00:08:52.839 --> 00:08:55.630
+rất nhiều thằng nữa và mình cũng biến
+
+00:08:55.640 --> 00:08:57.590
+thành kiểu đang từ mấy thằng đối thủ kia
+
+00:08:57.600 --> 00:09:00.230
+mình Lã biến thành cộng tác Nói chung là
+
+00:09:00.240 --> 00:09:02.710
+hồi trước có cái câu gì nhỉ Không có ai
+
+00:09:02.720 --> 00:09:05.430
+là đối thủ mãi mãi à à Không có kẻ thù
+
+00:09:05.440 --> 00:09:07.550
+mãi mãi đúng không vân
+
+00:09:07.560 --> 00:09:12.509
+vân hai anh Hiện em đang làm về mảng qa
+
+00:09:12.519 --> 00:09:16.829
+autotest Em đang làm với cum l gì gì đó
+
+00:09:16.839 --> 00:09:18.389
+Anh có thể chia sẻ kinh nghiệm về mảng
+
+00:09:18.399 --> 00:09:19.949
+này được không ạ
+
+00:09:19.959 --> 00:09:22.630
+Ờ đặc sáng Tây Bắc
+
+00:09:22.640 --> 00:09:26.590
+Ờ tôi không biết về mảng này lắm về cảm
+
+00:09:26.600 --> 00:09:30.509
+bề mảng thế T không nắm rõ lắm Ờ tôi
+
+00:09:30.519 --> 00:09:35.350
+nghĩ là bạn tra root m của tester để mà
+
+00:09:35.360 --> 00:09:37.790
+kiểu định hướng dần mình cần phải làm
+
+00:09:37.800 --> 00:09:40.069
+những gì Và nếu mà có tiền bố đi trước
+
+00:09:40.079 --> 00:09:43.910
+chuyên V mảng đấy tốt hơn chứ Còn chứ
+
+00:09:43.920 --> 00:09:47.190
+còn hỏi về hỏi tôi tôi dân đép thì khó
+
+00:09:47.200 --> 00:09:49.310
+mà trả lời câu đấy
+
+00:09:49.320 --> 00:09:51.710
+được hỏi tôi về kiến thức chuyên ngành
+
+00:09:51.720 --> 00:09:53.670
+thì tôi sẽ hỗ trợ được bạn bạn cứ hỏi
+
+00:09:53.680 --> 00:09:56.750
+trong cộng đồng các thứ nên tham gia
+
+00:09:56.760 --> 00:10:00.310
+những cộng đồng mà mà nó có thể
+
+00:10:00.320 --> 00:10:03.069
+kiểu nói chung là bạn phải đi tìm kiếm
+
+00:10:03.079 --> 00:10:05.670
+bởi vì rõ ràng là bây giờ các bạn hoàn
+
+00:10:05.680 --> 00:10:08.030
+toàn là tìm trên mạng đầy mà đầy những
+
+00:10:08.040 --> 00:10:10.509
+cộng đồng kiểu nó cũng đang làm giống
+
+00:10:10.519 --> 00:10:13.190
+mình tôi nghĩ là có nhưng mà đương nhiên
+
+00:10:13.200 --> 00:10:15.829
+là để gặp được những người có kiểu người
+
+00:10:15.839 --> 00:10:17.910
+ta còn muốn chia sẻ và muốn giúp đỡ mình
+
+00:10:17.920 --> 00:10:19.630
+hay không thì nó là một câu chuyện khác
+
+00:10:19.640 --> 00:10:23.590
+nữa mình cũng phải thể hiện mình là mình
+
+00:10:23.600 --> 00:10:25.710
+có một cái gì đó để nó mối quan hệ đôi
+
+00:10:25.720 --> 00:10:28.509
+bên cù có lợi chứ nếu mà mình mà kiểu
+
+00:10:28.519 --> 00:10:31.310
+dạng Ừ thì người ta cố gắng mãi người ta
+
+00:10:31.320 --> 00:10:32.910
+mới được như bây giờ chưa chắc người ta
+
+00:10:32.920 --> 00:10:34.870
+muốn chia sẻ cái miếng cơm đấy cho mình
+
+00:10:34.880 --> 00:10:38.550
+đúng không Bởi vì chia sẻ mình là họ là
+
+00:10:38.560 --> 00:10:40.069
+mình cũng có thể cạnh tranh với họ đúng
+
+00:10:40.079 --> 00:10:42.030
+không nên mình phải thể hiện sao cho mà
+
+00:10:42.040 --> 00:10:45.470
+nó triện chím một tí đúng
+
+00:10:45.480 --> 00:10:48.790
+không đi học khác đi làm rất nhiều nhiều
+
+00:10:48.800 --> 00:10:51.430
+lúc thấy đuối quá đúng cũng sự thật là
+
+00:10:51.440 --> 00:10:53.190
+kiểu Tôi cũng thường hay khuyên sinh
+
+00:10:53.200 --> 00:10:55.350
+viên như thế các bạn có thể thấy bây giờ
+
+00:10:55.360 --> 00:10:57.590
+đang khó khăn nhưng mà đấy là cái khó
+
+00:10:57.600 --> 00:11:01.069
+khăn gọi là rất là bé nhỏ phải nói bé
+
+00:11:01.079 --> 00:11:03.590
+nhỏ Nếu mà ra ngoài đời đúng không ngoài
+
+00:11:03.600 --> 00:11:04.710
+thực
+
+00:11:04.720 --> 00:11:07.829
+tế thì bây giờ các bạn chỉ có một mối lo
+
+00:11:07.839 --> 00:11:10.870
+là kiểu ăn à Chơi xong rồi cũng đ mà
+
+00:11:10.880 --> 00:11:15.509
+kiểu đi học điểm số các thứ chứ chứ kiểu
+
+00:11:15.519 --> 00:11:16.430
+dạng
+
+00:11:16.440 --> 00:11:19.670
+mà ngoài ra ngoài chẳng ai có thể hỗ trợ
+
+00:11:19.680 --> 00:11:22.069
+mình Các th thứ nữa tự l mình cánh sinh
+
+00:11:22.079 --> 00:11:25.030
+mình không Mình không làm thì chết đói
+
+00:11:25.040 --> 00:11:27.790
+Vân Vân đúng không rất nhiều thứ lúc đấy
+
+00:11:27.800 --> 00:11:30.870
+thì m rất nhiều người ước quay trở lại
+
+00:11:30.880 --> 00:11:33.990
+gế trường học đúng
+
+00:11:34.000 --> 00:11:38.590
+không nên là nói chung là tôi Tôi nghĩ
+
+00:11:38.600 --> 00:11:40.430
+là ngay từ trên cái nhà trường mình mà
+
+00:11:40.440 --> 00:11:43.829
+đi thực tập sớm mình kiểu va đời sớm ấy
+
+00:11:43.839 --> 00:11:45.509
+thì mình trân trọng cái khoảng thời gian
+
+00:11:45.519 --> 00:11:47.550
+đi học kinh khủng luôn Mình sẽ thấy là
+
+00:11:47.560 --> 00:11:50.750
+ôi kiểu nói chung là không những là trân
+
+00:11:50.760 --> 00:11:52.190
+trọng khoảng thời gian học trân trọng
+
+00:11:52.200 --> 00:11:54.629
+tiền đi học rất nhiều người là đng học
+
+00:11:54.639 --> 00:11:58.470
+phí các thứ thứ có thể là nói chung là
+
+00:11:58.480 --> 00:12:00.230
+mỗi người mỗi hoàn cảnh thôi nhưng mà
+
+00:12:00.240 --> 00:12:02.389
+tôi cảm thấy là nhiều người không trân
+
+00:12:02.399 --> 00:12:05.870
+trọng với cái tiền học đấy lắm chứ chứ
+
+00:12:05.880 --> 00:12:07.430
+không thì rất nhiều người sẽ sót đúng
+
+00:12:07.440 --> 00:12:10.389
+không học phí nó nó nó
+
+00:12:10.399 --> 00:12:13.670
+cũng cũng không rẻ nữa kể cả cho dù là
+
+00:12:13.680 --> 00:12:16.389
+trường công trường tư tôi không nói nhá
+
+00:12:16.399 --> 00:12:18.110
+kể cả trường công Bây giờ học phí nó
+
+00:12:18.120 --> 00:12:20.670
+cũng học phí rồi Thậm chí còn phải học
+
+00:12:20.680 --> 00:12:23.990
+lại thi lại các thứ đúng
+
+00:12:31.519 --> 00:12:32.350
+gian này
+
+00:12:32.360 --> 00:12:36.389
+là nó cũng đặc biệt nó còn cạnh tranh
+
+00:12:36.399 --> 00:12:40.030
+vân vân nữa nhở hơi
+
+00:12:40.040 --> 00:12:43.110
+khó mới không nghe được tiếng quạt không
+
+00:12:43.120 --> 00:12:46.629
+Tôi mở quạt tản nhiệt lên tí cho nó Máy
+
+00:12:46.639 --> 00:12:49.670
+bớt nóng nó máy Windows mà thí là nó
+
+00:12:49.680 --> 00:12:53.829
+không thể luôn mát được thoải mái như
+
+00:12:53.839 --> 00:12:58.110
+máy má nghe được tiếng chắc có nghe thấy
+
+00:12:58.120 --> 00:13:02.189
+à th được
+
+00:13:02.199 --> 00:13:06.829
+chưa thấy chưa Con nghe đ không bây giờ
+
+00:13:06.839 --> 00:13:09.189
+chắc có nghe được tiếng Anh nói đúng
+
+00:13:09.199 --> 00:13:10.870
+không Nhưng không nghe được tiếng quạt
+
+00:13:10.880 --> 00:13:14.150
+mà đúng không Alo
+
+00:13:14.160 --> 00:13:20.550
+Alo Alo
+
+00:13:24.560 --> 00:13:26.389
+Engineer
+
+00:13:26.399 --> 00:13:32.550
+mà năm nay chương kiếm được
+
+00:13:32.560 --> 00:13:35.350
+job càng học càng thiếu thì đúng càng
+
+00:13:35.360 --> 00:13:36.949
+học càng thiếu thì chứng tỏ là bạn có
+
+00:13:36.959 --> 00:13:38.990
+nang đi đúng chứ nếu mà càng học càng
+
+00:13:39.000 --> 00:13:41.710
+nghĩ mình giỏi vãi trưởng mà bên bên
+
+00:13:41.720 --> 00:13:43.350
+khác không tuyển mình thì có khi đang
+
+00:13:43.360 --> 00:13:45.990
+học sai hướng không vấn đề gì cả điều
+
+00:13:46.000 --> 00:13:47.990
+kiện thì ngày càng khó
+
+00:13:48.000 --> 00:13:52.509
+khăn nên đi tiếp hay không
+
+00:13:52.519 --> 00:13:55.110
+Ờ không đi tiếp thì bây giờ bạn sẽ làm
+
+00:13:55.120 --> 00:13:58.310
+gì đã quan trọng là hồi trước giống như
+
+00:13:58.320 --> 00:14:00.430
+là mấy cái video tôi chia sẻ V của anh
+
+00:14:00.440 --> 00:14:04.189
+Độ hay là anh b men nói th ra là đôi khi
+
+00:14:04.199 --> 00:14:07.230
+là phải phải hỏi những cái câu thực tế C
+
+00:14:07.240 --> 00:14:09.550
+phũ phảng thế đó là các bạn không học
+
+00:14:09.560 --> 00:14:12.030
+các bạn không theo cái đấy thì các bạn
+
+00:14:12.040 --> 00:14:14.189
+định làm gì đúng không các bạn sẽ làm gì
+
+00:14:14.199 --> 00:14:16.790
+tiếp theo các bạn theo được những cái
+
+00:14:16.800 --> 00:14:19.069
+khác không giống như hồi trước tôi bảo
+
+00:14:19.079 --> 00:14:21.590
+là tôi năm nhất tôi đi thc Tôi đi làm
+
+00:14:21.600 --> 00:14:23.629
+thử những cái công việc khác ấy và tôi
+
+00:14:23.639 --> 00:14:25.150
+cảm thấy là tôi không phù hợp với mấy
+
+00:14:25.160 --> 00:14:27.629
+cái công việc đấy Nên là Bây giờ tôi chỉ
+
+00:14:27.639 --> 00:14:29.949
+xác định là cắm đầu cầm đâu Kiểu đâm
+
+00:14:29.959 --> 00:14:33.150
+theo la đến cùng và công việc này nó là
+
+00:14:33.160 --> 00:14:35.910
+một gần như là canh bạc cuối kiểu mình
+
+00:14:35.920 --> 00:14:40.230
+dốc hết mọi thứ ô in vào nó chứ chứ
+
+00:14:40.240 --> 00:14:43.710
+còn Chứ tôi lúc đấy Tôi không thể nghĩ
+
+00:14:43.720 --> 00:14:45.470
+việc là lùi bước hay là chọn một con
+
+00:14:45.480 --> 00:14:48.110
+đường khác được cảm thấy mấy công việc
+
+00:14:48.120 --> 00:14:52.269
+khác không phù hợp đấy Bây giờ bạn bạn
+
+00:14:52.279 --> 00:14:54.110
+phải xác định xem là thứ nhất là cái nào
+
+00:14:54.120 --> 00:14:57.990
+phù hợp với mình cái nào mà kiểu phù hợp
+
+00:14:58.000 --> 00:15:00.670
+với mình nhá Có có thể là xã hội nó đang
+
+00:15:00.680 --> 00:15:02.829
+hơi kén chọn có thể là chưa cần mình cho
+
+00:15:02.839 --> 00:15:04.269
+lắm nhưng mà cái đấy là cái phù hợp nhất
+
+00:15:04.279 --> 00:15:07.749
+với mình rồi đúng không Thì phải theo
+
+00:15:07.759 --> 00:15:10.269
+thôi và phải chứng tỏ cho mọi người Kiểu
+
+00:15:10.279 --> 00:15:11.910
+kiểu gì cũng sẽ có người nhìn ra được
+
+00:15:11.920 --> 00:15:14.990
+cái sự phù hợp mình và mình sẽ cố gắng
+
+00:15:15.000 --> 00:15:17.269
+để bướt phá chứ Nếu mà bây giờ bạn chọn
+
+00:15:17.279 --> 00:15:20.509
+một công việc khác có thể hiện tại xã
+
+00:15:20.519 --> 00:15:22.629
+hội đang tuyển
+
+00:15:22.639 --> 00:15:26.269
+đấy nhưng mà vậ bởi vì bạn không phù hợp
+
+00:15:26.279 --> 00:15:28.309
+với nó thì kiểu gì về sau bạn sẽ lại bị
+
+00:15:28.319 --> 00:15:30.870
+đào thải đấy Xong rồi lúc đấy thì bạn
+
+00:15:30.880 --> 00:15:33.990
+lại lúc đấy mới gọi là khó hơn việc mà
+
+00:15:34.000 --> 00:15:36.350
+bạn quay đầu lại cái cũ Bởi vì bây giờ
+
+00:15:36.360 --> 00:15:38.110
+bạn đang học nử chừng Bạn làm công việc
+
+00:15:38.120 --> 00:15:40.790
+khác một chuyên ngành hoàn toàn khác so
+
+00:15:40.800 --> 00:15:42.590
+rồi về sau bạn quay lại cái này nó khó
+
+00:15:42.600 --> 00:15:46.269
+hơn rất nhiều đúng không ạ hãy nghĩ nghĩ
+
+00:15:46.279 --> 00:15:49.870
+kỹ cái đấy đúng không nên là bạn kiểu gì
+
+00:15:49.880 --> 00:15:51.790
+bạn vẫn nên chọn một cái công việc mà nó
+
+00:15:51.800 --> 00:15:54.509
+tương đối phù hợp với bạn không phải nói
+
+00:15:54.519 --> 00:15:56.629
+là phù hợp ở đây là sở thích hay mọi thứ
+
+00:15:56.639 --> 00:15:59.910
+nhá mà mà chính xác là phù hợp ở đây là
+
+00:15:59.920 --> 00:16:02.550
+bạn có thể kiểu cầy được nó một ngày
+
+00:16:02.560 --> 00:16:06.350
+phải 6 đến 8 tiếng mỗi ngày được không
+
+00:16:06.360 --> 00:16:09.910
+đúng không
+
+00:16:13.560 --> 00:16:16.590
+không chắc có thể wib giống tôi kiểu
+
+00:16:16.600 --> 00:16:19.509
+chân nh tay mềm x rồi Kiểu ch không lao
+
+00:16:19.519 --> 00:16:22.350
+động kiểu lao động nặng được đấy Kiểu
+
+00:16:22.360 --> 00:16:25.069
+thế thì có rất nhiều công việc nó không
+
+00:16:25.079 --> 00:16:26.910
+phù hợp với mình Mình quen ngồi máy tính
+
+00:16:26.920 --> 00:16:29.430
+rồi chẳng hạn đấy
+
+00:16:29.440 --> 00:16:32.829
+thì thì mình kiểu Nếu mà tận dụng được
+
+00:16:32.839 --> 00:16:34.790
+những công việc nào đó mà cũng kiểu làm
+
+00:16:34.800 --> 00:16:37.150
+kiểu môi trường kiểu như thế được thì
+
+00:16:37.160 --> 00:16:39.389
+tốt tự nhiên bây giờ bảo mình làm công
+
+00:16:39.399 --> 00:16:41.230
+việc khác thì mình sẽ khoảng thời gian
+
+00:16:41.240 --> 00:16:43.389
+là mình đuối thôi mình chán nản Vân Vân
+
+00:16:43.399 --> 00:16:46.189
+Vân lúc đấy thì lúc đấy mình tự nhiên
+
+00:16:46.199 --> 00:16:48.430
+mình kể cả mình kiếm được tiền nhá kể cả
+
+00:16:48.440 --> 00:16:50.509
+chưa bị thất nghiệp nhé Mình vẫn cảm
+
+00:16:50.519 --> 00:16:52.430
+thấy trống rỗng lắm Mình cảm thấy là
+
+00:16:52.440 --> 00:16:55.790
+mình đang sống sống hộ người khác các
+
+00:16:55.800 --> 00:16:58.470
+bạn biết cái mấy cái từ đấy không ạ kiểu
+
+00:16:58.480 --> 00:17:00.350
+thân thể này kiểu không còn thuộc về
+
+00:17:00.360 --> 00:17:02.590
+mình nữa kiểu thế nghĩa là bạn đi làm
+
+00:17:02.600 --> 00:17:06.270
+nhưng mà nó như
+
+00:17:09.679 --> 00:17:11.470
+là
+
+00:17:11.480 --> 00:17:14.949
+bạn bạn đang chỉ tồn tại thôi ý
+
+00:17:14.959 --> 00:17:17.470
+đấy Không nói về những công việc mà bạn
+
+00:17:17.480 --> 00:17:19.669
+làm theo đam mê nhá Có rất nhiều bạn mà
+
+00:17:19.679 --> 00:17:21.909
+làm được theo đam mê Rất là ổn giống như
+
+00:17:21.919 --> 00:17:24.309
+là mình Bây giờ mà may mà làm được đúng
+
+00:17:24.319 --> 00:17:26.510
+đam mê Tôi chỉ nói những công việc phù
+
+00:17:26.520 --> 00:17:28.350
+hợp thôi đúng không Bạn sẽ không bao giờ
+
+00:17:28.360 --> 00:17:32.630
+bị chật vật lắm khi mà đi
+
+00:17:35.640 --> 00:17:37.830
+phù hợp nữa đúng không Đấy Nói chung là
+
+00:17:37.840 --> 00:17:39.350
+các bạn cũng phải tự khám phá bản thân
+
+00:17:39.360 --> 00:17:42.669
+mình dần dần đúng không phải khám phá
+
+00:17:42.679 --> 00:17:45.190
+phải phải thử phải thử mới biết được là
+
+00:17:45.200 --> 00:17:47.909
+cái nào phù hợp nhiều người là
+
+00:17:47.919 --> 00:17:50.549
+kiểu đừng có nhìn những người xung quanh
+
+00:17:50.559 --> 00:17:52.909
+nữa Đừng có so sánh mình với tất cả
+
+00:17:52.919 --> 00:17:56.029
+những người xung quanh nữa tự mình phải
+
+00:17:56.039 --> 00:17:58.789
+phải cảm nhận được rõ dần là mình như
+
+00:17:58.799 --> 00:18:01.630
+như nào như nào nữa đúng không Đừng đừng
+
+00:18:01.640 --> 00:18:03.430
+so sánh mình với bạn bè Đừng so sánh
+
+00:18:03.440 --> 00:18:05.870
+mình người xung quanh kệ đi so sánh mình
+
+00:18:05.880 --> 00:18:08.350
+với chính mình ấy à Kiểu mình làm công
+
+00:18:08.360 --> 00:18:10.950
+việc này mình mình đã phát triển được
+
+00:18:10.960 --> 00:18:13.950
+bản thân hơn so với mấy tháng trước mấy
+
+00:18:13.960 --> 00:18:16.750
+kiểu mấy tuần trước chưa Đấy mình mở
+
+00:18:16.760 --> 00:18:19.350
+mang thêm cái gì không vân vân chứ kể cả
+
+00:18:19.360 --> 00:18:22.070
+bạn làm công việc rất là ổn rồi chăng
+
+00:18:22.080 --> 00:18:25.230
+nữa bạn vẫn hoàn toàn thể bị kiểu bị mất
+
+00:18:25.240 --> 00:18:27.470
+việc bất cứ lúc nào nếu là sẽ sẽ một
+
+00:18:27.480 --> 00:18:32.630
+ngày mà không thấy phù hợp nữa đúng
+
+00:18:36.120 --> 00:18:38.630
+phù hợp đúng không đi làm chân tay thì
+
+00:18:38.640 --> 00:18:40.190
+chắc chắn bạn cũng không thấy phù hợp
+
+00:18:40.200 --> 00:18:42.830
+đúng không
+
+00:18:46.360 --> 00:18:48.870
+rất nhiều nhưng mà Cái quan trọng
+
+00:18:48.880 --> 00:18:52.270
+là cái thực ra để mà Nói tóm lại về Cái
+
+00:18:52.280 --> 00:18:55.669
+ngành công ngệ tin ấy it ấy thì về cái
+
+00:18:55.679 --> 00:18:57.870
+đầu tiên cái cốt lõi đó là khả năng tự
+
+00:18:57.880 --> 00:19:01.310
+học phải rất là tốt đấy thứ hai đó là
+
+00:19:01.320 --> 00:19:02.950
+kiểu
+
+00:19:02.960 --> 00:19:07.310
+cũng chịu khó mề mò tìm hiểu đấy kh Tìm
+
+00:19:07.320 --> 00:19:09.909
+Tò Nếu mà gặp được những người mà kiểu
+
+00:19:09.919 --> 00:19:13.110
+cùng tìm cùng mình s v những tiền bối
+
+00:19:13.120 --> 00:19:14.990
+đưa mình l khuyên mình có thêm bộng lực
+
+00:19:15.000 --> 00:19:17.830
+mình biết được con đường kiểu phấn đấu
+
+00:19:17.840 --> 00:19:21.270
+các th thứ thì càng tốt đúng không Chứ
+
+00:19:21.280 --> 00:19:22.070
+còn
+
+00:19:22.080 --> 00:19:25.510
+à Nói chung là cũng phải biết rõ ví dụ
+
+00:19:25.520 --> 00:19:28.230
+ví dụ điển hình tôi thì thấy là tôi một
+
+00:19:28.240 --> 00:19:30.350
+người lười một người thích kiểu làm cùng
+
+00:19:30.360 --> 00:19:33.750
+người khác kiểu thế tôi sẽ phải đi Rủ
+
+00:19:33.760 --> 00:19:36.669
+mọi người rủ ai đó đi ngồi làm việc cùng
+
+00:19:36.679 --> 00:19:39.350
+đi ngồi cà phê cùng ngồi học cùng đấy
+
+00:19:39.360 --> 00:19:41.990
+Kiểu thế tôi mới có động lực để tôi làm
+
+00:19:42.000 --> 00:19:44.510
+vân vân hôi trước Thậm chí đi kiếm kiểu
+
+00:19:44.520 --> 00:19:46.669
+đi kiếm người yêu kiếm bạn gái để mà
+
+00:19:46.679 --> 00:19:49.630
+thêm động lực nghĩa là mình biết được là
+
+00:19:49.640 --> 00:19:52.230
+mình kiểu con người Kiểu như thế thì
+
+00:19:52.240 --> 00:19:54.990
+mình tìm khách đấy còn nếu mà khả năng
+
+00:19:55.000 --> 00:19:56.830
+tự học tự kiểu ông thích một mình quen
+
+00:19:56.840 --> 00:19:59.430
+nổ thì nó lại C tốt
+
+00:19:59.440 --> 00:20:01.110
+tôi thấy những người hướng nội người ta
+
+00:20:01.120 --> 00:20:02.830
+khả năng tựa học người ta cao ngườ ta
+
+00:20:02.840 --> 00:20:04.710
+người ta ngồi một mình người ta học được
+
+00:20:04.720 --> 00:20:08.310
+người ta không bị mất tập chung đấy nó
+
+00:20:08.320 --> 00:20:11.630
+bị sáo Nhã đ mấy cũng phải vẫn rõ ra là
+
+00:20:11.640 --> 00:20:13.870
+mình là con người như nào các thứ thứ
+
+00:20:13.880 --> 00:20:16.430
+tính cách mọi thứ mình như thế nào Đừng
+
+00:20:16.440 --> 00:20:19.990
+nghĩ việc bỏ cuộc vội mình phải thử nó
+
+00:20:20.000 --> 00:20:22.510
+trong một khoảng thời gian các thứ thứ
+
+00:20:22.520 --> 00:20:24.710
+đã thậm chí thử sang ngành khác một
+
+00:20:24.720 --> 00:20:27.710
+khoảng thời gian đã chứ mình làm mới chỉ
+
+00:20:27.720 --> 00:20:30.270
+có một hai tuần đ mình chứ không hiểu gì
+
+00:20:30.280 --> 00:20:32.630
+mình nghĩ là nó khó thời gian đầu ai
+
+00:20:32.640 --> 00:20:35.750
+chẳng cảm thấy khó đúng
+
+00:20:35.760 --> 00:20:40.110
+không anh demo thử ci CD được không ạ
+
+00:20:40.120 --> 00:20:42.870
+Không biết cụ thể ông muốn demo cái gì
+
+00:20:42.880 --> 00:20:45.029
+nhưng mà chắc là tôi không chuyên ci
+
+00:20:45.039 --> 00:20:47.870
+CD mình làm văn phòng nhiều đi bộ cũng
+
+00:20:47.880 --> 00:20:50.590
+bị hụt hơi tôi lại nhớ cái câu chuyện
+
+00:20:50.600 --> 00:20:54.750
+cười kiểu tôi đọc thôi trước đó là tôi
+
+00:20:54.760 --> 00:20:57.870
+chạy thử code code không chạy tôi liền
+
+00:20:57.880 --> 00:21:02.430
+chạy bộ rồi tôi nhận ra là code 07 thứ
+
+00:21:02.440 --> 00:21:05.590
+duy nhất không chạy
+
+00:21:11.480 --> 00:21:15.990
+tôi Ừ để tôi sẽ Thứ năm tôi sẽ lên văn
+
+00:21:16.000 --> 00:21:20.029
+phòng mai tôi đi dậy mất rồi Thế năm tôi
+
+00:21:20.039 --> 00:21:22.950
+Tôi quên mất đó là hôm nay vừa đọc được
+
+00:21:22.960 --> 00:21:26.789
+bài của anh em trên văn phòng chia sẻ
+
+00:21:26.799 --> 00:21:31.070
+kiểu ờ ngồi Nếu mà ngày nào cũng ngồi
+
+00:21:31.080 --> 00:21:33.750
+máy tính làm việc văn phòng ấy thì việc
+
+00:21:33.760 --> 00:21:36.549
+ông tập thể dục hàng ngày cũng không cải
+
+00:21:36.559 --> 00:21:39.029
+thiện được mấy về cái sức khỏe của ông
+
+00:21:39.039 --> 00:21:41.590
+ngĩa ít nhất là vẫn bị chĩ chẳng hạn đấy
+
+00:21:41.600 --> 00:21:45.350
+Kiểu kiể thế đấy thế nên là tôi hôm nay
+
+00:21:45.360 --> 00:21:50.149
+tôi bảo chiều nay tôi anh em sẽ ở ở văn
+
+00:21:50.159 --> 00:21:52.510
+phòng Tôi có có cái bàn của sếp nhưng mà
+
+00:21:52.520 --> 00:21:56.029
+X Sếp tôi đi công tác rồi thì đấy bàn
+
+00:21:56.039 --> 00:21:58.190
+nâng hạ thì anh em bây giờ sẽ thay phiên
+
+00:21:58.200 --> 00:22:01.269
+nhau nửa tiếng một lần kiểu anh em Có
+
+00:22:01.279 --> 00:22:03.029
+laptop mà nửa tiếng một lần kiểu bê
+
+00:22:03.039 --> 00:22:07.029
+laptop ra đứng ngồi codt ở trên cái bà
+
+00:22:07.039 --> 00:22:10.070
+nâng hạ của sếp đấy chiều nay bận quá
+
+00:22:10.080 --> 00:22:12.669
+quên mất để hôm sau tôi sẽ bắt đầu đặt
+
+00:22:12.679 --> 00:22:14.870
+đặt lịch thể th thứ C chỉ cần đứng nửa
+
+00:22:14.880 --> 00:22:16.470
+tiếng thôi đứng nửa tiếng ở mỏi chân rồi
+
+00:22:16.480 --> 00:22:20.029
+đúng không ạ thay ca cho người khác đứng
+
+00:22:20.039 --> 00:22:23.990
+kiểu thế Đỡ hơn tí đúng không ạ cũng gọi
+
+00:22:24.000 --> 00:22:27.029
+là thỉnh thoảng mình nên không nên công
+
+00:22:27.039 --> 00:22:31.149
+việc của mình là làm bằng đầu óc nên là
+
+00:22:31.159 --> 00:22:33.789
+mình sẽ phải thoải mái được đầu óc nghĩa
+
+00:22:33.799 --> 00:22:35.310
+là mình đôi khi không cần nhất thiệ phải
+
+00:22:35.320 --> 00:22:38.029
+chăm chú nhìn mãi vào cái màn hình năm
+
+00:22:38.039 --> 00:22:40.230
+xong nảy ra được cái suy nghĩ này ý
+
+00:22:40.240 --> 00:22:42.750
+tưởng mình sẽ phải đổi mới thay đổi nó
+
+00:22:42.760 --> 00:22:45.430
+tí đúng không mình đi lại xong mình suy
+
+00:22:45.440 --> 00:22:47.590
+nghĩ thô đấy vận động một tí cũng được
+
+00:22:47.600 --> 00:22:49.430
+không sao
+
+00:22:49.440 --> 00:22:52.590
+đấy Thình thoảng giống như là sếp tôi
+
+00:22:52.600 --> 00:22:55.830
+chẳng hạn thì vào qua r hoặc là tiktok
+
+00:22:55.840 --> 00:22:59.310
+để ngắm mấy mấy bạn trăng trắng chọn
+
+00:22:59.320 --> 00:23:00.590
+xinh
+
+00:23:00.600 --> 00:23:06.590
+xinh rồi anh bảo đấy cách giải trí cũng
+
+00:23:09.240 --> 00:23:14.470
+inter tìm ở đâu được anh ơi À đấy tôi
+
+00:23:14.480 --> 00:23:20.789
+sẽ tôi tôi có báo với các bạn là trên
+
+00:23:20.799 --> 00:23:24.669
+kênh discord ấy là tôi bây giờ sẽ lên
+
+00:23:24.679 --> 00:23:28.549
+cái tôi tạo cái forum tuyển dụng ở đây
+
+00:23:28.559 --> 00:23:32.029
+và hồi trước là tôi từng lên len để mà
+
+00:23:32.039 --> 00:23:35.870
+xin rất nhiều rất rất nhiều cái CV à gd
+
+00:23:35.880 --> 00:23:37.669
+cho các bạn Các bạn nhớ vụ đấy Hồi đấy
+
+00:23:37.679 --> 00:23:40.750
+tôi có phải lại định làm cái trang web
+
+00:23:40.760 --> 00:23:43.710
+môi giới việc làm ấy thì bây giờ thay vì
+
+00:23:43.720 --> 00:23:46.669
+thế ch kiểu thôi cứ tạm bỏ qua cái trang
+
+00:23:46.679 --> 00:23:49.470
+web đấy đi ạ thì bây giờ tôi sẽ lên lại
+
+00:23:49.480 --> 00:23:51.830
+len một lần nữa lại mắt dày lại đi Kết
+
+00:23:51.840 --> 00:23:54.789
+nối lại các bên kia đấy Có rất nhiều
+
+00:23:54.799 --> 00:23:56.510
+người từng nhắn tin nhưng hồi đấy quá
+
+00:23:56.520 --> 00:23:58.390
+bận để tổng hợp Vân Vân Vân Vân nó Chung
+
+00:23:58.400 --> 00:24:01.070
+rất nhiều vấn đề đấy tôi sẽ tổng hợp
+
+00:24:01.080 --> 00:24:04.630
+tổng hợp dần lại lên đây và có nhiều cái
+
+00:24:04.640 --> 00:24:07.269
+hashtag này tôi sẽ đang kiểu nói chung
+
+00:24:07.279 --> 00:24:11.269
+là đang nhiều đế nữa lên đây để cho mấy
+
+00:24:11.279 --> 00:24:15.110
+ông kiểu lên đây tự filter nhá Đấy dụ Hồ
+
+00:24:15.120 --> 00:24:17.230
+Chí Minh các thứ thứ như này ok không ạ
+
+00:24:17.240 --> 00:24:20.549
+Đấy để mấy ông tự lên xem đương nhiên là
+
+00:24:20.559 --> 00:24:23.430
+tôi nói ở đây nó cũng sẽ có một tí nhược
+
+00:24:23.440 --> 00:24:27.350
+điểm là mấy ông thấy cơ hội mà có thì cơ
+
+00:24:27.360 --> 00:24:29.750
+hội đến là tất cả thành ra mấy ông sẽ
+
+00:24:29.760 --> 00:24:31.870
+cũng có tí kiểu cạnh tranh nhau đấy
+
+00:24:31.880 --> 00:24:32.789
+nhưng
+
+00:24:32.799 --> 00:24:36.750
+mà nhưng mà gọi như này tôi không nghĩ
+
+00:24:36.760 --> 00:24:42.360
+cạnh tranh tỉ lệ nó cũng cao nhiều đến
+
+00:24:44.120 --> 00:24:48.269
+thế Nói chung là cơ hội thì luôn có đúng
+
+00:24:48.279 --> 00:24:54.590
+không Mình mình phải tự tạo dần dần dần
+
+00:24:58.520 --> 00:25:01.990
+biết khi nào mới xem được live h Cái
+
+00:25:02.000 --> 00:25:04.789
+live này Tâm sự Chắc không sao đâu em
+
+00:25:04.799 --> 00:25:08.029
+học it 53 chỉ có kiến thức oop fql cơ
+
+00:25:08.039 --> 00:25:11.110
+bản sắp tới đây cơ hội được giới thiệu
+
+00:25:11.120 --> 00:25:13.430
+và công ty startup để thực tập Ừ ổn phết
+
+00:25:13.440 --> 00:25:15.669
+công ty yêu cầu thời gian trên 20 gi một
+
+00:25:15.679 --> 00:25:19.350
+tuần 20 gi một tuần là nếu mà 5 ngày là
+
+00:25:19.360 --> 00:25:23.269
+4 tiếng một ngày Ok em Có nên vào không
+
+00:25:23.279 --> 00:25:27.029
+hay dành thời gian để học thêm nhiều kỹ
+
+00:25:27.039 --> 00:25:29.389
+năng lập trình
+
+00:25:29.399 --> 00:25:31.630
+4 tiếng một ngày thì nó ít mà em em hoàn
+
+00:25:31.640 --> 00:25:35.310
+toàn có thể vào thực tập và vẫn ở nhà
+
+00:25:35.320 --> 00:25:37.070
+Thời gian còn lại vẫn thể học thêm được
+
+00:25:37.080 --> 00:25:40.430
+mà thế là tốt đấy chứ có m cơ hội môi
+
+00:25:40.440 --> 00:25:43.669
+trường để mà mình thực hành luôn công ty
+
+00:25:43.679 --> 00:25:50.549
+n lý tưởng
+
+00:25:53.720 --> 00:25:56.470
+đúng kiểu dạng là các bạn Nói chung là
+
+00:25:56.480 --> 00:25:58.830
+đại khái là bây giờ mình bị kiểu nghĩ
+
+00:25:58.840 --> 00:26:01.470
+nhiều ấy suy nghĩ rất nhiều nên là mình
+
+00:26:01.480 --> 00:26:04.470
+à cái gì mà mình nghĩ trong một khoảng
+
+00:26:04.480 --> 00:26:05.750
+thời gian mình không giải quyết được nó
+
+00:26:05.760 --> 00:26:08.269
+ấy thì hãy đẩy vấn đề đấy cho người khác
+
+00:26:08.279 --> 00:26:11.029
+người khác giải quyết hộ đấy Kiểu thế
+
+00:26:11.039 --> 00:26:13.430
+nghĩa là đấy bạn thể đi hỏi người khác
+
+00:26:13.440 --> 00:26:15.789
+đi hỏi những người các thứ thứ có thể hỗ
+
+00:26:15.799 --> 00:26:18.710
+trợ được cho mình còn nếu mà vẫn chưa
+
+00:26:18.720 --> 00:26:21.389
+được ấy phải gạt nó sang một bên bởi vì
+
+00:26:21.399 --> 00:26:22.909
+nó là cái vấn đề mà bây giờ mình chưa
+
+00:26:22.919 --> 00:26:24.389
+giải quyết được Mình chưa đủ trình độ để
+
+00:26:24.399 --> 00:26:26.590
+giải quyết để trả đời đấy Để mình làm
+
+00:26:26.600 --> 00:26:28.389
+những công việc khác những công việc
+
+00:26:28.399 --> 00:26:30.430
+mình bây giờ có thể làm được chứ mình cứ
+
+00:26:30.440 --> 00:26:32.470
+ngồi nghĩ mãi thì nó kiểu mình sẽ bị kẹt
+
+00:26:32.480 --> 00:26:34.510
+mãi ở một chỗ chẳng làm được cái vấn đề
+
+00:26:34.520 --> 00:26:37.669
+gì cả và mình sẽ gọi nh mình dậm chân
+
+00:26:37.679 --> 00:26:40.630
+tại chỗ mình bị chôn chôn chân kiểu
+
+00:26:40.640 --> 00:26:42.789
+giống kiểu cắt lún ý mình sẽ lún mãi ở
+
+00:26:42.799 --> 00:26:46.950
+chỗ đấy đúng không Mình phải thoát nó
+
+00:26:49.600 --> 00:26:52.269
+được ạ Không biết trả lời ông công nho
+
+00:26:52.279 --> 00:26:54.549
+nhưng mà chính bản thân tôi tôi không
+
+00:26:54.559 --> 00:26:57.110
+phải người lời học nhưng mà tôi là cũng
+
+00:26:57.120 --> 00:26:58.750
+là người
+
+00:26:58.760 --> 00:27:00.389
+tôi tính là tôi vẫn người rất là lười
+
+00:27:00.399 --> 00:27:02.149
+nhá rất rất
+
+00:27:02.159 --> 00:27:06.669
+lười tôi liệt kê cái tôi kể mấy ông rồi
+
+00:27:06.679 --> 00:27:09.750
+tôi lệ kê một đống thứ là tôi sẽ học
+
+00:27:09.760 --> 00:27:13.669
+này nhớ chưa học
+
+00:27:13.679 --> 00:27:16.430
+này
+
+00:27:16.440 --> 00:27:19.470
+ờ tôi đã Tôi đã đăng ký học một cái gì
+
+00:27:19.480 --> 00:27:23.630
+đâu đấy tôi tôi cũng định lại hôm nay sẽ
+
+00:27:23.640 --> 00:27:27.350
+đây hôm nay sẽ đăng ký lớp học luyện
+
+00:27:27.360 --> 00:27:30.549
+thanh này đấy để tí Tôi đi tìm sau buổi
+
+00:27:30.559 --> 00:27:33.350
+livestream này tôi sẽ đi tìm tôi sẽ hỏi
+
+00:27:33.360 --> 00:27:36.149
+thêm vài chắc là tôi đang nh trong nhóm
+
+00:27:36.159 --> 00:27:39.590
+kím các th thứ và hỏi thêm mọi người về
+
+00:27:39.600 --> 00:27:43.149
+cái có khóa học luyện luyện thanh nó ổn
+
+00:27:43.159 --> 00:27:45.950
+để mà mình sẽ đăng ký ít nhất là trước
+
+00:27:45.960 --> 00:27:48.789
+mắt là cái đấy vì nó gọi là đăng ký mấy
+
+00:27:48.799 --> 00:27:52.149
+cái kia thì nó học nó hơi bị nặng một tí
+
+00:27:52.159 --> 00:27:53.909
+thì cái này Cứ nhẹ nhàng trước đã nhẹ
+
+00:27:53.919 --> 00:27:55.470
+nhàng tình cảm trước đỡ phải động não
+
+00:27:55.480 --> 00:27:59.070
+trước đã để mình có quen Dần và cái việc
+
+00:27:59.080 --> 00:28:00.909
+là mình đi học phải lâu lắm mà không đi
+
+00:28:00.919 --> 00:28:03.590
+học thật đấy Mình quen dần lại việc đi
+
+00:28:03.600 --> 00:28:06.350
+học đã sau đó thì mình sẽ học dần dần dầ
+
+00:28:06.360 --> 00:28:10.230
+các thứ khác sau đấy nghĩa là tôi Mục
+
+00:28:10.240 --> 00:28:12.630
+tiêu của tôi đấy nghĩa là mình sẽ tự đặt
+
+00:28:12.640 --> 00:28:15.669
+cho mình một cái mục tiêu nhẹ nhẹ nhàng
+
+00:28:15.679 --> 00:28:17.710
+nhất để mình đạt được đã mình làm quen
+
+00:28:17.720 --> 00:28:19.990
+dần với nó đạt được đã thì lúc đấy mình
+
+00:28:20.000 --> 00:28:22.190
+mới kiểu nhảy sang cái học những cái khó
+
+00:28:22.200 --> 00:28:26.310
+hơn đúng không Chứ bây giờ bảo tôi là
+
+00:28:26.320 --> 00:28:28.830
+đùng phát vào học một cái thì khó luôn
+
+00:28:28.840 --> 00:28:32.710
+thì đúng là ai cũng ngại thôi cái cái
+
+00:28:32.720 --> 00:28:35.070
+ngại cái một trong những cái khó khăn
+
+00:28:35.080 --> 00:28:36.750
+nhất là cái thời gian đầu mà thời gian
+
+00:28:36.760 --> 00:28:39.269
+đầu làm quen mà đúng không ạ Đấy xong
+
+00:28:39.279 --> 00:28:41.029
+rồi thờ xong rồi cái khó khăn tiếp theo
+
+00:28:41.039 --> 00:28:43.470
+là cái khó khăn duy trì thói quen đấy
+
+00:28:43.480 --> 00:28:47.190
+đúng không Thì ít nhất là mình sẽ phải
+
+00:28:47.200 --> 00:28:50.950
+thường có khái niệm là 21 ngày à Nhưng
+
+00:28:50.960 --> 00:28:52.789
+mà mình đâu học liên tục đâu th 21 ngày
+
+00:28:52.799 --> 00:28:55.990
+nó hơi bị Hơi bị mô hồ thì thì tôi nghĩ
+
+00:28:56.000 --> 00:28:59.590
+là bây giờ cái thứ hai mà để cho mình kỷ
+
+00:28:59.600 --> 00:29:01.990
+luật hơn bản thân đó là mình sẽ không
+
+00:29:02.000 --> 00:29:05.470
+được phép để mình nghỉ buổi nào ít nhất
+
+00:29:05.480 --> 00:29:07.750
+là như thế để cho mình trước một khi
+
+00:29:07.760 --> 00:29:09.630
+mình nghỉ rồi mình bị Tạo thói quen Mình
+
+00:29:09.640 --> 00:29:13.350
+thích nghỉ đấy nên là mình sẽ phải tạo
+
+00:29:13.360 --> 00:29:16.750
+dần những cái kỷ luật các thứ
+
+00:29:16.760 --> 00:29:20.070
+thế ông em bảo kiếm một áp lực cũng đúng
+
+00:29:20.080 --> 00:29:22.310
+kiếm người đi học cùng các thứ thứ nhưng
+
+00:29:22.320 --> 00:29:25.029
+mà thực ra là nếu mà để để mà nói là tôi
+
+00:29:25.039 --> 00:29:27.630
+cũng từng muốn kiểu có kiếm người đi học
+
+00:29:27.640 --> 00:29:29.750
+cùng kiểu như thế nhưng mà nó sẽ bị
+
+00:29:29.760 --> 00:29:31.630
+chính mình cũng bị phụ thuộc vào cái
+
+00:29:31.640 --> 00:29:33.269
+người đấy nếu mà giả sử người đấy có vấn
+
+00:29:33.279 --> 00:29:35.190
+đề gì đâ người hôm nay nghỉ chong mình
+
+00:29:35.200 --> 00:29:38.190
+muốn nghỉ thừ hối trướng t từng kiểu hai
+
+00:29:38.200 --> 00:29:40.669
+đứa lúc đầu đi học với nhau suốt rồi về
+
+00:29:40.679 --> 00:29:43.070
+sau sẽ hết vào hàng nét
+
+00:29:43.080 --> 00:29:48.430
+đấy đấy Nói chung là khó khó mà kiểu trừ
+
+00:29:48.440 --> 00:29:50.909
+khi ông kiếm được một người kiểu ý chí
+
+00:29:50.919 --> 00:29:53.630
+nghị lực cao hơn của ông thôi ông ông
+
+00:29:53.640 --> 00:29:57.029
+đòi nghỉ nó đòi đi học cơ đấy phải như
+
+00:29:57.039 --> 00:29:59.470
+thế Nhưng mà đừng để nó là thằng lái xe
+
+00:29:59.480 --> 00:30:03.430
+nhá tôi trước đã từng thế tôi ẩn tôi với
+
+00:30:03.440 --> 00:30:06.789
+thằng bạn hồi cấp hai thế kiểu hai đừa
+
+00:30:06.799 --> 00:30:10.710
+tôi thì cứ bắt nó đi học học thêm đấy nó
+
+00:30:10.720 --> 00:30:13.230
+qua đón tôi mà đi xe đạp qua đón tôi
+
+00:30:13.240 --> 00:30:16.070
+xong rồi nó thì bảo muốn đi nét đấy S
+
+00:30:16.080 --> 00:30:19.350
+rồi bảo anh em muà t tì đấy tôi thắng nó
+
+00:30:19.360 --> 00:30:22.470
+vẫn muốn đi nét nó đèo đạp xe đi nét thế
+
+00:30:22.480 --> 00:30:26.950
+thôi mình không muốn xuống mình cũng đi
+
+00:30:26.960 --> 00:30:31.269
+cùng Nói chung là
+
+00:30:34.880 --> 00:30:39.110
+thứ thứ Thế thì phụ thuộc rất nhiều cái
+
+00:30:39.120 --> 00:30:41.269
+đừng có đừng có để bản thân mình bị phụ
+
+00:30:41.279 --> 00:30:43.549
+thuộc như thế đúng không Mình nên tạo
+
+00:30:43.559 --> 00:30:46.430
+những cái áp lực bở khác đấy có bạn gái
+
+00:30:46.440 --> 00:30:49.669
+chẳng hạn khoe bạn gái là kiểu anh biết
+
+00:30:49.679 --> 00:30:51.389
+tiếng Trung đấy Thế coi như là thành ra
+
+00:30:51.399 --> 00:30:52.990
+là bạn phải học cấp tấp tiếng Trung vòng
+
+00:30:53.000 --> 00:30:55.269
+30
+
+00:30:55.279 --> 00:30:58.549
+ngày đang kể chuỗi lên n Tự nhiên đêm
+
+00:30:58.559 --> 00:30:59.990
+qua Facebook đề xuất cái bạn với ng Yêu
+
+00:31:00.000 --> 00:31:02.629
+Cũ 6 năm trước giờ suy cá không học được
+
+00:31:02.639 --> 00:31:04.669
+đấy ông lại đang nhìn với góc độ kiểu bi
+
+00:31:04.679 --> 00:31:07.430
+quan rồi Nếu giả sử Tôi nhìn thấy và
+
+00:31:07.440 --> 00:31:10.909
+đúng thỉnh thoảng tôi có xem lại xem
+
+00:31:10.919 --> 00:31:14.029
+người cũ bởi vì à Tôi có xem mấy cái
+
+00:31:14.039 --> 00:31:16.029
+ngày ngày này năm xưa và thấy họ có
+
+00:31:16.039 --> 00:31:19.070
+tương tác V bài đăng của mình thì tôi
+
+00:31:19.080 --> 00:31:22.629
+vào xem các thứ xem thế nào đương nhiên
+
+00:31:22.639 --> 00:31:25.789
+là tôi Xóa hết tin nhắn cũ nên không xem
+
+00:31:25.799 --> 00:31:28.549
+được tôi cũng nhớ lại vân vân có người
+
+00:31:28.559 --> 00:31:33.350
+lấy chồng rồi các thứ thì mình xem mình
+
+00:31:33.360 --> 00:31:36.430
+tự nhiên mình nửa thì thấy đấy có người
+
+00:31:36.440 --> 00:31:40.070
+lấy chồng rồi à là chồng thường là là
+
+00:31:40.080 --> 00:31:42.629
+thành công một phần là thường lớn hơn
+
+00:31:42.639 --> 00:31:46.190
+tuổi mình cá th vân vân đại khái thì
+
+00:31:46.200 --> 00:31:49.750
+nhìn xong cũng tuổi thân một tí có kiểu
+
+00:31:49.760 --> 00:31:52.269
+bây giờ mình đang nh đang một mình như
+
+00:31:52.279 --> 00:31:53.990
+thế còn người ta
+
+00:31:54.000 --> 00:31:58.070
+thì trông có vẻ hạnh phúc đấy Chắc họ h
+
+00:31:58.080 --> 00:32:00.669
+hạnh phúc thật không phải trông đâu đấy
+
+00:32:00.679 --> 00:32:02.629
+thì
+
+00:32:02.639 --> 00:32:06.509
+à mình sẽ kiểu lấy đấy làm động lực thôi
+
+00:32:06.519 --> 00:32:08.950
+mình sẽ phải phân đấu bởi vì họ tìm được
+
+00:32:08.960 --> 00:32:10.110
+hạnh phúc thì mình cũng phải tìm được
+
+00:32:10.120 --> 00:32:11.710
+hạnh phúc chứ bảo họ tìm được hạnh phúc
+
+00:32:11.720 --> 00:32:13.870
+thì thôi mình nên Bất Hạnh à không đúng
+
+00:32:13.880 --> 00:32:16.590
+không Mình sẽ nói chung là khi mà nhìn
+
+00:32:16.600 --> 00:32:18.509
+vào một cái một cái gì đó tôi thường
+
+00:32:18.519 --> 00:32:23.509
+ngay cố biến nó lạc quan theo kiểu như
+
+00:32:23.519 --> 00:32:27.350
+thế chứ mình ngồi dặn vặt bản thân mãi
+
+00:32:27.360 --> 00:32:30.669
+cũng có làm được cái gì đâu đúng
+
+00:32:30.679 --> 00:32:35.310
+không Họ đang sinh viên năm 4 à Tôi đang
+
+00:32:35.320 --> 00:32:37.870
+ví dụ
+
+00:32:42.679 --> 00:32:45.149
+Vân Vân Như nào các thứ thứ thì ông chỉ
+
+00:32:45.159 --> 00:32:47.470
+có kiểu gọi
+
+00:32:47.480 --> 00:32:50.629
+là bây giờ Tôi tin là có thể người yêu
+
+00:32:50.639 --> 00:32:53.149
+cũ cũng thấy nick của ông Xong bây giờ
+
+00:32:53.159 --> 00:32:55.149
+ông phải thể hiện là ông cũng đang ra vẻ
+
+00:32:55.159 --> 00:32:57.149
+ít nhất là ông phải ra vẻ hạnh phúc
+
+00:32:57.159 --> 00:33:01.070
+thành công cho họ cũng cảm thấy kiểu
+
+00:33:01.080 --> 00:33:03.870
+kiểu tiếc chứ Bây giờ ông tiếc họ họ
+
+00:33:03.880 --> 00:33:05.870
+không tiếc ông thì ông phải đúng Xem ông
+
+00:33:05.880 --> 00:33:08.230
+phải xem lại bản thân thật nghĩa là có
+
+00:33:08.240 --> 00:33:11.149
+thì tôi Hồi trước có cái câu nghe câu đó
+
+00:33:11.159 --> 00:33:14.389
+là kiểu nó hơi phũ một tí nhưng mài thế
+
+00:33:14.399 --> 00:33:16.389
+thì nó chia tay mày là đúng đấy Kiểu
+
+00:33:16.399 --> 00:33:18.789
+kiểu thế rõ ràng kiểu mấy năm sau mày
+
+00:33:18.799 --> 00:33:21.789
+vẫn thế họ mà nó Phả tốt hơn đúng không
+
+00:33:21.799 --> 00:33:25.389
+đấy Kiểu không thể thế được đúng không
+
+00:33:25.399 --> 00:33:28.269
+sẽ phải là kiểu Ui dá mà kiểu không Thế
+
+00:33:28.279 --> 00:33:30.149
+ạ Không phải dùng từ Giá mà Thì kiểu Giá
+
+00:33:30.159 --> 00:33:32.430
+mà mình không chia tay anh đấy nhưng mà
+
+00:33:32.440 --> 00:33:36.669
+nói chung là ý là cũng gọi
+
+00:33:36.679 --> 00:33:40.350
+như tôi thấy cái đấy cũng có thể B Tính
+
+00:33:40.360 --> 00:33:42.830
+làm làm động lực Được
+
+00:33:42.840 --> 00:33:46.149
+đấy ông n thiếu động lực mà Đúng không
+
+00:33:46.159 --> 00:33:48.110
+ông nhìn vào đấy lấy thấy là động lực
+
+00:33:48.120 --> 00:33:51.310
+thôi cò gì
+
+00:33:55.440 --> 00:33:59.950
+đây mế không không phải nghĩ ui đỉnh
+
+00:33:59.960 --> 00:34:04.470
+vậy hi vọng bạn này chưa bị à thôi Chắc
+
+00:34:04.480 --> 00:34:07.070
+không sao đâu tại tôi thường hay trêu
+
+00:34:07.080 --> 00:34:08.710
+các bạn kế toán mà
+
+00:34:08.720 --> 00:34:12.470
+Ờ công ty anh có tuyển không Anh ờ câu
+
+00:34:12.480 --> 00:34:15.790
+trả lời trước Tết là có còn bây giờ thì
+
+00:34:15.800 --> 00:34:19.430
+không Bởi vì Trước Tết tôi còn đang tự
+
+00:34:19.440 --> 00:34:22.430
+tin tôi khoe mấy ông là kiểu công ty tôi
+
+00:34:22.440 --> 00:34:24.270
+mang tiếng là cái Thời buổi kinh tế khó
+
+00:34:24.280 --> 00:34:25.430
+khăn
+
+00:34:25.440 --> 00:34:28.990
+này mà vẫn có thể dám tuyển thêm mà
+
+00:34:29.000 --> 00:34:30.869
+không đuổi thêm không đuổi không cắt
+
+00:34:30.879 --> 00:34:33.069
+giảm nhân sự đó công ty đang phát triển
+
+00:34:33.079 --> 00:34:34.909
+rất là thành công đúng không ạ nhưng còn
+
+00:34:34.919 --> 00:34:36.190
+bây giờ
+
+00:34:36.200 --> 00:34:38.669
+thì bây giờ không phải là không phát
+
+00:34:38.679 --> 00:34:40.389
+triển thành công hay là bây giờ đang có
+
+00:34:40.399 --> 00:34:42.990
+như nào đấy mà chỉ đang nói là bây giờ
+
+00:34:43.000 --> 00:34:46.430
+đang lại khá là ổn định nên là Nên là
+
+00:34:46.440 --> 00:34:50.030
+các anh đấy Đang kiểu cảm thấy khá là
+
+00:34:50.040 --> 00:34:55.310
+kiểu gọi là nó thực ra là tôi đang ngồi
+
+00:34:55.320 --> 00:34:57.150
+hôm mà tôi ngồi nói chuyện với sếp ấy
+
+00:34:57.160 --> 00:34:59.630
+thì sếp cũng có chia sẻ đúng kiểu sếp
+
+00:34:59.640 --> 00:35:02.430
+Tuy sếp là dân công nghệ cto nhá Nhưng
+
+00:35:02.440 --> 00:35:05.710
+mà Sếp tôi lại rất là giỏi tính toán
+
+00:35:05.720 --> 00:35:08.990
+chuyên toán mà nên là có đầu óc kiểu về
+
+00:35:09.000 --> 00:35:10.790
+kinh doanh các thứ các thứ thì nói luôn
+
+00:35:10.800 --> 00:35:13.230
+nó là B về bài toán kinh doanh thôi bắ
+
+00:35:13.240 --> 00:35:15.710
+sếp mà đấy
+
+00:35:15.720 --> 00:35:19.190
+thì khi mà thuê một người về thì cái cái
+
+00:35:19.200 --> 00:35:21.190
+đương nhiên là cái chi phí bỏ ra thuê
+
+00:35:21.200 --> 00:35:24.750
+một người đấy thì thì nó phải đổi lại
+
+00:35:24.760 --> 00:35:26.750
+được rất nhiều giá trị như thế nào phải
+
+00:35:26.760 --> 00:35:28.950
+gấp hai gấp ba và gấp nhiều lên thì mới
+
+00:35:28.960 --> 00:35:32.069
+được chứ không phải là là thích thì cứ
+
+00:35:32.079 --> 00:35:34.550
+tuyển thêm đúng không ạ Đấy khi mà những
+
+00:35:34.560 --> 00:35:36.310
+anh em hiện tại vẫn đang làm được việc
+
+00:35:36.320 --> 00:35:38.430
+rất tốt cũng việc cũng không bị nặng quá
+
+00:35:38.440 --> 00:35:40.790
+Không quá quá nhiều deadline anh em vẫn
+
+00:35:40.800 --> 00:35:43.630
+hoàn hành được ấy vẫn kịp Tiếm độ ấy chứ
+
+00:35:43.640 --> 00:35:47.150
+không phải bị gồng quá Và nếu mà giả sử
+
+00:35:47.160 --> 00:35:48.309
+mà
+
+00:35:48.319 --> 00:35:51.910
+có có cần thì thực ra là tăng lương cho
+
+00:35:51.920 --> 00:35:54.349
+anh em hiện tại một chút nó còn có lợi
+
+00:35:54.359 --> 00:35:56.589
+hơn so với việc là tuyển hơn thêm một
+
+00:35:56.599 --> 00:35:59.430
+người mới nữa Bởi vì nếu mà càng đông ấy
+
+00:35:59.440 --> 00:36:01.950
+Sếp tôi có quan điểm là nếu mà càng đông
+
+00:36:01.960 --> 00:36:05.230
+th ra mọi người sẽ ỷ lại thôi kiểu ô tao
+
+00:36:05.240 --> 00:36:07.950
+không làm thì có thằng khác làm kiểu thế
+
+00:36:07.960 --> 00:36:09.670
+Bây giờ việc ít người nhưng mà nó chất
+
+00:36:09.680 --> 00:36:11.990
+lượng theo kiểu là anh em ai cũng đảm
+
+00:36:12.000 --> 00:36:14.270
+nhận được một vị trí nào đó một cái tầm
+
+00:36:14.280 --> 00:36:16.390
+quan trọng nà đó ai thấy mình có sức ảnh
+
+00:36:16.400 --> 00:36:19.309
+hưởng thì họ sẽ có thêm tinh thần kiểu
+
+00:36:19.319 --> 00:36:21.589
+muốn làm và tự giác hơn khi có vấn đề
+
+00:36:21.599 --> 00:36:23.069
+thì nghĩ là mình có một phần trách nhiệm
+
+00:36:23.079 --> 00:36:26.870
+trong đấy để mà mình làm chứ chứ bây giờ
+
+00:36:26.880 --> 00:36:29.390
+bị đông của hó nó sẽ bị loãng đúng không
+
+00:36:29.400 --> 00:36:33.309
+m không hiểu Nói chung là các sếp mà Thì
+
+00:36:33.319 --> 00:36:34.870
+đương nhiên các sếp nói thì lúc nào cũng
+
+00:36:34.880 --> 00:36:36.750
+có thể hay nhưng mà như tầm nhìn tôi
+
+00:36:36.760 --> 00:36:39.550
+thấy là nó cũng hợp lý và đấy nghe cũng
+
+00:36:39.560 --> 00:36:42.670
+hay mà mà tuyển thêm một ông mới cũng
+
+00:36:42.680 --> 00:36:46.790
+cứng cứng đi phải 20 25 đúng không chia
+
+00:36:46.800 --> 00:36:49.230
+đều cho anh em cái số tiền đấy kiểu ví
+
+00:36:49.240 --> 00:36:51.069
+dụ bây giờ đang có năm anh em có dự án
+
+00:36:51.079 --> 00:36:54.190
+thì chỉ cho anh em lên hẳn 5 triệu nó
+
+00:36:54.200 --> 00:36:56.470
+hơi quá Nhưng mà kiểu cho anh em lên 2 3
+
+00:36:56.480 --> 00:36:58.470
+triệu cái Ôi mấy anh em vừa vui vừa làm
+
+00:36:58.480 --> 00:37:01.270
+hứng khởi hơn các thứ thứ nó đoàn kết
+
+00:37:01.280 --> 00:37:03.150
+hơn đúng không Bây giờ thêm hẳn một ông
+
+00:37:03.160 --> 00:37:05.829
+mới về mà ông ấy không hợp Văn Hóa thì
+
+00:37:05.839 --> 00:37:08.589
+có khi mất đoàn kết hơn đúng không Mình
+
+00:37:08.599 --> 00:37:11.150
+có hiểu không Nói chung
+
+00:37:11.160 --> 00:37:13.309
+là cái
+
+00:37:13.319 --> 00:37:16.190
+việc hiện tại nói chung là để Tóng tắt
+
+00:37:16.200 --> 00:37:18.309
+lại trả lời cái câu hỏi kia th công ty
+
+00:37:18.319 --> 00:37:20.630
+tôi đang tạm ngưng là
+
+00:37:20.640 --> 00:37:22.630
+không
+
+00:37:22.640 --> 00:37:25.349
+không không tuyển thêm Bởi vì bây giờ
+
+00:37:25.359 --> 00:37:28.069
+chưa chưa bị quả Tải công việc Nhưng mà
+
+00:37:28.079 --> 00:37:30.030
+khi mà bị qu tài thì chắc chắn sẽ tuyển
+
+00:37:30.040 --> 00:37:33.710
+thêm tính ra thì công ty tôi đang chỉ có
+
+00:37:33.720 --> 00:37:37.349
+nă anh em đ cái dự án mới thì đang chỉ 5
+
+00:37:37.359 --> 00:37:40.270
+anh
+
+00:37:44.720 --> 00:37:48.030
+chán không hợp thì làm sao anh em thấy
+
+00:37:48.040 --> 00:37:49.710
+trên đời không có việc gì làm em hứng
+
+00:37:49.720 --> 00:37:52.270
+thú hết có nghĩa là ai sẽ khoảng thời
+
+00:37:52.280 --> 00:37:55.510
+gian đấy Ông cứ thử giống như Ông em tôi
+
+00:37:55.520 --> 00:37:58.190
+ông em đang ngồi bình luận kìa ông Em ấy
+
+00:37:58.200 --> 00:38:01.190
+thử một khoảng thời gian kiểu gần nửa
+
+00:38:01.200 --> 00:38:03.030
+năm hay một năm gì đấy em ấy đi làm bồi
+
+00:38:03.040 --> 00:38:05.790
+bàn hay là làm công việc khác đ xem mấy
+
+00:38:05.800 --> 00:38:08.670
+kiểu nhớ ấ Uầy Nếu mà chuẩn mà ông thấy
+
+00:38:08.680 --> 00:38:10.990
+phù hợp với ngành này ấ thì chỉ cần một
+
+00:38:11.000 --> 00:38:13.150
+tháng ông không ngồi cốt nữa thôi ông sẽ
+
+00:38:13.160 --> 00:38:17.470
+nhớ C thử thử kiểu kiểu bị bị nó hơi bị
+
+00:38:17.480 --> 00:38:20.510
+nghiện một tí đấy kểu
+
+00:38:20.520 --> 00:38:22.950
+thế Còn nếu không thì có khi ông không
+
+00:38:22.960 --> 00:38:25.069
+phù hợp thật không có giờ làm nhữ công
+
+00:38:25.079 --> 00:38:26.430
+việc khác đi có sao
+
+00:38:26.440 --> 00:38:29.589
+đâu chứ Nếu mà bây giờ ông cứ
+
+00:38:29.599 --> 00:38:34.390
+kiểu kiểu ông ông ông cứ ông cứ ép bản
+
+00:38:34.400 --> 00:38:36.430
+thân mình làm cái gì đó đấy chắc chắn về
+
+00:38:36.440 --> 00:38:39.150
+sau ông sẽ vẫn có cái suy nghĩ nảy nảy
+
+00:38:39.160 --> 00:38:40.950
+ra trong đầu như này mình không phù hợp
+
+00:38:40.960 --> 00:38:43.670
+với công việc này thì sao đấy V ông có
+
+00:38:43.680 --> 00:38:46.150
+thể làm khác đi Ít ra nó còn đỡ tội lỗi
+
+00:38:46.160 --> 00:38:49.390
+hơn so việc là ông ông hẹn hò hay ông
+
+00:38:49.400 --> 00:38:52.190
+thậm chí hôn nhân các thứ ông nhìn núi
+
+00:38:52.200 --> 00:38:55.829
+này trông núi nọ thì ông mới làm cái gì
+
+00:38:55.839 --> 00:38:58.270
+đó Tội Lỗi cái gì Vi PH phạm đạo đức một
+
+00:38:58.280 --> 00:39:00.309
+cái gì đó kiểu không nên không nên thử
+
+00:39:00.319 --> 00:39:03.710
+cho dù chỉ một lần đấy còn còn công việc
+
+00:39:03.720 --> 00:39:06.030
+thì tính ra là ông thích thì ông bỏ
+
+00:39:06.040 --> 00:39:08.230
+ngang nó để ông làm một cái khác vẫn
+
+00:39:08.240 --> 00:39:11.270
+không ai kiến gì cả Chẳng sao cả đúng
+
+00:39:11.280 --> 00:39:15.190
+không Cái này có thể thử được đấy cứ thử
+
+00:39:15.200 --> 00:39:17.069
+chán chê Đi sau ông quay lại công việc
+
+00:39:17.079 --> 00:39:19.430
+hiện tại thì nó khác đúng
+
+00:39:19.440 --> 00:39:23.230
+không trước anh tự học như nào vậy
+
+00:39:23.240 --> 00:39:27.390
+ạ Tôi học thì ở trên trường sau đó thì
+
+00:39:27.400 --> 00:39:29.550
+tôi tự nghĩ ra rất nhiều ý tưởng thì tôi
+
+00:39:29.560 --> 00:39:31.829
+ngồi làm thêm và tôi chia sẻ trọng cộng
+
+00:39:31.839 --> 00:39:35.109
+đồng rồi Nhiều anh em kiểu góp ý nhiều
+
+00:39:35.119 --> 00:39:38.309
+anh em sử dụng tôi lại cảm thấy là mình
+
+00:39:38.319 --> 00:39:40.990
+làm được Kiểu những cái thứ đem lại giá
+
+00:39:41.000 --> 00:39:43.470
+trị mình vui mình thích đấy Kiểu thế có
+
+00:39:43.480 --> 00:39:46.470
+người dùng được đấy nên là mình lại
+
+00:39:46.480 --> 00:39:50.589
+thích m mò tìm hiểu thêm đấy Xong rồi
+
+00:39:50.599 --> 00:39:56.550
+lúc đi làm thì tôi ham kiểu ham hỏi cũng
+
+00:39:56.560 --> 00:39:58.309
+gặp được rất nhiu nhều kiểu người tiền
+
+00:39:58.319 --> 00:40:00.870
+bối người đi trước người ta hỗ trợ cho
+
+00:40:00.880 --> 00:40:04.829
+cái sự kiểu ham hỏi của tôi hỏi nhiều
+
+00:40:04.839 --> 00:40:06.910
+cực đến bây giờ tôi vẫn hỏi tôi hỏi
+
+00:40:06.920 --> 00:40:09.950
+Nhiều kinh khủng luôn anh xếp ở bên cạnh
+
+00:40:09.960 --> 00:40:12.670
+anh ấy cũng rất nhiều lúc cứ chế có ngay
+
+00:40:12.680 --> 00:40:15.430
+ngay bây giờ nhé tôi đi làm tôi hỏi liên
+
+00:40:15.440 --> 00:40:18.150
+tục luôn tôi chỉ có làm với hỏi thôi
+
+00:40:18.160 --> 00:40:20.230
+Không nói nói chuyện riêng thỉnh thoảng
+
+00:40:20.240 --> 00:40:23.349
+có
+
+00:40:28.480 --> 00:40:30.309
+Nói chung là tôi cảm thấy là tôi cũng
+
+00:40:30.319 --> 00:40:32.030
+thích nhận năng lượng người khác nữa nên
+
+00:40:32.040 --> 00:40:34.829
+tôi sẽ thích làm việc những người anh em
+
+00:40:34.839 --> 00:40:37.109
+xung quanh rồi xong rồi trao đổi các thứ
+
+00:40:37.119 --> 00:40:39.630
+thứ
+
+00:40:41.920 --> 00:40:44.109
+môi trường và công kiểu những người như
+
+00:40:44.119 --> 00:40:46.630
+thế thì ông đấy là trong trường hợp mà
+
+00:40:46.640 --> 00:40:49.430
+ông kiểu tính cách là nào giống tôi tôi
+
+00:40:49.440 --> 00:40:52.870
+hứng ngoại mà còn không thì ông phải ông
+
+00:40:52.880 --> 00:40:55.750
+phải phải tự khám phá bản thân mình xem
+
+00:40:55.760 --> 00:41:01.589
+mình hợp với cái gì
+
+00:41:05.359 --> 00:41:07.270
+đâu th bảo anh biết tiếng Trung chứ bảo
+
+00:41:07.280 --> 00:41:10.710
+anh giỏi tiếng Trung đâu biết thôi mà em
+
+00:41:10.720 --> 00:41:12.589
+biết tiếng An anh biết tiếng em nữa này
+
+00:41:12.599 --> 00:41:14.990
+chẳng hạn đấy thế là được còn học thì
+
+00:41:15.000 --> 00:41:17.910
+học cách hiểu của cấu lệnh và kiến trục
+
+00:41:17.920 --> 00:41:19.870
+cách vận dụng ok rồi còn cụ thể chi tiết
+
+00:41:19.880 --> 00:41:21.870
+không cần phải nhớ quá đúng sao có gì
+
+00:41:21.880 --> 00:41:23.910
+bây giờ ai hỗ trợ tận răng rồi mà các
+
+00:41:23.920 --> 00:41:26.630
+bạn chỉ cần gõ kiểu mình cần làm gì làm
+
+00:41:26.640 --> 00:41:28.950
+gì nó sẽ gợi ý hỗ trợ từng bước từng
+
+00:41:28.960 --> 00:41:30.670
+bước mình là mình hiểu về quy trình các
+
+00:41:30.680 --> 00:41:32.630
+thứ được
+
+00:41:32.640 --> 00:41:34.270
+mà
+
+00:41:34.280 --> 00:41:38.470
+Uầy làm cho bà Lan từ phải xem vụi bà
+
+00:41:38.480 --> 00:41:40.550
+Lan xong ơ
+
+00:41:40.560 --> 00:41:44.430
+Uy Nhưng mà bên này to
+
+00:41:44.440 --> 00:41:48.710
+mà không sao đấy Đấy bây giờ cuộc đời đã
+
+00:41:48.720 --> 00:41:51.230
+cho bạn một cơ hội nữa để mà làm lại
+
+00:41:51.240 --> 00:41:52.030
+cuộc
+
+00:41:52.040 --> 00:41:56.550
+đời nên là bạn bạn đừng bỏ lỡ cơ hội này
+
+00:41:56.560 --> 00:41:58.430
+nhá
+
+00:41:58.440 --> 00:42:01.349
+anh ơi em sắp ra trường rồi Em học pp
+
+00:42:01.359 --> 00:42:04.510
+larel mà thấy ít tiền ít
+
+00:42:04.520 --> 00:42:08.349
+quá Em đừng có theo việc là công ty
+
+00:42:08.359 --> 00:42:10.470
+tuyển nhiều các th thứ tuyển nhiều thì
+
+00:42:10.480 --> 00:42:12.790
+cũng nhiều người cạnh tranh Thôi em cứ
+
+00:42:12.800 --> 00:42:18.510
+học ổn đã rồi em Em phải làm chắc cái
+
+00:42:18.520 --> 00:42:20.549
+một cái đã xong rồi
+
+00:42:20.559 --> 00:42:23.790
+em khi mà em phỏng vấn ấy thậm chí em
+
+00:42:23.800 --> 00:42:26.750
+phỏng vấn vào công cái bên ngôn ngữ khác
+
+00:42:26.760 --> 00:42:28.710
+cũng được được người ta hỏi chủ yếu
+
+00:42:28.720 --> 00:42:30.069
+người ta hỏi tư duy thôi chứ Kiểu gì
+
+00:42:30.079 --> 00:42:32.589
+người ta chẳng dạy lại cho các em
+
+00:42:32.599 --> 00:42:35.349
+thì quan trọng là em làm được ra một cái
+
+00:42:35.359 --> 00:42:38.190
+sản phẩm nào đó để khoe đã đấy s Kiểu gì
+
+00:42:38.200 --> 00:42:40.190
+người ta cũng sẽ phải đào tạo lại và và
+
+00:42:40.200 --> 00:42:42.309
+người ta sẽ vứt tài liệu cho em để em tự
+
+00:42:42.319 --> 00:42:44.870
+học lại thôi cho đừng quan trọng về ngôn
+
+00:42:44.880 --> 00:42:50.150
+ngữ em ạ ngôn ngữ nào như nhau
+
+00:42:53.359 --> 00:42:55.470
+việc nó chỉ vậy chứ nhiều việc hơn là
+
+00:42:55.480 --> 00:42:58.109
+phải tuyến thêm ngay một phần cũng đúng
+
+00:42:58.119 --> 00:43:02.230
+bởi vì bây giờ Bây giờ là việc thực ra
+
+00:43:02.240 --> 00:43:05.790
+để mà nói là không ít việc đâu nhưng mà
+
+00:43:05.800 --> 00:43:07.670
+ít nhất ở trong khoảng thời gian này bởi
+
+00:43:07.680 --> 00:43:10.589
+vì giữa năm mà giữa năm thì nó không bị
+
+00:43:10.599 --> 00:43:14.230
+quá tải các thứ chứ tầm đầu năm và cuối
+
+00:43:14.240 --> 00:43:16.870
+năm sẽ khá là quá tải lúc đấy sẽ phải
+
+00:43:16.880 --> 00:43:19.270
+cân nhắc thêm
+
+00:43:19.280 --> 00:43:22.510
+thật em đi làm bồi bàn nhưng vẫn cốt nhé
+
+00:43:22.520 --> 00:43:23.950
+Đấy nghĩa
+
+00:43:23.960 --> 00:43:26.109
+chỉ là
+
+00:43:26.119 --> 00:43:30.349
+ông ông đấy ông em thấy mình phù hợp với
+
+00:43:30.359 --> 00:43:32.069
+ngành này bởi vì kiểu làm công việc khác
+
+00:43:32.079 --> 00:43:34.910
+vẫn nhớ đến ngành này đúng không thử đi
+
+00:43:34.920 --> 00:43:37.390
+B vác đi ông sang chập ti lý luôn Tôi
+
+00:43:37.400 --> 00:43:39.710
+nhớ năm nhất tôi quá năm nhất tôi vừa
+
+00:43:39.720 --> 00:43:43.549
+làm bồi bàn kiểu đi bê bề thùng đá thằng
+
+00:43:43.559 --> 00:43:46.349
+bia xong rồi làm ở siêu thị cũng đi bê
+
+00:43:46.359 --> 00:43:50.390
+đồ sắp xếp đồ ấy Kiểu mình suýt làm nhân
+
+00:43:50.400 --> 00:43:53.150
+viên của tháng được cho đến khi mình
+
+00:43:53.160 --> 00:43:56.150
+mình kiểu sức khỏe không cho phép thứ
+
+00:43:56.160 --> 00:43:59.630
+thứ nế Hồi đấy tôi cũng cây
+
+00:43:59.640 --> 00:44:02.510
+thật tôi tự học lập trình và Trước đó
+
+00:44:02.520 --> 00:44:05.069
+tôi không có kiến thức gì lập trình hết
+
+00:44:05.079 --> 00:44:08.990
+tôi bắt đầu lúc 27 tuổi đây già trong
+
+00:44:09.000 --> 00:44:11.790
+ngành
+
+00:44:14.760 --> 00:44:18.030
+mình cũng gi
+
+00:44:24.240 --> 00:44:26.030
+chị
+
+00:44:26.040 --> 00:44:29.150
+ờ trong kênh trong kênh của em có rất
+
+00:44:29.160 --> 00:44:35.270
+nhiều nhiều Em thích các Phú
+
+00:44:35.280 --> 00:44:38.190
+trị
+
+00:44:38.200 --> 00:44:43.230
+đấy có phú trị kìa Mấy ông tranh thủ làm
+
+00:44:43.240 --> 00:44:48.150
+quen
+
+00:44:52.119 --> 00:44:54.270
+đấy Gần đây tôi phát âm t đúng từ back
+
+00:44:54.280 --> 00:44:57.670
+end rồi hồi trước bị cứ quen gọi B à Em
+
+00:44:57.680 --> 00:45:00.430
+định học lập trình C C cộng xong kiến
+
+00:45:00.440 --> 00:45:06.549
+trúc dữ liệu g dữ liệu gì gì đó
+
+00:45:06.559 --> 00:45:09.309
+JavaScript
+
+00:45:09.319 --> 00:45:15.230
+và SQL fen backen được em V học theo lội
+
+00:45:15.240 --> 00:45:22.670
+trình đấy thôi nghe ổn đấy
+
+00:45:26.160 --> 00:45:27.510
+mới khó
+
+00:45:27.520 --> 00:45:28.950
+đúng Hồi trước tôi cũng không biết hỏi
+
+00:45:28.960 --> 00:45:31.190
+như nào nên là Hồi đấy tôi cũng chia sẻ
+
+00:45:31.200 --> 00:45:32.990
+mấy ông về cách hỏi rồi đó là thứ nhất
+
+00:45:33.000 --> 00:45:37.270
+là mấy ông sẽ phải nói là mấy ông muốn
+
+00:45:37.280 --> 00:45:43.190
+làm muốn làm kiểu nó Nó kiểu CP bước à
+
+00:45:43.200 --> 00:45:45.470
+Muốn làm ra một cái tính năng gì gì đó
+
+00:45:45.480 --> 00:45:47.349
+đúng không Nó sẽ hiển thị ra như vân vân
+
+00:45:47.359 --> 00:45:50.349
+vân ví dụ giả sử em muốn làm cái kiểu
+
+00:45:50.359 --> 00:45:52.109
+bấm vàoo cái nút này nó hiển đị ở cửa sổ
+
+00:45:52.119 --> 00:45:53.910
+Hiển đị những thông tin như này này x
+
+00:45:53.920 --> 00:45:56.430
+thử vẽ ra được cái gì gì đó tốt đấy x em
+
+00:45:56.440 --> 00:45:58.349
+không hể biết được từ khóa và cách làm
+
+00:45:58.359 --> 00:46:00.510
+cái đấy như nào không biết được ngôn ngữ
+
+00:46:00.520 --> 00:46:02.870
+làm cái nào vân vân chẳng hạn đấy Xong
+
+00:46:02.880 --> 00:46:05.829
+rồi nói chung cái thứ nhất ông sẽ phải
+
+00:46:05.839 --> 00:46:09.630
+nói được là ý tự là mình muốn làm gì đã
+
+00:46:09.640 --> 00:46:10.630
+thứ hai
+
+00:46:10.640 --> 00:46:14.349
+là cái thứ hai nó là
+
+00:46:14.359 --> 00:46:17.630
+kiểu đấy thì em cũng phải nói qua là
+
+00:46:17.640 --> 00:46:20.069
+mình đã tìm tỏi các thứ thứ mình đã thử
+
+00:46:20.079 --> 00:46:23.230
+những cái gì đấy ý tưởng là gì Vân vân
+
+00:46:23.240 --> 00:46:25.910
+đấy Nói chung là
+
+00:46:25.920 --> 00:46:30.030
+ờ cái về kỹ năng hỏi phải biết phải cói
+
+00:46:30.040 --> 00:46:32.630
+có kỹ năng hỏi nữa thậm chí là thường
+
+00:46:32.640 --> 00:46:34.309
+Đừng có bảo người ta cầm tay chỉ lối
+
+00:46:34.319 --> 00:46:35.870
+mình còn nhiều quá bảo người ta gợi ý
+
+00:46:35.880 --> 00:46:41.870
+mình tử khóa để mình tự tra mình tự mò
+
+00:46:46.079 --> 00:46:48.589
+đúng rồi Đợt dịch đợt mà thay đổi khá
+
+00:46:48.599 --> 00:46:51.549
+nhiều nhân sự và vân vân kiểu nó cũng
+
+00:46:51.559 --> 00:46:55.829
+làm thay đổi rất nhiều
+
+00:47:05.800 --> 00:47:09.630
+Thời
+
+00:47:12.920 --> 00:47:16.549
+là bạn lập gia đình khoảng thời gian này
+
+00:47:16.559 --> 00:47:19.069
+cũng được sau đó thì nhận job freeland
+
+00:47:19.079 --> 00:47:21.270
+cũng
+
+00:47:24.440 --> 00:47:27.390
+ba này tester cũng được
+
+00:47:27.400 --> 00:47:30.910
+tester mà biết SQL lợi thế tốt phết đấy
+
+00:47:30.920 --> 00:47:35.069
+nên bạn có thể xem khoa học dạy SQL của
+
+00:47:35.079 --> 00:47:38.309
+tôi đặt câu hỏi ở đâu thế Mọi người ơi
+
+00:47:38.319 --> 00:47:41.349
+tôi có gim cái link bit chd kìa để mà
+
+00:47:41.359 --> 00:47:45.309
+các bạn bấm và Chắc để tôi ghi
+
+00:47:45.319 --> 00:47:48.309
+lại ghi này sợ mọi người không hiểu được
+
+00:47:48.319 --> 00:47:54.309
+đây link ĐT câu hỏi à đặt câu
+
+00:47:54.319 --> 00:47:57.670
+hỏi ở đ đây
+
+00:47:57.680 --> 00:47:59.630
+nha
+
+00:47:59.640 --> 00:48:17.950
+đạch trong này nó không trong này không
+
+00:48:27.559 --> 00:48:30.870
+tham khảo với hay kéo em theo cũng được
+
+00:48:30.880 --> 00:48:34.270
+đấy rõ ràng đấy có phú trị cái mọi thứ
+
+00:48:34.280 --> 00:48:35.990
+XM h
+
+00:48:36.000 --> 00:48:38.710
+hn cách hỏi thế nào để không bị chửi
+
+00:48:38.720 --> 00:48:40.470
+phải biết cách hỏi cũng đúng Nói chung
+
+00:48:40.480 --> 00:48:42.750
+là đừng có làm phiền người ta quá tôi
+
+00:48:42.760 --> 00:48:45.990
+hỏi nhiều lắm nhưng nhiều lúc cũng th
+
+00:48:46.000 --> 00:48:47.309
+nhiều lúc cũng cảm thấy mình phiền thật
+
+00:48:47.319 --> 00:48:49.950
+vì rõ ràng tôi bảo rồi đừng có nghĩ rằng
+
+00:48:49.960 --> 00:48:52.750
+là sếp của mình hay leader của mình là
+
+00:48:52.760 --> 00:48:57.069
+là phải chịu trách nhiệm V việc mình à
+
+00:48:57.079 --> 00:48:59.750
+là là chịu trách nhiệm việc mình có thể
+
+00:48:59.760 --> 00:49:03.030
+hỏi thoải mái hay giúp mình mọi thứ họ
+
+00:49:03.040 --> 00:49:04.990
+cũng có công việc của họ trách nhiệm của
+
+00:49:05.000 --> 00:49:06.670
+họ không phải là giúp mỗi mình mình Vân
+
+00:49:06.680 --> 00:49:08.789
+Vân đúng không nên là mình cũng phải tỏ
+
+00:49:08.799 --> 00:49:10.230
+thiện chí một tí giống như là kiểu thỉnh
+
+00:49:10.240 --> 00:49:12.109
+thoảng tôi cũng không phải nịnh xếp
+
+00:49:12.119 --> 00:49:14.549
+nhưng mà sẽ phải biết cách nói sếp thậm
+
+00:49:14.559 --> 00:49:17.670
+chí là kiểu đấy Cảm ơn sếp Vân Vân Vân
+
+00:49:17.680 --> 00:49:19.750
+Vân thể hiện mình là
+
+00:49:19.760 --> 00:49:22.670
+kiểu mình rất trân trọng mọi thứ mà họ
+
+00:49:22.680 --> 00:49:25.109
+đã có thể hỗ trợ cho mình nói chung là
+
+00:49:25.119 --> 00:49:27.750
+về cái bài toán gọi là biết điều một tí
+
+00:49:27.760 --> 00:49:31.670
+kỹ năng mềm nó phải ổn một tí đấy thì
+
+00:49:31.680 --> 00:49:34.510
+thì thì ai cũng sẵn sàng có thể hỗ trợ
+
+00:49:34.520 --> 00:49:39.069
+được bạn thôi đúng không Mà Lã cả là khi
+
+00:49:39.079 --> 00:49:41.309
+mà họ hỗ trợ mình xong mình làm được tốt
+
+00:49:41.319 --> 00:49:43.109
+công việc thì thực ra họ cũng sẽ và
+
+00:49:43.119 --> 00:49:44.750
+thỉnh thoảng mình hỗ trợ lại đ cho chính
+
+00:49:44.760 --> 00:49:46.910
+họ nữa tôi nói chuyện với sếp các thứ
+
+00:49:46.920 --> 00:49:49.510
+các thứ tôi vẫn kiểu nói chung là làm
+
+00:49:49.520 --> 00:49:52.150
+cho sếp cảm thấy là ừ thằng này kiểu
+
+00:49:52.160 --> 00:49:56.270
+dạng là à mình mình kiểu tạo điều kiện
+
+00:49:56.280 --> 00:49:58.549
+cho nó nó thì nó hoàn toàn kiểu
+
+00:49:58.559 --> 00:50:02.309
+ờ tốt được cho công ty tốt được cho công
+
+00:50:02.319 --> 00:50:06.270
+việc đấy hoàn toàn được mà đúng
+
+00:50:06.280 --> 00:50:08.349
+không
+
+00:50:08.359 --> 00:50:15.270
+SQL can tốt anola cân tốt Angola và nots
+
+00:50:15.280 --> 00:50:19.670
+Á làm tester Vẫn ok nhỉ Ừ đúng các bạn
+
+00:50:19.680 --> 00:50:23.829
+biết một tí lập trình xong rồi SQL nữa u
+
+00:50:23.839 --> 00:50:25.630
+ngôn ngữ lập
+
+00:50:25.640 --> 00:50:28.910
+trình Thực ra làm như thế làm thêm cả da
+
+00:50:28.920 --> 00:50:33.750
+hoặc ba đều được Kiểu thế xịn mà nói
+
+00:50:33.760 --> 00:50:36.549
+chung là Làm lập trình viên thì khó mà
+
+00:50:36.559 --> 00:50:38.950
+làm lập trình viên viên mãi được về sau
+
+00:50:38.960 --> 00:50:41.710
+vẫn nhảy sang được mấy cái mạng kia thôi
+
+00:50:41.720 --> 00:50:44.870
+mà lên mảng kia lên hẳn Làm lí luôn ý
+
+00:50:44.880 --> 00:50:48.309
+đấy bởi vì là mình biết về chuyên môn
+
+00:50:48.319 --> 00:50:50.430
+biết về nghiệp vụ các thứ tự mình làm từ
+
+00:50:50.440 --> 00:50:52.549
+đầu đến cuối được một
+
+00:50:52.559 --> 00:50:55.710
+thứ Biết đâu lại thấy codde có bấc nhảy
+
+00:50:55.720 --> 00:50:59.190
+vào phích hộ luôn
+
+00:51:02.240 --> 00:51:04.589
+ứng viên chư anh Anh chưa biết vụ đấy
+
+00:51:04.599 --> 00:51:06.150
+nhưng mà anh nghĩ là vụ đấy nó cũng
+
+00:51:06.160 --> 00:51:08.150
+chẳng hiếm lắm giống kiểu Google nó
+
+00:51:08.160 --> 00:51:11.430
+tuyển có khi cũng gắt mà anh đã làm dự
+
+00:51:11.440 --> 00:51:14.990
+án tốt nghiệp hướng em làm giống web udi
+
+00:51:15.000 --> 00:51:18.430
+Liệu có ổn không
+
+00:51:21.040 --> 00:51:23.470
+cáo trước toàn hỏi câu web em có gì tốt
+
+00:51:23.480 --> 00:51:25.870
+hơn so với web người ta Hoang Mang qu
+
+00:51:25.880 --> 00:51:29.069
+Anh thức ra là chẳng cần phải nói tốt
+
+00:51:29.079 --> 00:51:32.390
+hơn đâu gọi là phải nói là web người ta
+
+00:51:32.400 --> 00:51:35.390
+có cái gì em có cái đấy đấy web người ta
+
+00:51:35.400 --> 00:51:38.910
+thấy mạnh là gì Em có cái đấy Đấy thế là
+
+00:51:38.920 --> 00:51:41.710
+đủ quá xịn rồi thì rõ ràng là mình sinh
+
+00:51:41.720 --> 00:51:44.549
+viên thôi mà mình kể cả mình đi làm ở
+
+00:51:44.559 --> 00:51:47.470
+ngoài kể cả đi làm ở ngoài luôn Ví dụ
+
+00:51:47.480 --> 00:51:49.870
+Giả sử công ty tôi luôn này công ty tôi
+
+00:51:49.880 --> 00:51:52.230
+là làm trang web kiểu trang thương mại
+
+00:51:52.240 --> 00:51:54.950
+điện tử thì đương nhiên nó sẽ có rất
+
+00:51:54.960 --> 00:51:57.030
+nhiều trang thương mại điện tử có sẵn
+
+00:51:57.040 --> 00:51:59.030
+rồi đúng không ạ Mình không phải thằng
+
+00:51:59.040 --> 00:52:01.390
+đầu tiên có ý tưởng đấy đúng không cái
+
+00:52:01.400 --> 00:52:04.549
+đầu tiên Bọn tôi phấn đấu đó là tôi bằng
+
+00:52:04.559 --> 00:52:07.030
+bọn bọn hiện tại bọn hiện tại có cái gì
+
+00:52:07.040 --> 00:52:09.390
+bọn tôi có hết cái đấy đấy Cái đầu tiên
+
+00:52:09.400 --> 00:52:12.549
+là như thế đã đấy Sau đó thì về sau là
+
+00:52:12.559 --> 00:52:14.349
+mình sẽ phát triển nên cái gì đó riêng
+
+00:52:14.359 --> 00:52:16.309
+riêng của mình nhưng nói thẳng luôn là
+
+00:52:16.319 --> 00:52:17.030
+hôm
+
+00:52:17.040 --> 00:52:20.950
+trước hôm trước lúc mà có trao đổi riêng
+
+00:52:20.960 --> 00:52:24.430
+với sếp s Anh Bình anh leader Của Tôi có
+
+00:52:24.440 --> 00:52:28.589
+tra đổi riêng với anh cto của sếp à Anh
+
+00:52:28.599 --> 00:52:32.390
+C đấy Thì hỏi luôn là mình có lợi thế
+
+00:52:32.400 --> 00:52:36.390
+cạnh tranh gì đấy Nói thẳng luôn là à
+
+00:52:36.400 --> 00:52:39.030
+Không có cái gì đó công nghệ quá công
+
+00:52:39.040 --> 00:52:42.470
+nghệ lõi không có để mà nó quá xịn để mà
+
+00:52:42.480 --> 00:52:44.630
+Thằng thằng đối thủ khác không thể copy
+
+00:52:44.640 --> 00:52:47.309
+được không Không có công nghệ lõi đấy th
+
+00:52:47.319 --> 00:52:48.950
+nhất là mình chỉ đang thứ nhất là mình
+
+00:52:48.960 --> 00:52:51.309
+có tệp khách hàng cũng tiềm năng nên là
+
+00:52:51.319 --> 00:52:52.990
+nhiều anh em khách Hàn tiềm năng vẫn
+
+00:52:53.000 --> 00:52:55.150
+đang ủng hộ vẫn đang dùng bên mình đấy
+
+00:52:55.160 --> 00:52:57.710
+thứ hai đó là kiểu Ừ thì mình mới non
+
+00:52:57.720 --> 00:52:59.549
+trẻ hơn nên mình hoàn toàn thể thay đổi
+
+00:52:59.559 --> 00:53:01.109
+được những cái ông lớn kia thì nó sẽ bị
+
+00:53:01.119 --> 00:53:04.829
+nhược điểm đó là những ông lớn thì muốn
+
+00:53:04.839 --> 00:53:06.430
+thay đổi một cái gì đó rất là khó còn
+
+00:53:06.440 --> 00:53:09.109
+mình thì kiểu mình vẫn còn còn bé mình
+
+00:53:09.119 --> 00:53:11.829
+vẫn đang chiều khách hàng Khách hàng đòi
+
+00:53:11.839 --> 00:53:13.750
+thêm tính năng gì mình vẫn hỗ trợ cung
+
+00:53:13.760 --> 00:53:17.829
+cấp thêm được đấy vân vân đấy chứ Còn
+
+00:53:17.839 --> 00:53:21.069
+chứ còn để mà cạnh tranh được mấy ông
+
+00:53:21.079 --> 00:53:24.430
+lớn đấy Nói thẳng luôn rất là khó vì vì
+
+00:53:24.440 --> 00:53:28.510
+bọn nó kiểu giữa cái đội ngũ nó trăm
+
+00:53:28.520 --> 00:53:31.710
+trăm người nghìn người chẳng hạn đúng
+
+00:53:31.720 --> 00:53:34.589
+không Mình mình còn đang dùng những cái
+
+00:53:34.599 --> 00:53:37.589
+thư viện gọi là thư viện có sẵn trên
+
+00:53:37.599 --> 00:53:39.789
+mạng còn nó thì một là nó mua hẳn cái bả
+
+00:53:39.799 --> 00:53:41.990
+mới phí hai nó tự khẳn làm ra những cái
+
+00:53:42.000 --> 00:53:44.230
+thư viện đấy luôn hôm trước tôi xem
+
+00:53:44.240 --> 00:53:47.750
+thằng ấy gọi đỉnh vãi trưởng nó còn bình
+
+00:53:47.760 --> 00:53:50.069
+thường ví dụ ví dụ mình còn đang phải
+
+00:53:50.079 --> 00:53:52.829
+dùng bú ch nó còn tự Build một cái
+
+00:53:52.839 --> 00:53:55.470
+Framework CS rồi có hẳn một cái trang
+
+00:53:55.480 --> 00:53:59.950
+tài liệu cho cái đấy ạ thằng sp spotify
+
+00:53:59.960 --> 00:54:04.309
+ấ à đâu không phải tôi toàn nhầm
+
+00:54:04.319 --> 00:54:07.829
+spotify shop
+
+00:54:07.839 --> 00:54:11.230
+đấy
+
+00:54:17.720 --> 00:54:21.510
+trang chia sẻ cái Framework CS của nó
+
+00:54:21.520 --> 00:54:24.510
+trang tài liệu CS định
+
+00:54:24.520 --> 00:54:26.910
+mãi nghĩa là không
+
+00:54:26.920 --> 00:54:30.829
+kiểu nó t tâm các thứ thứ ghê thế rồi
+
+00:54:30.839 --> 00:54:33.870
+đấy mình mình quay lại nhìn cái trang
+
+00:54:33.880 --> 00:54:38.349
+tài liệu của mình C tạp
+
+00:54:38.359 --> 00:54:41.349
+nham rất khó đúng không nhưng mà bọn tôi
+
+00:54:41.359 --> 00:54:44.109
+không ngại cạnh tranh với nó mình đã
+
+00:54:44.119 --> 00:54:45.309
+cạnh tranh mình phải cạnh tranh mấy
+
+00:54:45.319 --> 00:54:46.910
+thằng top đầu chứ đúng không Cạnh tranh
+
+00:54:46.920 --> 00:54:49.430
+mấy đứa ao làng làm gì
+
+00:54:49.440 --> 00:54:53.069
+đấy gọi nhở nó đang nó đang kiếm được Cứ
+
+00:54:53.079 --> 00:54:56.829
+cho là 100 à không phải 100 nó đang kiếm
+
+00:54:56.839 --> 00:54:59.230
+100 thì mình mình Thực ra bây giờ mình
+
+00:54:59.240 --> 00:55:03.190
+mục tiêu mình chỉ kiếm 1 cho đến 10 pH
+
+00:55:03.200 --> 00:55:06.230
+của nó 10 ph so với nó ấy đã cũng quá
+
+00:55:06.240 --> 00:55:09.670
+quá bé bờ quá ổn rồi vì đội ngũ của mình
+
+00:55:09.680 --> 00:55:11.470
+chắc chắn là thấp hơn nó rất là nhiều
+
+00:55:11.480 --> 00:55:15.349
+vân vân tự nhên là nó hơi sâu xa quá
+
+00:55:15.359 --> 00:55:18.069
+thông cả rồi quay lại tiếp nhỉ Đang nói
+
+00:55:18.079 --> 00:55:20.069
+dợ cái gì
+
+00:55:20.079 --> 00:55:23.069
+nhỉ nói chung là tự tin lên An em ạ
+
+00:55:23.079 --> 00:55:25.309
+Không
+
+00:55:32.520 --> 00:55:33.910
+đúng không
+
+00:55:33.920 --> 00:55:39.109
+rect là như
+
+00:56:01.400 --> 00:56:05.510
+thì vui mà lương bổng Chán quá
+
+00:56:05.520 --> 00:56:10.069
+Ông đúng kiểu dạng là nếu mà làm nhiều
+
+00:56:10.079 --> 00:56:13.150
+nơi thì đãy ngộ một thứ nó thể không
+
+00:56:13.160 --> 00:56:16.109
+thoải mái như mình muốn thật thì thế
+
+00:56:16.119 --> 00:56:18.190
+thực ra mình vẫn có cách để mà điu lương
+
+00:56:18.200 --> 00:56:20.589
+ha mọi thứ hoặc chuyển công ty Nói chung
+
+00:56:20.599 --> 00:56:22.750
+là phải dựa Xem chính cái sản phẩm các
+
+00:56:22.760 --> 00:56:25.109
+thứ vân vân đã và hiện tại ông đặt nặng
+
+00:56:25.119 --> 00:56:26.990
+gánh nặng về cái
+
+00:56:27.000 --> 00:56:28.750
+lương hay không đã vì rõ ràng Nếu mà
+
+00:56:28.760 --> 00:56:30.069
+trong khoảng th gian này ông vẫn học
+
+00:56:30.079 --> 00:56:32.029
+được ông vẫn làm được và sản phẩm rất là
+
+00:56:32.039 --> 00:56:33.990
+tốt có tiềm năng thì thự ra là về sau
+
+00:56:34.000 --> 00:56:37.190
+Kiểu gì nó sẽ bùng nổ nó sẽ kiểu mình sẽ
+
+00:56:37.200 --> 00:56:39.510
+được nhiều cái hơn thôi còn nếu gi sử
+
+00:56:39.520 --> 00:56:41.430
+sản phẩm nó cứ đều đều đều như thế ông
+
+00:56:41.440 --> 00:56:44.630
+học chỉ thế thi thì mình cũng phải cân
+
+00:56:44.640 --> 00:56:47.109
+nhắc chuyển dần chứ không thì về sau
+
+00:56:47.119 --> 00:56:50.670
+mình sang công ty khác nó khó đúng
+
+00:56:50.680 --> 00:56:54.670
+không nghe đồn con ai divin mới ra tự có
+
+00:56:54.680 --> 00:56:58.069
+tự fb các thứ tester sẽ hẹo
+
+00:56:58.079 --> 00:57:01.829
+trước Thực ra thì tôi đúng là tôi Công
+
+00:57:01.839 --> 00:57:03.710
+nhận rất là bất ngờ khi mà hồi trước thì
+
+00:57:03.720 --> 00:57:05.750
+thường ha Tự tin là lập trình viên mình
+
+00:57:05.760 --> 00:57:08.470
+là một cái nghề khó thay thế với ai
+
+00:57:08.480 --> 00:57:10.309
+Nhưng bây giờ ai nó còn đang đánh thẳng
+
+00:57:10.319 --> 00:57:13.270
+vào cái đấy vì ai nó nói thẳng luôn là
+
+00:57:13.280 --> 00:57:18.230
+ai học code của mình nhiều quá nghĩa là
+
+00:57:18.240 --> 00:57:20.109
+rõ ràng nó học những cái mảng
+
+00:57:20.119 --> 00:57:22.750
+khác Nó có thể học những mảng khác trước
+
+00:57:22.760 --> 00:57:24.270
+mà nó đánh bại cái khác trước nhưng
+
+00:57:24.280 --> 00:57:27.029
+không Tôi thấy là ai bây giờ rất nhiều a
+
+00:57:27.039 --> 00:57:29.589
+mới nó cứ kiểu kiểu gì nó cũng học toán
+
+00:57:29.599 --> 00:57:32.789
+này xong HC toán vân vân vân học cả code
+
+00:57:32.799 --> 00:57:34.870
+các thứ thứ bởi vì cái đấy là cái thứ mà
+
+00:57:34.880 --> 00:57:37.109
+chia sẻ được rất nhiều và nó học từ
+
+00:57:37.119 --> 00:57:39.789
+chính cái nguồn đấy trước thậm chí là
+
+00:57:39.799 --> 00:57:41.430
+những câu hỏi tự nhiên có khi nó không
+
+00:57:41.440 --> 00:57:45.150
+trả lời sõi bằng cái việc mấy cái kia về
+
+00:57:45.160 --> 00:57:48.029
+mấy cái kia tính ra nó được viết kiểu nó
+
+00:57:48.039 --> 00:57:50.670
+nguồn nó rộng ấy à nguồn nó kiểu cũng
+
+00:57:50.680 --> 00:57:53.270
+tương đối chứ mấy cái kia thì nguồn nó
+
+00:57:53.280 --> 00:57:55.270
+rộng quá thì thằng ai nó học không hết
+
+00:57:55.280 --> 00:57:56.910
+đấy
+
+00:57:56.920 --> 00:58:00.750
+n Tôi cảm thấy là là đúng Anh em mình
+
+00:58:00.760 --> 00:58:03.589
+cũng cũng sẽ bị ảnh hưởng rất nhiều
+
+00:58:03.599 --> 00:58:06.670
+nhưng mà ảnh hưởng Đây là ảnh hưởng cho
+
+00:58:06.680 --> 00:58:10.349
+nó vừa là nó cũng khó mà có thể thay thế
+
+00:58:10.359 --> 00:58:13.630
+được mình hoàn toàn lắm tởi vì công việc
+
+00:58:13.640 --> 00:58:15.270
+này mà biến mất thì công việc khác nó
+
+00:58:15.280 --> 00:58:17.230
+lại sinh ra
+
+00:58:17.240 --> 00:58:20.710
+thôi và đặc biệt là quan trọng là mình
+
+00:58:20.720 --> 00:58:22.910
+có tư duy thì kiểu gì mình sẽ sống được
+
+00:58:22.920 --> 00:58:25.270
+tin là như thế không bị thay thế hoàn
+
+00:58:25.280 --> 00:58:30.349
+toàn đâu
+
+00:58:32.520 --> 00:58:35.190
+ngành Không thực ra là công ty tôi không
+
+00:58:35.200 --> 00:58:37.470
+tuyển theo dựa theo bằng cấp í nh là thế
+
+00:58:37.480 --> 00:58:39.390
+vì nó công ty setup thì không yêu cầu
+
+00:58:39.400 --> 00:58:43.910
+Khắt cao Khắt cao mấy cái đấy
+
+00:58:46.640 --> 00:58:47.829
+h học kế
+
+00:58:47.839 --> 00:58:51.150
+toán Tôi vẫn nhớ có một người cũng bình
+
+00:58:51.160 --> 00:58:54.069
+luận thêm một câu nữa đó
+
+00:58:54.079 --> 00:58:58.630
+là ai không để thay thế được cô giáo trẻ
+
+00:58:58.640 --> 00:59:03.670
+Mấm non vì A không thể rửa rửa mông cho
+
+00:59:03.680 --> 00:59:11.990
+trẻ con c thư thừ đọc cái đấy ốn
+
+00:59:16.079 --> 00:59:25.029
+không đi tù được đúng
+
+00:59:27.400 --> 00:59:29.870
+con ai nó tự feedb cho chính nó không
+
+00:59:29.880 --> 00:59:34.190
+con ai mới gần đây thì có
+
+00:59:38.079 --> 00:59:40.549
+ấy Ừ tôi cũng chưa biết soc là gì luôn
+
+00:59:40.559 --> 00:59:44.109
+đang m tên cho con Web 6 năm trước cách
+
+00:59:44.119 --> 00:59:46.589
+hai đọc code khoai thật bởi đôi khi mấy
+
+00:59:46.599 --> 00:59:48.470
+ông làm những cái dự án kiểu Legacy kiểu
+
+00:59:48.480 --> 00:59:51.990
+mấy cái cũ Thế thấy mất kiên nhẫn vãi
+
+00:59:52.000 --> 00:59:55.390
+trưởng đặc biệt là nếu nó là product nữa
+
+00:59:55.400 --> 00:59:57.470
+u mang tiếng là nhiều người code product
+
+00:59:57.480 --> 01:00:01.029
+như là code rất là tệ nhá nói chung là
+
+01:00:01.039 --> 01:00:02.990
+trong ngành này vào ngành mới biết được
+
+01:00:03.000 --> 01:00:06.630
+muôn chúng nó đau đầu người thì tìm mãi
+
+01:00:06.640 --> 01:00:09.349
+mới kiếm được việc người thì đang ở
+
+01:00:09.359 --> 01:00:12.549
+trong môi trường rồi nên thể rất là tệ
+
+01:00:12.559 --> 01:00:15.390
+đấy Nói chung là rất nhiều rất nhiều các
+
+01:00:15.400 --> 01:00:17.630
+thứ thứ không không thể nói công việc
+
+01:00:17.640 --> 01:00:20.510
+nào là công việc như mơ được đâ th dù kể
+
+01:00:20.520 --> 01:00:23.829
+cả it là vua của mọi nghề nữa đúng
+
+01:00:23.839 --> 01:00:28.230
+không Anh nghĩ sao về uiux design như cơ
+
+01:00:28.240 --> 01:00:30.870
+hộ việc làm các thứ ý
+
+01:00:30.880 --> 01:00:34.910
+ờ Nếu mà em chỉ làm mũi uiux Design thì
+
+01:00:34.920 --> 01:00:39.029
+theo anh cơ hội rất thấp bởi vì C không
+
+01:00:39.039 --> 01:00:43.990
+cần em phải làm bên full stack à à à đâu
+
+01:00:44.000 --> 01:00:47.870
+fance nhưng mà anh nghĩa là em
+
+01:00:47.880 --> 01:00:52.510
+A Nói chung là nó hơi bị giới hạn ấy anh
+
+01:00:52.520 --> 01:00:54.789
+cảm thấy thế ví dụ ngay ở thời điểm công
+
+01:00:54.799 --> 01:00:56.670
+ty hiện tại của anh không có một ông
+
+01:00:56.680 --> 01:00:59.390
+design chính thức cần vấn đề gì thỉnh
+
+01:00:59.400 --> 01:01:02.549
+thoảng sẽ thuê ông kiểu pam ông cộng ta
+
+01:01:02.559 --> 01:01:04.750
+viên là làm design hộ thường là chính
+
+01:01:04.760 --> 01:01:07.710
+ông fen ông sẽ kiêm luôn việc đấy đấy
+
+01:01:07.720 --> 01:01:10.270
+đấy anh cũng quen rất nhiều kiểu như thế
+
+01:01:10.280 --> 01:01:13.230
+nên là thậm chí là có những người anh
+
+01:01:13.240 --> 01:01:15.750
+biết làm u rất là tốt cuối cùng cũng
+
+01:01:15.760 --> 01:01:18.470
+phải bỏ hoặc là chuyển qua phải kiêm
+
+01:01:18.480 --> 01:01:23.589
+thêm những cái công việc khác
+
+01:01:27.280 --> 01:01:29.230
+đọc lại không hiểu hồi xưa code sao chạy
+
+01:01:29.240 --> 01:01:32.630
+được tôi Tôi luôn nhớ được logic Tại sao
+
+01:01:32.640 --> 01:01:35.589
+tôi COD cái đoạn đấy tôi tôi nhớ tôi có
+
+01:01:35.599 --> 01:01:38.510
+thể đọc và hiểu được code cũ của tôi tại
+
+01:01:38.520 --> 01:01:42.190
+sao tôi lại làm thế giải thích được vì
+
+01:01:42.200 --> 01:01:43.670
+nói chung là mình nếu mà tư duy mình
+
+01:01:43.680 --> 01:01:45.910
+trưa sau như một the kiểu là không phải
+
+01:01:45.920 --> 01:01:48.870
+là mình vẫn trình độ đấy nhá như không
+
+01:01:48.880 --> 01:01:51.470
+thế nhưng mà nói chung là đại khái
+
+01:01:51.480 --> 01:01:54.069
+thì đấy Đấy gần như là mình hiểu được
+
+01:01:54.079 --> 01:01:56.029
+mình mà trí nhớ mình cũng phải tốt phải
+
+01:01:56.039 --> 01:01:59.109
+định đấy tôi nhớ được đấy tôi giải thích
+
+01:01:59.119 --> 01:02:01.190
+được hôm nay tôi Vừ giải thích cho sếp
+
+01:02:01.200 --> 01:02:04.630
+tôi mà cái code 3 năm trước đúng nghĩa 3
+
+01:02:04.640 --> 01:02:06.069
+năm trước luôn
+
+01:02:06.079 --> 01:02:08.430
+2021 tôi vẫn ngồi giải thích lý do tại
+
+01:02:08.440 --> 01:02:11.109
+sao tôi code của đoạn
+
+01:02:11.119 --> 01:02:14.630
+đấy là code Tôi khẳng định luôn code đầu
+
+01:02:14.640 --> 01:02:15.910
+tiên của tôi Tôi cũng ngồi giải thích
+
+01:02:15.920 --> 01:02:17.789
+được tôi hôm trước tôi bảo mấy ông ấy
+
+01:02:17.799 --> 01:02:20.670
+ngồi code trang trên g của tôi có mấy
+
+01:02:20.680 --> 01:02:22.910
+code kiểu 7 năm trước 6 năm trước có tôi
+
+01:02:22.920 --> 01:02:25.990
+vẫn đương nhiên mấy cái đoạn code đấy nó
+
+01:02:26.000 --> 01:02:27.549
+vẫn tương đối ngắn nên thành ra nó vẫn
+
+01:02:27.559 --> 01:02:36.829
+dễ hiểu nhưng mà ý tôi là tôi vẫn nhớ
+
+01:02:40.440 --> 01:02:46.150
+quên đấy quên
+
+01:02:50.079 --> 01:02:53.069
+được nhưng không gọi được Ok anh cứ chữa
+
+01:02:53.079 --> 01:02:54.829
+tề m đây
+
+01:02:54.839 --> 01:03:02.990
+nhá
+
+01:03:06.720 --> 01:03:10.269
+ông ông nào cần hỏi thì bấm vàoo link để
+
+01:03:10.279 --> 01:03:12.750
+hỏi nhá đ tôi trả lời dần
+
+01:03:12.760 --> 01:03:17.349
+nhá mô tả nghiệp vụ quản lý kho trong
+
+01:03:17.359 --> 01:03:19.190
+quá trình quản lý kho Phê quá trình
+
+01:03:19.200 --> 01:03:22.789
+nghiệp vụ tạo đơn yêu cầu các mặt hàng
+
+01:03:22.799 --> 01:03:25.910
+trong kho ghi chết quy trình nhập hàng
+
+01:03:25.920 --> 01:03:29.190
+quản lý và kiểm soát số lượng hàng hóa
+
+01:03:29.200 --> 01:03:32.710
+trong kho quy trình xất và sử dụng hàng
+
+01:03:32.720 --> 01:03:35.950
+và lập và Cáo nó cứ bị Trung Trung
+
+01:03:35.960 --> 01:03:39.630
+nhở để quản lý lô hàng hạ sử dụng và
+
+01:03:39.640 --> 01:03:42.510
+kiểm soát quản lý sẽ nhập cập nhật và
+
+01:03:42.520 --> 01:03:53.549
+shit lưu lại số lượng hàng hóa hiện
+
+01:03:57.960 --> 01:04:02.430
+này nhập cập nhật số lượng Vân Vân
+
+01:04:02.440 --> 01:04:14.109
+này lưu gại loại hàng này nhà cung cấp
+
+01:04:18.920 --> 01:04:21.029
+Bin l cũng được Nói chung là có thêm bên
+
+01:04:21.039 --> 01:04:25.109
+la đấy lưu lại bên la được còn tốt ký
+
+01:04:25.119 --> 01:04:27.870
+nhận các thứ thứ thứ không quan tâm cái
+
+01:04:27.880 --> 01:04:32.510
+này là không Bin Chắc là giấy tơ văn bản
+
+01:04:32.520 --> 01:04:36.630
+chứ làm sao mình Mình lưu lại chữ ký mọi
+
+01:04:36.640 --> 01:04:39.630
+thứ mình ký on chắc tạm bỏ qua cái chữ
+
+01:04:39.640 --> 01:04:42.150
+ký điện
+
+01:04:45.160 --> 01:04:48.069
+nh trên máy Phan đánh số lượng mới cái
+
+01:04:48.079 --> 01:04:50.430
+này cũng Dy nhiên nó sẽ kiểu double
+
+01:04:50.440 --> 01:04:52.589
+check là kiểu Mình sẽ lưu lại thông tin
+
+01:04:52.599 --> 01:04:54.630
+trong sổ nữa phải mỗi
+
+01:04:54.640 --> 01:04:57.430
+máy
+
+01:04:57.440 --> 01:05:01.069
+quy trình xất và sử dụng đã bán số lượng
+
+01:05:01.079 --> 01:05:02.710
+tôi
+
+01:05:02.720 --> 01:05:05.190
+h Nói chung là cái này phải quản lý kho
+
+01:05:05.200 --> 01:05:09.390
+chứ không phải quản lý quán cà phê
+
+01:05:13.119 --> 01:05:24.630
+cập về kho chứ không liên quan việc là
+
+01:05:36.359 --> 01:05:40.670
+đề
+
+01:05:45.760 --> 01:05:50.390
+xất cái này tôi không biết được là cái
+
+01:05:50.400 --> 01:05:53.950
+này là áp dụng cho thực tế
+
+01:05:53.960 --> 01:05:57.950
+không áp dụng cho cho kiểu dạng là gọi
+
+01:05:57.960 --> 01:06:02.269
+như là ý ý ý ý tôi là kiểu Cái này chỉ
+
+01:06:02.279 --> 01:06:04.549
+là bài toán ở kiểu dạng giải quyết bài
+
+01:06:04.559 --> 01:06:08.069
+toán ở trên trên trường kiểu đề bài như
+
+01:06:08.079 --> 01:06:11.789
+thế hay là thực tế là đang làm rồi Nếu
+
+01:06:11.799 --> 01:06:13.829
+mà đang làm rồi thì nó sẽ cần phải có
+
+01:06:13.839 --> 01:06:17.109
+rất nhiều tính năng chi tiết các thứ còn
+
+01:06:17.119 --> 01:06:19.069
+nếu
+
+01:06:19.079 --> 01:06:22.190
+mà đúng rồi nó chỉ bài tập các thứ thứ
+
+01:06:22.200 --> 01:06:24.230
+có mấy cái kiểu như này này thì mình sẽ
+
+01:06:24.240 --> 01:06:26.390
+chỉ làm mức tương đối Ức lượng gọi là
+
+01:06:26.400 --> 01:06:28.710
+đầy đủ các tính năng cơ bản Hy dùng từ
+
+01:06:28.720 --> 01:06:32.390
+cơ bản trước đã sau đó thì mình sẽ muốn
+
+01:06:32.400 --> 01:06:34.670
+chi tiết vào cái nào chi tiết cụ thể một
+
+01:06:34.680 --> 01:06:36.549
+vài cái tính năng kiểu dạng là nâng cao
+
+01:06:36.559 --> 01:06:40.390
+một tí chứ còn nếu mà bài toán thực tế
+
+01:06:40.400 --> 01:06:41.990
+mình sẽ phải thiết kế một cách chặt chẽ
+
+01:06:42.000 --> 01:06:46.589
+hơn và tính năng nào cũng phải kiểu nâng
+
+01:06:46.599 --> 01:06:48.910
+cao một tí vì rõ ràng là mấy cái liên
+
+01:06:48.920 --> 01:06:51.829
+quan đến quản lý gì đó thì mình phải rất
+
+01:06:51.839 --> 01:06:54.109
+là tiện cho người dùng về thường nó có
+
+01:06:54.119 --> 01:06:56.230
+sẵn dữ liệu vân vân rồi
+
+01:06:56.240 --> 01:06:57.990
+sẽ bao gồm việc có sẵn Google sheet rồi
+
+01:06:58.000 --> 01:07:00.430
+chẳng hạn mình nhập vào này thậm chí là
+
+01:07:00.440 --> 01:07:03.630
+có cả quét mã các thứ thứ quét bên l các
+
+01:07:03.640 --> 01:07:08.029
+thứ các thứ để mà để ra được chứ không
+
+01:07:08.039 --> 01:07:11.230
+phải là nhập tay thủ công hết thì nó tốn
+
+01:07:11.240 --> 01:07:12.990
+thời gian đúng không
+
+01:07:13.000 --> 01:07:15.150
+ạ
+
+01:07:15.160 --> 01:07:19.589
+Ừ Ok Để tôi xem qua về cơ sở liệu bạn
+
+01:07:19.599 --> 01:07:23.710
+nhá có mã thường là tôi bảo là các bạn
+
+01:07:23.720 --> 01:07:26.910
+hạn chế để lúc thì tiếng Anh kiểu ID
+
+01:07:26.920 --> 01:07:29.390
+kiểu này lúc tiếng Việt này nếu mà để
+
+01:07:29.400 --> 01:07:32.190
+tiếng Anh hết thì tốt à nhầm để hết một
+
+01:07:32.200 --> 01:07:34.950
+ngôn ngữ Nếu mà giả sử không biết tiếng
+
+01:07:34.960 --> 01:07:37.470
+Anh thì để hết tiếng Việt đúng không
+
+01:07:37.480 --> 01:07:39.269
+thường là cột mã thôi không phải mã hàng
+
+01:07:39.279 --> 01:07:42.029
+hóa như này không nên lặp lại tên bảng
+
+01:07:42.039 --> 01:07:45.029
+này mã loại hàng loại hàng loại hàng ở
+
+01:07:45.039 --> 01:07:48.789
+đây đúng không tên tên này Đấy đơn vị
+
+01:07:48.799 --> 01:07:50.990
+tính
+
+01:07:51.000 --> 01:07:55.630
+Ok mình sẽ vẽ sơ đồi một khể trước D
+
+01:07:55.640 --> 01:08:00.670
+hình dung
+
+01:08:05.319 --> 01:08:08.910
+đi quản lý đúng không
+
+01:08:08.920 --> 01:08:13.109
+Thế quản lý đấy nó sẽ cần làm tính năng
+
+01:08:13.119 --> 01:08:15.990
+gì à Không phải số đồ thể đây là UK chứ
+
+01:08:16.000 --> 01:08:19.829
+hã số đồ UK là kiểu mình làm được những
+
+01:08:19.839 --> 01:08:24.189
+tính năng gì Vân vân vân có sơ đồ rồi à
+
+01:08:24.199 --> 01:08:30.870
+À đây đây đây T sao lưu lại dạng
+
+01:08:30.880 --> 01:08:38.910
+này à đây Ok em cũng vẽ rồi xem thử link
+
+01:08:38.920 --> 01:08:40.870
+dài
+
+01:08:40.880 --> 01:08:50.550
+thế chắc không phải link virus gì
+
+01:08:53.839 --> 01:08:57.470
+hiểu của tôi đã như mà xem qua trước bạn
+
+01:08:57.480 --> 01:09:02.390
+lại vẽ như nào
+
+01:09:05.679 --> 01:09:08.950
+nhỉ Không biết đủ link hay
+
+01:09:08.960 --> 01:09:12.430
+không sợ link này thường ha nó có một
+
+01:09:12.440 --> 01:09:16.149
+cái đội dài nhất định thôi à Đây là link
+
+01:09:16.159 --> 01:09:19.950
+ảnh này ồ và sao
+
+01:09:19.960 --> 01:09:22.390
+sao đây là s
+
+01:09:22.400 --> 01:09:24.349
+đồ đây
+
+01:09:24.359 --> 01:09:29.349
+là đâu Đây đâu phải S đồ thực thể đâu à
+
+01:09:29.359 --> 01:09:31.430
+đây thực thể bên này
+
+01:09:31.440 --> 01:09:34.390
+OK thực thể này nhìn nó vẫn khó hiểu ạ
+
+01:09:34.400 --> 01:09:38.470
+Anh đang định vẽ UK
+
+01:09:42.239 --> 01:09:44.229
+thể thì làm gì có ch chi tiết các thứ
+
+01:09:44.239 --> 01:09:46.430
+thứ này n bị nhầm rồi Cái này không phải
+
+01:09:46.440 --> 01:09:48.829
+thực thể đâu Nó là mối quan hệ bảng các
+
+01:09:48.839 --> 01:09:51.669
+thứ
+
+01:09:55.600 --> 01:09:57.430
+phải nhớ lại cái thực
+
+01:09:57.440 --> 01:10:01.430
+thể thực thể thì nó nó nói lên tất cả
+
+01:10:01.440 --> 01:10:04.950
+thôi Nó là cái gì nó là thực tế kiểu
+
+01:10:04.960 --> 01:10:07.990
+hiện hữu ấy thì nó là thực thể làm gì có
+
+01:10:08.000 --> 01:10:10.350
+thực thể nà chi tiết hóa đơn đúng
+
+01:10:10.360 --> 01:10:13.910
+không nó chỉ có thực thể hóa đơn thôi nó
+
+01:10:13.920 --> 01:10:17.830
+sẽ nó sẽ từ hóa đơn với sản phẩm nó mối
+
+01:10:17.840 --> 01:10:20.310
+quan hệ như nào tạo ra một cái bảng
+
+01:10:20.320 --> 01:10:22.590
+trung gian các thứ thứ Nếu mà nn nó sẽ
+
+01:10:22.600 --> 01:10:25.709
+tạo bảng trung gian các thứ đấy Nói
+
+01:10:25.719 --> 01:10:27.750
+chung là đại khái Thì bây giờ mình dựa
+
+01:10:27.760 --> 01:10:32.030
+vào cái này dựa cái này quản lý nó sẽ
+
+01:10:32.040 --> 01:10:34.149
+tương tác với cái kho Nếu giả sử có một
+
+01:10:34.159 --> 01:10:36.470
+kho thi nhá Ok Giả sử có một kho thôi
+
+01:10:36.480 --> 01:10:39.790
+thì nó cũng dễ nó sẽ là quản lý tương
+
+01:10:39.800 --> 01:10:45.229
+tác với với hàng hóa này đúng
+
+01:10:59.000 --> 01:11:03.750
+này hàng hóa sản phẩm các thứ này
+
+01:11:03.760 --> 01:11:06.310
+Đấy xong rồi
+
+01:11:06.320 --> 01:11:09.670
+Ơ ơ tôi l
+
+01:11:09.680 --> 01:11:11.310
+[âm nhạc]
+
+01:11:11.320 --> 01:11:14.870
+ấn Ctrl
+
+01:11:14.880 --> 01:11:19.110
+z à ctrl V hàng
+
+01:11:19.120 --> 01:11:23.030
+hóa rồi Tiếp theo
+
+01:11:23.040 --> 01:11:27.030
+Ờ có loại hàng đúng không loại
+
+01:11:27.040 --> 01:11:29.709
+hàng tiếp theo nữa
+
+01:11:29.719 --> 01:11:32.270
+là
+
+01:11:32.280 --> 01:11:36.229
+Ừm shit các thứ B qua đi số lượng các
+
+01:11:36.239 --> 01:11:38.149
+thứ các
+
+01:11:38.159 --> 01:11:42.030
+thứ đây Nếu thế thì vẽ theo kiểu entity
+
+01:11:42.040 --> 01:11:46.830
+nhá ch dễ
+
+01:11:57.040 --> 01:12:03.110
+quan đến số lượng này Đấy Và đây
+
+01:12:07.280 --> 01:12:10.310
+này mấy cái cột khác không quan trọng
+
+01:12:10.320 --> 01:12:14.550
+thì cứ mình cứ tạm ẩn đi
+
+01:12:18.280 --> 01:12:20.750
+nào anh trả lời dần dần
+
+01:12:20.760 --> 01:12:22.910
+sao
+
+01:12:22.920 --> 01:12:28.470
+dùng start uml mới chuẩn À chưa biết cái
+
+01:12:28.480 --> 01:12:40.750
+này cái cái đấy cái gì st ull Ồ chố xị
+
+01:12:44.679 --> 01:12:50.870
+mất
+
+01:12:54.120 --> 01:12:59.070
+này Bin l cái gì gì đó Cứ cho là có một
+
+01:12:59.080 --> 01:13:07.870
+cái Bin đi Ok có một cái bin
+
+01:13:11.280 --> 01:13:16.189
+sẽ kiểu bôi đen hết tất cả ấy bine này
+
+01:13:16.199 --> 01:13:18.990
+nĩa mình làm việc với hàng hóa các thứ
+
+01:13:19.000 --> 01:13:20.950
+nó sẽ ra cái Bin
+
+01:13:20.960 --> 01:13:22.950
+ok
+
+01:13:22.960 --> 01:13:26.870
+ừ đây theo kiểu UK nhá theo kiểu UK
+
+01:13:26.880 --> 01:13:30.830
+trước nhá chứ còn còn về sau kiểu vẽ th
+
+01:13:30.840 --> 01:13:35.229
+c s s các thứ thứ g s đồ thể hay S đồ cơ
+
+01:13:35.239 --> 01:13:41.229
+sở liệu vẽ sau nhạc cung cấp đấy mình sẽ
+
+01:13:41.239 --> 01:13:44.030
+làm việc với nhà cung cấp ở đây sẽ có
+
+01:13:44.040 --> 01:13:48.070
+một thằng là nhà cung cấp
+
+01:13:54.360 --> 01:13:58.669
+mình sẽ nối thằng này với cái bin đấy có
+
+01:13:58.679 --> 01:14:02.070
+bin Ok
+
+01:14:08.400 --> 01:14:13.950
+việc nhập không biết là đâu nhập thì có
+
+01:14:13.960 --> 01:14:21.550
+bin rồi xuất thì có b
+
+01:14:25.679 --> 01:14:29.149
+năng đây thường là mình sẽ vẽ cái này là
+
+01:14:29.159 --> 01:14:32.189
+dựa trên một cái tính năng gì gì đó mình
+
+01:14:32.199 --> 01:14:34.590
+sẽ cho đây
+
+01:14:34.600 --> 01:14:38.709
+là nhập đi Đấy sau Tí làm tính năng xuất
+
+01:14:38.719 --> 01:14:48.270
+sau
+
+01:14:52.000 --> 01:14:54.310
+mấy cái tính năng này nó sẽ chỉ g liên
+
+01:14:54.320 --> 01:14:58.149
+quan mới kiểu như này thôi đấy Kiểu kiểu
+
+01:14:58.159 --> 01:15:02.189
+như này vại hàng TH nó cũng chẳng cần
+
+01:15:02.199 --> 01:15:05.270
+luôn cái loại hàng thì nó sẽ ghi trong
+
+01:15:05.280 --> 01:15:08.950
+cái thằng này này là loại hàng
+
+01:15:08.960 --> 01:15:13.750
+đ loại loại thôi đấy thể loại đúng không
+
+01:15:13.760 --> 01:15:18.830
+vân vân đấy Có gì nữa
+
+01:15:23.960 --> 01:15:28.870
+xuất
+
+01:15:31.960 --> 01:15:34.950
+rồi Ủa
+
+01:15:34.960 --> 01:15:37.790
+Alo trang trang Tinh
+
+01:15:37.800 --> 01:15:42.149
+à Kệ đi Delete đi d Kate chính cái này
+
+01:15:42.159 --> 01:15:44.709
+ra CH dễ xuất
+
+01:15:44.719 --> 01:15:47.950
+này thẳng lần này không có nhà cung cấp
+
+01:15:47.960 --> 01:15:52.270
+nữa mình sẽ có thằng này là phiếu xất
+
+01:15:52.280 --> 01:15:55.709
+đúng không phiếu
+
+01:15:55.719 --> 01:16:02.189
+xuất
+
+01:16:05.080 --> 01:16:07.590
+các thứ các thứ thì cái này cái nào
+
+01:16:07.600 --> 01:16:13.430
+chẳng có đúng
+
+01:16:16.880 --> 01:16:19.070
+gì nữa đâu
+
+01:16:19.080 --> 01:16:22.390
+nhỉ chẳng còn gì đâu Nếu mà kiểu vẽ theo
+
+01:16:22.400 --> 01:16:25.790
+kiểu vẽ theo kiểu dạng là
+
+01:16:25.800 --> 01:16:28.590
+UK theo như tôi nhớ thì nó sẽ chỉ thế
+
+01:16:28.600 --> 01:16:32.189
+này v cái phần tính năng tính năng UK là
+
+01:16:32.199 --> 01:16:34.629
+theo từng tính năng nhá Đấy tính năng
+
+01:16:34.639 --> 01:16:37.350
+nhập này thì có quản lý liên quan hàng
+
+01:16:37.360 --> 01:16:39.910
+hóa thể loại kiểu loại hàng này tạo ra
+
+01:16:39.920 --> 01:16:42.310
+cái bên Line này đấy cũng có thời gian
+
+01:16:42.320 --> 01:16:44.350
+các thứ thứ xong rồi dựa theo nhà cung
+
+01:16:44.360 --> 01:16:47.149
+cấp để cung cấp các thứ nữa thậm chí là
+
+01:16:47.159 --> 01:16:49.870
+mình còn Thậm chí mình lưu lưu lại cái
+
+01:16:49.880 --> 01:16:53.550
+nhà cung cấp này à Nó có những loại hàng
+
+01:16:53.560 --> 01:16:55.590
+Hàng hóa nào chính xác là
+
+01:16:55.600 --> 01:17:02.669
+thế Chính xác là thế nghĩa là gọi
+
+01:17:08.239 --> 01:17:09.669
+nhá phân biệt nhá giống như ở công ty
+
+01:17:09.679 --> 01:17:12.709
+tôi làm ấy bên tôi làm việc cũng có nhà
+
+01:17:12.719 --> 01:17:15.030
+cung cấp cũng có sub là nhà cung cấp các
+
+01:17:15.040 --> 01:17:18.669
+thử thử thì tôi sẽ phân biệt là mình tận
+
+01:17:18.679 --> 01:17:20.110
+dụng vào trong chính cái bảng Hàng hóa
+
+01:17:20.120 --> 01:17:22.830
+này nghĩa là
+
+01:17:22.840 --> 01:17:25.590
+sản sản phẩm
+
+01:17:25.600 --> 01:17:28.709
+nhưng mà đây Ừ nếu mà làm đơn giản nếu
+
+01:17:28.719 --> 01:17:31.270
+mà Làm tối giả thì thực ra là mình chỉ
+
+01:17:31.280 --> 01:17:33.189
+cần lưu lại trong chính cái hàng hóa này
+
+01:17:33.199 --> 01:17:36.189
+là thuộc cái mình sẽ có mã nhà cung cấp
+
+01:17:36.199 --> 01:17:41.270
+ở đây đây là nhà cung cấp ở đây này
+
+01:17:41.280 --> 01:17:44.030
+nghĩa là mình biết được là hàng hóa này
+
+01:17:44.040 --> 01:17:47.189
+nghĩa là nếu mà Làm tối giản nhá là ví
+
+01:17:47.199 --> 01:17:49.030
+dụ là ông nhập sữa chẳng hạn ông chỉ có
+
+01:17:49.040 --> 01:17:51.590
+thể nhập sữa của nhà cung cấp này thôi
+
+01:17:51.600 --> 01:17:55.310
+đấy ví dụ là nhập sữa TH ch hay nhập sữa
+
+01:17:55.320 --> 01:17:58.149
+Ông Thọ chẳng hạn không chỉ nhập ngỗi
+
+01:17:58.159 --> 01:18:00.830
+của nhà công cấp này thôi còn ở công ty
+
+01:18:00.840 --> 01:18:03.270
+tôi thì một sản phẩm có nhiều có thể có
+
+01:18:03.280 --> 01:18:05.430
+nhiều nhà cung cấp thì nó còn khó hơn
+
+01:18:05.440 --> 01:18:07.950
+nếu mà ông làm th ciểu đơn giản thì nó
+
+01:18:07.960 --> 01:18:10.990
+chỉ có một thôi thì thì chính là cái đấy
+
+01:18:11.000 --> 01:18:14.350
+nó sẽ nối lên đây này Đấy thế là xong
+
+01:18:14.360 --> 01:18:18.270
+Thế thôi mặt hàng có hạ sử dụng nên phải
+
+01:18:18.280 --> 01:18:20.070
+quản lý theo lô hàng lưu trữ theo quản
+
+01:18:20.080 --> 01:18:23.510
+lý cả tránh tồn kho quá lâu Ok anh hiểu
+
+01:18:23.520 --> 01:18:26.590
+cái này Thực ra thì về cái hạ sử dụng
+
+01:18:26.600 --> 01:18:28.950
+theo từng cái sản phẩm hàng hóa đúng
+
+01:18:28.960 --> 01:18:31.910
+không Ý em là thế đúng không hạ sử dụng
+
+01:18:31.920 --> 01:18:32.950
+đây đúng
+
+01:18:32.960 --> 01:18:36.550
+chư thì nó dựa
+
+01:18:36.560 --> 01:18:45.030
+trên Nếu mà dựa trên theo lô đúng
+
+01:18:50.800 --> 01:18:53.709
+đây lô này chẳng
+
+01:18:53.719 --> 01:18:56.629
+hạn
+
+01:18:56.639 --> 01:18:59.550
+D dựa trên theo lô Đúng
+
+01:18:59.560 --> 01:19:02.669
+không quản lý bán hàng cà phê kiểu mang
+
+01:19:02.679 --> 01:19:05.550
+về thì bạn gì khó chc ra chuẩn là cũng
+
+01:19:05.560 --> 01:19:09.750
+có đấy Chẳng qua nó không làm gắt lắm
+
+01:19:09.760 --> 01:19:12.550
+thôi
+
+01:19:12.560 --> 01:19:17.470
+Ờ lô gọi như nhỉ Nếu mà lô mà cùng một
+
+01:19:17.480 --> 01:19:21.990
+hạn sử dụng cũng được đây vẫn thì nó vẫn
+
+01:19:22.000 --> 01:19:24.910
+cái ý anh á thì cái bài toán ở đây nó
+
+01:19:24.920 --> 01:19:29.510
+vẫn dừng lại ở cái mức mức này này mức
+
+01:19:29.520 --> 01:19:33.070
+gọi là như nào nhỉ tính năng thì nó sẽ
+
+01:19:33.080 --> 01:19:36.510
+chỉ như này còn việc lưu của mình lưu
+
+01:19:36.520 --> 01:19:39.390
+vào trong DB ấy thì mình sẽ tách dần ra
+
+01:19:39.400 --> 01:19:41.310
+tính năng thì nó sẽ chỉ này đúng không
+
+01:19:41.320 --> 01:19:43.870
+vần dừng dừng ở nhập với xất đúng chứ
+
+01:19:43.880 --> 01:19:46.270
+Đấy sau đó thì mình tiếp theo mình mới
+
+01:19:46.280 --> 01:19:50.390
+làm sâu hơn là kiểu à
+
+01:19:50.400 --> 01:19:53.629
+đây copy như này
+
+01:19:53.639 --> 01:19:57.550
+nhá mình nói về bên nhập trước nhá rõ
+
+01:19:57.560 --> 01:20:02.430
+ràng là bỏ bỏ thằng quản lý đi
+
+01:20:06.280 --> 01:20:08.110
+này
+
+01:20:08.120 --> 01:20:11.629
+AD up thế quản lý vừa rồi nối hàng hóa
+
+01:20:11.639 --> 01:20:14.790
+sai đấy quản lý phải nối đến cái thằng
+
+01:20:14.800 --> 01:20:18.830
+này này đợi đợi ch tí Đấy phải như này
+
+01:20:18.840 --> 01:20:22.270
+này nhà công cấp đưa hàng hóa xong ngồi
+
+01:20:22.280 --> 01:20:25.350
+quản lý nhận nó qua cái bên LINE đó Phả
+
+01:20:25.360 --> 01:20:28.149
+như này Đấy quản lý phải lưu như này mới
+
+01:20:28.159 --> 01:20:32.709
+đúng này Đấy lỗi tôi lỗi tôi hơi loạn
+
+01:20:32.719 --> 01:20:34.510
+đây phải như này
+
+01:20:34.520 --> 01:20:37.910
+này tao
+
+01:20:37.920 --> 01:20:39.669
+Ơ
+
+01:20:39.679 --> 01:20:44.470
+ơ À
+
+01:20:47.679 --> 01:20:50.310
+cho đỡ Nga
+
+01:20:50.320 --> 01:20:53.629
+mắt đây sẽ như
+
+01:20:53.639 --> 01:20:56.709
+này tôi làm việc với ông qua cái bên
+
+01:20:56.719 --> 01:21:00.270
+đúng không đấy ok chưa
+
+01:21:00.280 --> 01:21:04.310
+ạ
+
+01:21:08.000 --> 01:21:11.430
+này Hàng hóa này tôi làm việc với ông
+
+01:21:11.440 --> 01:21:17.669
+qua B L B L có những mặt hàng như này đó
+
+01:21:17.679 --> 01:21:22.270
+Ok thì đấy sẽ là đúng
+
+01:21:22.280 --> 01:21:25.189
+nhỉ đúng không
+
+01:21:25.199 --> 01:21:30.229
+tí Đợi tôm một tí Đợi tôm một tí à không
+
+01:21:30.239 --> 01:21:34.189
+Bin LINE nó vẫn chứa những cái mặt hàng
+
+01:21:34.199 --> 01:21:37.750
+hóa này đợi tôi một tí nhá Đợi tôi một
+
+01:21:37.760 --> 01:21:41.110
+tí tôi đang load
+
+01:21:44.800 --> 01:21:49.709
+th tôi sẽ hình dung ra cái database nhá
+
+01:21:49.719 --> 01:21:52.270
+database thì mình có số lượng các thứ
+
+01:21:52.280 --> 01:21:55.149
+thứ số lượng này
+
+01:21:55.159 --> 01:21:57.870
+Thể loại này thể loại nó là thể loại
+
+01:21:57.880 --> 01:22:00.189
+hàng hóa các thứ có một bảng riêng ở đây
+
+01:22:00.199 --> 01:22:02.550
+tôi cứ bỏ qua lại nhá nhạc cung cấp này
+
+01:22:02.560 --> 01:22:04.350
+nhà cung cấp thì nó sẽ bản chất là nó
+
+01:22:04.360 --> 01:22:07.350
+thêm một cái thằng một thằng nữa ở trên
+
+01:22:07.360 --> 01:22:10.310
+này nó là nhà cung cấp đúng không nó
+
+01:22:10.320 --> 01:22:13.990
+thực ra nó cũng dễ hiểu
+
+01:22:22.880 --> 01:22:25.790
+nhiều nhà cung cấp để xem xem
+
+01:22:25.800 --> 01:22:28.669
+nào một hàng hóa nhiều nhà cung cấp thì
+
+01:22:28.679 --> 01:22:30.590
+nó sẽ phải qua b l này
+
+01:22:30.600 --> 01:22:34.669
+thật là b
+
+01:22:39.120 --> 01:22:41.430
+hàng hóa Chỉ bởi một nhà cung cấp Còn
+
+01:22:41.440 --> 01:22:45.310
+nếu mà vẽ theo kiểu là nhà cung cấp nối
+
+01:22:45.320 --> 01:22:47.709
+với Bin Line như này
+
+01:22:47.719 --> 01:22:51.350
+thì thì rõ ràng là một hàng hóa có thể
+
+01:22:51.360 --> 01:22:54.870
+cung cấp bởi nhiều nhiều nhà cung cấp
+
+01:22:54.880 --> 01:22:57.669
+đấy Quan trọng là em muốn như nào rõ
+
+01:22:57.679 --> 01:23:01.149
+ràng ở đây anh đang đọc thì có vẻ
+
+01:23:01.159 --> 01:23:04.550
+là một loại hàng chỉ một nhà cung cấp
+
+01:23:04.560 --> 01:23:07.910
+đảm nhiệm loại hàng nó đúng không Mình
+
+01:23:07.920 --> 01:23:10.990
+sẽ có loại hàng ở
+
+01:23:16.000 --> 01:23:23.430
+ạ lập trình web loại hàng này Đấy như
+
+01:23:23.440 --> 01:23:25.149
+này
+
+01:23:25.159 --> 01:23:27.270
+đây sẽ
+
+01:23:27.280 --> 01:23:33.629
+có đây thì nó sẽ là trên như này Đấy sau
+
+01:23:33.639 --> 01:23:38.390
+loại hàng đây sẽ là loại hàng đúng không
+
+01:23:38.400 --> 01:23:44.110
+Ok Ok chưa đy Đây mã loại hàng nhá tiếp
+
+01:23:44.120 --> 01:23:46.229
+theo số lượng đ như không thể vứt ở
+
+01:23:46.239 --> 01:23:48.149
+trong này được số lượng từ trong chính
+
+01:23:48.159 --> 01:23:49.790
+cái
+
+01:23:49.800 --> 01:23:53.470
+b Đây là mối quan hệ nhiều Nhiều này tôi
+
+01:23:53.480 --> 01:23:55.669
+vẽ mối quan hệ l nhiều nhiều cho đây mấy
+
+01:23:55.679 --> 01:23:57.870
+ông
+
+01:24:01.800 --> 01:24:05.990
+Ờ cái đấy là cái gì nhở đây phải đúng
+
+01:24:06.000 --> 01:24:10.510
+rồi đúng rồi đây nó nhiều nhiều nghĩa là
+
+01:24:10.520 --> 01:24:14.189
+à đâu một Hoàng
+
+01:24:14.199 --> 01:24:17.430
+Hóa thuộc nhiều bên la đúng rồi Đúng
+
+01:24:17.440 --> 01:24:21.310
+Đúng rồi nhiều nhiều đâ nh nhiều nhiều
+
+01:24:21.320 --> 01:24:23.310
+many to many
+
+01:24:23.320 --> 01:24:32.430
+này
+
+01:24:44.719 --> 01:24:52.070
+load nhà cung cấp khi mà khí bên
+
+01:25:06.800 --> 01:25:09.830
+hóa đúng một hàng hóa thuộc một loại
+
+01:25:09.840 --> 01:25:14.990
+hàng đúng trở nhiệm thì rõ ràng là thì
+
+01:25:15.000 --> 01:25:17.109
+đương nhiên thì tất cả một nhà cung cấp
+
+01:25:17.119 --> 01:25:20.510
+nó là thuộc nhiều nó chữ nhiệm một loại
+
+01:25:20.520 --> 01:25:25.390
+hàng xong rồi loại hàng đấy nó sẽ
+
+01:25:25.400 --> 01:25:27.390
+đây nó sẽ có mã nhà cung cấp ở đây này
+
+01:25:27.400 --> 01:25:31.310
+mã nhà cung cấp đấy Xong rồi một loại
+
+01:25:31.320 --> 01:25:35.390
+hàng có nhiều hàng hóa đấy Đúng mà đấy
+
+01:25:35.400 --> 01:25:37.390
+Tôi đang băn khoăn cái này thôi đó là
+
+01:25:37.400 --> 01:25:40.470
+Bin Line này nó lưu lại nó lưu lại phải
+
+01:25:40.480 --> 01:25:43.109
+là nó lưu lại mã nhà cung cấp thì đương
+
+01:25:43.119 --> 01:25:45.189
+nhiên mình sẽ cần ký ký với nó đúng
+
+01:25:45.199 --> 01:25:47.270
+không kiểu kiểu như này
+
+01:25:47.280 --> 01:25:50.590
+này mình sẽ ký với nó là cái mã nhà cung
+
+01:25:50.600 --> 01:25:54.790
+cấp các thứ thứ mã nhà cung cấp
+
+01:25:54.800 --> 01:25:58.750
+phải có ký chứ Đấy ký cả mã của quản lý
+
+01:25:58.760 --> 01:26:03.550
+mà Xác nhận các thứ thứ cái đơn này
+
+01:26:03.560 --> 01:26:06.870
+nữa nhưng mà cái b này nó nối với thằng
+
+01:26:06.880 --> 01:26:10.669
+hàng hóa lại qu mã hàng hóa Ừ ừ vẫn đúng
+
+01:26:10.679 --> 01:26:14.950
+vẫn không sai đấy xong rồi mình và cái
+
+01:26:14.960 --> 01:26:18.990
+bine này sẽ có cả hạ Sử dụng luôn này
+
+01:26:19.000 --> 01:26:23.470
+Đấy B này lúc lúc mà Lư lại cái theo lô
+
+01:26:23.480 --> 01:26:25.270
+mà đúng không theo Vừa nãy bảo bảo theo
+
+01:26:25.280 --> 01:26:26.990
+lô chính là theo từng cái bine này này
+
+01:26:27.000 --> 01:26:29.669
+là chuẩn nhất này Đấy nó sẽ chỉ ngắn gọn
+
+01:26:29.679 --> 01:26:32.669
+này thôi đấy có số lượng nữa đúng không
+
+01:26:32.679 --> 01:26:37.310
+Ok số lượng nữa số lượng
+
+01:26:37.320 --> 01:26:42.310
+này loại à mã hàng hóa này Đấy nó có hết
+
+01:26:42.320 --> 01:26:45.990
+ở trong cái bine này Đấy nó phải như này
+
+01:26:46.000 --> 01:26:48.790
+này hóa đơn chi tiết bine chi tiết của
+
+01:26:48.800 --> 01:26:53.470
+ông ấy đấy từ đấy mình sẽ có mình sẽ có
+
+01:26:53.480 --> 01:26:57.590
+database thôi thôi Cái này n mình sẽ có
+
+01:26:57.600 --> 01:27:01.030
+đấy mã quản lý có rồi mã quản lý này mã
+
+01:27:01.040 --> 01:27:03.750
+nhà cung cấp này Đấy h sử dụng này số
+
+01:27:03.760 --> 01:27:05.750
+lượng Ok đúng đúng đúng
+
+01:27:05.760 --> 01:27:10.830
+rồi thì cái này mình sẽ có database là
+
+01:27:10.840 --> 01:27:12.510
+kiểu
+
+01:27:12.520 --> 01:27:17.470
+new new
+
+01:27:23.320 --> 01:27:26.590
+này mã nhà cung cấp
+
+01:27:26.600 --> 01:27:30.390
+này mã quản lý này gì gì đó đúng không
+
+01:27:30.400 --> 01:27:34.470
+Đấy sau đó thì b l chi tiết này mình sẽ
+
+01:27:34.480 --> 01:27:41.070
+có mã bên l mã hàng hóa số lượng hạ sử
+
+01:27:41.080 --> 01:27:45.270
+dụng Đấy thế là xong Thế được rồi đấy
+
+01:27:45.280 --> 01:27:48.629
+đúng R đây thì mỗi cái lô này nếu mà
+
+01:27:48.639 --> 01:27:50.669
+trong cùng lô đ như cùng hạn sử dụng
+
+01:27:50.679 --> 01:27:52.790
+đúng không một cái lần bên nhập về thì
+
+01:27:52.800 --> 01:27:54.750
+chắc chắn là số
+
+01:27:54.760 --> 01:27:56.510
+thường là hạ sử dụng nó phải giống hệt
+
+01:27:56.520 --> 01:27:59.030
+nhau không có thằng này nửa tẻ nửa nạc
+
+01:27:59.040 --> 01:28:01.550
+gì gì đó thì cái bảng hàng hóa thì sẽ
+
+01:28:01.560 --> 01:28:04.310
+chỉ là lưu thông tin của sản phẩm thôi
+
+01:28:04.320 --> 01:28:06.629
+còn để biết được là sản phẩm nào sắp hết
+
+01:28:06.639 --> 01:28:09.990
+hạn các thứ thứ phải nối sang bên nối
+
+01:28:10.000 --> 01:28:12.830
+sang bên live để mà biết được từng lô
+
+01:28:12.840 --> 01:28:15.030
+từng lô các thứ thứ hạ sử dụng mọi thứ
+
+01:28:15.040 --> 01:28:18.470
+đang như th nào em hiểu chưa
+
+01:28:18.480 --> 01:28:23.109
+nhỉ Alo Hiểu
+
+01:28:23.119 --> 01:28:28.550
+không
+
+01:28:32.639 --> 01:28:35.030
+xuất thì cái này đơn giản rồi Chỉ đơn
+
+01:28:35.040 --> 01:28:38.669
+giản xuất ra thôi gì đâu Cái này không
+
+01:28:38.679 --> 01:28:41.270
+còn số lượng nữa quên dựa dựa vào mấy
+
+01:28:41.280 --> 01:28:42.709
+cái chữa vừa rồi thì cái này không có số
+
+01:28:42.719 --> 01:28:46.790
+lượng nữa chỉ có mã loại hàng thôi xuất
+
+01:28:46.800 --> 01:28:49.950
+ra các thứ thứ thời gian như nào Cái bên
+
+01:28:49.960 --> 01:28:51.870
+cái bên xuất thì chắc là dễ hơn ch em
+
+01:28:51.880 --> 01:28:55.590
+hiểu nhỉ đúng không
+
+01:28:55.600 --> 01:28:57.550
+Cập nhật lại số lượng
+
+01:28:57.560 --> 01:29:00.950
+thừa mình mình thực ra thích thì mình có
+
+01:29:00.960 --> 01:29:03.470
+thể lưu lại số lượng và trong và trong
+
+01:29:03.480 --> 01:29:05.990
+cái bảng Hàng hóa nó vẫn đúng số lượng
+
+01:29:06.000 --> 01:29:08.350
+kiểu hiện tại còn trong kho Mình lưu lại
+
+01:29:08.360 --> 01:29:11.870
+trong trong này cái số lượng số số lượng
+
+01:29:11.880 --> 01:29:13.189
+tồn
+
+01:29:13.199 --> 01:29:15.350
+ấy số lượng
+
+01:29:15.360 --> 01:29:19.310
+tồn còn trong kho thì vẫn đúng nhưng mà
+
+01:29:19.320 --> 01:29:23.350
+ý tôi là chuẩn ấy nếu mà nếu mà nếu mà
+
+01:29:23.360 --> 01:29:26.709
+nối từ bên la về cái binl chi tiết này
+
+01:29:26.719 --> 01:29:28.550
+mình sẽ biết được số lượng K méo hạn sử
+
+01:29:28.560 --> 01:29:31.590
+dụng để biết được là cần tống cái hàng
+
+01:29:31.600 --> 01:29:34.430
+hàng nào đi chứ nếu mà các bạn chỉ lưu
+
+01:29:34.440 --> 01:29:37.910
+mỗi số lượng thôi ví dụ là kìa Thì mình
+
+01:29:37.920 --> 01:29:40.189
+sẽ không hề biết được là cái những cái
+
+01:29:40.199 --> 01:29:42.470
+bao nhiêu thằng đang sắp hết hạn đúng
+
+01:29:42.480 --> 01:29:44.590
+không Ông chỉ lưu số lượng chươ chung mà
+
+01:29:44.600 --> 01:29:46.590
+đúng không nên là chuẩn nhất thì vẫn là
+
+01:29:46.600 --> 01:29:48.990
+ông nên lưu số lượng kèm theo hạn sử
+
+01:29:49.000 --> 01:29:51.950
+dụng mà như thế thì ông Chỉ ông lưu ở
+
+01:29:51.960 --> 01:29:54.950
+trong DB vỡ mồm luôn về Nó là một nhiều
+
+01:29:54.960 --> 01:29:56.550
+thì ông làm sao ông lưu lại được vào
+
+01:29:56.560 --> 01:29:57.510
+trong
+
+01:29:57.520 --> 01:30:00.990
+cái hàng hóa được ông phải lưu ông lưu
+
+01:30:01.000 --> 01:30:02.830
+ông lấy từ trong chính cái bên live chi
+
+01:30:02.840 --> 01:30:06.310
+tiết này ra này để ông ông kiểu xuất ra
+
+01:30:06.320 --> 01:30:09.390
+được cái danh sách sản phẩm kèm với cái
+
+01:30:09.400 --> 01:30:12.790
+hạ sử dụng của nó đúng không Sao anh
+
+01:30:12.800 --> 01:30:16.189
+không ch xài chom à Tôi nói chung là gần
+
+01:30:16.199 --> 01:30:17.870
+đây Tôi muốn chuyển qua dùng hết mấy cái
+
+01:30:17.880 --> 01:30:22.310
+mới để cho nó cũng kiểu thử thách bản
+
+01:30:22.320 --> 01:30:33.510
+thân một tí em hiểu đ này không
+
+01:30:37.560 --> 01:30:41.310
+đúng nó sẽ dựa số lượng tồn đúng
+
+01:30:41.320 --> 01:30:47.270
+không đợi anh một tí Đợi anh tí nhá Ừ em
+
+01:30:47.280 --> 01:30:51.910
+nói câu đấy Hay anh mới đị cái đấy
+
+01:30:51.920 --> 01:30:55.510
+thì thực ra ấy Thực ra ấy nó không nối
+
+01:30:55.520 --> 01:30:56.709
+đến hàng hóa
+
+01:30:56.719 --> 01:30:59.550
+đâu Tuy là nó nối hàng hóa theo kiểu
+
+01:30:59.560 --> 01:31:02.109
+nghiệp vụ này thôi thực ra là hàng hóa
+
+01:31:02.119 --> 01:31:04.229
+này nó là hàng hóa tuần kho phải ghi rõ
+
+01:31:04.239 --> 01:31:05.310
+nó là như
+
+01:31:05.320 --> 01:31:08.709
+thế tức là sao nghĩa là bản chất là phải
+
+01:31:08.719 --> 01:31:11.990
+có phải có nhập đã rồi mới có xuất để
+
+01:31:12.000 --> 01:31:13.400
+anh xem
+
+01:31:13.410 --> 01:31:16.950
+[âm nhạc]
+
+01:31:20.520 --> 01:31:25.590
+bảng hàng hóa chi tiết à để mình lưu lại
+
+01:31:25.600 --> 01:31:32.510
+cái số lượng và sử dụng nà xem
+
+01:31:37.360 --> 01:31:38.910
+Mình vẫn phải có một cái bảng Bảng hàng
+
+01:31:38.920 --> 01:31:44.830
+hóa chi tiết
+
+01:31:48.119 --> 01:31:50.109
+nhiêu để mình còn biết mình xất ra chứ
+
+01:31:50.119 --> 01:31:52.870
+mỗi lần mình thống kê là mình sẽ à mỗi
+
+01:31:52.880 --> 01:31:55.430
+lần mình mỗi lần mình làm cái thống kê
+
+01:31:55.440 --> 01:31:57.430
+gì đó mình phải join rất nhiều bảng và
+
+01:31:57.440 --> 01:32:00.550
+xăm lại cái này thì để group bu theo mã
+
+01:32:00.560 --> 01:32:03.149
+hàng hóa thì mình lấy được số lượng còn
+
+01:32:03.159 --> 01:32:06.750
+tồn Thực ra vẫn làm được cái
+
+01:32:06.760 --> 01:32:09.030
+đấy
+
+01:32:09.040 --> 01:32:11.830
+xem chuẩn là như thế nếu mà em muốn làm
+
+01:32:11.840 --> 01:32:15.629
+database chuẩn là em vẫn phải cứ mỗi lần
+
+01:32:15.639 --> 01:32:18.189
+em lấy số lượng tồn em phải lấy theo B
+
+01:32:18.199 --> 01:32:20.950
+chi tiết để em group by theo cái mã hàng
+
+01:32:20.960 --> 01:32:23.030
+hóa thì em lấy ra được số lượng còn tồn
+
+01:32:23.040 --> 01:32:25.709
+sau đó thì em em hiển thị ra ở giáo diện
+
+01:32:25.719 --> 01:32:28.550
+thôi chứ mình không lưu ở đâu cả là số
+
+01:32:28.560 --> 01:32:31.270
+lượng tồn còn là bao nhiêu hạn là bao
+
+01:32:31.280 --> 01:32:35.189
+nhiêu để em để em xuất ra và khi xuất ra
+
+01:32:35.199 --> 01:32:38.350
+thì mình mình sẽ về sau muốn lấy lại số
+
+01:32:38.360 --> 01:32:40.470
+lượng tồn nữa thì em sẽ lấy số lượng
+
+01:32:40.480 --> 01:32:42.590
+group 3 như này xong em join với bảng
+
+01:32:42.600 --> 01:32:47.870
+xất để mà em trừ đi trừ đi số lượng tôn
+
+01:32:47.880 --> 01:32:50.470
+Nếu mà em muốn làm theo kiểu DB chuẩn nó
+
+01:32:50.480 --> 01:32:55.229
+sẽ là thì nó là lấy
+
+01:32:55.239 --> 01:32:58.270
+tổng số lượng
+
+01:32:58.280 --> 01:33:02.790
+nhập trừ đi tổng số lượng xuất thì chẳng
+
+01:33:02.800 --> 01:33:04.470
+C ra số lượng tồn đúng
+
+01:33:04.480 --> 01:33:08.270
+không đấy thì thế thôi Nếu mà em làm đ
+
+01:33:08.280 --> 01:33:12.109
+kiểu DB
+
+01:33:15.119 --> 01:33:17.070
+bởi vì mình phải luôn thống kê lại còn
+
+01:33:17.080 --> 01:33:19.109
+nếu mà em muốn lưu lại để em đỡ phải
+
+01:33:19.119 --> 01:33:21.270
+thống kê lại ấ thì em phải có một bản
+
+01:33:21.280 --> 01:33:26.709
+hóa đ Bản kiểu hoàng hóa chi tiết và và
+
+01:33:26.719 --> 01:33:29.310
+bản chất Ấy bản chất ấ nó là thiết kế
+
+01:33:29.320 --> 01:33:32.709
+database không chuẩn Không chuẩn hóa Thế
+
+01:33:32.719 --> 01:33:35.830
+nào là chuẩn Hóa chuẩn Hóa là những cái
+
+01:33:35.840 --> 01:33:38.350
+gì mà có thể tính toán được dựa trên cái
+
+01:33:38.360 --> 01:33:40.870
+d liệu khác ấy thì mình không nên lưu nó
+
+01:33:40.880 --> 01:33:43.470
+lại một khi mình lưu nó lại như thế thì
+
+01:33:43.480 --> 01:33:46.430
+nó là bất quy tắc chuẩn Bởi vì nó có thể
+
+01:33:46.440 --> 01:33:49.350
+sai số nghĩa là cái kia bị sửa mà cái
+
+01:33:49.360 --> 01:33:51.950
+không được sửa thì nó sẽ là gây ra sai
+
+01:33:51.960 --> 01:33:55.229
+số em hiểu không nghĩa là chuẩn là mình
+
+01:33:55.239 --> 01:33:57.629
+phải luôn thống kê lại đây giống như này
+
+01:33:57.639 --> 01:34:01.510
+lấy số lượng nhập trừ đi số lượng
+
+01:34:01.520 --> 01:34:04.030
+xất không thực ra không quan tâm đến cái
+
+01:34:04.040 --> 01:34:05.629
+lô đâu em trong trường hợp này đâu liên
+
+01:34:05.639 --> 01:34:06.990
+quan đến lô
+
+01:34:07.000 --> 01:34:09.910
+đâu Anh đâu nói về hạ sử dụng đâu anh
+
+01:34:09.920 --> 01:34:11.750
+chỉ cũng không liên quan đến cái b Line
+
+01:34:11.760 --> 01:34:16.030
+nào mà tổng tổng tất cả các tổng tất cả
+
+01:34:16.040 --> 01:34:18.470
+dựa theo bảng bine chi tiết này này thì
+
+01:34:18.480 --> 01:34:20.790
+lấy được số lượng tổng số lượng của cái
+
+01:34:20.800 --> 01:34:24.510
+hàng hóa đấy ví dụ ở ở đây là sữa đúng
+
+01:34:24.520 --> 01:34:27.390
+không sữa Ông Thọ đúng không Đấy nó có
+
+01:34:27.400 --> 01:34:30.830
+tận đây sữa Ông Thọ Đây là 5 đây là đây
+
+01:34:30.840 --> 01:34:33.629
+là 10 đi thì tổng nó chả 15 đúng không
+
+01:34:33.639 --> 01:34:36.350
+đấy thì tổng tổng nhập vào là 15 đúng
+
+01:34:36.360 --> 01:34:38.750
+chưa Không Quan Tâm mãi B 1 2 đấy không
+
+01:34:38.760 --> 01:34:41.550
+quan tâm tổng nó vẫn là 15 đấy Sau đó
+
+01:34:41.560 --> 01:34:46.189
+thì em thì về sau em có một cái là biế
+
+01:34:46.199 --> 01:34:50.550
+la xuất chẳng hạn đấy Đấy giả sử thế đấy
+
+01:34:50.560 --> 01:34:54.189
+mình sẽ có số lượng suất là bao là 10 số
+
+01:34:54.199 --> 01:34:56.070
+lượng xất là bao
+
+01:34:56.080 --> 01:35:00.629
+nhiêu là năm Hơi chẳng hạn thì em sẽ lấy
+
+01:35:00.639 --> 01:35:03.470
+trừ trừ đi thì nói chung là luôn phải
+
+01:35:03.480 --> 01:35:05.990
+thống kê lại đấy Kiểu như thế đấy Làm
+
+01:35:06.000 --> 01:35:08.669
+kiểu database chuẩn thiết kế kiểu chuẩn
+
+01:35:08.679 --> 01:35:11.229
+đặc biệt là ở trường nữa thì càng không
+
+01:35:11.239 --> 01:35:14.310
+không thực tế nghĩa là chỉ là phải làm
+
+01:35:14.320 --> 01:35:16.750
+chuẩn hóa phải làm theo đ lý thuyết làm
+
+01:35:16.760 --> 01:35:19.229
+theo thực tế thì đúng là để cho mình đỡ
+
+01:35:19.239 --> 01:35:21.390
+phải thống kê lại mỗi lần gọi đến là
+
+01:35:21.400 --> 01:35:23.189
+mình phả thống kê lại ấ thì mình thường
+
+01:35:23.199 --> 01:35:25.109
+ấy có lưu lại nhưng mà nó sẽ không chuẩn
+
+01:35:25.119 --> 01:35:28.870
+hóa thì anh nghĩ là ở trường mình sẽ làm
+
+01:35:28.880 --> 01:35:31.830
+theo lý thuyết em
+
+01:35:50.159 --> 01:35:52.629
+cho bạn này rồi Có gì anh
+
+01:35:52.639 --> 01:35:54.590
+cứ
+
+01:35:54.600 --> 01:35:57.990
+cứ thử export cái này ra để cho em tham
+
+01:35:58.000 --> 01:36:00.629
+khảo
+
+01:36:03.560 --> 01:36:07.310
+này quản lý kho đúng
+
+01:36:07.320 --> 01:36:20.109
+không đ load
+
+01:36:24.320 --> 01:36:31.070
+đúng không DB
+
+01:36:35.320 --> 01:36:37.910
+xịn lắm Nó copy cái này nó sẽ biến thành
+
+01:36:37.920 --> 01:36:40.510
+Google shit cơ kiểu thành cái shit ấy
+
+01:36:40.520 --> 01:36:44.229
+bây giờ nó bị kiểu dạng in là như này h
+
+01:36:44.239 --> 01:36:46.709
+trước nó thành kiểu copy past kiểu này
+
+01:36:46.719 --> 01:36:48.950
+nó thành shit hay phết kiểu thành cái
+
+01:36:48.960 --> 01:36:50.790
+ảnh ấy thính ra là thế thành cái ảnh ấy
+
+01:36:50.800 --> 01:36:52.510
+chứ không phải Google sheet đâu thành
+
+01:36:52.520 --> 01:36:54.390
+cái ảnh
+
+01:36:54.400 --> 01:36:58.910
+các thứ thứ trông nó đẹp hơn
+
+01:37:01.639 --> 01:37:05.790
+thôi chứ cũng cũng tham khảo thôi mà có
+
+01:37:05.800 --> 01:37:09.750
+cóp được cái gì đâu ok
+
+01:37:09.760 --> 01:37:14.669
+nhỉ Hôm này 1 tiếng rưỡi rồi định định
+
+01:37:14.679 --> 01:37:16.709
+tâm sự xong rồi chữa thêm nhiều cái nữa
+
+01:37:16.719 --> 01:37:19.350
+Nhưng có vẻ là muộn rồi
+
+01:37:19.360 --> 01:37:22.510
+Ờ mấy câu hỏi này chắc
+
+01:37:22.520 --> 01:37:24.149
+là
+
+01:37:24.159 --> 01:37:26.629
+có các bạn cứ hỏi ở trên cái link của
+
+01:37:26.639 --> 01:37:30.350
+mình để mình trả lời dần nhá Chắc là hôm
+
+01:37:30.360 --> 01:37:31.990
+nay cứ tạm nghỉ đã
+
+01:37:32.000 --> 01:37:36.030
+nhỉ Ok chào mấy ông tôi nghỉ tôi lấy sức
+
+01:37:36.040 --> 01:37:37.510
+mai còn đi
+
+01:37:37.520 --> 01:37:45.430
+dậy OK Chào mấy ông nhé Bye
