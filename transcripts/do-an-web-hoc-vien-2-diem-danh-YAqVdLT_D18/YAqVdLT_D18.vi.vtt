@@ -1,0 +1,2566 @@
+WEBVTT
+
+00:00:30.720 --> 00:00:33.889
+tiêu đề nó khá là khác khá là lạ đúng
+
+00:00:33.899 --> 00:00:36.470
+không ạ Hôm nay mình sẽ hướng dẫn các
+
+00:00:36.480 --> 00:00:37.750
+bạn về
+
+00:00:37.760 --> 00:00:40.430
+thực ra Đáng lẽ buổi Thứ bảy này nhưng
+
+00:00:40.440 --> 00:00:43.910
+mình nói thì sẽ là buổi chấm đồ án nhưng
+
+00:00:43.920 --> 00:00:45.010
+mà
+
+00:00:45.020 --> 00:00:47.690
+nhưng mà mình nghĩ là mình sẽ phải chữa
+
+00:00:47.700 --> 00:00:51.470
+cái này sớm cho các nhóm mà thực ra các
+
+00:00:51.480 --> 00:00:54.170
+nhóm đều chủ yếu thì đang làm đồ án liên
+
+00:00:54.180 --> 00:00:56.869
+quan đến bên học viện hay bên quản lý gì
+
+00:00:56.879 --> 00:00:59.930
+gì đó Nói chung bài toán nghiệp vụ thì
+
+00:00:59.940 --> 00:01:02.990
+Hôm nay tôi sẽ làm cái bài toán thử Giả
+
+00:01:03.000 --> 00:01:05.329
+sử một cái bài toán nghiệp vụ là điểm
+
+00:01:05.339 --> 00:01:07.210
+danh là cái khó nhất
+
+00:01:07.220 --> 00:01:10.690
+thì hi vọng là chữa xong thì các bạn
+
+00:01:10.700 --> 00:01:15.969
+thực ra là các bạn Có code thì cũng
+
+00:01:18.600 --> 00:01:20.390
+trường hợp này chắc là tôi chỉ có demo
+
+00:01:20.400 --> 00:01:23.210
+rồi tôi không chia sẻ code mấy ông tự
+
+00:01:23.220 --> 00:01:28.569
+làm lại thôi nhưng mấy ông có phải hiểu
+
+00:01:31.820 --> 00:01:35.270
+giải quyết bài toán là như thế nào Ừ nhỉ
+
+00:01:35.280 --> 00:01:38.569
+Có vài nhóm mà tôi bảo là chữa cho đồ án
+
+00:01:38.579 --> 00:01:41.530
+nhóm nhóm các bạn nhỉ
+
+00:01:41.540 --> 00:01:43.969
+tội nhưng mà tôi quen sử mất là nhóm Ông
+
+00:01:43.979 --> 00:01:48.969
+làm về cái gì rồi
+
+00:02:03.240 --> 00:02:06.050
+giống cái điểm danh thôi điểm điểm danh
+
+00:02:06.060 --> 00:02:08.690
+điểm thực ra dễ hơn điểm danh đấy nhưng
+
+00:02:08.700 --> 00:02:10.669
+mà nói chung là hôm nay tôi sẽ chữa cho
+
+00:02:10.679 --> 00:02:13.070
+mấy ông hẳn điểm danh luôn thì mấy ông
+
+00:02:13.080 --> 00:02:15.410
+sẽ hiểu được bài toán nó sẽ như nào thì
+
+00:02:15.420 --> 00:02:18.830
+đầu tiên thì bởi tôi hình dung Tôi làm
+
+00:02:18.840 --> 00:02:21.170
+từng làm rồi chứ nếu không là tôi yêu
+
+00:02:21.180 --> 00:02:23.990
+cầu mấy ông vẫn phải vẽ ra cái vẽ ra cái
+
+00:02:24.000 --> 00:02:27.110
+điểm mấy ông hiểu được là cần phải làm
+
+00:02:27.120 --> 00:02:30.530
+gì mà đúng không Thì tôi nhớ là tôi từng
+
+00:02:30.540 --> 00:02:37.930
+cho mấy ông xem cái phần mềm của tôi rồi
+
+00:02:40.620 --> 00:02:42.350
+danh nó sẽ kiểu trông như thế nào rồi
+
+00:02:42.360 --> 00:02:50.690
+đúng không ạ
+
+00:02:54.239 --> 00:02:57.949
+này à chọn môn này rồi chọn lợn các lớp
+
+00:02:57.959 --> 00:03:00.350
+hồi đấy mình làm cho kiểu các lớp kiểu
+
+00:03:00.360 --> 00:03:03.649
+Giả sử là có thể có thể kiểu dậy hai lớp
+
+00:03:03.659 --> 00:03:05.930
+cùng một lúc kiểu như này nó sẽ hiển thị
+
+00:03:05.940 --> 00:03:08.390
+ra là toàn bộ sinh viên của hai lớp đấy
+
+00:03:08.400 --> 00:03:12.110
+Kiểu như này sau đó thì mình mặc định là
+
+00:03:12.120 --> 00:03:13.970
+mình sẽ tích hết và đi học có thể tích
+
+00:03:13.980 --> 00:03:17.270
+vào nghỉ muộn hay cái gì gì đó hiển thị
+
+00:03:17.280 --> 00:03:18.949
+ở buổi trước là như nào chẳng hạn thế
+
+00:03:18.959 --> 00:03:23.509
+tổng số giờ dậy đã dậy lớp đấy số giờ
+
+00:03:23.519 --> 00:03:26.630
+còn lại dạy lớp đấy Vân tình trạng đi
+
+00:03:26.640 --> 00:03:29.509
+học của lớp đấy đã điểm danh hay chưa số
+
+00:03:29.519 --> 00:03:31.990
+buổi đã dậy lớp đấy là như thế nào
+
+00:03:32.000 --> 00:03:35.509
+đến cuối này sẽ nhập số giờ vào sau đó
+
+00:03:35.519 --> 00:03:38.930
+thì ghi chú có thể cho ấn cập nhật khi
+
+00:03:38.940 --> 00:03:43.089
+mà ấn cập nhật xong đây giả sử như này
+
+00:03:43.099 --> 00:03:45.530
+khi ấn cập nhật xong thì sẽ xuất ra được
+
+00:03:45.540 --> 00:03:47.990
+là có bao nhiêu người đang nghỉ có phép
+
+00:03:48.000 --> 00:04:45.610
+hay gì đó vân vân và
+
+00:04:47.699 --> 00:04:50.090
+cái này mà tôi sẽ chỉ demo cho mấy ông
+
+00:04:50.100 --> 00:04:52.249
+thì mấy ông có thể hiểu được bài toán để
+
+00:04:52.259 --> 00:04:56.830
+làm thôi ok nhé bắt đầu nhỉ
+
+00:04:56.840 --> 00:04:59.210
+thì đầu tiên là mình sẽ có database đúng
+
+00:04:59.220 --> 00:05:02.330
+không ạ Mình sẽ sẽ tạo một data bay mới
+
+00:05:02.340 --> 00:05:09.890
+đi
+
+00:05:12.780 --> 00:05:16.029
+rồi không phải đến điểm danh mới dùng
+
+00:05:16.039 --> 00:05:18.710
+mấy ông bị lạm dụng choi quá cho nhiều
+
+00:05:18.720 --> 00:05:32.350
+không tốt
+
+00:05:38.039 --> 00:05:42.129
+viện đúng không ạ giả sử như này
+
+00:05:42.139 --> 00:05:46.310
+sau đó thì mình sẽ lưu ở đây một cái là
+
+00:05:46.320 --> 00:05:48.370
+học viện
+
+00:05:48.380 --> 00:05:50.529
+đây là học viện
+
+00:05:50.539 --> 00:05:54.309
+xếp ở lại
+
+00:06:02.580 --> 00:06:04.850
+mình bản chất là mình sẽ tạo ra dâu tây
+
+00:06:04.860 --> 00:06:11.350
+là mình sẽ có bảng đương nhiên có bảng
+
+00:06:15.060 --> 00:06:17.469
+liệu nhiều bảng không
+
+00:06:17.479 --> 00:06:20.930
+Tại sao lại delete dữ liệu nhiều bảng
+
+00:06:20.940 --> 00:06:23.590
+nhỉ Ông định làm gì
+
+00:06:23.600 --> 00:06:29.290
+hạn chế Delete dữ liệu thôi
+
+00:06:32.400 --> 00:06:34.249
+sinh viên đúng không ạ tạm bỏ qua bằng
+
+00:06:34.259 --> 00:06:37.670
+khóa đi bởi vì thực tế là vừa rồi Khi mà
+
+00:06:37.680 --> 00:06:39.950
+mình dậy thì mình dậy không giáo viên
+
+00:06:39.960 --> 00:06:42.770
+không dạy liên quan đến à kiểu dạng
+
+00:06:42.780 --> 00:06:44.270
+không chọn khóa đâu mà gần như là chọn
+
+00:06:44.280 --> 00:06:46.990
+mấy ông thấy vừa rồi tôi chọn là chọn
+
+00:06:47.000 --> 00:06:52.010
+lớp với môn đúng không ạ lớp à môn rồi
+
+00:06:52.020 --> 00:06:54.950
+lớp hoặc là lớp môn tùy nhưng mà tôi
+
+00:06:54.960 --> 00:06:56.870
+nghĩ là môn này lớp cũng rất là hay để
+
+00:06:56.880 --> 00:06:58.969
+mà kiểu đương nhiên cái đấy là dựa trên
+
+00:06:58.979 --> 00:07:01.070
+cả bảng phân công nữa nhưng mà giả sử
+
+00:07:01.080 --> 00:07:03.830
+bây giờ mình mình đang chưa có bảng phân
+
+00:07:03.840 --> 00:07:06.529
+công đi À không nghĩa là bây giờ thực tế
+
+00:07:06.539 --> 00:07:08.890
+là kiểu bây giờ coi như là
+
+00:07:08.900 --> 00:07:11.270
+mấy ông sẽ phải tự làm cái phân công đi
+
+00:07:11.280 --> 00:07:13.430
+bây giờ chỉ nốt cả mấy ông về cái phân
+
+00:07:13.440 --> 00:07:15.170
+công cho tôi làm hết sự Cái đồ án của
+
+00:07:15.180 --> 00:07:17.110
+mấy ông mất rồi thì
+
+00:07:17.120 --> 00:07:20.390
+coi như là bây giờ có môn này có lớp này
+
+00:07:20.400 --> 00:07:22.430
+sau khi chọn lớp thì tất cả sinh viên
+
+00:07:22.440 --> 00:07:24.830
+của lớp đấy này đúng không ạ sau đó thì
+
+00:07:24.840 --> 00:07:28.010
+mình sẽ lưu lại mình sẽ điểm danh cho
+
+00:07:28.020 --> 00:07:30.050
+tất cả sinh viên đấy để lưu lại vào điểm
+
+00:07:30.060 --> 00:07:32.089
+danh và điểm danh chi tiết đấy mình sẽ
+
+00:07:32.099 --> 00:07:35.210
+có những cái tư thế sẽ có bao nhiêu Bảng
+
+00:07:35.220 --> 00:07:39.650
+nhỉ và 5 bảng mình cũng sẽ có 5 bảng ok
+
+00:07:39.660 --> 00:07:40.570
+chưa
+
+00:07:40.580 --> 00:07:48.110
+đến đoạn này mấy ông bắt kịp được chứ
+
+00:07:50.699 --> 00:07:52.430
+trạng quan trọng lắm Xóa đi cũng được
+
+00:07:52.440 --> 00:07:55.430
+hoặc là tạo thành cái mới đi Tôi nghĩ
+
+00:07:55.440 --> 00:07:59.469
+tạo hẳn cái mới
+
+00:08:02.720 --> 00:08:26.650
+Ariel news mới là được
+
+00:08:42.200 --> 00:08:46.570
+mình sẽ có 3 năm bảng đúng không ạ
+
+00:08:46.580 --> 00:08:50.410
+Bạn
+
+00:08:52.980 --> 00:09:00.070
+điểm danh và điểm danh chi tiết
+
+00:09:04.399 --> 00:09:10.810
+lớp này mã môn này nhưng mà ở
+
+00:09:13.260 --> 00:09:17.889
+mấy ông vừa rồi Thế là chọn à
+
+00:09:20.880 --> 00:09:23.150
+đúng không ạ tôi còn lưu lại các lớp ở
+
+00:09:23.160 --> 00:09:25.790
+đây là các mã lớp bởi vì ở Hồi đấy tôi
+
+00:09:25.800 --> 00:09:28.970
+chấm công là giả sử là hạ giáo viên điểm
+
+00:09:28.980 --> 00:09:30.410
+danh cho hai lớp cùng một lúc nhưng mà
+
+00:09:30.420 --> 00:09:34.070
+chỉ được tính chấm công là 11 Lớp thôi
+
+00:09:34.080 --> 00:09:37.070
+thành ra mới phải làm thế Còn nếu mấy
+
+00:09:37.080 --> 00:09:38.690
+ông Muốn tách ra cũng được theo kiểu là
+
+00:09:38.700 --> 00:09:41.030
+tuy là điểm danh 2 lớp nhưng mà được
+
+00:09:41.040 --> 00:09:44.090
+chấm công hai lần thì sẽ tách ra còn nếu
+
+00:09:44.100 --> 00:09:46.910
+mà không thì sẽ phải lưu lại các lớp ở
+
+00:09:46.920 --> 00:09:49.970
+trong này để hiểu được là là một lúc
+
+00:09:49.980 --> 00:09:52.509
+mình dậy nhiều lớp
+
+00:09:52.519 --> 00:09:55.009
+mã giáo viên nữa nhưng mà tôi bảo tôi
+
+00:09:55.019 --> 00:09:59.269
+tạm bỏ qua Vụ này mình sẽ có ngày giờ
+
+00:09:59.279 --> 00:10:01.150
+bắt đầu rơi kết thúc đúng không ạ
+
+00:10:01.160 --> 00:10:04.069
+nhiều người thì bảo làm theo ca đúng
+
+00:10:04.079 --> 00:10:05.530
+không ạ Cũng được
+
+00:10:05.540 --> 00:10:09.170
+mình sẽ mình có thể làm với cả cũng được
+
+00:10:09.180 --> 00:10:11.949
+cho đơn giản
+
+00:10:16.220 --> 00:10:19.910
+ngày ca và mã lớp nó sẽ là kiểu nên là
+
+00:10:19.920 --> 00:10:23.509
+unic nghĩa âm Chỉ là kiểu là trong cùng
+
+00:10:23.519 --> 00:10:25.310
+ngày trong cùng ca thì cái lớp đấy nó
+
+00:10:25.320 --> 00:10:28.130
+chỉ học một môn thôi đúng không ạ Đấy
+
+00:10:28.140 --> 00:10:31.750
+tiếp theo mình sẽ có điểm danh chi tiết
+
+00:10:31.760 --> 00:10:36.370
+mình sẽ có mã điểm danh và mã sinh viên
+
+00:10:36.380 --> 00:10:39.069
+và tình trạng đi học
+
+00:10:39.079 --> 00:10:42.290
+đấy tình trạng đi học cụ thể là gì đấy
+
+00:10:42.300 --> 00:10:46.130
+ví dụ là kiểu Hồi đấy tôi cho quy ước là
+
+00:10:46.140 --> 00:10:49.670
+kiểu Nếu giả sử là đi muộn thì sẽ tính
+
+00:10:49.680 --> 00:10:51.550
+bằng
+
+00:10:51.560 --> 00:10:55.370
+1/3 buổi nghỉ thế 3 lần đi muộn rồi tính
+
+00:10:55.380 --> 00:10:57.889
+bằng một buổi nghỉ đấy Kiểu như thế thì
+
+00:10:57.899 --> 00:11:01.430
+và nghỉ nhiều quá quá ví dụ 20% số buổi
+
+00:11:01.440 --> 00:11:04.569
+thì không được thi kiểu thế
+
+00:11:04.579 --> 00:11:08.710
+Ok Bây giờ mình sẽ làm
+
+00:11:08.720 --> 00:11:11.220
+thì tôi sẽ chạy bằng cái này đi
+
+00:11:11.230 --> 00:11:25.509
+[âm nhạc]
+
+00:11:27.860 --> 00:11:34.850
+Microsoft đúng không ạ Mình sẽ tạo 53
+
+00:11:39.079 --> 00:11:43.990
+ra không cần tạo Cần Thơ
+
+00:11:48.779 --> 00:11:50.710
+tiên là mình sẽ có
+
+00:11:50.720 --> 00:11:54.170
+lớp đúng không là class nhưng mà rõ ràng
+
+00:11:54.180 --> 00:11:56.810
+thì nếu thấy khó chịu với class theo
+
+00:11:56.820 --> 00:12:01.850
+kiểu gọi là là cậu nó nó kiểu bị trùng
+
+00:12:01.860 --> 00:12:05.509
+tên ý tôi sẽ đặt nó code kiểu này khóa
+
+00:12:05.519 --> 00:12:11.410
+đi mà sẽ mua độ sẽ là maration
+
+00:12:11.420 --> 00:12:14.470
+đó mình sẽ tạo trước cái này
+
+00:12:14.480 --> 00:12:24.170
+À quên phải tạo cho nó nữa
+
+00:12:27.060 --> 00:12:32.290
+không dùng đến nhé
+
+00:12:38.399 --> 00:12:44.710
+mình sẽ có cột là cột nêm là xong
+
+00:12:47.519 --> 00:12:50.110
+Tạo shipper như thế Tôi vứt hết tôi sẽ
+
+00:12:50.120 --> 00:12:52.850
+xử lý luôn Ở ngay trong này một cái ship
+
+00:12:52.860 --> 00:12:54.949
+đồ vậy không cần phải tạo cái Factory
+
+00:12:54.959 --> 00:12:57.790
+nữa
+
+00:13:17.220 --> 00:13:19.430
+đồ ăn mấy ông phải xem cái video này này
+
+00:13:19.440 --> 00:13:21.769
+bây giờ video quan trọng này mấy ông cần
+
+00:13:21.779 --> 00:13:28.449
+phải xem thì mấy ông hiểu được cách làm
+
+00:13:31.339 --> 00:13:42.790
+làm gì có Factory mà yêu mình sẽ có là
+
+00:13:52.880 --> 00:14:00.590
+tiếp theo mình sẽ tạo student
+
+00:14:02.240 --> 00:14:04.269
+subject
+
+00:14:04.279 --> 00:14:08.949
+là môn học
+
+00:14:12.199 --> 00:14:19.389
+điểm danh là
+
+00:14:45.000 --> 00:14:47.050
+được
+
+00:14:47.060 --> 00:14:50.569
+Để mình hiểu được là nó là trung gian
+
+00:14:50.579 --> 00:14:53.509
+giữa hai thằng nó kiểu pipe nó là thằng
+
+00:14:53.519 --> 00:14:57.730
+bạn trung gian giữa hai thằng cũng được
+
+00:15:02.339 --> 00:15:05.150
+danh chi tiết dịch ra điểm danh chi tiết
+
+00:15:05.160 --> 00:15:07.189
+điểm danh sinh viên ở điểm danh sinh
+
+00:15:07.199 --> 00:15:10.870
+viên không đến nỗi tớ sẽ tạo kiểu này đi
+
+00:15:10.880 --> 00:15:14.030
+đó Nói chung là sẽ có rất nhiều bạn đúng
+
+00:15:14.040 --> 00:15:16.810
+không ạ
+
+00:15:21.079 --> 00:15:24.670
+string này
+
+00:15:27.000 --> 00:15:31.090
+khác của student nhá mình sẽ có table và
+
+00:15:31.100 --> 00:15:33.009
+fouryki luôn này
+
+00:15:33.019 --> 00:15:52.670
+là cho đến ta có
+
+00:16:06.060 --> 00:16:41.889
+Em lấy ra nhiều thì em nên cách thôi
+
+00:16:45.480 --> 00:16:48.110
+ít thay đổi Mình thích nó lại để mình đỡ
+
+00:16:48.120 --> 00:16:50.949
+làm mất công truy vấn liên tục vào nó
+
+00:16:50.959 --> 00:16:53.870
+và có thể liên quan đến cả config các
+
+00:16:53.880 --> 00:16:57.050
+thứ thường config thường là bên giao
+
+00:16:57.060 --> 00:17:00.189
+diện là nhiều
+
+00:17:02.820 --> 00:17:05.029
+có thể kích lại được mình thường xuyên
+
+00:17:05.039 --> 00:17:12.789
+dùng với nó
+
+00:17:16.140 --> 00:17:19.270
+nha Xem đổ rượu nhé
+
+00:17:19.280 --> 00:17:21.490
+lỗi luôn
+
+00:17:21.500 --> 00:17:31.450
+cái này sẽ là database
+
+00:17:33.380 --> 00:17:37.150
+xóa cái kia rồi
+
+00:17:39.720 --> 00:17:44.529
+robot
+
+00:17:50.480 --> 00:17:58.789
+Mình chưa mình chưa chạy cái probas
+
+00:18:00.320 --> 00:18:02.710
+đợi chạy luôn cả mấy cái kia không lên
+
+00:18:02.720 --> 00:18:10.330
+mình sẽ có bạn ở đây sẽ có table
+
+00:18:13.140 --> 00:18:13.870
+lười
+
+00:18:13.880 --> 00:18:16.190
+chuẩn ra mấy ông sẽ còn phải thêm những
+
+00:18:16.200 --> 00:18:19.029
+cái tính các thứ thứ nó nữa
+
+00:18:19.039 --> 00:18:22.490
+mình đây mình sẽ có đến cái đoạn quan
+
+00:18:22.500 --> 00:18:26.830
+trọng này
+
+00:18:38.539 --> 00:18:44.890
+sắp trái cây đi này
+
+00:18:47.600 --> 00:18:50.810
+Nó là tên là Dead luôn cũng được không
+
+00:18:50.820 --> 00:18:55.970
+sao
+
+00:19:21.900 --> 00:19:24.130
+sẽ để
+
+00:19:24.140 --> 00:19:32.049
+với cosx
+
+00:19:36.360 --> 00:19:38.750
+cái cùng bị chung ông có thể kiểu đặt
+
+00:19:38.760 --> 00:19:40.970
+tên cho con chết này cũng được Còn không
+
+00:19:40.980 --> 00:19:44.330
+thì nó nó sẽ tạo mặc định cho cái con
+
+00:19:44.340 --> 00:19:47.590
+chết này con gì nha ôi chắc thế thôi
+
+00:19:47.600 --> 00:19:51.250
+tiếp theo mình sẽ có bảng này
+
+00:19:51.260 --> 00:19:53.350
+sẽ có
+
+00:19:53.360 --> 00:19:57.169
+không có cột ID không có time sẽ thẳng
+
+00:19:57.179 --> 00:19:58.690
+luôn là
+
+00:19:58.700 --> 00:20:10.390
+một cái là standing
+
+00:20:18.919 --> 00:20:21.590
+tình trạng đi học thì mình sẽ đặt tên nó
+
+00:20:21.600 --> 00:20:24.470
+status cũng được có thể đơn giản như thế
+
+00:20:24.480 --> 00:20:27.529
+sau đó mình sẽ quy ước cái kiểu một là
+
+00:20:27.539 --> 00:20:33.049
+gì Hai gì bằng i5 sao
+
+00:20:36.480 --> 00:20:39.110
+học nhưng mà có ở đây Tôi đang để nó là
+
+00:20:39.120 --> 00:20:41.810
+chính là lớp nó class đấy bởi vì nếu
+
+00:20:41.820 --> 00:20:44.630
+mình đặt tên nó class thì thì nó sẽ bị
+
+00:20:44.640 --> 00:20:47.590
+lỗi vì không được chứ chưa Cái từ đấy
+
+00:20:47.600 --> 00:20:51.169
+ông hình dung không class không thể đặt
+
+00:20:51.179 --> 00:20:53.149
+tên nó thành mua đồ được nên là tôi đặt
+
+00:20:53.159 --> 00:20:55.029
+tên nó thế thôi
+
+00:20:55.039 --> 00:21:02.409
+kiểu khóa khóa học ấy
+
+00:21:07.020 --> 00:21:10.029
+khóa chính chỉnh chính là
+
+00:21:10.039 --> 00:21:18.730
+ID và toda
+
+00:21:21.200 --> 00:21:23.570
+theo mình Bây giờ mình bắt đầu lần lượt
+
+00:21:23.580 --> 00:21:26.630
+thêm và các bạn này đương nhiên là tôi
+
+00:21:26.640 --> 00:21:29.870
+sẽ demo thêm trước vào trong bảng code
+
+00:21:29.880 --> 00:21:34.450
+bảng Today
+
+00:21:38.299 --> 00:21:41.350
+là mình
+
+00:21:41.360 --> 00:21:44.090
+ôi thưởng hay làm cách tôi thường hay
+
+00:21:44.100 --> 00:21:47.090
+làm ấy thì mình sẽ Đương nhiên mình fake
+
+00:21:47.100 --> 00:21:48.950
+data đúng không ạ Tôi nhớ không lầm là
+
+00:21:48.960 --> 00:21:53.149
+hình như là label bắt đầu có cái Faker
+
+00:21:53.159 --> 00:21:56.450
+là là headp thì phải thằng này có chưa
+
+00:21:56.460 --> 00:21:58.029
+nhỉ
+
+00:21:58.039 --> 00:22:01.750
+đúng chưa
+
+00:22:04.580 --> 00:22:09.890
+biết được không
+
+00:22:12.960 --> 00:22:13.810
+đúng không
+
+00:22:13.820 --> 00:22:24.370
+Để chạy thử
+
+00:23:15.120 --> 00:24:11.769
+thằng kia là mình sẽ phải khai báo
+
+00:24:45.480 --> 00:24:46.990
+mà
+
+00:24:47.000 --> 00:24:50.230
+bây giờ mình sẽ có đầu tiên là
+
+00:24:50.240 --> 00:25:00.789
+ghost này
+
+00:25:04.500 --> 00:25:07.149
+thêm vào trong cái mạng này
+
+00:25:07.159 --> 00:25:09.130
+truyền nêm vào đúng không
+
+00:25:09.140 --> 00:25:16.190
+anh sẽ là Faker gọi đến cái gì mình sẽ ở
+
+00:25:16.200 --> 00:25:27.850
+đây có những cái gì nhỉ
+
+00:25:30.500 --> 00:25:33.549
+có cả vụ gì nhỉ
+
+00:25:33.559 --> 00:25:46.549
+muốn học cũng có nhớ ở đấy có cả môn học
+
+00:26:30.500 --> 00:26:33.490
+một lát Ngô thôi đúng không Ok
+
+00:26:33.500 --> 00:26:42.190
+mình sẽ có code đây
+
+00:26:52.559 --> 00:27:00.950
+khác đi
+
+00:27:21.360 --> 00:27:25.430
+không
+
+00:27:42.620 --> 00:27:46.370
+cos này Thực ra thực tế thực tế là ông
+
+00:27:46.380 --> 00:27:48.110
+không cần truyền phiêu bôi bổ nếu mà ông
+
+00:27:48.120 --> 00:27:50.210
+chạy hàng in search về nó sẽ in sốt hàng
+
+00:27:50.220 --> 00:27:53.810
+vào Không không cái thằng rết nó mới gọi
+
+00:27:53.820 --> 00:27:56.169
+đến thằng à
+
+00:27:56.179 --> 00:27:58.789
+quên hoặc là khi mà ông khởi tạo đối
+
+00:27:58.799 --> 00:28:01.850
+tượng cho Ông Sếp nó lại thì nó mới gọi
+
+00:28:01.860 --> 00:28:03.490
+đến thằng Phil ơible
+
+00:28:03.500 --> 00:28:06.230
+Còn khi mà Insert này thì nó sẽ in xuất
+
+00:28:06.240 --> 00:28:10.990
+hẳn đâu luôn không cần gọi kiểu kia nữa
+
+00:28:11.000 --> 00:28:14.810
+Ở đây khi mà in xuất xong Asus sinh viên
+
+00:28:14.820 --> 00:28:19.990
+này tôi muốn là mình sẽ lấy toàn bộ
+
+00:28:20.000 --> 00:28:22.450
+toàn bộ
+
+00:28:22.460 --> 00:28:30.529
+code này lấy lại đã mình sẽ lắp
+
+00:28:34.380 --> 00:28:39.669
+ra ID kiểu biên như này
+
+00:28:52.679 --> 00:29:01.669
+nhiên trong trong cái danh sách này
+
+00:29:04.320 --> 00:29:07.450
+mạc kia đấy
+
+00:29:07.460 --> 00:29:11.450
+em ạ mạng danh sách toàn bộ chữ ID toàn
+
+00:29:11.460 --> 00:29:13.789
+bộ khoa học đúng không ạ Cái này sẽ đơn
+
+00:29:13.799 --> 00:29:21.190
+giản là Faker này sẽ lên thôi
+
+00:29:30.659 --> 00:29:33.370
+đến 1000 đi
+
+00:29:33.380 --> 00:29:36.529
+nó sẽ ngẫu nhiên ở trong 10 lớp Thực ra
+
+00:29:36.539 --> 00:29:40.430
+tôi nghĩ năm lớp thôi năm lớp 10 môn 5
+
+00:29:40.440 --> 00:29:44.110
+môn thôi năm lớp
+
+00:29:47.720 --> 00:29:52.210
+không à năm lớp này 5 môn
+
+00:29:52.220 --> 00:29:54.669
+1000 sinh viên
+
+00:29:54.679 --> 00:29:58.070
+hơi nhiều quá 100 sinh viên thì đã là
+
+00:29:58.080 --> 00:30:00.590
+mỗi lớp tầm 20 sinh viên nếu trong
+
+00:30:00.600 --> 00:30:02.110
+trường hợp random này chuẩn
+
+00:30:02.120 --> 00:30:07.029
+nó sẽ ngẫu nhiên mà
+
+00:30:18.260 --> 00:30:30.529
+là 4 lỗi
+
+00:30:34.700 --> 00:30:43.570
+báo lỗi cái code xe đi này
+
+00:30:48.559 --> 00:30:52.010
+lỗi lỗi tôi nó là khi gọi thằng kia nó
+
+00:30:52.020 --> 00:30:54.470
+sẽ trả về có thể không thì mình sẽ phải
+
+00:30:54.480 --> 00:31:00.190
+là ở cos Tại thằng thứ không cơ
+
+00:31:03.980 --> 00:31:07.509
+cái này chả phải chi mà
+
+00:31:07.519 --> 00:31:15.549
+chồng có vẻ hơi khó hiểu một tí nhé
+
+00:31:17.899 --> 00:31:20.389
+thực ra mình sẽ chạy kiểu robot cũng
+
+00:31:20.399 --> 00:31:25.210
+được robot là nó cũng sẽ
+
+00:31:28.080 --> 00:31:31.130
+xác nó không có hàm để mà để mà xóa toàn
+
+00:31:31.140 --> 00:31:35.570
+bộ xóa toàn bộ đi kiểu xóa hết đi mà nó
+
+00:31:35.580 --> 00:31:37.570
+chỉ có kiểu
+
+00:31:37.580 --> 00:31:49.630
+cross là xóa hết thì phải
+
+00:32:05.059 --> 00:32:17.930
+rồi trả lại shit này
+
+00:32:25.880 --> 00:32:29.029
+Ok đúng không Đấy Bây giờ mình có người
+
+00:32:29.039 --> 00:32:31.909
+này sinh viên ngẫu nhiên lớp học bây giờ
+
+00:32:31.919 --> 00:32:34.669
+mình sẽ làm cái giao diện làm nhanh qua
+
+00:32:34.679 --> 00:32:38.210
+giao diện kiểu để mà kiểu mà chọn lớp
+
+00:32:38.220 --> 00:32:41.450
+này chọn môn này đúng rồi chọn lớp chọn
+
+00:32:41.460 --> 00:32:43.730
+môn này toàn bộ sinh viên của lớp đấy
+
+00:32:43.740 --> 00:32:47.210
+Sau đó thì mặc định là lúc đầu chưa có
+
+00:32:47.220 --> 00:32:49.970
+điểm danh thì sẽ hiển thị ra như thế nào
+
+00:32:49.980 --> 00:32:51.710
+xong rồi có điểm danh sẽ hiển thị lại
+
+00:32:51.720 --> 00:32:59.289
+như nào
+
+00:33:02.460 --> 00:33:04.570
+Trailer này nhé Có một thằng câu trả lời
+
+00:33:04.580 --> 00:33:06.669
+nhé
+
+00:33:06.679 --> 00:33:09.889
+đầu tiên khi vào đây này Nó sẽ trả về
+
+00:33:09.899 --> 00:33:16.509
+cho mình một cái mình sẽ gọi đến
+
+00:33:20.460 --> 00:33:23.710
+Chẳng hạn đơn giản này đi
+
+00:33:23.720 --> 00:33:27.110
+Chính xác là chính xác là khi là chọn
+
+00:33:27.120 --> 00:33:29.590
+lớp chọn môn thì sẽ
+
+00:33:29.600 --> 00:33:31.870
+sẽ kiểu
+
+00:33:31.880 --> 00:33:35.029
+mình mình sẽ phải kiểu có một cái form
+
+00:33:35.039 --> 00:33:39.350
+Ấn Nút ấn nút gì gì đó nếu mà không dùng
+
+00:33:39.360 --> 00:33:41.269
+ryuri Giả sử Bây giờ tôi không can thiệp
+
+00:33:41.279 --> 00:33:43.149
+một tí regular
+
+00:33:43.159 --> 00:33:45.950
+không dùng là Jack Siri gì cả thì đúng
+
+00:33:45.960 --> 00:33:47.750
+là kiểu mình sẽ phải load lại trang để
+
+00:33:47.760 --> 00:33:51.250
+mà kiểu hiển thị ra toàn bộ sinh viên
+
+00:33:51.260 --> 00:33:57.970
+Tôi sẽ đặt tên đẹp phone đi
+
+00:34:01.799 --> 00:34:04.070
+thị ra toàn bộ lớp và môn của thằng này
+
+00:34:04.080 --> 00:34:09.010
+có thể chọn này có bằng cos
+
+00:34:14.820 --> 00:34:18.190
+chết
+
+00:34:22.980 --> 00:34:25.129
+view ở đây là hình như ở đây có một cái
+
+00:34:25.139 --> 00:34:26.770
+webcam vừa phải
+
+00:34:26.780 --> 00:34:32.829
+sáng nay đi này
+
+00:34:46.079 --> 00:34:54.409
+index.
+
+00:34:56.900 --> 00:35:00.730
+có
+
+00:35:03.740 --> 00:35:06.250
+Ok này
+
+00:35:06.260 --> 00:35:10.430
+mình sẽ mình sẽ có cái form để mình chọn
+
+00:35:10.440 --> 00:35:11.530
+lớp này
+
+00:35:11.540 --> 00:35:13.569
+form này
+
+00:35:13.579 --> 00:35:15.550
+chọn lớp
+
+00:35:15.560 --> 00:35:18.710
+sẽ là select
+
+00:35:18.720 --> 00:35:26.450
+và forex ở đây
+
+00:36:25.200 --> 00:36:27.530
+không cái đoạn này chưa nỗi khó Chả có
+
+00:36:27.540 --> 00:36:30.950
+gì khó cả chỉ có Shiper các thứ thử làm
+
+00:36:30.960 --> 00:36:45.970
+nó diện vào đúng không
+
+00:36:48.300 --> 00:36:50.870
+đúng không ạ tôi không làm một tí gì
+
+00:36:50.880 --> 00:36:52.210
+giao diện đâu nha
+
+00:36:52.220 --> 00:36:56.470
+Mình sẽ chọn mua này
+
+00:36:59.820 --> 00:37:04.550
+ba cái giao diện
+
+00:37:15.599 --> 00:37:18.650
+bản chất là mình sẽ mình có thể vẫn ở
+
+00:37:18.660 --> 00:37:20.930
+trên cái trên cái giao diện này vẫn có
+
+00:37:20.940 --> 00:37:22.790
+thể trên này nhưng mình sẽ truyền lên
+
+00:37:22.800 --> 00:37:28.810
+cái này và khi trượt lên thì mình sẽ
+
+00:37:31.020 --> 00:37:33.349
+nãy nói đó là chọn chỉ chọn một lớp thôi
+
+00:37:33.359 --> 00:37:35.150
+Tôi đang làm theo bài toán dễ thì chọn
+
+00:37:35.160 --> 00:37:36.770
+một lớp điểm danh một lớp cùng một lúc
+
+00:37:36.780 --> 00:37:38.690
+còn nếu điểm danh 2 lớp cùng lúc thì bài
+
+00:37:38.700 --> 00:37:41.510
+toán phức tạp hơn đúng không ạ thì nếu
+
+00:37:41.520 --> 00:37:43.250
+mà khi mà mình đẩy lên kiểu này tôi để
+
+00:37:43.260 --> 00:37:45.829
+nó mới thớt làm cái thớt đi thường là
+
+00:37:45.839 --> 00:37:47.270
+như này không nên hiển thị trên thanh
+
+00:37:47.280 --> 00:37:49.490
+địa chỉ như này và khi mới thớt là post
+
+00:37:49.500 --> 00:37:52.490
+thì mình sẽ mình sẽ nhảy đến Index chẳng
+
+00:37:52.500 --> 00:37:57.430
+hạn như này
+
+00:38:05.520 --> 00:38:08.530
+đây là Index
+
+00:38:08.540 --> 00:38:11.290
+chuyển request vào
+
+00:38:11.300 --> 00:38:14.089
+hàng ngày
+
+00:38:14.099 --> 00:38:19.730
+mình sẽ có code ID sẽ bằng dry Quest lấy
+
+00:38:19.740 --> 00:38:23.829
+code như này
+
+00:38:23.839 --> 00:39:07.670
+ID đúng không ạ Có cả sub ID nữa
+
+00:39:09.780 --> 00:39:14.630
+cái nữa à hai cái nữa đó là à đâu ba cái
+
+00:39:14.640 --> 00:39:17.089
+chứ Cốt xe đi này sắp trái cây đi và
+
+00:39:17.099 --> 00:39:19.190
+student nữa mình sẽ chuyển tất cả mấy
+
+00:39:19.200 --> 00:39:22.990
+cái đấy về nữa này sẽ có xe đi này
+
+00:39:23.000 --> 00:39:27.609
+sắp trái ID này và student
+
+00:39:27.619 --> 00:39:30.290
+Tại sao phải truyền thêm về cái này để
+
+00:39:30.300 --> 00:39:34.089
+mình sẽ mình sẽ kiểm tra ở đây là nếu mà
+
+00:39:34.099 --> 00:39:46.930
+kiểu nếu mà nó có nếu có nếu
+
+00:39:54.260 --> 00:39:58.870
+có ID này
+
+00:40:07.500 --> 00:40:11.890
+mình sẽ Selection
+
+00:40:15.380 --> 00:40:21.730
+cũ thôi
+
+00:40:31.760 --> 00:40:34.030
+tôi sẽ tải lại trang này
+
+00:40:34.040 --> 00:40:36.069
+chọn
+
+00:40:36.079 --> 00:40:38.750
+thằng thứ hai đúng không ạ môn thứ ba
+
+00:40:38.760 --> 00:40:47.470
+đúng không ạ ấn vào
+
+00:41:03.800 --> 00:41:06.250
+Cái này nó là chuỗi
+
+00:41:06.260 --> 00:41:08.750
+Cái này là chuỗi xong rồi Bên này mình
+
+00:41:08.760 --> 00:41:19.849
+so sánh 3 dấu bằng cái hình sai
+
+00:41:22.200 --> 00:41:26.089
+sang đây cái ID này nó lại là số thành
+
+00:41:26.099 --> 00:41:28.609
+ra nó sai kiểu dữ liệu đó mình không
+
+00:41:28.619 --> 00:41:30.770
+thấy không Thực ra trong trường hợp này
+
+00:41:30.780 --> 00:41:35.829
+Thực ra tôi không thích lắm Bởi vì À
+
+00:41:40.140 --> 00:41:44.630
+nó là nó là một mình so sánh với hai dấu
+
+00:41:44.640 --> 00:41:47.450
+bằng với một chuỗi thì đôi khi nó vẫn
+
+00:41:47.460 --> 00:41:54.370
+đúng đôi khi nó vẫn đúng đấy thử nhé
+
+00:41:58.200 --> 00:42:04.089
+với như này
+
+00:42:11.000 --> 00:42:14.410
+vẫn sẽ đúng với chuỗi nào nó chum
+
+00:42:14.420 --> 00:42:18.470
+không sao ok tiếp theo là đến cái đoạn
+
+00:42:18.480 --> 00:42:24.250
+dưới này là nếu mà ít set Nếu mà có
+
+00:42:24.260 --> 00:42:28.809
+student trả về
+
+00:42:34.160 --> 00:42:36.730
+mình sẽ có thay đổi
+
+00:42:36.740 --> 00:42:39.410
+khi mà chọn xong hết rồi mình sẽ có cái
+
+00:42:39.420 --> 00:42:43.450
+bảng hiển thị ra đây này Ở tr này th này
+
+00:42:43.460 --> 00:42:48.170
+ở mình sẽ có mã sinh viên này tên sinh
+
+00:42:48.180 --> 00:42:53.510
+viên này và tình trạng đi học này
+
+00:42:55.400 --> 00:43:04.329
+Ox ở đây
+
+00:43:07.280 --> 00:43:14.530
+sedane
+
+00:43:25.140 --> 00:43:29.530
+để chồng cái này
+
+00:43:32.160 --> 00:43:34.730
+ok chưa sinh viên của lớp mẹ thôi đúng
+
+00:43:34.740 --> 00:43:36.910
+không ạ Đấy
+
+00:43:36.920 --> 00:43:42.050
+mình sẽ có order bằng 1 beat Bằng 100%
+
+00:43:42.060 --> 00:43:44.589
+rất màu mè rất đẹp
+
+00:43:44.599 --> 00:43:50.230
+nhớ lại đồ ăn một không
+
+00:43:53.940 --> 00:43:55.609
+sinh viên chưa có gì bây giờ mình sẽ
+
+00:43:55.619 --> 00:43:56.809
+điểm danh từng sinh viên này đúng không
+
+00:43:56.819 --> 00:43:59.270
+ạ Mình sẽ tích tích ở đây nó sẽ là ô
+
+00:43:59.280 --> 00:44:01.329
+kiểu ô kiểu
+
+00:44:01.339 --> 00:44:04.069
+mình sẽ có cái form ôm toàn bộ Cái này
+
+00:44:04.079 --> 00:44:06.170
+thì mình chỉ có một cái nút ở cuối là
+
+00:44:06.180 --> 00:44:08.270
+nút kiểu điểm danh thôi chứ không phải
+
+00:44:08.280 --> 00:44:10.990
+là mình sẽ mình sẽ kiểu
+
+00:44:11.000 --> 00:44:13.490
+chỗ nhập từng sinh viên rồi ấn điểm danh
+
+00:44:13.500 --> 00:44:15.770
+thủ công từng bạn ở đây không mình chỉ
+
+00:44:15.780 --> 00:44:28.809
+có một nút ở cuối thôi đúng không
+
+00:44:34.400 --> 00:44:39.470
+ok chưa và đây mình sẽ có một tất cả rất
+
+00:44:39.480 --> 00:44:43.130
+nhiều cái input hai là checkbox và valu
+
+00:44:43.140 --> 00:44:47.650
+giả sử ba lô là 1 sẽ là đi học alo là
+
+00:44:47.660 --> 00:44:50.150
+tôi thích làm theo kiểu như này nếu mà
+
+00:44:50.160 --> 00:44:52.849
+ông để kiểu như này nhé để kiểu như này
+
+00:44:52.859 --> 00:44:55.430
+thì ông tích vào cái ông đôi khi ông bấm
+
+00:44:55.440 --> 00:44:57.290
+vào cái chữ đi học nó khó hơn vào cái
+
+00:44:57.300 --> 00:45:04.070
+này này à đây cái radio
+
+00:45:16.619 --> 00:45:18.890
+leble nó lên kiểu bắt sự kiện nó pho
+
+00:45:18.900 --> 00:45:21.170
+xong rồi ID đến hàng ngày nhưng mà chơi
+
+00:45:21.180 --> 00:45:23.569
+kiểu này cũng là một cái mẹo Bấm vào chữ
+
+00:45:23.579 --> 00:45:27.410
+label chữ như này được ok chưa Đấy Bây
+
+00:45:27.420 --> 00:45:29.930
+giờ mình sẽ còn nêm cho nó nêm cho nó ở
+
+00:45:29.940 --> 00:45:32.750
+đây phải tránh bởi vì đây vòng lặp nên
+
+00:45:32.760 --> 00:45:35.030
+tránh thằng khác thì thường là mình sẽ
+
+00:45:35.040 --> 00:45:38.650
+phải thông qua cả
+
+00:45:43.560 --> 00:45:47.170
+từng thằng nó sẽ nó sẽ như này
+
+00:45:47.180 --> 00:45:50.630
+student cho đến ID mấy ông đừng cố thừa
+
+00:45:50.640 --> 00:45:53.750
+dấu cách trong như này trong này nha đôi
+
+00:45:53.760 --> 00:45:55.820
+khi nó thành lỗi đấy
+
+00:45:55.830 --> 00:45:59.349
+[âm nhạc]
+
+00:46:01.560 --> 00:46:03.710
+hưởng gì cả đúng không ạ Còn nếu mà Mấy
+
+00:46:03.720 --> 00:46:05.450
+ông không hề có cái đoạn này thì mấy ông
+
+00:46:05.460 --> 00:46:07.910
+sẽ chỉ tích được một sinh viên thôi vì
+
+00:46:07.920 --> 00:46:10.130
+nó cùng trùng nam mà
+
+00:46:10.140 --> 00:46:13.089
+đúng chứ
+
+00:46:17.280 --> 00:46:21.890
+có 2 này Sự là nghỉ này giả sử chỉ có
+
+00:46:21.900 --> 00:46:23.809
+mỗi hai cái này thôi Giả sử có mỗi hai
+
+00:46:23.819 --> 00:46:26.890
+ngày thôi làm bài toán nó dễ đi
+
+00:46:26.900 --> 00:46:31.430
+học nghỉ đi học đúng không ạ Nếu giả sử
+
+00:46:31.440 --> 00:46:34.130
+giống như vừa nãy tôi làm đó là kiểu mặc
+
+00:46:34.140 --> 00:46:36.250
+định mặc định là
+
+00:46:36.260 --> 00:46:40.010
+mặc định là kiểu tích đi học thì sao thì
+
+00:46:40.020 --> 00:46:42.650
+cái này là mấy ông sẽ phải kiểm tra
+
+00:46:42.660 --> 00:46:46.069
+trước là đã nếu có giá trị rồi thì ông
+
+00:46:46.079 --> 00:46:48.290
+ấy tích vào cái này nó hơi phức tạp một
+
+00:46:48.300 --> 00:46:52.309
+tí thì tôi sẽ nói nói sau Khi mà điểm
+
+00:46:52.319 --> 00:46:54.069
+danh xong đã rồi tôi sẽ nói
+
+00:46:54.079 --> 00:46:56.510
+tạm thời trước mắt thì mấy ông trông
+
+00:46:56.520 --> 00:46:58.790
+kiểu như này đã tôi sẽ
+
+00:46:58.800 --> 00:47:01.630
+enter xuống dòng mấy ông nhìn nó rõ này
+
+00:47:01.640 --> 00:47:07.390
+nó dài đấy
+
+00:47:15.660 --> 00:47:17.569
+Thậm chí tôi Giả sử Tôi thích mỗi Ba bạn
+
+00:47:17.579 --> 00:47:19.730
+này thôi chẳng hạn thì thực tế là tôi sẽ
+
+00:47:19.740 --> 00:47:22.690
+chỉ điểm danh 3 bạn đấy thôi Giả sử thế
+
+00:47:22.700 --> 00:47:26.089
+đầu tiên mình sẽ có một cái nút ở cuối
+
+00:47:26.099 --> 00:47:30.230
+đúng không ạ là giả sử là điểm danh đúng
+
+00:47:30.240 --> 00:47:32.870
+không ạ mấy ông đi Nhớ là chúng ta sẽ
+
+00:47:32.880 --> 00:47:35.569
+còn cái ca học nữa mình sẽ ở đây mình
+
+00:47:35.579 --> 00:47:39.589
+mình sẽ cho là độ ca này mình sẽ có một
+
+00:47:39.599 --> 00:47:49.930
+cái là input là thai là kiểu number dnd
+
+00:47:53.119 --> 00:47:55.730
+chọn lớp chọn môn rồi giờ sử tôi điểm
+
+00:47:55.740 --> 00:47:58.190
+danh cho mỗi 3 đoạn đầu cho dễ nhé đi
+
+00:47:58.200 --> 00:48:00.530
+học nghỉ nghỉ Đúng không ngày càng một
+
+00:48:00.540 --> 00:48:03.290
+này khi tôi ấn điểm danh ở đây thì cái
+
+00:48:03.300 --> 00:48:06.589
+form này nó sẽ cần riêng form này thì
+
+00:48:06.599 --> 00:48:09.109
+mình sẽ phải nhảy đến cái Action đến râu
+
+00:48:09.119 --> 00:48:11.390
+một cái router khác để mà điểm danh lớp
+
+00:48:11.400 --> 00:48:14.690
+này đúng không ạ Có thể đến chính thằng
+
+00:48:14.700 --> 00:48:17.270
+này cũng được Nhưng mà nếu thế mình sẽ
+
+00:48:17.280 --> 00:48:18.950
+phải truyền thêm một cái tham số gì đó
+
+00:48:18.960 --> 00:48:21.230
+nữa để hiểu là mình sẽ không nhảy vào
+
+00:48:21.240 --> 00:48:23.870
+thằng Index này nữa mà sẽ điểm danh cho
+
+00:48:23.880 --> 00:48:26.809
+đấy gần gần như thế Tôi nghĩ tôi sẽ đẩy
+
+00:48:26.819 --> 00:48:29.809
+ở đây một cái khác đi tôi sẽ là ở đây
+
+00:48:29.819 --> 00:48:35.589
+cái đặt tên nó cũng được Em đừng
+
+00:48:39.480 --> 00:48:44.049
+danh kiểu như này Thấy chưa tôi sẽ
+
+00:48:44.059 --> 00:48:47.710
+chuyển đây
+
+00:48:52.040 --> 00:48:55.490
+thực tế là ông cái form này này nó đã bị
+
+00:48:55.500 --> 00:48:59.170
+Hơi sai một tí theo kiểu là
+
+00:49:02.700 --> 00:49:04.370
+dùng chọn chọn như này nhưng người dùng
+
+00:49:04.380 --> 00:49:06.410
+chọn sửa lớp khác như này cho người dùng
+
+00:49:06.420 --> 00:49:08.270
+ấn nút điểm danh thì thực ra là người
+
+00:49:08.280 --> 00:49:10.670
+dùng đang đang bị hiểu nhầm thực tế là
+
+00:49:10.680 --> 00:49:12.950
+rõ ràng là cái danh sách này danh sách
+
+00:49:12.960 --> 00:49:14.990
+của cái lớp ở trên này danh sách mà mình
+
+00:49:15.000 --> 00:49:17.510
+vừa chọn lại đúng không ạ nghĩa là mình
+
+00:49:17.520 --> 00:49:19.849
+sẽ gần như là đôi khi không hiển thị là
+
+00:49:19.859 --> 00:49:21.829
+cái này hoặc là Hiển thị cái này ở trang
+
+00:49:21.839 --> 00:49:22.930
+khác
+
+00:49:22.940 --> 00:49:26.569
+hoặc là giống như tôi làm ở ở trường tôi
+
+00:49:26.579 --> 00:49:28.970
+là đổi cái này phải đổi luôn cái ở dưới
+
+00:49:28.980 --> 00:49:31.010
+người dùng Tránh hiểu nhầm chứ Nếu mà
+
+00:49:31.020 --> 00:49:33.309
+bây giờ giả sử là đấy
+
+00:49:33.319 --> 00:49:35.870
+Lúc đầu điểm danh lớp này nhưng ấn sửa
+
+00:49:35.880 --> 00:49:37.790
+lớp này xong giờ ấn điểm danh thì Rốt
+
+00:49:37.800 --> 00:49:39.470
+cuộc là người dùng nó sẽ hiểu muốn điểm
+
+00:49:39.480 --> 00:49:42.130
+danh con lớp nào đúng không ạ Đấy
+
+00:49:42.140 --> 00:49:44.510
+còn bây giờ tôi đang làm hệ thống dễ thì
+
+00:49:44.520 --> 00:49:47.690
+sẽ là kiểu lớp mà mình đã chọn thì mình
+
+00:49:47.700 --> 00:49:49.730
+sẽ điểm danh một lớp đấy thôi thì mình
+
+00:49:49.740 --> 00:49:51.950
+sẽ chuyển trong cái form này này mình sẽ
+
+00:49:51.960 --> 00:49:54.670
+truyền thêm một cái nữa là input
+
+00:49:54.680 --> 00:49:56.829
+2D
+
+00:49:56.839 --> 00:50:01.490
+và nêm sẽ là subject à code ID đúng
+
+00:50:01.500 --> 00:50:02.589
+không ạ
+
+00:50:02.599 --> 00:50:06.370
+Mình sẽ vào luôn nó chính là
+
+00:50:06.380 --> 00:50:11.109
+đi luôn
+
+00:50:15.960 --> 00:50:18.670
+sắp chết ID luôn
+
+00:50:18.680 --> 00:50:21.170
+mình sẽ chuyển lên hai cái này để mình
+
+00:50:21.180 --> 00:50:23.329
+hiểu được là mình sẽ điểm danh cho lớp
+
+00:50:23.339 --> 00:50:26.349
+và môn nào
+
+00:50:28.579 --> 00:50:32.049
+truyền lên ở đây có những cái như này
+
+00:50:32.059 --> 00:50:34.670
+một cái quan trọng nữa đó là mình sẽ
+
+00:50:34.680 --> 00:50:37.010
+truyền lên Nếu thấy ở đây mình sẽ truyền
+
+00:50:37.020 --> 00:50:41.030
+lên cái cái mảng started Tôi sẽ đặt tên
+
+00:50:41.040 --> 00:50:43.609
+cái này nó sẽ lên hiểu nó số nhiều như
+
+00:50:43.619 --> 00:50:45.549
+này
+
+00:50:45.559 --> 00:50:48.049
+mình sẽ chuyển lên một cái status như
+
+00:50:48.059 --> 00:50:52.030
+thế này nó là mạng
+
+00:50:56.160 --> 00:51:02.650
+không xem nha
+
+00:51:07.760 --> 00:51:10.490
+thiên đình
+
+00:51:10.500 --> 00:51:17.270
+và thằng này tôi sẽ truyền đây là router
+
+00:51:19.920 --> 00:51:21.130
+danh này
+
+00:51:21.140 --> 00:51:25.130
+đó mấy ông sẽ thấy là cái thằng 1 8 9 ở
+
+00:51:25.140 --> 00:51:28.069
+đây sẽ tương đương với ID mã của thằng
+
+00:51:28.079 --> 00:51:29.230
+Sinh viên
+
+00:51:29.240 --> 00:51:33.530
+là 18 và 9 đúng không ạ Đấy ở đây mình
+
+00:51:33.540 --> 00:51:37.690
+sẽ truyền lên thêm cái ca đúng không ạ
+
+00:51:37.700 --> 00:51:40.069
+Bây giờ mình chỉ đơn giản thôi rất là
+
+00:51:40.079 --> 00:51:44.270
+đơn giản mình sẽ có status app ở đây sẽ
+
+00:51:44.280 --> 00:51:46.750
+có là student
+
+00:51:46.760 --> 00:51:48.549
+và
+
+00:51:48.559 --> 00:51:53.329
+tại Status như thế này luôn Mình sẽ lưu
+
+00:51:53.339 --> 00:51:55.569
+lại trong cái thằng mua đồ
+
+00:51:55.579 --> 00:52:00.170
+tenden này mình sẽ crash ở đây Mình sẽ
+
+00:52:00.180 --> 00:52:03.589
+lưu lại nó là với từng thằng này mình sẽ
+
+00:52:03.599 --> 00:52:06.010
+lưu lại là mình sẽ có
+
+00:52:06.020 --> 00:52:09.069
+à quên quên mình sẽ phải
+
+00:52:09.079 --> 00:52:13.690
+Lưu lại attender trước đã
+
+00:52:17.220 --> 00:52:20.230
+Hình như lại có sai đi này
+
+00:52:20.240 --> 00:52:22.329
+có xe đi này
+
+00:52:22.339 --> 00:52:31.190
+sắp check ID này
+
+00:52:34.380 --> 00:52:37.250
+nay thì sẽ là nào cũng được Hoặc là nếu
+
+00:52:37.260 --> 00:52:39.410
+mà ông muốn cho chuẩn hơn thì ông sẽ là
+
+00:52:39.420 --> 00:52:44.770
+Dead ở đây em ăn đây này
+
+00:52:47.240 --> 00:52:51.230
+sau đó thì lưu lại điểm danh chi tiết
+
+00:52:51.240 --> 00:52:54.250
+Mình sẽ lưu lại vào
+
+00:52:54.260 --> 00:53:01.510
+mình sẽ có từ thằng attender này
+
+00:53:04.400 --> 00:53:08.150
+ID này mình sẽ truyền tên ID chuyển vào
+
+00:53:08.160 --> 00:53:12.650
+trong này Đấy và tiếp theo mình sẽ có to
+
+00:53:12.660 --> 00:53:14.650
+lên ID
+
+00:53:14.660 --> 00:53:19.990
+sẽ bằng sự đề này đi này và sau tết
+
+00:53:20.000 --> 00:53:21.970
+xong
+
+00:53:21.980 --> 00:53:24.890
+tôi làm đoạn này rất là nhanh vì tôi
+
+00:53:24.900 --> 00:53:27.490
+hiểu được nghiệp vụ rồi
+
+00:53:27.500 --> 00:53:31.069
+mới đăng thêm cho mình chưa cập nhật đại
+
+00:53:31.079 --> 00:53:35.410
+có thể đã Đợi tí nhé mình sẽ có
+
+00:53:35.420 --> 00:53:38.890
+feble
+
+00:53:43.339 --> 00:54:02.890
+những Hải Sang đúng không ạ
+
+00:54:57.420 --> 00:55:10.089
+hai cột
+
+00:55:15.440 --> 00:55:17.470
+ok ok
+
+00:55:17.480 --> 00:55:19.690
+tại trang này
+
+00:55:19.700 --> 00:55:22.809
+chọn lại đi học
+
+00:55:22.819 --> 00:55:27.670
+như này ấn điểm danh Ok Đấy
+
+00:55:27.680 --> 00:55:31.490
+mẹ tôi vừa làm xong cái đồ
+
+00:55:31.500 --> 00:55:33.829
+đến điểm danh của ông cái phân khó nhất
+
+00:55:33.839 --> 00:55:36.349
+chưa đầy một tiếng đúng không ạ làm rất
+
+00:55:36.359 --> 00:55:38.750
+là nhanh Bởi tôi hiểu được phải làm gì
+
+00:55:38.760 --> 00:55:43.430
+được chưa đó Bây giờ mình cái nó khó hơn
+
+00:55:43.440 --> 00:55:46.190
+cái này mới gọi cái khó hơn là bây giờ
+
+00:55:46.200 --> 00:55:48.470
+ông điểm danh xong rồi Đương nhiên bây
+
+00:55:48.480 --> 00:55:49.849
+giờ tôi sẽ quay trở lại cái trang vừa
+
+00:55:49.859 --> 00:55:51.950
+rồi quay trở lại trang vừa rồi tôi sẽ
+
+00:55:51.960 --> 00:55:58.750
+dùng robot
+
+00:56:03.380 --> 00:56:07.609
+cái quan trọng đây nhưng đó là Ờ bây giờ
+
+00:56:07.619 --> 00:56:09.710
+hiển thị lại đúng cái mà đã điểm danh
+
+00:56:09.720 --> 00:56:11.530
+thì nó như thế nào quan trọng như thế
+
+00:56:11.540 --> 00:56:16.089
+thì sẽ returnect
+
+00:56:16.099 --> 00:56:21.410
+nếu mà hình như mình sẽ kiểu tương bác
+
+00:56:21.420 --> 00:56:26.530
+rồi vậy
+
+00:56:38.099 --> 00:56:40.329
+tránh nhé
+
+00:56:40.339 --> 00:56:48.170
+bác bây giờ hết của tôi rồi
+
+00:56:59.720 --> 00:57:03.890
+đâu nhỉ tế à Thực tế là mấy ông nên làm
+
+00:57:03.900 --> 00:57:05.569
+bạn đấy bằng Ajax chứ không cần tải lại
+
+00:57:05.579 --> 00:57:08.569
+trang các thứ như thế nó đỡ phải điều
+
+00:57:08.579 --> 00:57:12.730
+hướng quay trở lại rồi Kiểu như này
+
+00:57:15.420 --> 00:57:17.990
+là hay để mà làm cái trò này đó ông đầy
+
+00:57:18.000 --> 00:57:20.150
+thẳng lên thanh địa chỉ khi mà ông chọn
+
+00:57:20.160 --> 00:57:22.630
+xong cái form đầy thẳng lên hay địa chỉ
+
+00:57:22.640 --> 00:57:26.089
+ông lấy về nó sẽ đỡ khó chịu hơn nó sẽ
+
+00:57:26.099 --> 00:57:27.970
+như này
+
+00:57:27.980 --> 00:57:31.250
+tuy rất đều hướng về nó dễ nữa cũng sẽ
+
+00:57:31.260 --> 00:57:36.910
+là để đây là cos
+
+00:57:58.859 --> 00:58:04.930
+rất là dễ ông sẽ chỉ cần ghi đi Rex
+
+00:58:04.940 --> 00:58:08.950
+đến cái router
+
+00:59:48.079 --> 00:59:51.730
+Index
+
+00:59:55.079 --> 01:00:08.650
+trong trường hợp mà
+
+01:00:11.400 --> 01:00:12.849
+ông này
+
+01:00:12.859 --> 01:01:22.250
+cái cái tôi đang làm nó là gì là
+
+01:01:26.579 --> 01:01:28.370
+tôi kiểm tra nếu trong trường hợp trống
+
+01:01:28.380 --> 01:01:30.410
+nghĩa là trong trường hợp là null viết
+
+01:01:30.420 --> 01:01:32.270
+kiểu này viết tắt nếu trong trường hợp
+
+01:01:32.280 --> 01:01:35.210
+null thì tôi sẽ lấy lấy từ trong cái
+
+01:01:35.220 --> 01:01:37.789
+form để tôi lấy ra đấy Cái cách viết
+
+01:01:37.799 --> 01:01:40.910
+kiểu như này thay vì ông sẽ kiểu ít null
+
+01:01:40.920 --> 01:01:41.890
+ở đây này
+
+01:01:41.900 --> 01:01:44.569
+ông sẽ phải kiểu khi rất dài dòng như
+
+01:01:44.579 --> 01:01:45.609
+này
+
+01:01:45.619 --> 01:01:49.490
+Nếu mà có code sẽ đi thì mình sẽ lấy có
+
+01:01:49.500 --> 01:01:53.030
+xe đi không thì như này không không phải
+
+01:01:53.040 --> 01:01:55.910
+làm thế này sẽ thêm viết tắt hơn viết
+
+01:01:55.920 --> 01:01:57.849
+tắt kiểu như này thôi
+
+01:01:57.859 --> 01:02:01.210
+đó ok chưa
+
+01:02:01.220 --> 01:02:08.289
+cái mẹo mẹo nữa chỉ cho
+
+01:02:11.880 --> 01:02:14.270
+này lớp 1 xong rồi môn này môn cuối đúng
+
+01:02:14.280 --> 01:02:16.970
+không Thì tôi ấn điểm danh xong thì tôi
+
+01:02:16.980 --> 01:02:18.890
+ấn điểm danh xong thì nó sẽ điều hướng
+
+01:02:18.900 --> 01:02:20.930
+quay trở lại đúng cái lớp và môn này cho
+
+01:02:20.940 --> 01:02:22.190
+mấy ông xem
+
+01:02:22.200 --> 01:02:30.370
+danh danh
+
+01:03:35.839 --> 01:03:40.750
+cái form này router
+
+01:03:44.339 --> 01:03:46.970
+tại sao rồi kệ a thender này đang bị
+
+01:03:46.980 --> 01:03:49.730
+nhầm nó sao mà có xe đi nếu mà ông khai
+
+01:03:49.740 --> 01:03:51.349
+báo kiểu như này thì nó sẽ hiểu được là
+
+01:03:51.359 --> 01:03:53.809
+Tender này cũng có thể là một cái mã như
+
+01:03:53.819 --> 01:03:56.390
+này đấy Hồi trước tôi bị cái lỗi kiểu
+
+01:03:56.400 --> 01:03:58.250
+như này Bây giờ mình sẽ đặt tên hàng
+
+01:03:58.260 --> 01:04:01.510
+ngày mình lên như thế này gạch chéo được
+
+01:04:01.520 --> 01:04:06.529
+để tránh tránh để hiểu là 22 nó không
+
+01:04:06.539 --> 01:04:15.190
+chung với nhau rất là dị
+
+01:04:24.140 --> 01:04:28.970
+rồi ok đó Bây giờ nó mới nhảy này Tắt
+
+01:04:28.980 --> 01:04:39.010
+bớt mấy đống này đi này
+
+01:04:43.200 --> 01:04:46.250
+lại any cái any rất là hay Nghĩa là nó
+
+01:04:46.260 --> 01:04:48.829
+có thể any nó vừa là post vừa là ghét
+
+01:04:48.839 --> 01:04:51.770
+được Rất tiện ở trong trường hợp mà tôi
+
+01:04:51.780 --> 01:04:55.609
+khi mà truyền cái mã lớp và mã môn lên
+
+01:04:55.619 --> 01:04:57.230
+thanh địa chỉ rồi thì tôi không cần phải
+
+01:04:57.240 --> 01:04:59.829
+nó là forbes nữa
+
+01:04:59.839 --> 01:05:03.529
+nó sẽ chuyển như này mã môn là mã lớp là
+
+01:05:03.539 --> 01:05:07.190
+một mà mở lớp mạ mom là năm nó sẽ lấy
+
+01:05:07.200 --> 01:05:09.710
+lại được đúng cái lớp và môn tôi đã chọn
+
+01:05:09.720 --> 01:05:13.190
+đúng không ạ ok chưa Đây là một cái mẹo
+
+01:05:13.200 --> 01:05:15.410
+khi mà ông muốn điều hướng quay lại và
+
+01:05:15.420 --> 01:05:19.670
+và ông muốn truyền cái tham số để quay
+
+01:05:19.680 --> 01:05:22.309
+lại đấy Kiểu như thế ông có thể truyền
+
+01:05:22.319 --> 01:05:25.069
+trong ông có thể truyền trong system
+
+01:05:25.079 --> 01:05:28.250
+cũng được một trong hai cách Còn nếu
+
+01:05:28.260 --> 01:05:30.349
+không làm tốt hơn thì ông sẽ dùng Isaac
+
+01:05:30.359 --> 01:05:31.990
+đoạn này để đỡ phải truyền
+
+01:05:32.000 --> 01:06:01.870
+này cũng tốt
+
+01:06:05.760 --> 01:06:08.270
+sẽ lấy ngày hôm nay là chủ đây đúng
+
+01:06:08.280 --> 01:06:11.529
+không ạ là Tết
+
+01:06:13.880 --> 01:06:17.349
+đây
+
+01:06:26.119 --> 01:06:29.510
+mình sẽ lấy theo đúng cái lớp và môn
+
+01:06:29.520 --> 01:06:38.650
+mình đã chọn thôi
+
+01:06:41.420 --> 01:06:44.829
+đây lấy nó ra nếu mà
+
+01:06:44.839 --> 01:06:50.270
+nếu mà có như này
+
+01:06:53.339 --> 01:06:55.309
+điểm danh thì sao quan trọng như thế thì
+
+01:06:55.319 --> 01:06:57.609
+mình sẽ cần phải cẩu
+
+01:06:57.619 --> 01:07:00.470
+bản chất ở đây nha bạn chất đây nó là
+
+01:07:00.480 --> 01:07:03.770
+vẫn là mạng hai chiều nó sẽ bao gồm mình
+
+01:07:03.780 --> 01:07:05.750
+mình sẽ lấy điểm danh chi tiết của những
+
+01:07:05.760 --> 01:07:08.450
+cái sinh viên có thể ra bởi vì mấy ông
+
+01:07:08.460 --> 01:07:10.789
+nên nhớ là vừa nãy chỉ có chỉ có mỗi ba
+
+01:07:10.799 --> 01:07:11.930
+thằng đầu được điểm danh thôi đúng không
+
+01:07:11.940 --> 01:07:15.370
+ạ Mình lưu lại mỗi 3 thằng đầu thôi đấy
+
+01:07:15.380 --> 01:07:19.190
+thôi đúng không Mình sẽ có mạng hai
+
+01:07:19.200 --> 01:07:21.829
+chiều sẽ theo mã của sinh viên để hiển
+
+01:07:21.839 --> 01:07:25.390
+thị ra ở đây mình sẽ có một mạng như này
+
+01:07:25.400 --> 01:07:27.770
+Đầu tiên thì cứ mặc định cho cái mảng
+
+01:07:27.780 --> 01:07:32.470
+này chống đã
+
+01:07:35.880 --> 01:07:38.510
+nếu mà có thì đầu tiên thì tôi sẽ cần
+
+01:07:38.520 --> 01:07:40.910
+lấy toàn bộ điểm danh của sinh viên kia
+
+01:07:40.920 --> 01:07:46.150
+bằng athendant to đình mình sẽ
+
+01:07:46.160 --> 01:07:55.309
+quay đi này sau đó thì đơn giản là que
+
+01:07:57.020 --> 01:08:00.730
+nằm trong cái ID kia thôi
+
+01:08:00.740 --> 01:08:03.890
+lấy lấy cái này ra thôi Tôi nghĩ là cái
+
+01:08:03.900 --> 01:08:05.329
+đoạn này làm tắt hơn thì mình sẽ vào
+
+01:08:05.339 --> 01:08:08.510
+thẳng ngày cho nhanh này lấy mỗi ID này
+
+01:08:08.520 --> 01:08:11.569
+ở đây mình sẽ chỉ cần kiểm tra là nếu mà
+
+01:08:11.579 --> 01:08:20.530
+nó không trống MT đi
+
+01:08:23.719 --> 01:08:27.349
+tôi sẽ lấy hết để lấy toàn bộ Lấy toàn
+
+01:08:27.359 --> 01:08:29.590
+bộ ra
+
+01:08:29.600 --> 01:08:32.829
+để toàn bộ ra ở đây sẽ bao gồm cả
+
+01:08:32.839 --> 01:08:38.870
+mình sẽ lấy ra cái gì mình sẽ lấy ra từ
+
+01:08:38.880 --> 01:08:40.510
+đường ID
+
+01:08:40.520 --> 01:08:42.249
+và
+
+01:08:42.259 --> 01:08:46.450
+status tình trạng đi học của nó đấy
+
+01:08:46.460 --> 01:08:49.910
+Và bây giờ mình sẽ ở đây sẽ có forex ở
+
+01:08:49.920 --> 01:08:51.849
+đây
+
+01:08:51.859 --> 01:08:55.910
+mình sẽ có mình sẽ truyền vào trong cái
+
+01:08:55.920 --> 01:09:05.169
+thằng status này này
+
+01:09:14.640 --> 01:09:19.430
+như này cho mình xem nhé
+
+01:09:21.980 --> 01:09:24.169
+nghĩa là có ba sinh viên được điểm danh
+
+01:09:24.179 --> 01:09:26.809
+rồi thì sẽ là tình trạng đi học của nó
+
+01:09:26.819 --> 01:09:30.289
+là đi học và nghỉ nghỉ đúng không ạ 1 2
+
+01:09:30.299 --> 01:09:31.689
+2 chuẩn chưa
+
+01:09:31.699 --> 01:09:35.349
+mình sẽ truyền cái mảng này sang bên này
+
+01:09:35.359 --> 01:09:39.229
+đó Thế là xong bên này bên này thì mình
+
+01:09:39.239 --> 01:09:41.809
+sẽ làm như sau cái này thì đến cái đoạn
+
+01:09:41.819 --> 01:09:43.309
+status này này đến cái đoạn status này
+
+01:09:43.319 --> 01:09:48.669
+mình sẽ kiểm tra là nếu mà
+
+01:09:48.679 --> 01:09:50.950
+ít
+
+01:09:50.960 --> 01:09:54.310
+satos tại cái student ID
+
+01:09:54.320 --> 01:09:57.610
+Tại thằng sư đường ID này
+
+01:09:57.620 --> 01:10:03.050
+nếu mà có ít ics nếu có IC này nếu có
+
+01:10:03.060 --> 01:10:06.970
+này
+
+01:10:09.179 --> 01:10:12.110
+nếu có đã nhé Đấy sau đó thì ông mới
+
+01:10:12.120 --> 01:10:21.110
+kiểm tra tiếp là ít ở đây đi ít ít
+
+01:10:23.600 --> 01:10:26.510
+đương nhiên là hạn chế nên xử lý ở cái
+
+01:10:26.520 --> 01:10:28.430
+đoạn Panel như này nhưng mà về cơ bản
+
+01:10:28.440 --> 01:10:30.169
+mình cũng chạy vòng lặp để duyệt nên tôi
+
+01:10:30.179 --> 01:10:31.790
+nghĩ là đoạn này Thực ra cũng được không
+
+01:10:31.800 --> 01:10:34.689
+bị lỗi
+
+01:10:37.460 --> 01:10:40.689
+và cái status này này
+
+01:10:40.699 --> 01:10:45.709
+nó bằng bằng bằng bằng bằng 1 ra bằng
+
+01:10:45.719 --> 01:10:47.050
+một như thế này
+
+01:10:47.060 --> 01:10:53.709
+thì mình sẽ trích kịch đó rồi
+
+01:10:56.780 --> 01:10:59.750
+đó thấy lên đi học không Thế xong rồi
+
+01:10:59.760 --> 01:11:03.550
+đấy đội nó bằng 2 là xong
+
+01:11:03.560 --> 01:11:07.550
+OK chưa
+
+01:11:15.960 --> 01:11:18.169
+là người dùng dễ hiểu là cập nhật chứ
+
+01:11:18.179 --> 01:11:21.709
+không phải là là thêm đúng không ạ thêm
+
+01:11:21.719 --> 01:11:27.310
+nó sẽ bị báo lỗi ngay đúng chứ
+
+01:11:30.780 --> 01:11:48.790
+nhé
+
+01:11:50.719 --> 01:11:55.189
+đây mình sẽ không rết nữa mà mình sẽ ở
+
+01:11:55.199 --> 01:11:59.530
+đây mình sẽ bao gồm là
+
+01:12:04.040 --> 01:12:08.229
+là mình sẽ kiểm tra và
+
+01:12:08.239 --> 01:12:11.030
+thực tế là cái môn này có thể thay đổi
+
+01:12:11.040 --> 01:12:14.709
+cơ
+
+01:12:19.560 --> 01:12:23.770
+chung là kiểm tra kiểm tra xem là đã
+
+01:12:23.780 --> 01:12:27.229
+lớp lớp và môn chính xác chỉ cần lớp và
+
+01:12:27.239 --> 01:12:34.450
+môn và ca đấy thôi tồn tại là đủ rồi
+
+01:12:51.260 --> 01:12:53.770
+ở đây là sẽ là
+
+01:12:53.780 --> 01:12:58.209
+kiểm tra ba thằng này trước này phốt này
+
+01:12:58.219 --> 01:13:03.130
+như này ít
+
+01:13:07.020 --> 01:13:08.110
+này
+
+01:13:08.120 --> 01:13:10.330
+thì mình mới bắt đầu
+
+01:13:10.340 --> 01:13:13.030
+Red để mà Insert nó
+
+01:13:13.040 --> 01:13:16.370
+và mình sẽ truyền thêm thằng sắp chết ID
+
+01:13:16.380 --> 01:13:19.630
+như thế này mới đúng
+
+01:13:23.040 --> 01:13:25.610
+cùng ca đấy cùng ngày hôm đấy và cùng ca
+
+01:13:25.620 --> 01:13:27.709
+đấy thì rõ ràng à Không được phép dùng
+
+01:13:27.719 --> 01:13:34.689
+rồi đấy
+
+01:13:52.520 --> 01:13:55.149
+điểm danh thì
+
+01:13:55.159 --> 01:14:00.010
+rồi còn đoạn này
+
+01:14:03.420 --> 01:14:08.750
+như thế này
+
+01:14:12.120 --> 01:14:13.750
+lại sẽ kiểm tra là nếu mà
+
+01:14:13.760 --> 01:14:16.729
+có buổi điểm danh hôm đấy rồi Và nếu có
+
+01:14:16.739 --> 01:14:18.709
+sinh viên đấy rồi thì mình sẽ chỉ cập
+
+01:14:18.719 --> 01:14:21.169
+nhật điểm danh thôi tình trạng đi học
+
+01:14:21.179 --> 01:14:23.570
+thôi chứ mình không Insert nữa nó sẽ như
+
+01:14:23.580 --> 01:14:27.169
+này ok chưa Tại trông có vẻ hơi phức tạp
+
+01:14:27.179 --> 01:14:29.810
+một tí nhé Để tôi nói lại nhé Cái này
+
+01:14:29.820 --> 01:14:31.790
+Đầu tiên là kiểm tra xem là lớp đấy ngày
+
+01:14:31.800 --> 01:14:34.550
+hôm đấy ca đấy đã học hay chưa đúng
+
+01:14:34.560 --> 01:14:36.649
+không ạ Nó bỏ qua cả môn luôn bởi rõ
+
+01:14:36.659 --> 01:14:38.810
+ràng là tôi bảo rồi ba cái này mới là ba
+
+01:14:38.820 --> 01:14:41.510
+cái kiểm tra tránh trùng thôi đấy đúng
+
+01:14:41.520 --> 01:14:44.330
+không ạ Nếu mà nếu mà chưa đúng không ạ
+
+01:14:44.340 --> 01:14:46.010
+nếu trong trường hợp Nếu chưa thì mình
+
+01:14:46.020 --> 01:14:48.950
+tạo mới đúng không ạ Mình sẽ khi tạo mới
+
+01:14:48.960 --> 01:14:51.229
+xong mình sẽ có ID để mình sẽ in search
+
+01:14:51.239 --> 01:14:54.830
+vào và bây giờ mình sẽ kiểm tra là nếu
+
+01:14:54.840 --> 01:14:57.669
+mà nếu mà
+
+01:14:57.679 --> 01:15:00.830
+cùng buổi điểm danh đấy sinh viên đấy đã
+
+01:15:00.840 --> 01:15:04.070
+tạo chưa Nếu mà nếu mà chưa thì sẽ tạo
+
+01:15:04.080 --> 01:15:06.470
+đây cái hàm creator update này rất là
+
+01:15:06.480 --> 01:15:08.090
+hay nó sẽ kiểm tra hai cái thằng này
+
+01:15:08.100 --> 01:15:11.570
+thôi Nếu mà chưa có thì tạo Còn nếu mà
+
+01:15:11.580 --> 01:15:14.209
+có rồi thì sẽ update update mỗi trường
+
+01:15:14.219 --> 01:15:24.630
+này đó
+
+01:15:59.420 --> 01:16:07.070
+nhầm nhầm
+
+01:16:08.840 --> 01:16:16.610
+sao thấy sai sai
+
+01:16:42.980 --> 01:16:54.189
+nó phải quay lại lớp 1 năm lớp 1 năm
+
+01:16:58.040 --> 01:17:01.370
+Đợi tí Đợi tí Tại sao tạo một ít đường
+
+01:17:01.380 --> 01:17:05.649
+mới nhỉ vẫn ngày hôm nay mà qua ngày đâu
+
+01:17:05.659 --> 01:17:09.120
+À rồi rồi rồi rồi rồi rồi k2k2
+
+01:17:09.130 --> 01:17:13.790
+[âm nhạc]
+
+01:17:16.980 --> 01:17:18.649
+ra cái đoạn này đang bị nhược điểm mấy
+
+01:17:18.659 --> 01:17:20.510
+ông đang thấy cái hiển thị Đang hiển thị
+
+01:17:20.520 --> 01:17:22.810
+cái mặc định thì nó đang hiển thị K1
+
+01:17:22.820 --> 01:17:26.390
+Thế mình sẽ như thế mình sẽ phải chơi
+
+01:17:26.400 --> 01:17:28.070
+trò này nữa để chắc chắn nó hiển thị ra
+
+01:17:28.080 --> 01:17:30.649
+ca mà mình vừa mới Insert đúng không ạ
+
+01:17:30.659 --> 01:17:33.550
+là mình sẽ phải là đây sẽ là
+
+01:17:33.560 --> 01:17:37.250
+Order by ra giả sử là kiểu hôm đấy điểm
+
+01:17:37.260 --> 01:17:40.370
+danh cả 2k và mình sẽ chỉ hiển thị cái
+
+01:17:40.380 --> 01:17:42.350
+ca gần nhất trong ngày hôm nay thôi thì
+
+01:17:42.360 --> 01:17:49.030
+nó sẽ như thế này
+
+01:17:52.020 --> 01:17:55.130
+chưa Ok chưa đây trong trường hợp mà ông
+
+01:17:55.140 --> 01:17:59.870
+cho một lớp học đi học kiểu Môn đấy rồi
+
+01:17:59.880 --> 01:18:04.010
+2k liền trong một ngày thực tế ở trường
+
+01:18:04.020 --> 01:18:05.870
+tôi không làm cái trò đấy Không có
+
+01:18:05.880 --> 01:18:08.570
+trường hợp này xảy ra đấy nhưng mấy ông
+
+01:18:08.580 --> 01:18:11.810
+vừa thấy tôi đã hiển thị ra được đúng
+
+01:18:11.820 --> 01:18:13.669
+các thứ thứ rồi đúng không ạ cho mỗi hai
+
+01:18:13.679 --> 01:18:16.130
+thằng cuối này nhé Cho vẫn là cả hai đi
+
+01:18:16.140 --> 01:18:23.830
+Ấn update này Ok Hiển thị ra ok chưa
+
+01:18:27.420 --> 01:18:30.610
+chọn lại chọn lại môn đấy
+
+01:18:30.620 --> 01:18:34.390
+ra Ok chứ ngon chưa
+
+01:18:34.400 --> 01:18:37.250
+đấy tôi đã làm xong cho mấy ông về điểm
+
+01:18:37.260 --> 01:18:39.229
+danh và điểm danh chi tiết nó sẽ bao gồm
+
+01:18:39.239 --> 01:18:41.930
+kiểu xử lý như thế này code có tầm trăm
+
+01:18:41.940 --> 01:18:42.910
+dòng chứ mấy
+
+01:18:42.920 --> 01:18:45.530
+toán ở đây Thực ra nó không hẳn là khó
+
+01:18:45.540 --> 01:18:48.290
+lắm cái khó nhất là làm việc với mảng
+
+01:18:48.300 --> 01:18:50.090
+nhiều chiều thì tôi đã chỉ cho mấy ông ở
+
+01:18:50.100 --> 01:18:52.610
+đoạn này đây mạng chỉ hai chiều thôi
+
+01:18:52.620 --> 01:18:53.990
+cũng chưa hẳn là nhiều chiều lắm đâu
+
+01:18:54.000 --> 01:18:56.750
+từng làm mảng ba bốn chiều Nhưng mà thực
+
+01:18:56.760 --> 01:18:59.510
+ra khi mà Ông làm được mảng một hai
+
+01:18:59.520 --> 01:19:01.189
+chiều rồi thực ra là mấy ông về sau mạng
+
+01:19:01.199 --> 01:19:03.110
+nhiều chiều bao nhiêu chiều nữa vẫn chơi
+
+01:19:03.120 --> 01:19:04.930
+được đấy
+
+01:19:04.940 --> 01:19:08.149
+Ok chưa mấy ông có thắc mắc gì đoạn nào
+
+01:19:08.159 --> 01:19:10.669
+không thắc mắc thì tôi cứ mặc định là
+
+01:19:10.679 --> 01:19:13.209
+mấy ông hiểu rồi nhé
+
+01:19:13.219 --> 01:19:20.470
+tôi chữa luôn à
+
+01:19:23.460 --> 01:19:26.030
+ông xem video để hình Dung để hiểu thôi
+
+01:19:26.040 --> 01:19:32.470
+xong rồi mấy ông sẽ phải làm lại đấy
+
+01:19:36.739 --> 01:19:40.430
+liệu toàn bộ sinh viên đúng không sau đó
+
+01:19:40.440 --> 01:19:43.030
+hiển thị điểm danh Nếu có chứ
+
+01:19:43.040 --> 01:19:46.610
+lấy điểm danh kiểm tra xem có điểm danh
+
+01:19:46.620 --> 01:19:49.490
+chưa nếu có rồi thì hiển thị ra xong rồi
+
+01:19:49.500 --> 01:19:54.010
+Điền vào chỗ trống thôi đúng không
+
+01:19:57.360 --> 01:20:03.370
+cái thứ không khuyến khích ở đâu nhé
+
+01:20:08.159 --> 01:20:10.790
+thắc mắc gì thì hôm nay chúng ta sẽ tạm
+
+01:20:10.800 --> 01:20:11.830
+nghỉ
+
+01:20:11.840 --> 01:20:14.590
+tạm nghỉ thế thôi còn
+
+01:20:14.600 --> 01:20:16.850
+chấm đồ án thì mấy ông cứ tiếp tục làm
+
+01:20:16.860 --> 01:20:29.470
+xong rồi buổi sau tôi sẽ chấm Ok chưa
