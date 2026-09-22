@@ -74,6 +74,8 @@
 | `3V5iGyUyfxA` | Lập trình web chuyên sâu - 3 - MVC - CRUD 2 bảng | 2022-03-13 | [entry](../entries/lap-trinh-web-chuyen-sau-3-mvc-crud-2-bang-3V5iGyUyfxA.md) |
 | `R3-cXDCtyvA` | Lập trình web chuyên sâu - 4 - MVC & OOP | 2022-03-17 | [entry](../entries/lap-trinh-web-chuyen-sau-4-mvc-oop-R3-cXDCtyvA.md) |
 | `oUmOpwtxXQU` | Lập trình web chuyên sâu - 5 - MVC & OOP (tối ưu) | 2022-03-19 | [entry](../entries/lap-trinh-web-chuyen-sau-5-mvc-oop-toi-uu-oUmOpwtxXQU.md) |
+| `QFsPgDpBak0` | Lập trình web chuyên sâu - 8 - Laravel - CRUD | 2022-03-26 | [entry](../entries/lap-trinh-web-chuyen-sau-8-laravel-crud-QFsPgDpBak0.md) |
+| `lkhOFG8JqNc` | Lập trình web chuyên sâu - 9 - Laravel - CRUD | 2022-03-29 | [entry](../entries/lap-trinh-web-chuyen-sau-9-laravel-crud-lkhOFG8JqNc.md) |
 | `LLeI4VFNtVE` | Road to Interview (day 1) | 2026-03-11 | [entry](../entries/road-to-interview-day-1-LLeI4VFNtVE.md) |
 | `pb7WoPvRBd8` | Road to Interview (day 2) | 2026-06-15 | [entry](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) |
 | `lRcYBmolpBI` | Road to Interview (day 3) | 2026-06-16 | [entry](../entries/road-to-interview-day-3-lRcYBmolpBI.md) |
