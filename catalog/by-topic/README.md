@@ -70,3 +70,24 @@ Mỗi file tương ứng một chủ đề. Bên trong liệt kê entry liên qu
 | Blade | [blade.md](./blade.md) |
 | Session | [session.md](./session.md) |
 | Middleware | [middleware.md](./middleware.md) |
+| Giới thiệu | [gioi-thieu.md](./gioi-thieu.md) |
+| J2Team | [j2team.md](./j2team.md) |
+| Công cụ | [cong-cu.md](./cong-cu.md) |
+| Autosub | [autosub.md](./autosub.md) |
+| PDF | [pdf.md](./pdf.md) |
+| OCR | [ocr.md](./ocr.md) |
+| Windows | [windows.md](./windows.md) |
+| EdTech | [edtech.md](./edtech.md) |
+| Hiệu năng | [hieu-nang.md](./hieu-nang.md) |
+| Facebook | [facebook.md](./facebook.md) |
+| Notepad | [notepad.md](./notepad.md) |
+| DevTools | [devtools.md](./devtools.md) |
+| Thực hành | [thuc-hanh.md](./thuc-hanh.md) |
+| Google Drive | [google-drive.md](./google-drive.md) |
+| Xử lý ảnh | [xu-ly-anh.md](./xu-ly-anh.md) |
+| CLB lập trình | [clb-lap-trinh.md](./clb-lap-trinh.md) |
+| Chrome | [chrome.md](./chrome.md) |
+| Chặn quảng cáo | [chan-quang-cao.md](./chan-quang-cao.md) |
+| XAMPP | [xampp.md](./xampp.md) |
+| PotPlayer | [potplayer.md](./potplayer.md) |
+| Phụ đề | [phu-de.md](./phu-de.md) |

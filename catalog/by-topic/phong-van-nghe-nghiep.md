@@ -8,3 +8,4 @@ Cập nhật sự nghiệp, CV, offer, và luyện phỏng vấn (kể cả seri
 - [Road to Interview (day 2)](../entries/road-to-interview-day-2-pb7WoPvRBd8.md) (`pb7WoPvRBd8`)
 - [Road to Interview (day 3)](../entries/road-to-interview-day-3-lRcYBmolpBI.md) (`lRcYBmolpBI`)
 - [Road to Interview (day 4)](../entries/road-to-interview-day-4-D3RdLhbceoc.md) (`D3RdLhbceoc`)
+- [Role challenge - EdTech](../entries/role-challenge-edtech-V_y7KPjBIV0.md) (`V_y7KPjBIV0`)

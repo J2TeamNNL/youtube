@@ -34,3 +34,4 @@ Giao lưu, động viên, kỹ năng mềm, mindset học tập / làm việc nh
 - [Tâm sự tuổi chập chững](../entries/tam-su-tuoi-chap-chung-aM_YyXCXf0k.md) (`aM_YyXCXf0k`)
 - [Tâm sự tuổi chập chững](../entries/tam-su-tuoi-chap-chung-OlNzm1rdRps.md) (`OlNzm1rdRps`)
 - [Tâm sự tuổi chập chững](../entries/tam-su-tuoi-chap-chung-IRmbPDMU8Uo.md) (`IRmbPDMU8Uo`)
+- [Hi Guys](../entries/hi-guys-GE5yCZt4oFE.md) (`GE5yCZt4oFE`)

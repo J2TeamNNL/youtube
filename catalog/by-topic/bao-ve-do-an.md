@@ -13,3 +13,4 @@ Nội dung liên quan phản biện / bảo vệ đồ án tốt nghiệp (ĐATN
 - [Đồ án Web cơ bản - Bảo vệ & Chấm](../entries/do-an-web-co-ban-bao-ve-cham-XaeVax9pZcY.md) (`XaeVax9pZcY`)
 - [Đồ án Web chuyên sâu - Bảo vệ chính thức](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-qYK7xKxLV40.md) (`qYK7xKxLV40`)
 - [Đồ án Web chuyên sâu - Bảo vệ chính thức](../entries/do-an-web-chuyen-sau-bao-ve-chinh-thuc-dQ1qbHlol9o.md) (`dQ1qbHlol9o`)
+- [Bảo vệ đồ án tốt nghiệp (năm 3)](../entries/bao-ve-do-an-tot-nghiep-nam-3-Cx1ZRzo3qO0.md) (`Cx1ZRzo3qO0`)

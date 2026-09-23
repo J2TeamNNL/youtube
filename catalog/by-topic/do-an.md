@@ -41,3 +41,4 @@ Nội dung liên quan đồ án / project: phân nhóm, định hướng đề t
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-chUIXLxJkQs.md) (`chUIXLxJkQs`)
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-NpoeDk4IZAQ.md) (`NpoeDk4IZAQ`)
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-lfClLDfljwc.md) (`lfClLDfljwc`)
+- [Bảo vệ đồ án tốt nghiệp (năm 3)](../entries/bao-ve-do-an-tot-nghiep-nam-3-Cx1ZRzo3qO0.md) (`Cx1ZRzo3qO0`)

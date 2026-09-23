@@ -40,3 +40,5 @@ Ngôn ngữ lập trình phía server: xử lý request, sinh HTML trả về tr
 - [Lập trình web chuyên sâu - 14 - Laravel - Enum](../entries/lap-trinh-web-chuyen-sau-14-laravel-enum-a65TbziA32k.md) (`a65TbziA32k`)
 - [Lập trình web chuyên sâu - 15 - Laravel - Relationship & Upload](../entries/lap-trinh-web-chuyen-sau-15-laravel-relationship-upload-MgyHL6WTRuM.md) (`MgyHL6WTRuM`)
 - [Lập trình web chuyên sâu - 16 - Laravel - Session & Middleware](../entries/lap-trinh-web-chuyen-sau-16-laravel-session-middleware-zYvwN3oiFzM.md) (`zYvwN3oiFzM`)
+- [J2team Xampp Fix Error](../entries/j2team-xampp-fix-error--cULVG1vfSY.md) (`-cULVG1vfSY`) — không có phụ đề; chỉ metadata
+- [Bảo vệ đồ án tốt nghiệp (năm 3)](../entries/bao-ve-do-an-tot-nghiep-nam-3-Cx1ZRzo3qO0.md) (`Cx1ZRzo3qO0`)

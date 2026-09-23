@@ -91,3 +91,5 @@ Lập trình / xây dựng website cơ bản (frontend nền tảng, lộ trình
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-chUIXLxJkQs.md) (`chUIXLxJkQs`)
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-NpoeDk4IZAQ.md) (`NpoeDk4IZAQ`)
 - [Dự án Web bán hàng](../entries/du-an-web-ban-hang-lfClLDfljwc.md) (`lfClLDfljwc`)
+- [J2TeaM Copy from web using F12](../entries/j2team-copy-from-web-using-f12-nEbJ22h5maw.md) (`nEbJ22h5maw`) — không có phụ đề; chỉ metadata
+- [Bài quay thử](../entries/bai-quay-thu-hE3dKgDWSCs.md) (`hE3dKgDWSCs`)
