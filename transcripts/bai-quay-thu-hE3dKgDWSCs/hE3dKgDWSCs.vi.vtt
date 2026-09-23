@@ -1,0 +1,1528 @@
+WEBVTT
+
+00:00:03.320 --> 00:00:05.829
+Long hôm nay mình sẽ dạy các bạn về Tin
+
+00:00:05.839 --> 00:00:11.669
+Học lớp 12 bài về à HTML và cấu trúc
+
+00:00:11.679 --> 00:00:12.709
+trang
+
+00:00:12.719 --> 00:00:16.950
+web thì hôm nay mục lục mình sẽ có là
+
+00:00:16.960 --> 00:00:20.029
+giới thiệu về trang web và HTML cấu trúc
+
+00:00:20.039 --> 00:00:22.670
+cơ bản của một tệp HTML và phần mềm soạn
+
+00:00:22.680 --> 00:00:23.630
+thảo
+
+00:00:23.640 --> 00:00:28.070
+HTML thì đầu tiên trang web thì các bạn
+
+00:00:28.080 --> 00:00:30.429
+thực ra là nếu mà các bạn s sử dụng máy
+
+00:00:30.439 --> 00:00:32.670
+tính hiện nay thì các bạn sẽ thấy là các
+
+00:00:32.680 --> 00:00:36.389
+bạn sử dụng trình duyệt tr lướt web rất
+
+00:00:36.399 --> 00:00:40.190
+là nhiều thì ở đây trước khi vào bài
+
+00:00:40.200 --> 00:00:43.510
+mình sẽ cho các bạn xem một ví dụ ví dụ
+
+00:00:43.520 --> 00:00:47.910
+Giả sử đây là trang web Tuyền sinh 247
+
+00:00:47.920 --> 00:00:50.310
+thì bản chất Đây là một cái trang web
+
+00:00:50.320 --> 00:00:52.349
+Hoặc là các bạn có thể lên Facebook hoặc
+
+00:00:52.359 --> 00:00:54.470
+là thậm chí là trang Google bất kỳ trang
+
+00:00:54.480 --> 00:00:56.189
+nào bằng chính duyệt thì đều là một
+
+00:00:56.199 --> 00:00:59.310
+trong web cả thì cách để các bạn biết
+
+00:00:59.320 --> 00:01:00.709
+được là
+
+00:01:00.719 --> 00:01:02.470
+Cái này là về giao diện cho người dùng
+
+00:01:02.480 --> 00:01:04.630
+nhìn thấy thôi Còn bây giờ để các bạn
+
+00:01:04.640 --> 00:01:07.149
+biết được à cái trang này nó có bố cục
+
+00:01:07.159 --> 00:01:08.710
+như nào làm th nào để làm ra trong web
+
+00:01:08.720 --> 00:01:11.469
+này chẳng hạn thì các bạn thường là mình
+
+00:01:11.479 --> 00:01:15.070
+đang dùng là dùng Microsoft ed bạn có
+
+00:01:15.080 --> 00:01:19.070
+thể ấn Ctrl U để mà xem xộc code view
+
+00:01:19.080 --> 00:01:21.270
+xộc như này nó sẽ nhảy sang để xem được
+
+00:01:21.280 --> 00:01:24.069
+xc code của một trang web thì ở đây Các
+
+00:01:24.079 --> 00:01:26.630
+bạn thấy có rất rất nhiều rất là dài
+
+00:01:26.640 --> 00:01:28.910
+nhưng đại khái thì nó
+
+00:01:28.920 --> 00:01:31.870
+là đoạn code để làm nên cái trang web
+
+00:01:31.880 --> 00:01:35.109
+cái đoạn Các bạn cứ Hình dung là mình gõ
+
+00:01:35.119 --> 00:01:37.350
+ra những cái đoạn này sau đó thì mở bằng
+
+00:01:37.360 --> 00:01:39.590
+trình duyệt thì nó sẽ ra cái trang web
+
+00:01:39.600 --> 00:01:43.149
+như thế này để các bạn nhìn thấy đấy thì
+
+00:01:43.159 --> 00:01:45.510
+thì bây giờ mình sẽ hướng dẫn các bạn về
+
+00:01:45.520 --> 00:01:47.630
+việc là làm thế
+
+00:01:47.640 --> 00:01:50.469
+nào Làm thế nào để mà mình làm ra được
+
+00:01:50.479 --> 00:01:53.830
+một cái trang web dựa trên
+
+00:01:53.840 --> 00:01:59.429
+HTML thì HTML là gì đã HTML nó sẽ là ví
+
+00:01:59.439 --> 00:02:02.109
+dụ ở đây mình có gõ trước một đoạn Mã
+
+00:02:02.119 --> 00:02:06.190
+codde à nó sẽ khi mà bạn mở bằng chịnh
+
+00:02:06.200 --> 00:02:08.550
+duyệt thì nó sẽ ra cái giao diện kiểu
+
+00:02:08.560 --> 00:02:10.510
+như này nó sẽ không ra cái mã code của
+
+00:02:10.520 --> 00:02:12.670
+mình đã gõ mà nó sẽ hiểu được là như thế
+
+00:02:12.680 --> 00:02:17.150
+này đấy thì ở đây sẽ có khái niệm là thẻ
+
+00:02:17.160 --> 00:02:20.270
+đánh dấu HTML thẻ đánh dấu Tức là sao
+
+00:02:20.280 --> 00:02:22.750
+thẻ đánh dấu tức C nó sẽ là những cái
+
+00:02:22.760 --> 00:02:25.750
+Các bạn thấy ở đây nó có màu khác cái
+
+00:02:25.760 --> 00:02:28.030
+màu trắng này thì thể hiện việc là nội
+
+00:02:28.040 --> 00:02:31.270
+dung còn màu hồng nó đang thể hiện việc
+
+00:02:31.280 --> 00:02:34.869
+là nó là các bộ thẻ của HTML đấy thì các
+
+00:02:34.879 --> 00:02:39.430
+bạn thấy là có thẻ body thẻ H1 thẻ p thẻ
+
+00:02:39.440 --> 00:02:44.309
+HR thẻ p đấy Đây là những thẻ của HTML
+
+00:02:44.319 --> 00:02:48.390
+đấy Bây giờ mình sẽ thử mình cứ nghĩ
+
+00:02:48.400 --> 00:02:49.710
+mình sẽ thực hành trực tiếp để cho các
+
+00:02:49.720 --> 00:02:53.030
+bạn dễ hình dung mình sẽ dùng phần mềm
+
+00:02:53.040 --> 00:02:55.270
+là subtech đây phần mềm miễn phí các bạn
+
+00:02:55.280 --> 00:02:56.869
+có thể tải về trên
+
+00:02:56.879 --> 00:03:00.869
+mạng mình sẽ mở một file
+
+00:03:00.879 --> 00:03:04.509
+mới mình sẽ ấn Ctrl s để lưu lại lại
+
+00:03:04.519 --> 00:03:07.910
+index.htm này chẳng
+
+00:03:07.920 --> 00:03:12.509
+hạn khi mà mình gõ học cái ngôn ngữ này
+
+00:03:12.519 --> 00:03:14.670
+thì mình đặt tên file mình đặt tên thế
+
+00:03:14.680 --> 00:03:17.710
+nào cũng được A B C X yz đều được nhưng
+
+00:03:17.720 --> 00:03:20.789
+đuôi nó vẫn phải có đuôi file là ch HTML
+
+00:03:20.799 --> 00:03:23.509
+để hiểu để trình duyệt sẽ hiểu à Đây là
+
+00:03:23.519 --> 00:03:26.390
+một tài liệu HTML thì nó hiển thị đ
+
+00:03:26.400 --> 00:03:30.030
+Chuẩn đấy tiếp theo là mình sẽ gõ dụ dụ
+
+00:03:30.040 --> 00:03:33.589
+Giả sử mình chỉ gõ H1 như này thẻ H1 này
+
+00:03:33.599 --> 00:03:36.030
+do nội dung bên trong này xin chào các
+
+00:03:36.040 --> 00:03:40.190
+bạn Đấy xong rồi đóng thẻ như này đấy
+
+00:03:40.200 --> 00:03:44.789
+các bạn sẽ thấy là ở đây mình có mở thẻ
+
+00:03:44.799 --> 00:03:47.710
+sau đó ghi tên của thẻ xong rồi đóng
+
+00:03:47.720 --> 00:03:50.630
+ngặc nhọn xong rồi tên nội dung xong rồi
+
+00:03:50.640 --> 00:03:53.470
+mở thẻ xong ph gạch chéo như này vì mình
+
+00:03:53.480 --> 00:03:57.229
+đang dùng cái công cụ gõ code nên nó sẽ
+
+00:03:57.239 --> 00:03:59.949
+gợi ý việc mình à nó sẽ hiểu được được
+
+00:03:59.959 --> 00:04:02.670
+là mình đóng luôn bằng thẻ H1 chứ không
+
+00:04:02.680 --> 00:04:04.789
+mình không phải gõ thủ công H1 này nữa
+
+00:04:04.799 --> 00:04:08.429
+chỉ cần cách chéo như này là nó sẽ tự
+
+00:04:08.439 --> 00:04:10.830
+động gõ nốt phần cần lại cho mình Bây
+
+00:04:10.840 --> 00:04:12.710
+giờ mình có thể chạy nó bằng cách là
+
+00:04:12.720 --> 00:04:15.270
+chuột phải vào chọn mở bằng trình duyệt
+
+00:04:15.280 --> 00:04:19.749
+như này hoặc các bạn có thể mở mở file
+
+00:04:19.759 --> 00:04:22.430
+tìm cái file Ở mình đang mở ở desktop
+
+00:04:22.440 --> 00:04:24.510
+các bạn Thể Tìm cái file này mở nó lên
+
+00:04:24.520 --> 00:04:27.230
+bằng trình duyệt ví dụ giả sử ở đây các
+
+00:04:27.240 --> 00:04:29.590
+bạn xem thì đây nó sẽ hiển thị dạng như
+
+00:04:29.600 --> 00:04:33.670
+này
+
+00:04:39.199 --> 00:04:42.230
+đây là nội dung mình gõ nó là có chữ H1
+
+00:04:42.240 --> 00:04:44.110
+rồi có thẻ các thứ các thứ nhưng cách
+
+00:04:44.120 --> 00:04:46.870
+hiển thị của trình duyệt sẽ khác với cái
+
+00:04:46.880 --> 00:04:50.230
+mình đã gõ bởi vì nó sẽ hiểu được đ đoạn
+
+00:04:50.240 --> 00:04:52.950
+code này bạn đang muốn thể hiện việc
+
+00:04:52.960 --> 00:04:56.430
+hiển thị H1 nó tượng trưng cho
+
+00:04:56.440 --> 00:04:58.629
+heading 1
+
+00:04:58.639 --> 00:05:01.189
+heading là thẻ kiểu liên quan đến tiêu
+
+00:05:01.199 --> 00:05:04.189
+đề Nó phóng nó làm chữ cỡ chữ to hơn
+
+00:05:04.199 --> 00:05:07.830
+cũng như là làm in đậm hạn Một là thể
+
+00:05:07.840 --> 00:05:12.029
+hiện là là độ lớn của nó mặc định là 1
+
+00:05:12.039 --> 00:05:15.310
+lớn nhất 6 là nhỏ nhất thì đang có h
+
+00:05:15.320 --> 00:05:19.670
+hding 1 đây mình sẽ thử gõ cho các bạn
+
+00:05:19.680 --> 00:05:26.590
+ví dụ thẻ H3 để so sánh Đây là bài
+
+00:05:26.600 --> 00:05:31.870
+học đây mình gõ Hàn có dấu nhá nhá Đây
+
+00:05:31.880 --> 00:05:36.749
+là bài học HTML đấy như
+
+00:05:36.759 --> 00:05:40.350
+này các bạn thấy là đây các bạn sẽ thấy
+
+00:05:40.360 --> 00:05:42.510
+là rõ ràng là chữ này to hơn chữ này rất
+
+00:05:42.520 --> 00:05:44.670
+nhiều bởi vì đây
+
+00:05:44.680 --> 00:05:49.029
+sữ khác biệt giữa H1 về H3 đúng không ạ
+
+00:05:49.039 --> 00:05:53.909
+thì các bạn vừa được Thấy qua về demo về
+
+00:05:53.919 --> 00:05:57.070
+HTML thì các bạn sẽ thấy là thế còn
+
+00:05:57.080 --> 00:06:00.029
+những cái kiểu thêm những cái dòng này
+
+00:06:00.039 --> 00:06:02.870
+để làm gì Rõ ràng em thấy có mỗi H1 với
+
+00:06:02.880 --> 00:06:05.189
+H3 là nó ra được cái trong web rồi thì
+
+00:06:05.199 --> 00:06:09.670
+toàn bộ những cái này nó là gì thì mình
+
+00:06:09.680 --> 00:06:12.189
+mình sẽ đi từ từ đã mình sẽ đi đến cái
+
+00:06:12.199 --> 00:06:14.589
+phần hai sau
+
+00:06:14.599 --> 00:06:17.790
+Tiếp đầu tiên HTML là viết tắt của
+
+00:06:17.800 --> 00:06:22.070
+hypertext marup language ờ để mà dịch nó
+
+00:06:22.080 --> 00:06:24.909
+ra thì sẽ là ngôn ngữ đánh dấu siêu văn
+
+00:06:24.919 --> 00:06:28.830
+bản nhưng mà mình thực ra là theo mình
+
+00:06:28.840 --> 00:06:30.830
+thì không cần phải cố dịch mấy cái từ
+
+00:06:30.840 --> 00:06:33.589
+tiếng Anh chên ngành này các bạn chỉ cần
+
+00:06:33.599 --> 00:06:37.550
+biết được viết tắt của nó HTML là gì và
+
+00:06:37.560 --> 00:06:40.230
+tiếp theo là gõ cú pháp nó như nào cú
+
+00:06:40.240 --> 00:06:42.550
+pháp nó luôn nằm trong cặp
+
+00:06:42.560 --> 00:06:45.710
+dấu dấu ngoặc nhọn như thế này đúng
+
+00:06:45.720 --> 00:06:48.870
+không ạ và mục đích của nó là để hiển
+
+00:06:48.880 --> 00:06:52.510
+thị ra nội dung của một trang web đây
+
+00:06:52.520 --> 00:06:55.430
+tiếp theo Các bạn
+
+00:06:55.440 --> 00:06:58.110
+đây mình sẽ cho các bạn xem lại một tí
+
+00:06:58.120 --> 00:06:59.830
+nhá
+
+00:06:59.840 --> 00:07:02.670
+thì mình sẽ đi sâu vào cái phần H1 thẻ p
+
+00:07:02.680 --> 00:07:06.550
+HR vào thẻ p này thì một cái phần tử
+
+00:07:06.560 --> 00:07:09.150
+HTML nó khác với cái thẻ đánh dấu HTML
+
+00:07:09.160 --> 00:07:13.230
+nhá là nó sẽ gồm cả thẻ HTML nó sẽ
+
+00:07:13.240 --> 00:07:17.390
+là mở thẻ này tên của thẻ và nội dung
+
+00:07:17.400 --> 00:07:20.589
+của thẻ sau rồi đóng thẻ như thế này thì
+
+00:07:20.599 --> 00:07:24.430
+đây là đây là toàn bộ là phần tử HTML
+
+00:07:24.440 --> 00:07:26.950
+thì các bạn sẽ thấy nó sẽ ví dụ cái dòng
+
+00:07:26.960 --> 00:07:29.029
+này này nó là một một dòng này là một
+
+00:07:29.039 --> 00:07:31.550
+phần tử này dòng này một phần tử này
+
+00:07:31.560 --> 00:07:34.230
+thậm chí đây cái dòng HR này cũng là một
+
+00:07:34.240 --> 00:07:36.589
+phần tử nhưng mà cái phần tử này nó sẽ
+
+00:07:36.599 --> 00:07:39.629
+luôn là thẻ đánh dấu HTML luôn bởi vì nó
+
+00:07:39.639 --> 00:07:41.550
+thẻ đặc biệt nó sẽ không có nội dung ở
+
+00:07:41.560 --> 00:07:44.510
+bên bên trong tại sao như thế thì các
+
+00:07:44.520 --> 00:07:47.589
+bạn xem lại bên này một tí thẻ HR này có
+
+00:07:47.599 --> 00:07:51.189
+tác dụng là gì Ví dụ nhá thẻ H1 này thì
+
+00:07:51.199 --> 00:07:53.869
+nó sẽ có chứa nội dung bên trong nó là
+
+00:07:53.879 --> 00:07:57.830
+trang web và HTML nó cố để hiển thị ra
+
+00:07:57.840 --> 00:08:00.909
+là thẻ tiêu đề nên là nó sẽ bối động và
+
+00:08:00.919 --> 00:08:05.189
+chữ to và thẻ P là paragraph là thẻ văn
+
+00:08:05.199 --> 00:08:07.670
+bản thì nó sẽ chẳng cần hiển thị trên
+
+00:08:07.680 --> 00:08:11.390
+màu màu mè gì cả nó nó hiển thị ra bình
+
+00:08:11.400 --> 00:08:14.749
+thường còn HR là một thẻ đặc biệt là nó
+
+00:08:14.759 --> 00:08:16.990
+không cần nội dung ở giữa nó chỉ là thẻ
+
+00:08:17.000 --> 00:08:19.390
+để mà nó một dòng kẻ ngang như thế này
+
+00:08:19.400 --> 00:08:21.510
+đấy nên thành ra nó không cần có nội
+
+00:08:21.520 --> 00:08:24.710
+dung ở giữa nó một thẻ đặc biệt và đây
+
+00:08:24.720 --> 00:08:29.749
+là một thẻ HTML thẻ thẻ tác HTML kiêm tử
+
+00:08:29.759 --> 00:08:33.070
+HTML luôn và cuối cùng là thể p hai B cà
+
+00:08:33.080 --> 00:08:34.630
+nó giống nhau đúng không
+
+00:08:34.640 --> 00:08:39.709
+ạ Đấy nên là khi vừa rồi mình sẽ trả lời
+
+00:08:39.719 --> 00:08:42.149
+cho các bạn cái câu hỏi 1 này trên sách
+
+00:08:42.159 --> 00:08:45.590
+giáo khoa các bạn thì hình 7.1 đúng
+
+00:08:45.600 --> 00:08:47.990
+không ạ Có bao nhiêu phần tử HTML thì
+
+00:08:48.000 --> 00:08:54.070
+mình đến ở đây các bạn sẽ để ý là đây 1
+
+00:08:54.080 --> 00:08:58.829
+2 3 4 cái thẻ h này sẽ có đóng ở đây nhá
+
+00:08:58.839 --> 00:09:03.790
+5 6 7 8 9 đấy mình sẽ gồm chín phần tử
+
+00:09:03.800 --> 00:09:08.389
+thẻ HTML này nó mở và đóng ở đây thẻ h h
+
+00:09:08.399 --> 00:09:11.949
+này mở đóng thẻ body mở đóng và nội dung
+
+00:09:11.959 --> 00:09:14.430
+này đúng không
+
+00:09:14.440 --> 00:09:17.829
+ạ Đấy thì như mình vừa nói
+
+00:09:17.839 --> 00:09:21.389
+thì sự giống là khác nhau giữa thẻ HTML
+
+00:09:21.399 --> 00:09:24.829
+thì trong một vài trường hợp là thẻ HTML
+
+00:09:24.839 --> 00:09:27.910
+và phân tử HTML nó giống nhau Nó là 1 ví
+
+00:09:27.920 --> 00:09:31.389
+dụ với HR này chẳng hạn nó là mỗi thẻ
+
+00:09:31.399 --> 00:09:34.389
+thôi và nó cũng kiêm luôn là bởi vì nó
+
+00:09:34.399 --> 00:09:36.030
+thẻ đặc biệt nên nó sẽ không có nội dung
+
+00:09:36.040 --> 00:09:38.990
+ở giữa còn thường là thẻ HTML là nó sẽ
+
+00:09:39.000 --> 00:09:43.389
+chỉ có mỗi cái mở đóng thẻ và tên của
+
+00:09:43.399 --> 00:09:47.269
+thẻ còn nội dung ở giữa thì không có nên
+
+00:09:47.279 --> 00:09:50.949
+là phần tử HTML nó sẽ ôm luôn cả HTML và
+
+00:09:50.959 --> 00:09:54.949
+nội dung của nó đây kết hợp giữa thẻ Mở
+
+00:09:54.959 --> 00:09:57.990
+nội dung và thẻ đóng còn thẻ atml sẽ chỉ
+
+00:09:58.000 --> 00:10:01.389
+bao gồm phần mở đầu và kết thúc của phần
+
+00:10:01.399 --> 00:10:05.509
+tử đúng không ạ tiếp theo cấu trúc cơ
+
+00:10:05.519 --> 00:10:06.990
+bản của một TP
+
+00:10:07.000 --> 00:10:11.550
+HTML thì ở đây các bạn như mình phân
+
+00:10:11.560 --> 00:10:14.389
+tích thì các bạn sẽ thấy là vừa nãy Vừa
+
+00:10:14.399 --> 00:10:18.069
+nãy rõ ràng là anh chỉ gõ mỗi đây H1 với
+
+00:10:18.079 --> 00:10:20.430
+H3 em cũng thấy ra được một trong web
+
+00:10:20.440 --> 00:10:23.069
+rồi đúng không ạ Thế rốt cuộc thì cái
+
+00:10:23.079 --> 00:10:26.310
+toàn bộ cái phần dâu cái phần do 2 này
+
+00:10:26.320 --> 00:10:30.190
+là gì đấy HTML thêm cái này head và body
+
+00:10:30.200 --> 00:10:32.750
+nó đều làm gì đấy
+
+00:10:32.760 --> 00:10:35.710
+thì thường là cấu trúc của một t phá tml
+
+00:10:35.720 --> 00:10:38.790
+nó sẽ có ba phần một là khai báo phiên
+
+00:10:38.800 --> 00:10:41.110
+bản đây là nhìn thế này thôi nhưng thực
+
+00:10:41.120 --> 00:10:43.550
+ra đây là khai báo phiên bản html5 là
+
+00:10:43.560 --> 00:10:46.269
+mới nhất bây giờ đang dùng còn mình nhớ
+
+00:10:46.279 --> 00:10:48.949
+là cái khai báo phiên bản cũ hơn thì nó
+
+00:10:48.959 --> 00:10:51.430
+dài dóng hơn và nó cũng phải ghi rõ cụ
+
+00:10:51.440 --> 00:10:53.350
+thể ra Tại sao phải khai báo phiên bản
+
+00:10:53.360 --> 00:10:55.790
+như thế bởi vì là nó còn liên quan đến
+
+00:10:55.800 --> 00:10:57.629
+các trình duyệt nữa đương nhên đương
+
+00:10:57.639 --> 00:10:59.430
+nhiên bây giờ mình đang đều dùng trình
+
+00:10:59.440 --> 00:11:03.670
+duyệt mới nhất rồi ví dụ là chome à
+
+00:11:03.680 --> 00:11:08.269
+Firefox hoặc là Opera cố Cố thậm chí là
+
+00:11:08.279 --> 00:11:10.670
+Microsoft Edge đúng không ạ thì đều dùng
+
+00:11:10.680 --> 00:11:12.710
+cái mới nhất và đều hỗ trợ HTML mới nhất
+
+00:11:12.720 --> 00:11:15.310
+làm năm nên các bạn sẽ khai báo này hoặc
+
+00:11:15.320 --> 00:11:17.110
+các bạn không cần khai báo Mấy trình
+
+00:11:17.120 --> 00:11:18.470
+duyệt đấy sẽ hiểu là các bạn đang dùng
+
+00:11:18.480 --> 00:11:20.829
+cái phiên bản mới nhất Nhưng mà nếu mà
+
+00:11:20.839 --> 00:11:22.829
+giả sử mà các bạn làm trong một cái
+
+00:11:22.839 --> 00:11:26.269
+trang web từ lâu rồi Từ cũ rồi nó hỗ trợ
+
+00:11:26.279 --> 00:11:28.949
+những cái cũ hơn thì các bạn phải khai
+
+00:11:28.959 --> 00:11:30.110
+báo
+
+00:11:30.120 --> 00:11:33.310
+nhưng mà cái m html5 này mình nhớ là ra
+
+00:11:33.320 --> 00:11:36.350
+cách đây cũng phải tầm 20 năm rồi nên là
+
+00:11:36.360 --> 00:11:39.030
+bây giờ các bạn cứ yên tâm khai báo như
+
+00:11:39.040 --> 00:11:42.829
+thế này là được tiếp thì đương nhiên là
+
+00:11:42.839 --> 00:11:46.470
+tệp tài liệu HTML thì sẽ phải trong cái
+
+00:11:46.480 --> 00:11:49.350
+bộ thẻ HTML nhưng nó không phải là một
+
+00:11:49.360 --> 00:11:51.710
+cái phần gì cả mà nó sẽ chia hai phần là
+
+00:11:51.720 --> 00:11:54.629
+phần head và phần body mình xin phép nói
+
+00:11:54.639 --> 00:11:57.310
+trước một phần h một tí cái này không có
+
+00:11:57.320 --> 00:11:59.230
+trong sách lắm nhưng mà mình cảm thấy nó
+
+00:11:59.240 --> 00:12:01.350
+Nó là một cái khá hay nếu các bạn đã
+
+00:12:01.360 --> 00:12:03.829
+nhắc đến phần hé đây mình sẽ ví dụ các
+
+00:12:03.839 --> 00:12:05.990
+bạn dễ hình dung hơn Ví dụ ở đây mình có
+
+00:12:06.000 --> 00:12:08.829
+cái trang web này
+
+00:12:08.839 --> 00:12:13.910
+à mình xin phép vào Google một tí tra dụ
+
+00:12:13.920 --> 00:12:16.910
+Giả sử bây giờ Idol của vài bạn thì sẽ
+
+00:12:16.920 --> 00:12:18.629
+ra khá bảnh chẳng ạ
+
+00:12:18.639 --> 00:12:22.509
+Đấy đấy thì gõ cái này nó sẽ ra khá
+
+00:12:22.519 --> 00:12:24.310
+nhiều thông tin đúng không ạ Các bạn
+
+00:12:24.320 --> 00:12:25.269
+thấy
+
+00:12:25.279 --> 00:12:28.750
+là đây là công cụ tìm kiếm và nó sẽ ra
+
+00:12:28.760 --> 00:12:31.470
+được những cái đây gọi thumbnail là
+
+00:12:31.480 --> 00:12:34.629
+những cái ảnh nhỏ và cả tiêu đề đúng
+
+00:12:34.639 --> 00:12:37.590
+không ạ Làm sao để công cụ tìm kiếm nó
+
+00:12:37.600 --> 00:12:39.710
+biết được là cái trang web này nó có cái
+
+00:12:39.720 --> 00:12:42.430
+ảnh này Ví dụ mình bấm vàoo đây nhá u
+
+00:12:42.440 --> 00:12:45.150
+trang này trang này có rất rất nhiều ảnh
+
+00:12:45.160 --> 00:12:46.509
+các bạn thấy có rất nhiều ảnh có cả
+
+00:12:46.519 --> 00:12:49.870
+video Làm sao để nó nó hiểu được lấy cái
+
+00:12:49.880 --> 00:12:52.870
+ảnh này đúng không ạ thì công cụ tìm
+
+00:12:52.880 --> 00:12:55.550
+kiếm nó cũng là máy tính và và nó cũng
+
+00:12:55.560 --> 00:12:59.710
+sẽ phải đọc cái file HTML của mình đây
+
+00:12:59.720 --> 00:13:01.870
+Các bạn thấy chấm đuôi file HTML không ạ
+
+00:13:01.880 --> 00:13:04.509
+BN các bạn có thể ấn Ctrl u này các bạn
+
+00:13:04.519 --> 00:13:07.910
+xem X code này thì các bạn sẽ thấy ở đây
+
+00:13:07.920 --> 00:13:10.310
+có khái niệm và thẻ Meta và nó sẽ có
+
+00:13:10.320 --> 00:13:13.430
+inmate này Đấy cái đường link của cái
+
+00:13:13.440 --> 00:13:15.629
+ảnh thăm vừa rồi nó chính là cái đường
+
+00:13:15.639 --> 00:13:19.030
+link như thế này để ra được cái phần
+
+00:13:19.040 --> 00:13:22.470
+head đây nó sẽ nằm hết ở phần H Các bạn
+
+00:13:22.480 --> 00:13:26.030
+thấy không thẻ Meta nằm trong phần h đại
+
+00:13:26.040 --> 00:13:28.269
+khái thì các bạn cứ hiểu là phần h và
+
+00:13:28.279 --> 00:13:31.949
+phần chứa những cái thứ mà không hiển
+
+00:13:31.959 --> 00:13:33.870
+thị ra cho trình duyện à không hiển thị
+
+00:13:33.880 --> 00:13:36.870
+ra người dùng bình thường nhìn thấy mà
+
+00:13:36.880 --> 00:13:41.030
+hiển thị mà kiểu nó sẽ để cho những công
+
+00:13:41.040 --> 00:13:43.189
+cụ hỗ trợ những công cụ tìm kiếm Ví dụ
+
+00:13:43.199 --> 00:13:45.990
+Google thậm chí là Facebook nó có thể
+
+00:13:46.000 --> 00:13:48.990
+hiểu được à trong web này đang muốn có
+
+00:13:49.000 --> 00:13:51.110
+một nội dung là gì vậy Các bạn thấy ở
+
+00:13:51.120 --> 00:13:54.629
+đây nó sẽ có content nội dung này nó sẽ
+
+00:13:54.639 --> 00:13:58.110
+bao gồm cả thẻ tiêu đề này Tóm tắt này
+
+00:13:58.120 --> 00:14:01.670
+vân vân vân đấy thì để công cụ h công cụ
+
+00:14:01.680 --> 00:14:03.910
+tìm kiếm có thể hiểu được ví dụ Trang
+
+00:14:03.920 --> 00:14:06.470
+đấy đã viết vào ngày bao nhiêu đấy Tiêu
+
+00:14:06.480 --> 00:14:10.069
+thai thồ tiêu đề là gì đấy đấy Mọi thứ
+
+00:14:10.079 --> 00:14:12.790
+nó sẽ nằm ở trong phần h cái phần mà
+
+00:14:12.800 --> 00:14:16.629
+người dùng không nhìn thấy thì thì ngược
+
+00:14:16.639 --> 00:14:19.069
+lại phần h thì mình có phần body tức là
+
+00:14:19.079 --> 00:14:20.910
+phần những cái phần mà mình muốn người
+
+00:14:20.920 --> 00:14:23.550
+dùng mình nhìn thấy thế nên là nhiều nếu
+
+00:14:23.560 --> 00:14:25.350
+mà nhiều người thắc mắc là tại sao có
+
+00:14:25.360 --> 00:14:27.629
+đầu có thân rồi sao không có chân đúng
+
+00:14:27.639 --> 00:14:30.030
+không ạ Không có vút bởi vì rõ ràng là
+
+00:14:30.040 --> 00:14:32.910
+mình sẽ chỉ có hai phần thôi một phần là
+
+00:14:32.920 --> 00:14:36.069
+cho công cụ tìm kiếm có thể biết được
+
+00:14:36.079 --> 00:14:39.389
+trang web mình đang có nội dung là gì và
+
+00:14:39.399 --> 00:14:42.030
+phần body là nội dung cho người dùng
+
+00:14:42.040 --> 00:14:44.189
+nhìn thấy
+
+00:14:44.199 --> 00:14:48.150
+đấy thế nên là vừa rồi Khi mà mình gõ gõ
+
+00:14:48.160 --> 00:14:49.910
+như này không khai báo một cái gì cả
+
+00:14:49.920 --> 00:14:52.310
+đúng không ạ thì trình duyệt sẽ tự động
+
+00:14:52.320 --> 00:14:56.389
+hiểu à Đây là làm hết trong phần body là
+
+00:14:56.399 --> 00:14:59.150
+phần người dùng nhìn thấy đấy được được
+
+00:14:59.160 --> 00:15:03.470
+không ạ Đấy tiếp theo là theo như ở
+
+00:15:03.480 --> 00:15:05.350
+trong sách giáo khoa các bạn đề cập thì
+
+00:15:05.360 --> 00:15:09.990
+bản chất là cái sơ đồ của cái HTML nó sơ
+
+00:15:10.000 --> 00:15:13.509
+đồ hình dạng cây nó sẽ kiểu có từ gốc Là
+
+00:15:13.519 --> 00:15:17.550
+HT HTML này xong rồi nó sẽ có chia mà
+
+00:15:17.560 --> 00:15:22.749
+cấp C đấy thì sẽ là có head body cùng
+
+00:15:22.759 --> 00:15:25.350
+cấp này các bạn thấy cung cấp head body
+
+00:15:25.360 --> 00:15:28.150
+này title là nằm trong head nên mình lùi
+
+00:15:28.160 --> 00:15:29.470
+vào một cái đúng không ạ
+
+00:15:29.480 --> 00:15:33.870
+tiếp theo body sẽ có h1p hrp tất cả cung
+
+00:15:33.880 --> 00:15:35.910
+cấp hết thì mình đã viết cho nó cùng
+
+00:15:35.920 --> 00:15:39.110
+Ngang Hàng nhau các bạn hiểu là nó cùng
+
+00:15:39.120 --> 00:15:42.189
+cùng một tra là cùng Body và Tra lớn
+
+00:15:42.199 --> 00:15:44.829
+nhất là HTML
+
+00:15:44.839 --> 00:15:48.910
+đấy thì tương tự như thế thì mình đã vẽ
+
+00:15:48.920 --> 00:15:52.110
+viết trả lời cho các bạn cái câu ở trong
+
+00:15:52.120 --> 00:15:55.910
+sách giáo khoa là vẽ sơ đồ cây của đoạn
+
+00:15:55.920 --> 00:15:58.949
+văn bản HTML sau mình đã viết lại cho nó
+
+00:15:58.959 --> 00:16:02.309
+nó dễ nhìn hơn một tí đấy theo cách viết
+
+00:16:02.319 --> 00:16:05.790
+của mình từ sách giáo khoa là các bạn
+
+00:16:05.800 --> 00:16:07.509
+nếu mà nhìn thế này các bạn sẽ nhìn rõ
+
+00:16:07.519 --> 00:16:10.710
+luôn thể P ở đây mở ở đây đóng ởo đây
+
+00:16:10.720 --> 00:16:12.389
+Thằng này sẽ là cha của những cái thằng
+
+00:16:12.399 --> 00:16:15.230
+con này thể P ở đây Cái này thằng Chữ
+
+00:16:15.240 --> 00:16:17.430
+đậm này này nó Con của cái thằng p này
+
+00:16:17.440 --> 00:16:20.030
+bởi vì nó nội dung mà nội dung của thằng
+
+00:16:20.040 --> 00:16:23.309
+p nên mình sẽ lùi vào như này Đấy lùi
+
+00:16:23.319 --> 00:16:25.150
+vào các bạn nhìn thấy rất là rõ thằng
+
+00:16:25.160 --> 00:16:28.269
+đậm này nó sẽ nằm ở trong thẻ p này thẻ
+
+00:16:28.279 --> 00:16:31.430
+B này thẻ b là thẻ in đậm thẻ I là
+
+00:16:31.440 --> 00:16:34.030
+italic là in in nghiêng này u là
+
+00:16:34.040 --> 00:16:36.629
+underline là cái dưới này đấy các bạn sẽ
+
+00:16:36.639 --> 00:16:39.749
+nhìn thấy nó sẽ rõ ràng là thẻ P là cha
+
+00:16:39.759 --> 00:16:43.629
+của mấy đứa này đúng không ạ tiếp thì
+
+00:16:43.639 --> 00:16:46.550
+cây HTML có bao nhiêu phần tử gốc thực
+
+00:16:46.560 --> 00:16:50.509
+ra là nó chỉ có một phần tử gốc thôi là
+
+00:16:50.519 --> 00:16:53.069
+kiểu gốc dễ vừa rồi mình nói về cái cây
+
+00:16:53.079 --> 00:16:55.509
+ạ thì cái gốc của nó chỉ có một cái đó
+
+00:16:55.519 --> 00:16:58.509
+chính là thẻ HTML to này sẽ chứa toàn bộ
+
+00:16:58.519 --> 00:17:02.030
+những cái thẻ bên trong nó đấy đây phần
+
+00:17:02.040 --> 00:17:06.710
+tử gốc là thẻ HTML được không
+
+00:17:06.720 --> 00:17:10.110
+ạ tiếp theo mình đến phần mềm soạn thảo
+
+00:17:10.120 --> 00:17:14.230
+văn bản soạn thảo HTML thì vừa rồi mình
+
+00:17:14.240 --> 00:17:18.069
+có cho các bạn thấy là dùng subex có
+
+00:17:18.079 --> 00:17:20.270
+cũng có thể gõ được nhưng mà Thậm chí
+
+00:17:20.280 --> 00:17:22.549
+các bạn thể dùng phần mềm ngay không cần
+
+00:17:22.559 --> 00:17:25.189
+cài đặt là phần mề notp hoặ thậm chí là
+
+00:17:25.199 --> 00:17:28.870
+các bạn nào mà thích kiểu tá bạo hơn thì
+
+00:17:28.880 --> 00:17:30.630
+các bạn thể dùng word nói chung là bất
+
+00:17:30.640 --> 00:17:34.590
+kỳ cái gì mình chỉ cần lưu là ch HTML
+
+00:17:34.600 --> 00:17:37.870
+mình đều có thể mở lên bằng trình duyệt
+
+00:17:37.880 --> 00:17:40.669
+Ví dụ mình ở đây có một cái trông rất là
+
+00:17:40.679 --> 00:17:43.710
+hay Rất là sinh động một cái trang web
+
+00:17:43.720 --> 00:17:46.789
+người ta gõ bằng notp vây là mình đây
+
+00:17:46.799 --> 00:17:52.150
+mình thử gõ các bạn bằng
+
+00:17:55.960 --> 00:18:03.149
+đấy các bạn có thể dùng gọ
+
+00:18:09.159 --> 00:18:14.430
+file này mình sẽ Open qui
+
+00:18:19.120 --> 00:18:23.110
+bạn thấy mở lên nó vẫn nó vẫn là ra ra
+
+00:18:23.120 --> 00:18:25.830
+cái code của mình thôi nó không khác gì
+
+00:18:25.840 --> 00:18:29.110
+cả nó chỉ khác ở điểm là nó không có m
+
+00:18:29.120 --> 00:18:31.190
+hiển thị dạng như này và nó không có gợi
+
+00:18:31.200 --> 00:18:35.029
+ý gì cả không gợi ý gì cả ví dụ là H1
+
+00:18:35.039 --> 00:18:40.510
+như này Đấy xong rồi đây mình thử gõ lại
+
+00:18:40.520 --> 00:18:45.390
+nha Xin chào các bạn xong mình đóng như
+
+00:18:45.400 --> 00:18:48.390
+này không gợi ý việc đóng cho mình đấy
+
+00:18:48.400 --> 00:18:50.909
+không có màu sắc gì cả
+
+00:18:50.919 --> 00:18:55.110
+đấy này ABC như này chẳng hạn đấy các
+
+00:18:55.120 --> 00:18:58.750
+bạn thấy không hề gỡ ý mình thể lưu lại
+
+00:18:58.760 --> 00:19:01.350
+và việc mở lên thì mình chỉ cần tải lại
+
+00:19:01.360 --> 00:19:03.789
+trang tải lại cái file mà các bạn vừa
+
+00:19:03.799 --> 00:19:07.390
+nãy đã mở và sẽ ra được nội dung mới đấy
+
+00:19:07.400 --> 00:19:09.789
+đúng không
+
+00:19:09.799 --> 00:19:14.230
+ạ thì rõ ràng Các bạn thấy là nếu mà gõ
+
+00:19:14.240 --> 00:19:17.909
+bằng HTML gõ soạn thảo HTML mà dùng mà n
+
+00:19:17.919 --> 00:19:21.270
+pass thì nó khá là kiểu tù túng kiểu
+
+00:19:21.280 --> 00:19:24.149
+dạng là không thân thiện nó lắm các bạn
+
+00:19:24.159 --> 00:19:26.110
+có thể sử dụng những cái phần mềm miễn
+
+00:19:26.120 --> 00:19:32.190
+phí nó gọi là mã nguồn mở đấy mã nguồn
+
+00:19:32.200 --> 00:19:34.310
+mở tất cả nó miễn phí cho mọi người có
+
+00:19:34.320 --> 00:19:37.830
+thể tải về để sử dụng đấy ví dụ là notp
+
+00:19:37.840 --> 00:19:40.110
+cộng cộng nop cộng cộng nghe nó giống
+
+00:19:40.120 --> 00:19:42.990
+kiểu phiên bản nâng ca hơn của notp đấy
+
+00:19:43.000 --> 00:19:46.390
+hoặc spch Nhưng mà mình đang cài cái hai
+
+00:19:46.400 --> 00:19:48.830
+cái này nó n nạ nó cũng rất nhiều điểm
+
+00:19:48.840 --> 00:19:50.909
+tương đồng với nhau chỉ có khác một điểm
+
+00:19:50.919 --> 00:19:54.990
+đây mình cho các bạn xem nhá Đây nó là
+
+00:19:55.000 --> 00:19:57.350
+cái mình ấn tượng đầu tiên đó là cái
+
+00:19:57.360 --> 00:20:00.430
+tông nền của Cái này là màu trắng còn
+
+00:20:00.440 --> 00:20:04.110
+cái kia là màu tối mình nghĩ là làm việc
+
+00:20:04.120 --> 00:20:07.669
+làm việc gõ nhiều thì mình quen Nhìn cái
+
+00:20:07.679 --> 00:20:10.750
+tối hơn đây
+
+00:20:10.760 --> 00:20:17.750
+á qu đy mình mở trong Index đây đấy các
+
+00:20:17.760 --> 00:20:20.909
+bạn thấy không đây để mình cho các bạn
+
+00:20:20.919 --> 00:20:23.710
+nhìn để so
+
+00:20:28.880 --> 00:20:30.830
+Cái phần mềm này cả hai phần mềm đều là
+
+00:20:30.840 --> 00:20:35.190
+Ph phần mềm hỗ trợ gõ HTML và giao diện
+
+00:20:35.200 --> 00:20:37.830
+n ngoài việc là nó thân thiện cho việc
+
+00:20:37.840 --> 00:20:40.669
+gõ HTML ra nó có những cái tiện ích để
+
+00:20:40.679 --> 00:20:43.470
+mà gõ HTML tốt hơn cái này các bạn có
+
+00:20:43.480 --> 00:20:46.230
+thể lên mạng người tự tìm hiểu thêm là
+
+00:20:46.240 --> 00:20:48.909
+những cái tiện ích đấy những cái Pit đấy
+
+00:20:48.919 --> 00:20:52.350
+hoặc là extension đấy để
+
+00:20:52.360 --> 00:20:55.510
+cài để mà còn phục vụ cho những cái buổi
+
+00:20:55.520 --> 00:20:58.630
+sauu ngồi gõ HTML thay vì các bạn dùng
+
+00:20:58.640 --> 00:21:01.870
+notp thì cái việc gõ nó khó hơn về cả
+
+00:21:01.880 --> 00:21:04.590
+vệc cỡ ý cũng như là màu sắc kiểu nó
+
+00:21:04.600 --> 00:21:06.710
+không thân thiện đúng không
+
+00:21:06.720 --> 00:21:08.430
+ạ
+
+00:21:08.440 --> 00:21:11.830
+đây còn cả vs code nữa vs code thì mình
+
+00:21:11.840 --> 00:21:15.149
+thấy là dành cho hẳn một người Làm lập
+
+00:21:15.159 --> 00:21:17.830
+trình viên chuyên nghiệp cũng cũng có
+
+00:21:17.840 --> 00:21:20.310
+thể sử dụng cái
+
+00:21:20.320 --> 00:21:23.870
+này đây tiếp theo Nếu giả sử là các bạn
+
+00:21:23.880 --> 00:21:26.590
+không muốn cải về máy giả sử là máy các
+
+00:21:26.600 --> 00:21:29.830
+bạn các bạn không có máy tính cá nhân
+
+00:21:29.840 --> 00:21:33.590
+Các bạn phải dùng tạo ở nhà trường mà
+
+00:21:33.600 --> 00:21:36.669
+không được cài Mấy cái phần mềm gì cả
+
+00:21:36.679 --> 00:21:38.870
+cũng như là đại khái Thì máy các bạn Hy
+
+00:21:38.880 --> 00:21:41.310
+dung lượng rồi thì các bạn có thể lên
+
+00:21:41.320 --> 00:21:43.310
+những cái trang những cái trang này là
+
+00:21:43.320 --> 00:21:45.990
+những trang hỗi trợ kiểu gõ soạn thảo
+
+00:21:46.000 --> 00:21:50.110
+HTML trực tuyến thậm chí ví dụ cái trang
+
+00:21:50.120 --> 00:21:51.630
+này nó ngoài
+
+00:21:51.640 --> 00:21:54.669
+việc hỗ trợ soạn thảo đôi khi là nó sẽ
+
+00:21:54.679 --> 00:21:57.350
+có những cái mẹo những cái gợi ý kèm cả
+
+00:21:57.360 --> 00:21:59.549
+khhoa học miễn phí
+
+00:21:59.559 --> 00:22:01.710
+thì các bạn hoàn toàn thể thực hành bổ
+
+00:22:01.720 --> 00:22:04.510
+sung thêm kỹ năng ở trên này kết hợp với
+
+00:22:04.520 --> 00:22:07.590
+những cái khóa học để mà các bạn kiểu
+
+00:22:07.600 --> 00:22:11.430
+cải thiện thêm vốn hiểu biết vân vân bởi
+
+00:22:11.440 --> 00:22:16.310
+vì cái này là nó là một cái để kiểu các
+
+00:22:16.320 --> 00:22:20.510
+bạn học web làm soạn Hảo mọi thứ nhanh
+
+00:22:20.520 --> 00:22:25.590
+hơn đây ví dụ đây ở trang w3 school đấy
+
+00:22:25.600 --> 00:22:28.310
+tiếp bây giờ mình xin phép trả lời những
+
+00:22:28.320 --> 00:22:33.029
+câu câu hỏi có trong sách tiếp nhá
+
+00:22:36.880 --> 00:22:39.909
+cái câu là xếp thành hai nhóm mình đã
+
+00:22:39.919 --> 00:22:42.390
+xếp sẵn ở đây cho các bạn đó ví dụ là
+
+00:22:42.400 --> 00:22:45.510
+chạn Thảo HTML mình có thể dùng
+
+00:22:45.520 --> 00:22:48.549
+Notepad mình có thể dùng subex hoặc
+
+00:22:48.559 --> 00:22:51.470
+Notepad cộng cộng trình diệt web thì bây
+
+00:22:51.480 --> 00:22:54.710
+giờ có rất rất nhiều chình m web ví dụ
+
+00:22:54.720 --> 00:22:57.789
+Opera Chrome cc cốc Firefox hay là
+
+00:22:57.799 --> 00:23:00.510
+Microsoft đúng không ạ Ngoài ra là bây
+
+00:23:00.520 --> 00:23:02.870
+giờ thực ra còn rất nhiều nhưng mà trong
+
+00:23:02.880 --> 00:23:05.310
+sách chỉ nói những cái tiêu biểu nhất
+
+00:23:05.320 --> 00:23:07.590
+bây giờ
+
+00:23:07.600 --> 00:23:13.070
+thôi tiếp theo là đây câu này Thực ra là
+
+00:23:13.080 --> 00:23:16.070
+câu mà chính các bạn nên tự kiểu cảm
+
+00:23:16.080 --> 00:23:18.549
+nhận sự khác biệt như mình đã nói nhưng
+
+00:23:18.559 --> 00:23:20.310
+mình xin phép nói qua trước ở đây có
+
+00:23:20.320 --> 00:23:23.430
+những cái thứ nhất là nó liên quan đến
+
+00:23:23.440 --> 00:23:26.549
+việc là Hiển thị Màu sắc này như bạn vừa
+
+00:23:26.559 --> 00:23:29.190
+nãy đề cập
+
+00:23:29.200 --> 00:23:32.549
+Các bạn thấy rõ là giữa một cái Supply
+
+00:23:32.559 --> 00:23:35.990
+text với một cái tắt cái nốp rồi cái
+
+00:23:36.000 --> 00:23:38.669
+Supply tch một cái phần mềm chuyên nghệp
+
+00:23:38.679 --> 00:23:40.630
+đúng không ạ một cái soạn Hảo thông
+
+00:23:40.640 --> 00:23:43.510
+thường là kiểu n pass thì màu sắc nó
+
+00:23:43.520 --> 00:23:46.190
+khác biệt hẳn tiếp theo là phần tự động
+
+00:23:46.200 --> 00:23:47.870
+hoàn thành mã giống như các bạn vừa nãy
+
+00:23:47.880 --> 00:23:50.950
+thấy là cái H1 khi mình đóng thẻ là lập
+
+00:23:50.960 --> 00:23:53.590
+tức nó sẽ tự động đóng Không cần phải
+
+00:23:53.600 --> 00:23:56.870
+ghi chữ H1 nữa đấy tiếp là phần kiểm tra
+
+00:23:56.880 --> 00:23:59.710
+lỗi hay là những công cụ khác để hỗ trợ
+
+00:23:59.720 --> 00:24:04.190
+cho việc gõ ví dụ là về sau nó sẽ gợi ý
+
+00:24:04.200 --> 00:24:06.390
+bạn là bạn quên chưa đóng thẻ này Đấy
+
+00:24:06.400 --> 00:24:10.470
+vân vân nữa thì tất cả những cái đấy
+
+00:24:10.480 --> 00:24:12.070
+những cái phần mềm chuyên nghiệp nó sẽ
+
+00:24:12.080 --> 00:24:15.870
+có và đặc biệt là hầu hết đều là miễn
+
+00:24:15.880 --> 00:24:18.549
+phí
+
+00:24:18.559 --> 00:24:22.909
+đấy thì vừa rồi là mình đã giới thiệu
+
+00:24:22.919 --> 00:24:26.430
+qua về HTML cũng như là cách để mà soạn
+
+00:24:26.440 --> 00:24:28.950
+thảo được một cái tài liệu HTML để hiển
+
+00:24:28.960 --> 00:24:33.350
+thị ngoài ra là mình muốn cho bạn xem
+
+00:24:33.360 --> 00:24:36.110
+qua một cái trang web cũng n là giống
+
+00:24:36.120 --> 00:24:39.070
+cái trang hỗ trợ soạn thảo HTM trực
+
+00:24:39.080 --> 00:24:41.310
+tuyến này thì các bạn Thể thỏa sức sáng
+
+00:24:41.320 --> 00:24:44.190
+tạo tham khảo dụ là mình có trang COD
+
+00:24:44.200 --> 00:24:46.710
+pen như thế
+
+00:24:46.720 --> 00:24:50.269
+này ví dụ là các bạn đến đây Các bạn nên
+
+00:24:50.279 --> 00:24:52.590
+tra đây tra nước ngoài nên các bạn nên
+
+00:24:52.600 --> 00:24:55.389
+tra bằng tiếng Anh ví dụ giả sự là mình
+
+00:24:55.399 --> 00:24:57.110
+liên quan đến phần đăng nghiệp chẳng hạn
+
+00:24:57.120 --> 00:25:00.669
+đấy thì nó sẽ ra những cái giao diện rất
+
+00:25:00.679 --> 00:25:02.909
+là màu m rất là đặc đẹp ở đây để các bạn
+
+00:25:02.919 --> 00:25:05.870
+thể tham khảo các bạn thể à mang cái
+
+00:25:05.880 --> 00:25:08.430
+code giao diện này về trong web của mình
+
+00:25:08.440 --> 00:25:12.310
+đấy ví dụ mình bấm vào đây đ xem đây nó
+
+00:25:12.320 --> 00:25:16.269
+sẽ có HTML và CS nữa CS là gì thì chắc
+
+00:25:16.279 --> 00:25:18.909
+về sau các bạn sẽ được học các bạn hoàn
+
+00:25:18.919 --> 00:25:21.350
+toàn thể C cái này ví dụ mình sẽ ví dụ
+
+00:25:21.360 --> 00:25:24.110
+luôn ở đây các bạn dễ h dung các bạn C
+
+00:25:24.120 --> 00:25:27.549
+như này đây set này set thì luôn nằm
+
+00:25:27.559 --> 00:25:31.669
+trong cái thẻ nó là thẻ Style như
+
+00:25:31.679 --> 00:25:37.029
+này Đấy sau đó thì mình mở chạy thử đó
+
+00:25:37.039 --> 00:25:39.669
+các bạn thấy nó đã ra được một giao diện
+
+00:25:39.679 --> 00:25:42.269
+của trang web rất là màu mè mình không
+
+00:25:42.279 --> 00:25:45.549
+cần phải biết một tí gì về làm giao diện
+
+00:25:45.559 --> 00:25:49.830
+mình vẫn thể sao ché được cái giao diện
+
+00:25:49.840 --> 00:25:53.630
+từ trang web khác về để làm nhưng mà
+
+00:25:53.640 --> 00:25:57.149
+mình vẫn phải hình dung được là Ừ mình
+
+00:25:57.159 --> 00:25:59.350
+mình sao chép về Nhưng mà mình muốn sửa
+
+00:25:59.360 --> 00:26:02.149
+lại đúng không ạ ch login này đổi thành
+
+00:26:02.159 --> 00:26:03.950
+đây tiếng Anh mình đổi thành tiếng Việt
+
+00:26:03.960 --> 00:26:07.029
+là đăng nhập chẳng hạn đúng không ạ Đấy
+
+00:26:07.039 --> 00:26:09.310
+th nó hành đăng nhập đó thì rõ ràng là
+
+00:26:09.320 --> 00:26:12.510
+mình hoàn toàn thể lên mạng mình xem cái
+
+00:26:12.520 --> 00:26:15.950
+giao diện nào đẹp mình sửa lại đấy cũng
+
+00:26:15.960 --> 00:26:18.470
+như là mình thay đổi để vì mình đã hiểu
+
+00:26:18.480 --> 00:26:21.470
+được là trang web đấy nó tạo bởi HTML
+
+00:26:21.480 --> 00:26:24.510
+đúng không ạ Ok chắc là buổi hôm nay
+
+00:26:24.520 --> 00:26:28.750
+mình sẽ tạo dừng tại đây hẹn gặp lại các
+
+00:26:28.760 --> 00:26:32.000
+bạn ở buổi sau
