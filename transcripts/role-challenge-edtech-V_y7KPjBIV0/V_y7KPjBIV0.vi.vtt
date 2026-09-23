@@ -1,0 +1,2803 @@
+WEBVTT
+
+00:00:04.759 --> 00:00:10.549
+Little Life. À hôm nay tôi sẽ ờ
+
+00:00:10.559 --> 00:00:13.910
+quay video để mà nói về cách tôi đã làm
+
+00:00:13.920 --> 00:00:18.710
+bài à bài phỏng vấn test thế nào. Today
+
+00:00:18.720 --> 00:00:24.470
+I will introduce about how I
+
+00:00:24.480 --> 00:00:27.429
+do the challenge
+
+00:00:27.439 --> 00:00:34.069
+à interviews. À
+
+00:00:39.120 --> 00:00:42.990
+liệu này. Thực ra là mình gửi từ 8:30
+
+00:00:43.000 --> 00:00:46.189
+nên là em 9:30 thì em đã mở lên đọc. Và
+
+00:00:46.199 --> 00:00:49.229
+em cũng hỏi là có thể giải thích bằng
+
+00:00:49.239 --> 00:00:51.069
+tiếng Việt được không? Bởi vì nó sẽ khá
+
+00:00:51.079 --> 00:00:54.910
+chu chảy hơn. Nhưng mà bên mình thì
+
+00:00:54.920 --> 00:00:57.110
+thích tiếng Anh nên là em nghĩ là em sẽ
+
+00:00:57.120 --> 00:01:00.069
+nói kiểu song ngữ để nói tiếng Việt
+
+00:01:00.079 --> 00:01:02.470
+trước một cách mượt, sau đó thì dịch ra
+
+00:01:02.480 --> 00:01:04.390
+bằng tiếng Anh.
+
+00:01:04.400 --> 00:01:06.190
+So today
+
+00:01:06.200 --> 00:01:10.710
+you guys sending me emails
+
+00:01:10.720 --> 00:01:20.310
+about 8 30 o but I open email
+
+00:01:20.320 --> 00:01:27.109
+and read read this challenge about 930.
+
+00:01:27.119 --> 00:01:33.230
+So I first of all I I ask about
+
+00:01:33.240 --> 00:01:37.389
+can I can I record this video explain
+
+00:01:37.399 --> 00:01:41.550
+just in Vietnames because I will speak
+
+00:01:41.560 --> 00:01:45.830
+more fluent and smotter that you prefer
+
+00:01:45.840 --> 00:01:49.910
+English. So I think I will
+
+00:01:49.920 --> 00:01:55.109
+have bow à have dual language to
+
+00:01:55.119 --> 00:01:58.230
+translate make it clear
+
+00:01:58.240 --> 00:02:00.749
+for me.
+
+00:02:00.759 --> 00:02:06.029
+So hope you c understand.
+
+00:02:09.319 --> 00:02:11.790
+Phần này nói về
+
+00:02:11.800 --> 00:02:13.630
+đầu tiên là về cách giải quyết vấn đề
+
+00:02:13.640 --> 00:02:16.589
+đúng không ạ? À
+
+00:02:16.599 --> 00:02:20.990
+và 8:30 sáng đã có thông báo về cái việc
+
+00:02:21.000 --> 00:02:22.550
+là
+
+00:02:22.560 --> 00:02:25.910
+cái monitor đã hiển thị các thông tin
+
+00:02:25.920 --> 00:02:30.670
+liên quan đến độ trễ về phản hồi API và
+
+00:02:30.680 --> 00:02:35.229
+connection thì bị quá tải. Xong rồi. À
+
+00:02:35.239 --> 00:02:39.270
+tỉ lệ er rate của cái API này tận 23% mà
+
+00:02:39.280 --> 00:02:44.790
+thường là chỉ dưới 1%. Và và có trường
+
+00:02:44.800 --> 00:02:47.830
+còn phản ánh lại là app bị treo đúng
+
+00:02:47.840 --> 00:02:52.990
+không ạ? Khi mà khi mà kiểu à đây gọi là
+
+00:02:53.000 --> 00:02:55.030
+điểm danh.
+
+00:02:55.040 --> 00:03:01.710
+So in the morning
+
+00:03:04.519 --> 00:03:07.309
+respond is very delay
+
+00:03:07.319 --> 00:03:11.350
+and datab connection is po and error is
+
+00:03:11.360 --> 00:03:14.990
+very high and some school are reporting
+
+00:03:15.000 --> 00:03:20.990
+that is crashing or freezing
+
+00:03:24.000 --> 00:03:29.869
+À s thì ở đây là em thấy là có cập nhật
+
+00:03:29.879 --> 00:03:32.869
+mới cập nhật gần đây đó là thêm tính
+
+00:03:32.879 --> 00:03:36.750
+năng về kiểu chck kingh là kiểu theo dõi
+
+00:03:36.760 --> 00:03:41.470
+về về vụ điểm danh và
+
+00:03:41.480 --> 00:03:44.750
+tiếp theo là thông báo tuần trước thì
+
+00:03:44.760 --> 00:03:47.030
+thông báo thời theo thời gian thực cho
+
+00:03:47.040 --> 00:03:51.830
+phụ huynh đấy và database đang
+
+00:03:51.840 --> 00:03:54.190
+khá là tăng trong khoảng thời gian vừa
+
+00:03:54.200 --> 00:04:00.069
+qua đấy. So I see that yesterday we just
+
+00:04:00.079 --> 00:04:05.949
+deploy new attention checking. So make
+
+00:04:05.959 --> 00:04:09.949
+it can make more cry or
+
+00:04:09.959 --> 00:04:15.309
+some addition feature in current feature
+
+00:04:15.319 --> 00:04:20.110
+last week that we have retime parent
+
+00:04:20.120 --> 00:04:21.789
+notification.
+
+00:04:21.799 --> 00:04:26.270
+So it's just another addition feature to
+
+00:04:26.280 --> 00:04:29.510
+this
+
+00:04:33.800 --> 00:04:35.950
+delay
+
+00:04:35.960 --> 00:04:39.749
+and then database increase in past
+
+00:04:39.759 --> 00:04:41.870
+month. So
+
+00:04:41.880 --> 00:04:47.590
+we I think this is about the scale of
+
+00:04:47.600 --> 00:04:51.070
+data. So make
+
+00:04:51.080 --> 00:04:57.870
+the current query more slower.
+
+00:04:59.919 --> 00:05:02.990
+giả thiết của bạn về vấn đề cốc lõi là
+
+00:05:03.000 --> 00:05:05.590
+gì? À
+
+00:05:05.600 --> 00:05:09.270
+và cái log là mình sẽ kiểm tra đầu tiên
+
+00:05:09.280 --> 00:05:12.070
+cái việc là mình sẽ gọi ai đúng không ạ?
+
+00:05:12.080 --> 00:05:15.870
+Và tại sao thì đầu tiên là mình đầu tiên
+
+00:05:15.880 --> 00:05:18.430
+là em sẽ
+
+00:05:18.440 --> 00:05:20.390
+như em vừa nói thì gốc dễ vấn đề ở đây
+
+00:05:20.400 --> 00:05:23.270
+nếu mà try vấn đột nhiên lâu thì chắc
+
+00:05:23.280 --> 00:05:24.749
+chắn là thường liên quan đến việc là
+
+00:05:24.759 --> 00:05:26.870
+tính năng mới cập nhật đúng không ạ? Nếu
+
+00:05:26.880 --> 00:05:28.830
+mà đây là đột nhiên lâu đúng không ạ?
+
+00:05:28.840 --> 00:05:30.870
+mới hôm qua cập nhật tính năng mới hay
+
+00:05:30.880 --> 00:05:34.230
+gì đó. Đấy, xong rồi à tỉ lệ câu truy
+
+00:05:34.240 --> 00:05:36.350
+vấn lên cao các thứ các thứ thì em sẽ
+
+00:05:36.360 --> 00:05:38.950
+điều tra dần về
+
+00:05:38.960 --> 00:05:42.469
+đầu tiên mở cái đoạn đoạn
+
+00:05:42.479 --> 00:05:45.350
+bởi vì cái này đã xác định
+
+00:05:45.360 --> 00:05:47.029
+nếu mà tính năng mới này thì mình xác
+
+00:05:47.039 --> 00:05:48.670
+định được luôn là tính có thể tính năng
+
+00:05:48.680 --> 00:05:51.029
+mới là gây ra mình sẽ vào cái phần điểm
+
+00:05:51.039 --> 00:05:53.430
+danh để kiểm tra luôn. Đấy, sau đó thì
+
+00:05:53.440 --> 00:05:56.189
+mình sẽ
+
+00:05:56.199 --> 00:05:59.749
+ờ đầu tiên là mình vào kiểm tra luôn.
+
+00:05:59.759 --> 00:06:02.070
+Sau đó thì mình sẽ biết được mình dựa
+
+00:06:02.080 --> 00:06:04.469
+theo lịch sử git để mình biết được là ai
+
+00:06:04.479 --> 00:06:06.189
+là người mới đẩy đoạn này lên để mà bảo
+
+00:06:06.199 --> 00:06:08.790
+check cùng với mình để theo dõi. Đấy,
+
+00:06:08.800 --> 00:06:10.430
+sau đó thì mình vẫn sẽ tiếp tục điều
+
+00:06:10.440 --> 00:06:12.350
+tra.
+
+00:06:12.360 --> 00:06:15.950
+thì mình cách để tái hiện lại thì thường
+
+00:06:15.960 --> 00:06:20.309
+là sẽ là thực ra là mình có thể đọc code
+
+00:06:20.319 --> 00:06:21.950
+ra đoạn code này khá là ngắn để mình có
+
+00:06:21.960 --> 00:06:24.710
+thể à nhìn một phát hình dung được luôn.
+
+00:06:24.720 --> 00:06:26.150
+Nhưng mà còn nếu mà vấn đề lớn hơn thì
+
+00:06:26.160 --> 00:06:28.589
+thường là mình sẽ chạy đoạn code này kèm
+
+00:06:28.599 --> 00:06:32.189
+theo kiểu monitor. Ví dụ là bên mình
+
+00:06:32.199 --> 00:06:35.350
+dùng PP thì có thể dùng các monitor
+
+00:06:35.360 --> 00:06:37.790
+giống như là nếu mà dùng Lel chẳng hạn
+
+00:06:37.800 --> 00:06:40.070
+đúng không ạ? thì dùng monitor của Lal T
+
+00:06:40.080 --> 00:06:43.629
+scope hoặc là clockwork để mà mình biết
+
+00:06:43.639 --> 00:06:45.830
+được là
+
+00:06:45.840 --> 00:06:48.909
+à tốc độ xử lý của mỗi cái tốc độ có bao
+
+00:06:48.919 --> 00:06:50.070
+nhiêu câu truy vấn rồi vân vân đúng
+
+00:06:50.080 --> 00:06:53.270
+không ạ. So
+
+00:06:53.280 --> 00:06:57.990
+the first I will I will do that
+
+00:06:58.000 --> 00:07:00.749
+I I will
+
+00:07:00.759 --> 00:07:03.589
+see the reason change in git. So
+
+00:07:03.599 --> 00:07:07.029
+yesterday just deploy new
+
+00:07:07.039 --> 00:07:12.390
+thing new feature. So I think if if this
+
+00:07:12.400 --> 00:07:15.710
+this monitor just notice this morning
+
+00:07:15.720 --> 00:07:17.430
+not
+
+00:07:17.440 --> 00:07:22.110
+over the the week. So I think this
+
+00:07:22.120 --> 00:07:26.029
+maybe this feature
+
+00:07:30.080 --> 00:07:35.430
+will check that first and when I do when
+
+00:07:35.440 --> 00:07:38.150
+I see
+
+00:07:38.160 --> 00:07:41.189
+see the git that
+
+00:07:41.199 --> 00:07:45.230
+who have responsible about this code I
+
+00:07:45.240 --> 00:07:50.270
+will call him but I will also
+
+00:07:50.280 --> 00:07:54.510
+pair pair program
+
+00:07:59.840 --> 00:08:02.589
+So I think I will see the problem right
+
+00:08:02.599 --> 00:08:05.790
+away but
+
+00:08:05.800 --> 00:08:10.710
+if it's more complicated on production
+
+00:08:10.720 --> 00:08:14.629
+on job production so I think I must
+
+00:08:14.639 --> 00:08:20.589
+run that on my local and if if it
+
+00:08:20.599 --> 00:08:24.950
+you are using PB and maybe framework
+
+00:08:24.960 --> 00:08:27.469
+like Lal I will
+
+00:08:27.479 --> 00:08:28.270
+use
+
+00:08:28.280 --> 00:08:31.230
+package like
+
+00:08:31.240 --> 00:08:34.070
+telescope or
+
+00:08:34.080 --> 00:08:38.149
+clockwork to see the how many query and
+
+00:08:38.159 --> 00:08:40.750
+how long is
+
+00:08:40.760 --> 00:08:45.509
+how long is take and some and total cost
+
+00:08:45.519 --> 00:08:51.750
+and total à response time.
+
+00:08:53.640 --> 00:08:55.990
+vấn đề đó là N + 1 câ truy vấn. Bởi vì ở
+
+00:08:56.000 --> 00:09:00.550
+đây ví dụ đây là truy vấn a à học sinh
+
+00:09:00.560 --> 00:09:02.829
+đúng không ạ? Xong rồi truy vấn tiếp là
+
+00:09:02.839 --> 00:09:05.069
+trường này, xong rồi cập nhật này, xong
+
+00:09:05.079 --> 00:09:09.509
+rồi truy vấn à phụ huynh, sau đó thì à
+
+00:09:09.519 --> 00:09:12.790
+lại truy vấn tiếp là đếm tổng số điểm
+
+00:09:12.800 --> 00:09:17.310
+danh ngày hôm nay rồi cập nhật. Đấy thì
+
+00:09:17.320 --> 00:09:19.590
+ở đây thấy vấn đề ngay đó là truy vấn
+
+00:09:19.600 --> 00:09:22.670
+rất nhiều kết hợp việc là có truy vấn
+
+00:09:22.680 --> 00:09:27.350
+thừa à kết hợp với việc là
+
+00:09:27.360 --> 00:09:29.630
+thường là không nên truy vấn từng học
+
+00:09:29.640 --> 00:09:32.030
+sinh như thế này. Xong rồi đã thế là
+
+00:09:32.040 --> 00:09:35.550
+nghĩa là bản chất bản chất khi mà
+
+00:09:35.560 --> 00:09:38.389
+một cái luồng tính năng hoạt động đó là
+
+00:09:38.399 --> 00:09:41.630
+phải đi từ đi từ cha rồi đến con. Còn
+
+00:09:41.640 --> 00:09:44.069
+đây là lại đang đi từ con rồi đến cha.
+
+00:09:44.079 --> 00:09:46.430
+Tất cả từ cái nhỏ nhất cho đến cái lớn
+
+00:09:46.440 --> 00:09:48.870
+nhất. Ví dụ là học sinh xong rồi đến
+
+00:09:48.880 --> 00:09:50.269
+trường xong đến phụ huynh nghĩa là mình
+
+00:09:50.279 --> 00:09:52.670
+đang đi ngược nên thành ra mình bị nặng.
+
+00:09:52.680 --> 00:09:54.509
+Đấy chuẩn là mình sẽ phải đi bài toán
+
+00:09:54.519 --> 00:09:57.150
+xuôi. Thế nên là em nghĩ là đầu tiên là
+
+00:09:57.160 --> 00:09:59.949
+em nghĩ hot fix trước thì rõ ràng là để
+
+00:09:59.959 --> 00:10:02.790
+liên quan việc là khách hàng đang báo là
+
+00:10:02.800 --> 00:10:06.630
+đang bị delay nên là mình sẽ cần
+
+00:10:06.640 --> 00:10:08.790
+phản hồi nhanh nhất cho khách hàng chứ
+
+00:10:08.800 --> 00:10:10.509
+còn những cái liên quan đến sửa về câu
+
+00:10:10.519 --> 00:10:14.710
+truy vấn thì sẽ có thể làm sai thì gây
+
+00:10:14.720 --> 00:10:16.990
+lỗi gây bấc luôn là coi như là sẽ chết
+
+00:10:17.000 --> 00:10:20.030
+luôn thì không nên là mình sẽ đầu tiên
+
+00:10:20.040 --> 00:10:22.670
+là những cái gì mình đẩy được vào chó
+
+00:10:22.680 --> 00:10:24.710
+thì mình sẽ xử lý luôn bởi vì nó không
+
+00:10:24.720 --> 00:10:27.190
+sửa gì về logic mà chỉ gần như là mình
+
+00:10:27.200 --> 00:10:29.430
+chỉ đẩy code được cái này sang khác. Thì
+
+00:10:29.440 --> 00:10:32.110
+ví dụ là cái thông báo thì mình hiện tại
+
+00:10:32.120 --> 00:10:33.910
+thì đang bắt người dùng có thể nhìn đoạn
+
+00:10:33.920 --> 00:10:36.230
+này có thể đang bắt người dùng phải đợi
+
+00:10:36.240 --> 00:10:38.190
+việc thông báo xong thì mới được thì
+
+00:10:38.200 --> 00:10:40.550
+mình sẽ đẩy vào job đẩy vào que để nó xử
+
+00:10:40.560 --> 00:10:45.030
+lý kiểu xử lý tuần tự từ từ. Cái này
+
+00:10:45.040 --> 00:10:47.150
+không quan trọng. Đây không tính năng
+
+00:10:47.160 --> 00:10:48.470
+chính là tính năng điểm danh, không phải
+
+00:10:48.480 --> 00:10:50.350
+tính năng về thông báo hay tính năng cập
+
+00:10:50.360 --> 00:10:53.350
+nhật gì đó này. Và thứ hai đó là cái
+
+00:10:53.360 --> 00:10:55.310
+tính năng cập nhật này là đang phải lấy
+
+00:10:55.320 --> 00:10:58.750
+ra dữ liệu ra xong rồi cập nhật vào. Th
+
+00:10:58.760 --> 00:11:02.230
+không nên. Mình sẽ mình có thể với SQL
+
+00:11:02.240 --> 00:11:03.949
+thì mình có thể dùng cái hàm là
+
+00:11:03.959 --> 00:11:07.269
+increment là mình sẽ kiểu tự động tăng
+
+00:11:07.279 --> 00:11:10.829
+nó luôn. Nên là mình sẽ mình sẽ kiểu tự
+
+00:11:10.839 --> 00:11:14.509
+động tăng dần.
+
+00:11:18.920 --> 00:11:21.670
+em có thực ra là em có dùng ai nhưng mà
+
+00:11:21.680 --> 00:11:23.110
+em biết được luồng hoạt động rồi đầu
+
+00:11:23.120 --> 00:11:25.110
+tiên em còn dùng ai để phân tích ra cái
+
+00:11:25.120 --> 00:11:27.190
+bản này kết hợp việc tạo bản tiếng Việt
+
+00:11:27.200 --> 00:11:29.509
+để cho dễ đọc đã tránh việc mình hiểu
+
+00:11:29.519 --> 00:11:31.829
+sai vấn đề
+
+00:11:31.839 --> 00:11:34.389
+đấy xong rồi em đã nghĩ ra tất cả các
+
+00:11:34.399 --> 00:11:36.710
+giải pháp trước rồi đấy tuy là nói ở đây
+
+00:11:36.720 --> 00:11:40.069
+nhưng mà em đã nghĩ ra bởi vì là mình là
+
+00:11:40.079 --> 00:11:42.269
+công ty về product em làm công ty
+
+00:11:42.279 --> 00:11:44.389
+Product phải em từng làm về chính hệ
+
+00:11:44.399 --> 00:11:46.190
+thống quản lý cho nhà trường điểm danh
+
+00:11:46.200 --> 00:11:49.590
+nên là em sẽ biết được là mình sẽ phải
+
+00:11:49.600 --> 00:11:52.350
+sửa dần dần.
+
+00:11:52.360 --> 00:11:55.509
+À quên em nói tiếng Anh nữa. So first of
+
+00:11:55.519 --> 00:11:58.870
+all I think I will see the problem right
+
+00:11:58.880 --> 00:12:02.389
+away about this
+
+00:12:02.399 --> 00:12:07.990
+normally that a function you will go
+
+00:12:08.000 --> 00:12:11.829
+from the root to the
+
+00:12:11.839 --> 00:12:15.509
+to the le is about you will go from
+
+00:12:15.519 --> 00:12:19.269
+school to to parent to child or maybe
+
+00:12:19.279 --> 00:12:24.790
+school to try to parent to not like
+
+00:12:24.800 --> 00:12:33.269
+try to try to parent or school because
+
+00:12:35.440 --> 00:12:38.949
+I don't know that word but I think
+
+00:12:38.959 --> 00:12:42.550
+reverse is not good
+
+00:12:42.560 --> 00:12:47.990
+not good flows you will go from the root
+
+00:12:48.000 --> 00:12:50.389
+to the bottom
+
+00:12:50.399 --> 00:12:54.310
+so the the problem is about the query
+
+00:12:54.320 --> 00:12:59.110
+but the main problem problem we must fix
+
+00:12:59.120 --> 00:13:03.910
+right away is about the delay à so i
+
+00:13:03.920 --> 00:13:08.189
+think the notification or update
+
+00:13:08.199 --> 00:13:12.030
+update start that is not the core
+
+00:13:12.040 --> 00:13:15.430
+function here the core function here is
+
+00:13:15.440 --> 00:13:19.509
+about attention so
+
+00:13:19.519 --> 00:13:23.430
+so we
+
+00:13:26.440 --> 00:13:31.550
+to job to
+
+00:13:36.560 --> 00:13:39.550
+not one
+
+00:13:39.560 --> 00:13:42.629
+not need to
+
+00:13:42.639 --> 00:13:45.389
+notif notification
+
+00:13:45.399 --> 00:13:49.949
+right away so and more problem about
+
+00:13:49.959 --> 00:13:52.990
+query is have two query but we don't
+
+00:13:53.000 --> 00:13:57.790
+need that we will use increment function
+
+00:13:57.800 --> 00:13:59.749
+in
+
+00:13:59.759 --> 00:14:04.910
+SQL to to increase more
+
+00:14:04.920 --> 00:14:07.710
+today attention C
+
+00:14:07.720 --> 00:14:15.389
+so I use AI I is is to first I use AI to
+
+00:14:15.399 --> 00:14:19.470
+summary and translate it for to English
+
+00:14:19.480 --> 00:14:24.230
+And I also use it to make a flow answer,
+
+00:14:24.240 --> 00:14:27.749
+but I don't I don't see it first because
+
+00:14:27.759 --> 00:14:31.790
+I I see the code and see the detail and
+
+00:14:31.800 --> 00:14:36.030
+I can answer that right here.
+
+00:14:36.040 --> 00:14:41.150
+We are we are produ product company so I
+
+00:14:41.160 --> 00:14:43.870
+think make
+
+00:14:43.880 --> 00:14:49.350
+a lot we don't fix all right away we
+
+00:14:49.360 --> 00:14:54.030
+make hot fix like like I just said we
+
+00:14:54.040 --> 00:14:58.230
+have version two just you agreement to
+
+00:14:58.240 --> 00:15:02.389
+make two query to one query
+
+00:15:02.399 --> 00:15:06.230
+and we make this notification
+
+00:15:06.240 --> 00:15:09.509
+notification to job so
+
+00:15:09.519 --> 00:15:12.629
+don't have to as a client don't have to
+
+00:15:12.639 --> 00:15:17.310
+wait while doing this
+
+00:15:17.320 --> 00:15:19.990
+đấy thì đầu tiên là em có version 1 như
+
+00:15:20.000 --> 00:15:21.310
+này code nó sẽ trông như này đúng không
+
+00:15:21.320 --> 00:15:23.710
+ạ đây là em có từ bên kia ra đúng không
+
+00:15:23.720 --> 00:15:25.990
+ạ xong rồi version 2 thì nó sẽ như này
+
+00:15:26.000 --> 00:15:30.269
+rất đơn giản là mình có một chop này
+
+00:15:30.279 --> 00:15:32.430
+increment xong mình sẽ đã giải quyết
+
+00:15:32.440 --> 00:15:35.550
+được tương đối là về hiệu suất. Bởi vì
+
+00:15:35.560 --> 00:15:37.870
+cái này đơn giản tuy là nó vẫn có nhiều
+
+00:15:37.880 --> 00:15:39.949
+truy vấn nhưng thực ra là nó đều truy
+
+00:15:39.959 --> 00:15:41.870
+vấn rất là ngắn và rất rất là nhanh. Bởi
+
+00:15:41.880 --> 00:15:44.230
+vì tìm cái khóa chính xong rồi xếp thì
+
+00:15:44.240 --> 00:15:46.790
+mọi thứ đều rất nhanh đấy nên là nó
+
+00:15:46.800 --> 00:15:48.990
+không giải quyết được vấn đề của khách
+
+00:15:49.000 --> 00:15:53.350
+luôn rồi. Còn về công ty Product thì
+
+00:15:53.360 --> 00:15:56.189
+mình phải ưu luôn ưu tiên khách trước.
+
+00:15:56.199 --> 00:15:58.470
+Còn những cái kiểu bởi vì khách sẽ luôn
+
+00:15:58.480 --> 00:16:00.550
+nhìn thấy cái đấy đầu tiên khách không
+
+00:16:00.560 --> 00:16:02.350
+quan tâm việc mình feedback hay mọi thứ
+
+00:16:02.360 --> 00:16:07.470
+như thế nào đúng không ạ? Đấy.
+
+00:16:12.600 --> 00:16:17.189
+we just move notification to job to kill
+
+00:16:17.199 --> 00:16:21.269
+to make it
+
+00:16:21.279 --> 00:16:23.870
+do something later we don't have to wait
+
+00:16:23.880 --> 00:16:28.870
+that and we will transform
+
+00:16:28.880 --> 00:16:31.710
+select and update to just increment
+
+00:16:31.720 --> 00:16:36.509
+increment in HQL will increase that we
+
+00:16:36.519 --> 00:16:40.389
+don't we don't have to select it to know
+
+00:16:40.399 --> 00:16:46.590
+what what C is I we don't need this.
+
+00:16:46.600 --> 00:16:48.749
+À
+
+00:16:48.759 --> 00:16:51.350
+đấy. Tiếp theo là
+
+00:16:51.360 --> 00:16:54.350
+tiếp theo là mình sẽ có bản thứ ba vì là
+
+00:16:54.360 --> 00:16:56.470
+như mình đã nói là mình đang bị n + 1 có
+
+00:16:56.480 --> 00:16:59.870
+truy vấn ở đây là mình đang kiểu
+
+00:16:59.880 --> 00:17:02.829
+select tận khá nhiều lần và cứ mỗi một
+
+00:17:02.839 --> 00:17:04.990
+học sinh là mình lại phải lấy lại thông
+
+00:17:05.000 --> 00:17:07.909
+tin trường. Đấy là một cái nó lặp điệp
+
+00:17:07.919 --> 00:17:10.270
+lại cho một trường rồi đúng không ạ? Bởi
+
+00:17:10.280 --> 00:17:12.230
+vì mình khi mình điểm danh mình sẽ điểm
+
+00:17:12.240 --> 00:17:13.309
+danh theo trường chứ mình không điểm
+
+00:17:13.319 --> 00:17:16.309
+danh một học sinh riêng tay. Đấy và đã
+
+00:17:16.319 --> 00:17:19.750
+thế còn lấy toàn bộ học sinh với mỗi cái
+
+00:17:19.760 --> 00:17:22.510
+thay vì mình lấy toàn bộ parent ID xong
+
+00:17:22.520 --> 00:17:26.549
+rồi lấy các thứ đúng không ạ? đấy là về
+
+00:17:26.559 --> 00:17:30.590
+cái n cng n cng 1 câu truy vấn thì em sẽ
+
+00:17:30.600 --> 00:17:34.230
+có phiên bản ở đây đó là mình sẽ lấy
+
+00:17:34.240 --> 00:17:36.710
+theo ID này lấy theo school lấy parent
+
+00:17:36.720 --> 00:17:38.310
+đương nhiên là school vẫn đang lặp lại
+
+00:17:38.320 --> 00:17:40.710
+bởi vì có thể là rất nhiều học sinh cùng
+
+00:17:40.720 --> 00:17:41.870
+một trường chữa đúng không ạ thì cái này
+
+00:17:41.880 --> 00:17:44.070
+vẫn đang gặp lại. Ok, mình sẽ xử lý cái
+
+00:17:44.080 --> 00:17:46.110
+này xong. Đấy, đầu tiên là mình xử lý
+
+00:17:46.120 --> 00:17:48.710
+được n cộng một câu truy vấn đã. Và khi
+
+00:17:48.720 --> 00:17:50.270
+mình xử lý lần lượt từng bước từng bước
+
+00:17:50.280 --> 00:17:52.590
+như này thì mình rất dễ phải robot nếu
+
+00:17:52.600 --> 00:17:54.789
+mà có vấn đề lỗi gì xảy ra đúng không ạ?
+
+00:17:54.799 --> 00:17:56.190
+Tránh về việc là mình cập nhật hết của
+
+00:17:56.200 --> 00:18:01.710
+mỗi lúc thì một là một là thì mình có
+
+00:18:01.720 --> 00:18:03.350
+thể đẩy hết cùng một lúc cũng được. Thứ
+
+00:18:03.360 --> 00:18:05.270
+nhất là nó lại tốn thời gian về mình
+
+00:18:05.280 --> 00:18:08.310
+phải sửa nhiều. cái việc là
+
+00:18:08.320 --> 00:18:10.870
+nếu có nếu vấn đề xảy ra thì mình lại
+
+00:18:10.880 --> 00:18:12.990
+roll back lại thì nó lại quay lại chậm
+
+00:18:13.000 --> 00:18:14.990
+đúng không ạ? mà vấn đề chưa giải quyết
+
+00:18:15.000 --> 00:18:17.270
+nên là mình sẽ phải update từng version
+
+00:18:17.280 --> 00:18:23.510
+đấy. So in version 3 is that we just
+
+00:18:23.520 --> 00:18:25.230
+prevent
+
+00:18:25.240 --> 00:18:30.830
+eagle lading prevent yeah and we we
+
+00:18:30.840 --> 00:18:35.190
+summary that query to justice so we have
+
+00:18:35.200 --> 00:18:39.390
+a lot of vision because I don't want to
+
+00:18:39.400 --> 00:18:42.789
+we don't want to if something wrong we
+
+00:18:42.799 --> 00:18:45.750
+roll back just
+
+00:18:45.760 --> 00:18:49.950
+previous version not all the work we
+
+00:18:49.960 --> 00:18:53.990
+have fix because
+
+00:18:57.200 --> 00:19:02.270
+delay or one just and do nothing and one
+
+00:19:02.280 --> 00:19:05.909
+have problem so we must have a lot of
+
+00:19:05.919 --> 00:19:12.310
+vision to fix à slow b careful
+
+00:19:12.320 --> 00:19:15.270
+thì em có đề xuất cả phương án bốn đó là
+
+00:19:15.280 --> 00:19:17.470
+thay đổi cơ chế điểm danh bởi vì Vì là
+
+00:19:17.480 --> 00:19:19.230
+như em đã nói là không có chuyện điểm
+
+00:19:19.240 --> 00:19:21.070
+danh cho một học sinh mà mình sẽ điểm
+
+00:19:21.080 --> 00:19:24.230
+danh cho cả một lớp cũng cùng lúc mình
+
+00:19:24.240 --> 00:19:25.990
+sẽ đẩy lên cái mạc của danh sách sinh
+
+00:19:26.000 --> 00:19:28.430
+viên sau đó thì mình sẽ truy vấn theo
+
+00:19:28.440 --> 00:19:30.230
+cái danh sách đấy kèm với phụ huynh các
+
+00:19:30.240 --> 00:19:33.430
+thứ. Thì cái này nó đôi khi liên quan cả
+
+00:19:33.440 --> 00:19:35.310
+nên thành ra là nó sẽ ở version 4 thì sẽ
+
+00:19:35.320 --> 00:19:38.470
+có thể làm sau. Bởi vì về cơ bản thì đến
+
+00:19:38.480 --> 00:19:42.230
+cái version 3 này là đã kiểu đã xử lý
+
+00:19:42.240 --> 00:19:43.630
+được về khách hàng, khách hàng trải
+
+00:19:43.640 --> 00:19:46.990
+nghiệm có thể sẽ mượt hơn rồi. Nên là
+
+00:19:47.000 --> 00:19:48.990
+cái này có nhiều cái truy vấn nhưng mà
+
+00:19:49.000 --> 00:19:50.590
+nhiều đến mấy chăng nữa thì cũng bán là
+
+00:19:50.600 --> 00:19:53.390
+DB mình có thể bị treo một tí thôi chứ
+
+00:19:53.400 --> 00:19:56.830
+không làm quá bị delay.
+
+00:19:56.840 --> 00:19:59.190
+Đây thì
+
+00:19:59.200 --> 00:20:01.909
+mình sẽ có thời gian để làm version 4 và
+
+00:20:01.919 --> 00:20:04.470
+mình test lại cẩn thận. Đấy bao gồm làm
+
+00:20:04.480 --> 00:20:09.870
+cả fend s đây đây version 4
+
+00:20:09.880 --> 00:20:13.510
+đây mình sẽ đẩy lên đấy mình chỉ cần
+
+00:20:13.520 --> 00:20:15.510
+truy vấn school đúng một lần sau đó kèm
+
+00:20:15.520 --> 00:20:18.149
+theo danh sách ID của học sinh sau đó
+
+00:20:18.159 --> 00:20:21.669
+kèm theo phụ huynh đấy thì sau đó thì
+
+00:20:21.679 --> 00:20:25.350
+mình sẽ đẩy cái mảng phụ huynh đấy vào
+
+00:20:25.360 --> 00:20:28.430
+vào trong cái
+
+00:20:28.440 --> 00:20:30.470
+vào trong cái thông báo. Thông báo này
+
+00:20:30.480 --> 00:20:34.470
+cũng sẽ thông báo nhiều mình sẽ kiểu mặc
+
+00:20:34.480 --> 00:20:37.630
+đấy. Rồi à increase các thứ đúng không
+
+00:20:37.640 --> 00:20:41.029
+ạ? Incree cũng chỉ thực ra là ừ incre
+
+00:20:41.039 --> 00:20:43.909
+theo cao nó cũng sẽ rất là nhanh.
+
+00:20:43.919 --> 00:20:45.630
+Cái này nó sẽ khắc phục luôn cả cái việc
+
+00:20:45.640 --> 00:20:48.270
+là mình có bao nhiêu học sinh mình phải
+
+00:20:48.280 --> 00:20:50.510
+increase bấy nhiêu
+
+00:20:50.520 --> 00:20:53.110
+bởi kiểu chạy bấy nhiêu câu increase nó
+
+00:20:53.120 --> 00:20:57.070
+bị nặng câu update đúng không ạ? Đấy
+
+00:20:57.080 --> 00:20:58.430
+nã mình sẽ incre inc incre incre
+
+00:20:58.440 --> 00:21:00.990
+increase theo trường đúng không ạ? Theo
+
+00:21:01.000 --> 00:21:03.430
+trường là một lần mình sẽ tăng bao nhiêu
+
+00:21:03.440 --> 00:21:05.149
+học sinh.
+
+00:21:05.159 --> 00:21:06.950
+Hôm nay đã điểm dành bao nhiêu học sinh.
+
+00:21:06.960 --> 00:21:10.510
+Đấy khá nói chung là cái này làm cho tội
+
+00:21:10.520 --> 00:21:12.029
+giảm đi rất nhiều câu truy vấn đúng
+
+00:21:12.039 --> 00:21:15.990
+không ạ? So we have I suggest that we
+
+00:21:16.000 --> 00:21:20.149
+have can have version four because
+
+00:21:20.159 --> 00:21:23.310
+I said before that we must
+
+00:21:23.320 --> 00:21:25.950
+go flow that
+
+00:21:25.960 --> 00:21:30.350
+from root to the bottom. So we don't
+
+00:21:30.360 --> 00:21:35.630
+à check in on every student or every
+
+00:21:35.640 --> 00:21:39.350
+child. We must when we do the check
+
+00:21:39.360 --> 00:21:44.909
+checkin we do all. So
+
+00:21:47.559 --> 00:21:50.269
+something else so
+
+00:21:50.279 --> 00:21:57.070
+and we we have ban attendant
+
+00:21:57.080 --> 00:22:02.590
+so we just one query to
+
+00:22:02.600 --> 00:22:06.190
+select all of that
+
+00:22:06.200 --> 00:22:08.669
+ch ids
+
+00:22:08.679 --> 00:22:12.149
+we will invis
+
+00:22:12.159 --> 00:22:16.510
+version we must have time. So we just
+
+00:22:16.520 --> 00:22:22.110
+fix à or we need to fix to make it no
+
+00:22:22.120 --> 00:22:25.070
+more delay for the client. So we have
+
+00:22:25.080 --> 00:22:27.149
+time to
+
+00:22:27.159 --> 00:22:29.070
+à
+
+00:22:29.080 --> 00:22:31.590
+see is improvement
+
+00:22:31.600 --> 00:22:35.149
+and make change
+
+00:22:35.159 --> 00:22:39.669
+from back front end to back end and
+
+00:22:39.679 --> 00:22:44.029
+we send all notification one we don't
+
+00:22:44.039 --> 00:22:48.669
+have to select that anymore and we à
+
+00:22:48.679 --> 00:22:51.830
+when every try we make
+
+00:22:51.840 --> 00:22:54.750
+update increment we just increase
+
+00:22:54.760 --> 00:22:57.430
+just one
+
+00:22:57.440 --> 00:23:08.149
+to the school so more efficiency.
+
+00:23:12.120 --> 00:23:13.990
+that is
+
+00:23:14.000 --> 00:23:18.870
+challenge one. I also have à đây em nói
+
+00:23:18.880 --> 00:23:22.549
+thê việ trước ờ thì đây là cách em giải
+
+00:23:22.559 --> 00:23:24.789
+quyết ở vấn đề thứ nhất nhưng mà thực ra
+
+00:23:24.799 --> 00:23:28.669
+là cái này nó cũng đều có ưu và nhược
+
+00:23:28.679 --> 00:23:31.549
+thứ nhất là nhược là gì thứ nhất là với
+
+00:23:31.559 --> 00:23:33.269
+best practice của job thì thực ra là
+
+00:23:33.279 --> 00:23:36.430
+mình không không có chuyện select xong
+
+00:23:36.440 --> 00:23:40.630
+rồi mình truyền vào con job dữ liệu kiểu
+
+00:23:40.640 --> 00:23:42.350
+một cái mảng hay một cái collection hay
+
+00:23:42.360 --> 00:23:44.750
+một cái kiểu một cái dữ liệu lớn như này
+
+00:23:44.760 --> 00:23:46.269
+vào trong một con job được nó cũng có
+
+00:23:46.279 --> 00:23:50.070
+tải và nó không tốt bởi vì là database
+
+00:23:50.080 --> 00:23:51.870
+có thể thay đổi hay vân vân gì đó thường
+
+00:23:51.880 --> 00:23:54.070
+là mình sẽ ch truyền vào tính sách ID
+
+00:23:54.080 --> 00:23:56.430
+sau đó mình sẽ truy vấn ở trong đấy đấy
+
+00:23:56.440 --> 00:23:59.669
+web back tích nhất đấy
+
+00:23:59.679 --> 00:24:04.669
+à tiếp theo là cái vụ à đếm này như thực
+
+00:24:04.679 --> 00:24:07.230
+tế vừa rồi em đang nói thì nó là đương
+
+00:24:07.240 --> 00:24:10.789
+nhiên từ version 3 là đang vì mình cứ up
+
+00:24:10.799 --> 00:24:13.350
+increment nghĩa là mình update lần lượt
+
+00:24:13.360 --> 00:24:15.470
+theo từng học học sinh thì mình đã tối
+
+00:24:15.480 --> 00:24:18.390
+ưu hơn là cập nhật mỗi khi mà mình
+
+00:24:18.400 --> 00:24:21.070
+truyền lên một mảng học sinh lớn đúng
+
+00:24:21.080 --> 00:24:22.909
+không ạ để cập nhật cho trường nhưng
+
+00:24:22.919 --> 00:24:25.029
+tính ra thì bây giờ có rất nhiều trường
+
+00:24:25.039 --> 00:24:27.310
+thì nó vẫn tốn bấy nhiêu câu và thậm chí
+
+00:24:27.320 --> 00:24:28.870
+là mình có điểm danh nhiều lần hay gì gì
+
+00:24:28.880 --> 00:24:31.789
+đó thì nó lại cập nhật lại thì không
+
+00:24:31.799 --> 00:24:35.630
+tốt. Thì cách tốt hơn ở đây đó là thường
+
+00:24:35.640 --> 00:24:38.269
+là có thể là nếu mình muốn tối ưu hơn là
+
+00:24:38.279 --> 00:24:41.149
+mình sẽ lưu lại vào trong cách giống như
+
+00:24:41.159 --> 00:24:42.710
+là cách mà YouTube hồi trước cũng từng
+
+00:24:42.720 --> 00:24:45.310
+làm. Đó là mình sẽ cứ cập nhật increment
+
+00:24:45.320 --> 00:24:47.990
+vào trong cách sau đó thì đến cuối ngày
+
+00:24:48.000 --> 00:24:50.190
+hoặc là bởi vì cái này là cái kiểu về
+
+00:24:50.200 --> 00:24:51.470
+thống kê thì các bạn mình không cần cập
+
+00:24:51.480 --> 00:24:53.350
+nhật luôn mình chỉ cần quan tâm là ngày
+
+00:24:53.360 --> 00:24:55.990
+hôm sau hoặc là khoảng th khoảng thời
+
+00:24:56.000 --> 00:24:59.510
+gian nào đó mình xem thì mình sẽ
+
+00:24:59.520 --> 00:25:02.909
+mình sẽ biết được là à kiểu tổng thống
+
+00:25:02.919 --> 00:25:04.830
+kê
+
+00:25:04.840 --> 00:25:06.269
+đã điểm danh ngày hôm nay chưa vân vân
+
+00:25:06.279 --> 00:25:09.269
+đúng không ạ? thì mình sẽ mình sẽ cập
+
+00:25:09.279 --> 00:25:12.269
+nhật mình sẽ có một con k một con cron
+
+00:25:12.279 --> 00:25:15.350
+job chạy để cứ đến một khoảng thời gian
+
+00:25:15.360 --> 00:25:17.230
+nhất định mình sẽ cập nhật từ cách vào
+
+00:25:17.240 --> 00:25:19.029
+trong database. Nghĩa là chỉ cần một câu
+
+00:25:19.039 --> 00:25:20.990
+truy vấn là mình sẽ cập nhật xong. Đương
+
+00:25:21.000 --> 00:25:23.149
+nhiên nó sẽ có ưu nhược về khoảng cứ mỗi
+
+00:25:23.159 --> 00:25:25.389
+lần mình tối ưu thế là sẽ có lúc là mình
+
+00:25:25.399 --> 00:25:27.350
+thay đổi dữ liệu rồi thì mình chưa cầm
+
+00:25:27.360 --> 00:25:30.950
+nhận hay là mình tố đấy giống như vừa
+
+00:25:30.960 --> 00:25:32.830
+nãy em nói là thay đổi dữ liệu rồi giả
+
+00:25:32.840 --> 00:25:35.230
+sử xóa children children hoặc parent not
+
+00:25:35.240 --> 00:25:37.669
+file mà mình truyền từ đây vào trong cái
+
+00:25:37.679 --> 00:25:40.310
+notification nó thể gây lỗi nói chung là
+
+00:25:40.320 --> 00:25:47.590
+nóấy bài toán đánh đổi đúng không ạ so
+
+00:25:52.520 --> 00:25:56.630
+this last version so
+
+00:25:56.640 --> 00:26:00.470
+it make more efficiency but it have some
+
+00:26:00.480 --> 00:26:05.350
+risk that when you try to
+
+00:26:05.360 --> 00:26:09.950
+all the data so and
+
+00:26:09.960 --> 00:26:13.750
+it to the job is not very best practice
+
+00:26:13.760 --> 00:26:19.190
+the best practice here is you
+
+00:26:24.960 --> 00:26:31.630
+must quabase
+
+00:26:37.840 --> 00:26:40.870
+all data. So
+
+00:26:40.880 --> 00:26:44.029
+maybe the child or the school or the
+
+00:26:44.039 --> 00:26:48.549
+parent have been deleted or change will
+
+00:26:48.559 --> 00:26:52.350
+make
+
+00:26:57.360 --> 00:27:00.590
+run a
+
+00:27:00.600 --> 00:27:03.750
+à
+
+00:27:06.200 --> 00:27:08.630
+it will run
+
+00:27:08.640 --> 00:27:11.389
+and here
+
+00:27:11.399 --> 00:27:13.750
+we can
+
+00:27:13.760 --> 00:27:20.029
+we can make this
+
+00:27:22.000 --> 00:27:26.029
+we can use cake so
+
+00:27:26.039 --> 00:27:27.230
+here
+
+00:27:27.240 --> 00:27:29.510
+I
+
+00:27:29.520 --> 00:27:36.310
+about the static so not we don't we
+
+00:27:36.320 --> 00:27:40.950
+don't have to update this every time we
+
+00:27:40.960 --> 00:27:45.269
+just want to update this
+
+00:27:45.279 --> 00:27:48.470
+daily once
+
+00:27:48.480 --> 00:27:50.430
+one time
+
+00:27:50.440 --> 00:27:57.470
+in in in day so we can run the job to to
+
+00:27:57.480 --> 00:27:59.110
+to
+
+00:27:59.120 --> 00:28:04.310
+à get formake and update to database
+
+00:28:04.320 --> 00:28:07.750
+so just one but
+
+00:28:07.760 --> 00:28:09.789
+it's
+
+00:28:09.799 --> 00:28:13.710
+about balance between
+
+00:28:13.720 --> 00:28:18.350
+effect effective efficiency to
+
+00:28:18.360 --> 00:28:20.070
+consistency
+
+00:28:20.080 --> 00:28:22.029
+and valid
+
+00:28:22.039 --> 00:28:25.110
+valid data because
+
+00:28:25.120 --> 00:28:29.310
+some data is old and sometimes the data
+
+00:28:29.320 --> 00:28:32.990
+is changed we
+
+00:28:33.000 --> 00:28:40.549
+à we must take that cris
+
+00:28:43.000 --> 00:28:47.590
+the part two à phần hai về à về kiểu
+
+00:28:47.600 --> 00:28:49.750
+quyết định của
+
+00:28:49.760 --> 00:28:52.350
+kiểu gọi là
+
+00:28:52.360 --> 00:28:55.830
+tách L đúng không ạ? Team L
+
+00:28:55.840 --> 00:28:58.669
+thì ở đây em đọc đó là đang có 5000
+
+00:28:58.679 --> 00:29:04.710
+trường
+
+00:29:07.640 --> 00:29:11.789
+à đâu 500 trường Indo quý 3 và nó sẽ
+
+00:29:11.799 --> 00:29:15.950
+tăng và nó
+
+00:29:15.960 --> 00:29:18.070
+bây giờ chuẩn bị tăng gấp 10 lần hiệu
+
+00:29:18.080 --> 00:29:20.990
+suất đúng không ạ?
+
+00:29:21.000 --> 00:29:23.630
+Đấy mà hiện tại đang có rất nhiều rồi
+
+00:29:23.640 --> 00:29:26.750
+vân vân đúng không ạ? Đấy thì bài toán ở
+
+00:29:26.760 --> 00:29:31.190
+đây đó là
+
+00:29:35.120 --> 00:29:37.389
+phân loại theo cái nào là quan trọng
+
+00:29:37.399 --> 00:29:40.149
+nhất đúng không ạ? Và lý do tại sao đấy
+
+00:29:40.159 --> 00:29:42.549
+thì em ở đây vẫn có dịch ra và em thấy
+
+00:29:42.559 --> 00:29:45.149
+là đây để em dịch lại xem em hiểu đúng
+
+00:29:45.159 --> 00:29:47.789
+không ạ. Đúng là database đang bị botton
+
+00:29:47.799 --> 00:29:50.590
+next nghĩa là tắt nút cổ trai là gấp 10
+
+00:29:50.600 --> 00:29:54.230
+lần câu truy vấn này. à dụng điện thoại
+
+00:29:54.240 --> 00:29:56.950
+đang bị sập nghĩa là kiểu bị không kiểu
+
+00:29:56.960 --> 00:30:02.310
+không dùng được tăng lên à
+
+00:30:02.320 --> 00:30:04.789
+kiểu với thời gian với cập nhật theo
+
+00:30:04.799 --> 00:30:07.350
+thời gian thực đấy nên nói chung là nó
+
+00:30:07.360 --> 00:30:09.149
+bị sập khi mà liên quan đến cái tính
+
+00:30:09.159 --> 00:30:14.669
+năng cập nhật các thứ và cái a
+
+00:30:14.679 --> 00:30:18.830
+bộ nhớ PP thì thường hay chạm đến điểm à
+
+00:30:18.840 --> 00:30:22.549
+kiểu đỉnh đấy. Và tiếp theo là cái chi
+
+00:30:22.559 --> 00:30:25.470
+phí của Amazon hạ tầng thì đang kiểu
+
+00:30:25.480 --> 00:30:27.310
+không ổn định đúng không ạ? Rồi tiếp
+
+00:30:27.320 --> 00:30:32.110
+theo là cái việc độ trễ giữa các khu vực
+
+00:30:32.120 --> 00:30:34.029
+đang ảnh hưởng đến trải nghiệm của khách
+
+00:30:34.039 --> 00:30:38.909
+hàng ở Indo. Đấy thì
+
+00:30:42.000 --> 00:30:43.870
+ty Product theo em hiểu thì đó là mình
+
+00:30:43.880 --> 00:30:45.870
+phải luôn hướng đến khách hàng. Bởi
+
+00:30:45.880 --> 00:30:49.630
+không khách hàng thì mình
+
+00:30:49.640 --> 00:30:51.549
+không khách hàng thì mình cũng đi đúng
+
+00:30:51.559 --> 00:30:54.669
+không ạ? Đấy. Thế nên là cái này là cái
+
+00:30:54.679 --> 00:30:57.990
+quan trọng đầu tiên nó trải nghiệm cái
+
+00:30:58.000 --> 00:30:59.909
+này lu trải nghiệm khách hàng thì mình
+
+00:30:59.919 --> 00:31:03.110
+sẽ phải đặt mức ưu tiên cao nhất. Sau đó
+
+00:31:03.120 --> 00:31:06.029
+thì tiếp theo là liên quan đến có thể là
+
+00:31:06.039 --> 00:31:09.629
+một cái này là database. Bởi vì database
+
+00:31:09.639 --> 00:31:11.190
+database thì đúng là nó ảnh hưởng đến
+
+00:31:11.200 --> 00:31:13.430
+ngay trải nghiệm khách hàng.
+
+00:31:13.440 --> 00:31:15.470
+Bởi vì database mà treo thì thì đúng là
+
+00:31:15.480 --> 00:31:18.669
+chẳng có gì hoạt động cả. Đấy. Và cái
+
+00:31:18.679 --> 00:31:21.789
+này là liên quan đến a
+
+00:31:21.799 --> 00:31:26.029
+à appỉnh thoảng à bị sập đúng không ạ?
+
+00:31:26.039 --> 00:31:28.350
+Thì thường là một là mình phải kiểm tra
+
+00:31:28.360 --> 00:31:31.830
+lại là như em cái bài thứ nhất là mình
+
+00:31:31.840 --> 00:31:34.110
+sẽ kiểu ưu tiên cái nào trước c những
+
+00:31:34.120 --> 00:31:36.269
+cái tính năng chính thì vẫn sẽ như nào
+
+00:31:36.279 --> 00:31:39.029
+đấy nhưng cái này là cần phải giả soát
+
+00:31:39.039 --> 00:31:40.830
+lại thì cái đầu tiên mình cần làm là
+
+00:31:40.840 --> 00:31:42.990
+mình có thể rate limit lại nó đã để
+
+00:31:43.000 --> 00:31:45.350
+tránh việc là nó retime nhiều có nhiều
+
+00:31:45.360 --> 00:31:47.710
+cái là mình không cần phải xử lý retime
+
+00:31:47.720 --> 00:31:51.110
+mình xử lý kiểu gọi là cho delay một tí
+
+00:31:51.120 --> 00:31:53.909
+cũng được và nếu mà bị nhiều quá thì đôi
+
+00:31:53.919 --> 00:31:56.629
+khi là bị spam thì mình sẽ nói chung là
+
+00:31:56.639 --> 00:31:58.029
+rate limit nó sẽ giải quyết được cái
+
+00:31:58.039 --> 00:31:59.950
+việc này.
+
+00:31:59.960 --> 00:32:01.710
+Đấy thì em nghĩ là hai cái này sẽ ưu
+
+00:32:01.720 --> 00:32:04.350
+tiên. Có thể là nếu mà em thì em sẽ ưu
+
+00:32:04.360 --> 00:32:07.110
+tiên mức hai rồi ba cái này hoặc là hai
+
+00:32:07.120 --> 00:32:08.549
+cái này hoặc ba này cũng được. Thì em
+
+00:32:08.559 --> 00:32:11.190
+thấy là nó đều ảnh hưởng đến liên quan
+
+00:32:11.200 --> 00:32:13.190
+đến trải nghiệm nguy dụng. Mình vẫn bài
+
+00:32:13.200 --> 00:32:14.750
+kim chỉ nam mình vẫn là trải nghiệm
+
+00:32:14.760 --> 00:32:16.509
+người dùng bởi người dùng quan trọng
+
+00:32:16.519 --> 00:32:19.029
+nhất. Tiếp theo là
+
+00:32:19.039 --> 00:32:21.310
+cái này thì đúng là ảnh hưởng đến có thể
+
+00:32:21.320 --> 00:32:24.549
+nó sẽ làm đấy quá tải cái gì gì đó. Thực
+
+00:32:24.559 --> 00:32:27.070
+ra là mình cách làm mình cái đầu tiên
+
+00:32:27.080 --> 00:32:28.909
+mình có thể làm nó chỉ đơn giản là là
+
+00:32:28.919 --> 00:32:31.629
+mình tăng bộ nhớ lên mình có thể tốn
+
+00:32:31.639 --> 00:32:33.149
+tiền hơn nhưng mà mình sẽ tăng bộ nhớ
+
+00:32:33.159 --> 00:32:36.110
+lên để giải quyết được đã. Bởi vì rõ
+
+00:32:36.120 --> 00:32:37.629
+ràng mình tăng khách hàng thì cũng tăng
+
+00:32:37.639 --> 00:32:40.430
+được cái nguồn thu rồi nên là mình có
+
+00:32:40.440 --> 00:32:41.950
+thể làm được cái giải quyết này giải
+
+00:32:41.960 --> 00:32:44.029
+quyết nhanh được. Rồi mình có thời gian
+
+00:32:44.039 --> 00:32:46.789
+thì mình sẽ đi vào để kiểm tra xem vấn
+
+00:32:46.799 --> 00:32:48.950
+đề nằm ở đâu. Thường là liên quan đến xử
+
+00:32:48.960 --> 00:32:54.310
+lý nghìn đến triệu cái cùng lúc đấy.
+
+00:32:54.320 --> 00:32:56.070
+Triệu cầu truy vấn cùng lúc hồi trước ví
+
+00:32:56.080 --> 00:32:59.269
+dụ em làm cái vụ import data chịu bản
+
+00:32:59.279 --> 00:33:02.549
+khi của SQL à của Excel thì thường là nó
+
+00:33:02.559 --> 00:33:05.990
+sẽ đúng là tăng cái memory limit lên thì
+
+00:33:06.000 --> 00:33:08.070
+mình sẽ giải phóng dung lượng bằng cách
+
+00:33:08.080 --> 00:33:10.549
+nhiều cách đúng không ạ? Và cuối cùng là
+
+00:33:10.559 --> 00:33:12.669
+chi phí hạ tầng các thứ thứ này thì rõ
+
+00:33:12.679 --> 00:33:15.590
+ràng cái này thì thì như em nói nó giống
+
+00:33:15.600 --> 00:33:17.990
+cái trên này nó là cái này mình sẽ xử lý
+
+00:33:18.000 --> 00:33:20.029
+sau mình không phải là mức độ ưu tiên vì
+
+00:33:20.039 --> 00:33:21.590
+rõ ràng là mình đang tăng khách và có
+
+00:33:21.600 --> 00:33:23.950
+khách đang dùng là mình là mình đang có
+
+00:33:23.960 --> 00:33:26.509
+nguồn thua rồi có thể mình đang lãi rồi
+
+00:33:26.519 --> 00:33:28.950
+đấy đúng không ạ thì mình
+
+00:33:28.960 --> 00:33:31.710
+có thể cân nhắc cái này sau vì nếu mà
+
+00:33:31.720 --> 00:33:33.389
+mình cứ tập trung vào việc tiết kiệm các
+
+00:33:33.399 --> 00:33:35.750
+thứ các thứ thì khách đi thậm chí là có
+
+00:33:35.760 --> 00:33:37.830
+lượng khách đến này nó sẽ không thể dùng
+
+00:33:37.840 --> 00:33:42.389
+được thì sẽ mất khách. So I just
+
+00:33:42.399 --> 00:33:46.629
+translate all in Vietnames
+
+00:33:46.639 --> 00:33:50.750
+by how I understand the problem. So the
+
+00:33:50.760 --> 00:33:56.269
+à So I run that the first highest is
+
+00:33:56.279 --> 00:34:01.950
+about growth region latency effect. So
+
+00:34:01.960 --> 00:34:05.990
+we are product company so we must focus
+
+00:34:06.000 --> 00:34:10.349
+about the the customer the experience.
+
+00:34:10.359 --> 00:34:12.710
+So I don't So we don't want to lose a
+
+00:34:12.720 --> 00:34:16.710
+customer because
+
+00:34:18.320 --> 00:34:20.230
+à
+
+00:34:20.240 --> 00:34:22.790
+in Vietnamese we have
+
+00:34:22.800 --> 00:34:27.389
+something that customer eat got
+
+00:34:27.399 --> 00:34:31.669
+so we must focus on them. So we don't
+
+00:34:31.679 --> 00:34:36.230
+have one we
+
+00:34:36.240 --> 00:34:39.869
+don't want to effect all customer. We
+
+00:34:39.879 --> 00:34:43.230
+have
+
+00:34:45.800 --> 00:34:49.389
+so we don't have to affect exams.
+
+00:34:49.399 --> 00:34:55.310
+Maybe we will have a server on
+
+00:34:55.320 --> 00:34:59.910
+local region in ID to
+
+00:34:59.920 --> 00:35:05.710
+make them have better
+
+00:35:05.720 --> 00:35:08.550
+transition
+
+00:35:08.560 --> 00:35:12.310
+and smoother
+
+00:35:16.920 --> 00:35:22.069
+tourist is equal because one data
+
+00:35:22.079 --> 00:35:25.230
+database
+
+00:35:29.839 --> 00:35:33.670
+it will affect everything when database
+
+00:35:33.680 --> 00:35:38.550
+scratch or just delay so I think the
+
+00:35:38.560 --> 00:35:43.230
+database very important but also the app
+
+00:35:43.240 --> 00:35:46.510
+cash is
+
+00:35:46.520 --> 00:35:50.430
+not very good experience for customer
+
+00:35:50.440 --> 00:35:51.990
+because
+
+00:35:52.000 --> 00:35:54.430
+I think
+
+00:35:54.440 --> 00:36:00.270
+the customer use mobile app so
+
+00:36:00.280 --> 00:36:05.309
+and database cannot fix right away so
+
+00:36:05.319 --> 00:36:08.870
+we will
+
+00:36:08.880 --> 00:36:12.910
+update great limit for mobile ad because
+
+00:36:12.920 --> 00:36:18.190
+some some update is not very when à we
+
+00:36:18.200 --> 00:36:22.470
+need to retime update. We just
+
+00:36:22.480 --> 00:36:24.630
+customer can
+
+00:36:24.640 --> 00:36:27.030
+wait
+
+00:36:27.040 --> 00:36:29.950
+one or two second
+
+00:36:29.960 --> 00:36:33.790
+is not very bad.
+
+00:36:33.800 --> 00:36:36.910
+They just don't want to crash every time
+
+00:36:36.920 --> 00:36:39.870
+they use it. So
+
+00:36:39.880 --> 00:36:41.670
+I think
+
+00:36:41.680 --> 00:36:45.950
+maybe database is number two and mobile
+
+00:36:45.960 --> 00:36:48.950
+app is number three. But the mobile app
+
+00:36:48.960 --> 00:36:52.829
+fix is very easy
+
+00:36:52.839 --> 00:36:58.230
+and we will do research later.
+
+00:37:01.920 --> 00:37:03.670
+we
+
+00:37:03.680 --> 00:37:08.309
+we are facing that we will have a lot
+
+00:37:08.319 --> 00:37:11.510
+new customer so we must increase the
+
+00:37:11.520 --> 00:37:14.470
+memory by
+
+00:37:14.480 --> 00:37:16.670
+spending money
+
+00:37:16.680 --> 00:37:20.190
+or increase the
+
+00:37:20.200 --> 00:37:23.670
+and the à
+
+00:37:23.680 --> 00:37:30.870
+the server isord
+
+00:37:36.480 --> 00:37:41.270
+it's very very easy to fix first hot fit
+
+00:37:41.280 --> 00:37:45.990
+first so we will have time to research
+
+00:37:46.000 --> 00:37:48.829
+and
+
+00:37:48.839 --> 00:37:54.550
+attention ler and also the Amazon
+
+00:37:54.560 --> 00:37:57.630
+service cost
+
+00:37:57.640 --> 00:38:03.710
+we will have a lot of customer so we
+
+00:38:03.720 --> 00:38:06.910
+and we are
+
+00:38:06.920 --> 00:38:11.829
+app that have lot of customer so we make
+
+00:38:11.839 --> 00:38:15.349
+them feel that we are
+
+00:38:15.359 --> 00:38:19.430
+very strong and very reliable
+
+00:38:19.440 --> 00:38:25.470
+application so we don't we don't make
+
+00:38:29.640 --> 00:38:35.109
+have a lot customer I think we will have
+
+00:38:35.119 --> 00:38:37.309
+a lot of
+
+00:38:37.319 --> 00:38:41.190
+financial so
+
+00:38:41.200 --> 00:38:46.349
+the cost we can handle that we don't
+
+00:38:46.359 --> 00:38:49.349
+we are not the startup because the
+
+00:38:49.359 --> 00:38:51.710
+startup
+
+00:38:51.720 --> 00:38:55.230
+they
+
+00:38:58.040 --> 00:39:02.910
+have a lot money so they will make it
+
+00:39:02.920 --> 00:39:06.870
+more higher about higher risk about cost
+
+00:39:06.880 --> 00:39:10.349
+but we are
+
+00:39:10.359 --> 00:39:14.270
+we are large company so we don't need to
+
+00:39:14.280 --> 00:39:17.030
+think that
+
+00:39:17.040 --> 00:39:22.910
+priority
+
+00:39:32.280 --> 00:39:34.550
+đầu tiên có ba phương án là mình cần
+
+00:39:34.560 --> 00:39:37.230
+phải làm đúng không ạ? Làm một là sửa
+
+00:39:37.240 --> 00:39:40.030
+các vấn đề liên quan đến hiệu năng. Hiệu
+
+00:39:40.040 --> 00:39:42.030
+suất nghĩa là tốc độ xử lý chậm. Đấy em
+
+00:39:42.040 --> 00:39:44.950
+đang hiểu nhá đúng không ạ? À phải cần
+
+00:39:44.960 --> 00:39:47.950
+cả một đội à toàn bộ đội, toàn bộ đội ở
+
+00:39:47.960 --> 00:39:49.950
+đây em đang không thấy con số em cứ đặt
+
+00:39:49.960 --> 00:39:51.790
+giả sử bài toán là sáu người đi đúng
+
+00:39:51.800 --> 00:39:55.750
+không ạ? Tiếp theo là làm tính năng cho
+
+00:39:55.760 --> 00:39:59.109
+bên Indo mà chỉ phù hợp với bên Indo
+
+00:39:59.119 --> 00:40:02.349
+thôi và mất bốn người tận ba tuần. Xong
+
+00:40:02.359 --> 00:40:06.349
+rồi. Đây là thêm cái vụ theo dõi monitor
+
+00:40:06.359 --> 00:40:08.829
+và thậm chí cảnh báo thông báo khi có
+
+00:40:08.839 --> 00:40:11.510
+vấn đề về hệ thống mất một tuần hai
+
+00:40:11.520 --> 00:40:14.309
+người thì CEO thì muốn làm tất cả trong
+
+00:40:14.319 --> 00:40:16.390
+vòng hai tuần. Thì rõ ràng đây nghe bài
+
+00:40:16.400 --> 00:40:17.990
+toán lúc đầu là không thể đúng không ạ?
+
+00:40:18.000 --> 00:40:19.750
+Thì cái nào mình ưu tiên hơn tại sao
+
+00:40:19.760 --> 00:40:21.990
+mình giải thích với CEO thế nào và nói
+
+00:40:22.000 --> 00:40:25.030
+với à thành viên các thành viên như thế
+
+00:40:25.040 --> 00:40:26.950
+nào?
+
+00:40:26.960 --> 00:40:31.349
+Thì à bài toán ở đây em thấy đầu tiên
+
+00:40:31.359 --> 00:40:32.589
+thì chắc chắn là không thể làm hết được
+
+00:40:32.599 --> 00:40:35.430
+cùng lúc thì và vì nói chuyện với CEO
+
+00:40:35.440 --> 00:40:38.030
+nữa cái việc là em cũng từng làm tuy em
+
+00:40:38.040 --> 00:40:39.670
+không làm techlist nhưng mà em làm công
+
+00:40:39.680 --> 00:40:41.190
+ty Product thì em biết được cái vấn đề ở
+
+00:40:41.200 --> 00:40:43.670
+đây đó là mình phải luôn thể hiện được
+
+00:40:43.680 --> 00:40:45.390
+là mình có làm chứ không phải sau hai
+
+00:40:45.400 --> 00:40:47.069
+tuần là mình chỉ làm một tính năng hay
+
+00:40:47.079 --> 00:40:49.270
+gì đó đưa ra ba đầu việc nhưng mình làm
+
+00:40:49.280 --> 00:40:51.069
+mới chỉ xong một đầu việc là không nên
+
+00:40:51.079 --> 00:40:53.270
+là chắc chắn là em sẽ không đâm đơ vào
+
+00:40:53.280 --> 00:40:57.990
+cái toàn bộ dồn người vào phương án B
+
+00:40:58.000 --> 00:41:00.790
+hay là toàn bộ người vào phương án A.
+
+00:41:00.800 --> 00:41:04.069
+Đấy thì em sẽ thường là em sẽ làm em
+
+00:41:04.079 --> 00:41:06.510
+nghĩ là làm song song sẽ là bốn giả sử
+
+00:41:06.520 --> 00:41:08.069
+là team có sáu người đúng không ạ? Bốn
+
+00:41:08.079 --> 00:41:11.750
+người ở B và Hạ và hai người ở C. Vì
+
+00:41:11.760 --> 00:41:14.870
+theo em một cái dự án đang vốn đang chạy
+
+00:41:14.880 --> 00:41:17.750
+thì hoặc là thậm chí là đang sắp cho một
+
+00:41:17.760 --> 00:41:19.510
+lượng tệp khách hàng rất là lớn thì cái
+
+00:41:19.520 --> 00:41:22.829
+đầu tiên mình cần làm là làm một cái a
+
+00:41:22.839 --> 00:41:24.829
+một cái bản để mà theo dõi đúng không ạ?
+
+00:41:24.839 --> 00:41:27.950
+để nếu có vấn đề bấc gì xảy ra trên thì
+
+00:41:27.960 --> 00:41:31.550
+mình sẽ xem được luôn để tránh việc là
+
+00:41:31.560 --> 00:41:33.589
+vì ở đây cái này liên quan hệ suất là có
+
+00:41:33.599 --> 00:41:35.550
+thể là bị chậm hay gì đó khách hàng có
+
+00:41:35.560 --> 00:41:38.390
+thể đợi được còn hơn là nó không chạy
+
+00:41:38.400 --> 00:41:42.150
+đúng không ạ thì rõ ràng là có b thì đôi
+
+00:41:42.160 --> 00:41:43.630
+khi khách hàng sẽ phản hồi mình nhưng
+
+00:41:43.640 --> 00:41:45.670
+đôi khi khách sẽ đi luôn khách không
+
+00:41:45.680 --> 00:41:48.750
+phản hồi gì cả vì thấy là phần mềm đểu
+
+00:41:48.760 --> 00:41:50.670
+không dùng được không tán tin cận họ sẽ
+
+00:41:50.680 --> 00:41:53.270
+đi nên thành ra là mình sẽ phải ưu tiên
+
+00:41:53.280 --> 00:41:57.109
+cái c Thì lúc đấy là em thì sau một tuần
+
+00:41:57.119 --> 00:41:58.990
+đúng không ạ? Sau một tuần là hai người
+
+00:41:59.000 --> 00:42:01.829
+đã làm xong thì hai người này sẽ quay ra
+
+00:42:01.839 --> 00:42:04.750
+sửa những cái vấn đề liên quan đến về
+
+00:42:04.760 --> 00:42:07.069
+hiệu năng. Thì rõ ràng là hiệu vấn đề
+
+00:42:07.079 --> 00:42:09.030
+hiệu năng có rất nhiều thì đương nhiên
+
+00:42:09.040 --> 00:42:12.109
+là hai người không đủ nhưng mà và vấn đề
+
+00:42:12.119 --> 00:42:14.109
+hiệu năng sẽ luôn có ở trên sản phẩm
+
+00:42:14.119 --> 00:42:16.030
+production trừ khi mình không phát triển
+
+00:42:16.040 --> 00:42:17.950
+đến tính năng mới và thỉnh thoảng
+
+00:42:17.960 --> 00:42:20.109
+database mà scale thì thực ra nó vẫn
+
+00:42:20.119 --> 00:42:22.950
+sinh vấn đề thì cái vấn đề hiệu năng
+
+00:42:22.960 --> 00:42:26.630
+luôn luôn có đấy nên là hai người sàng
+
+00:42:26.640 --> 00:42:28.710
+hai người thì đương nhiên là cũng sẽ fix
+
+00:42:28.720 --> 00:42:31.069
+được một cách tương đối gì đó trong vòng
+
+00:42:31.079 --> 00:42:35.910
+một tuần đấy còn à về tính năng này thì
+
+00:42:35.920 --> 00:42:37.549
+bốn người đang làm thì sau hai tuần
+
+00:42:37.559 --> 00:42:39.589
+đương nhiên vẫn chưa xong nhưng hai tuần
+
+00:42:39.599 --> 00:42:41.430
+em khẳng định là sẽ xong được bản demo
+
+00:42:41.440 --> 00:42:43.990
+để mà nói được với khách hàng là tôi đã
+
+00:42:44.000 --> 00:42:47.710
+có như thế này đấy tránh việc là mình
+
+00:42:47.720 --> 00:42:51.950
+dồn sang option a hay option c xong rồi
+
+00:42:51.960 --> 00:42:54.829
+hai tuần sau hai tuần khách hàng hỏi thì
+
+00:42:54.839 --> 00:42:56.430
+mình lại bảo mình chưa làm gì cả thì
+
+00:42:56.440 --> 00:42:59.430
+khách sẽ đi. Đấy, đấy là cách mà em sẽ
+
+00:42:59.440 --> 00:43:05.630
+làm và anh sẽ nói chuyện với CEO. So,
+
+00:43:08.119 --> 00:43:09.710
+nó tính bài toán về rồi ro các thứ đúng
+
+00:43:09.720 --> 00:43:14.990
+không ạ? So I will priority and tell the
+
+00:43:15.000 --> 00:43:18.430
+reason and how to communicate this two
+
+00:43:18.440 --> 00:43:22.349
+CEO. So we have to
+
+00:43:22.359 --> 00:43:26.790
+we obvious see that we can done we
+
+00:43:26.800 --> 00:43:29.309
+cannot done
+
+00:43:29.319 --> 00:43:32.950
+thing in two weeks because we are the
+
+00:43:32.960 --> 00:43:36.430
+team is
+
+00:43:41.200 --> 00:43:44.910
+option to must fix all this in two weeks
+
+00:43:44.920 --> 00:43:46.630
+and
+
+00:43:46.640 --> 00:43:51.750
+must have all in high team. So
+
+00:43:51.760 --> 00:43:55.910
+in in case that we don't h anym person
+
+00:43:55.920 --> 00:43:59.750
+because
+
+00:44:05.480 --> 00:44:07.470
+more person
+
+00:44:07.480 --> 00:44:13.430
+and make make make them that
+
+00:44:16.240 --> 00:44:27.430
+and understand all the thing we
+
+00:44:29.200 --> 00:44:32.790
+do something we
+
+00:44:32.800 --> 00:44:35.430
+make
+
+00:44:35.440 --> 00:44:39.150
+see that we have process but we cannot
+
+00:44:39.160 --> 00:44:42.710
+done all the thing so
+
+00:44:42.720 --> 00:44:47.750
+I don't priority the option one option
+
+00:44:47.760 --> 00:44:55.309
+I are priority option three are C and
+
+00:44:55.319 --> 00:44:59.349
+B and C first so
+
+00:44:59.359 --> 00:45:06.829
+it just take two à and I
+
+00:45:09.880 --> 00:45:14.510
+in this case I think in team maybe six
+
+00:45:14.520 --> 00:45:17.030
+person So
+
+00:45:17.040 --> 00:45:22.549
+we we will use that resource in option B
+
+00:45:22.559 --> 00:45:27.069
+and C. So just one week two person will
+
+00:45:27.079 --> 00:45:32.150
+make all done monitor and alerting. So
+
+00:45:32.160 --> 00:45:34.750
+monitor and alerting is very important
+
+00:45:34.760 --> 00:45:39.109
+to product company because the when the
+
+00:45:39.119 --> 00:45:41.549
+customer have problem
+
+00:45:41.559 --> 00:45:43.349
+they
+
+00:45:43.359 --> 00:45:46.630
+may contact us or maybe not. They just
+
+00:45:46.640 --> 00:45:48.470
+don't
+
+00:45:48.480 --> 00:45:51.430
+leave us anymore because the app grass
+
+00:45:51.440 --> 00:45:53.710
+and delay or something else. So they
+
+00:45:53.720 --> 00:45:57.150
+just left they just leave they don't
+
+00:45:57.160 --> 00:45:59.710
+want earth anymore. So we don't want
+
+00:45:59.720 --> 00:46:03.910
+that. So I think the monitor and system
+
+00:46:03.920 --> 00:46:07.309
+is very important to the the product
+
+00:46:07.319 --> 00:46:10.030
+company
+
+00:46:10.040 --> 00:46:15.630
+and when that two person dog in the two
+
+00:46:15.640 --> 00:46:19.670
+week they will go to the option a to fix
+
+00:46:19.680 --> 00:46:23.630
+performance the product company have a
+
+00:46:23.640 --> 00:46:26.190
+lot of
+
+00:46:26.200 --> 00:46:30.549
+performance issue because it are the
+
+00:46:30.559 --> 00:46:33.270
+more scale and
+
+00:46:33.280 --> 00:46:38.790
+the problem about the performance
+
+00:46:38.800 --> 00:46:43.309
+we have a lot when we have a new feature
+
+00:46:43.319 --> 00:46:46.349
+like the example
+
+00:46:46.359 --> 00:46:49.630
+above so
+
+00:46:49.640 --> 00:46:52.750
+two person will
+
+00:46:52.760 --> 00:46:54.510
+fix
+
+00:46:54.520 --> 00:47:00.150
+in one week maybe some some problem
+
+00:47:00.160 --> 00:47:04.150
+I think
+
+00:47:08.720 --> 00:47:15.390
+so the new feature we four person cannot
+
+00:47:15.400 --> 00:47:17.549
+done that in
+
+00:47:17.559 --> 00:47:20.589
+two weeks. But but
+
+00:47:20.599 --> 00:47:23.829
+I think two week is enough for the demo.
+
+00:47:23.839 --> 00:47:26.950
+So we can show it for the customer and
+
+00:47:26.960 --> 00:47:32.750
+the CEO. So CC that we have process so I
+
+00:47:32.760 --> 00:47:36.190
+think it's very clear that we have done
+
+00:47:36.200 --> 00:47:40.470
+all three option but in
+
+00:47:40.480 --> 00:47:44.990
+resort Q h and have still have
+
+00:47:45.000 --> 00:47:48.630
+efficiency.
+
+00:47:51.240 --> 00:47:52.870
+cũng sẽ trình bày tương đương như thế
+
+00:47:52.880 --> 00:47:56.349
+với mỗi đội để biết được chứ em nghĩ là
+
+00:47:56.359 --> 00:48:00.230
+không tránh việc hay là
+
+00:48:00.240 --> 00:48:02.230
+à mình không thể nhét toàn bộ cả team
+
+00:48:02.240 --> 00:48:05.030
+vào làm dự án kiểu này để hy vọng nó
+
+00:48:05.040 --> 00:48:07.870
+song sớm được. Bởi vì như em nói thì
+
+00:48:07.880 --> 00:48:10.470
+tính năng C cũng quan trọng, tính năng A
+
+00:48:10.480 --> 00:48:12.750
+thì ra là nó quan trọng phần nào. Nhưng
+
+00:48:12.760 --> 00:48:15.270
+mà ám chỉ là nếu mình dồn hết làm vào
+
+00:48:15.280 --> 00:48:19.190
+cái này cũng chưa chắc được. Vì mình làm
+
+00:48:19.200 --> 00:48:20.950
+lập trình viên mình sẽ hiểu là không
+
+00:48:20.960 --> 00:48:23.549
+phải cứ đông người là sẽ giải quyết được
+
+00:48:23.559 --> 00:48:24.950
+nhanh đúng không ạ? Đôi khi tạo thêm vấn
+
+00:48:24.960 --> 00:48:30.190
+đề đấy. So I will tell the member like I
+
+00:48:30.200 --> 00:48:34.510
+just said because very clear. So
+
+00:48:34.520 --> 00:48:36.630
+à
+
+00:48:36.640 --> 00:48:40.829
+when the option C is very important so
+
+00:48:40.839 --> 00:48:45.150
+we cannot miss up and the we can we
+
+00:48:45.160 --> 00:48:47.670
+cannot
+
+00:48:47.680 --> 00:48:50.950
+use all the resour
+
+00:48:50.960 --> 00:48:54.270
+team in the option B to make it more
+
+00:48:54.280 --> 00:48:56.510
+faster because
+
+00:48:56.520 --> 00:49:03.349
+like as a developer I understand that
+
+00:49:03.359 --> 00:49:06.390
+more people is not
+
+00:49:06.400 --> 00:49:09.030
+shorter the
+
+00:49:09.040 --> 00:49:12.589
+the time because maybe cause more
+
+00:49:12.599 --> 00:49:16.270
+problem we must communicate and
+
+00:49:16.280 --> 00:49:19.829
+understand each other so
+
+00:49:19.839 --> 00:49:24.190
+conflict something else so I think
+
+00:49:24.200 --> 00:49:27.109
+that is my
+
+00:49:27.119 --> 00:49:32.589
+myw
+
+00:49:35.240 --> 00:49:37.349
+nhiều và nó bị dài hơn so với quyết định
+
+00:49:37.359 --> 00:49:38.870
+nhưng mà em nghĩa là nó sẽ khá là rõ
+
+00:49:38.880 --> 00:49:42.910
+ràng bởi vì là em đã trình bày trên cả
+
+00:49:42.920 --> 00:49:45.910
+tất cả kiểu khá là rõ rõ đúng không ạ?
+
+00:49:45.920 --> 00:49:52.390
+Về và cũng khá là kiểu bài bản. Ờ
+
+00:49:52.400 --> 00:49:55.150
+tuy nhiên nó sẽ đi kèm với em vừa nói cả
+
+00:49:55.160 --> 00:49:57.710
+ưu và nhược các thứ rồi đúng không ạ?
+
+00:49:57.720 --> 00:50:00.510
+Và tiếp theo là em nói gì về cái trải
+
+00:50:00.520 --> 00:50:03.710
+nghiệm cái thử thách này? Thứ đây là
+
+00:50:03.720 --> 00:50:05.630
+những lần hiếm ho em đã phỏng vấn và đây
+
+00:50:05.640 --> 00:50:08.829
+là lần đầu tiên em làm cái bài thử thách
+
+00:50:08.839 --> 00:50:11.150
+thì em thấy rất ấn tượng và rất là hay
+
+00:50:11.160 --> 00:50:13.030
+cũng như là
+
+00:50:13.040 --> 00:50:15.150
+nó cho em cảm thấy thêm về năng lực của
+
+00:50:15.160 --> 00:50:17.990
+bản thân mình là biết được là ừ mình làm
+
+00:50:18.000 --> 00:50:19.630
+được.
+
+00:50:19.640 --> 00:50:27.829
+Và à em tiếp theo là
+
+00:50:40.400 --> 00:50:44.190
+it's not very short because I do it in
+
+00:50:44.200 --> 00:50:48.430
+language and I
+
+00:50:48.440 --> 00:50:52.589
+have show you my thought a lot so
+
+00:50:52.599 --> 00:50:54.630
+it's not just
+
+00:50:54.640 --> 00:50:57.789
+just all rec
+
+00:50:57.799 --> 00:51:01.349
+more complicate than that. So I this is
+
+00:51:01.359 --> 00:51:03.470
+the first time I do this kind of
+
+00:51:03.480 --> 00:51:05.030
+challenge
+
+00:51:05.040 --> 00:51:08.150
+interview. So I think it
+
+00:51:08.160 --> 00:51:12.549
+very very good and I and it help me that
+
+00:51:12.559 --> 00:51:15.150
+I know
+
+00:51:15.160 --> 00:51:22.190
+what position I am what level I am. So I
+
+00:51:22.200 --> 00:51:28.470
+very happy after this challenge.
+
+00:51:32.359 --> 00:51:34.870
+mọi người có thấy là em đã sử dụng AI
+
+00:51:34.880 --> 00:51:36.910
+trong việc là vừa tóm tắt vừa phân tích
+
+00:51:36.920 --> 00:51:40.230
+cũng như là thậm chí cả code luôn. Thì
+
+00:51:40.240 --> 00:51:42.910
+thực tế em làm bây giờ cũng thế nghĩa là
+
+00:51:42.920 --> 00:51:45.710
+em sẽ phân tích trước. Em thứ các em
+
+00:51:45.720 --> 00:51:47.270
+nghĩ một lập trình viên là sẽ thế. lập
+
+00:51:47.280 --> 00:51:48.510
+trình viên nó không phải là người viết
+
+00:51:48.520 --> 00:51:50.069
+lại những dòng code không phải ngồi gõ
+
+00:51:50.079 --> 00:51:52.870
+lại. Đấy giống kiểu thư ký hơn hoặc
+
+00:51:52.880 --> 00:51:55.230
+coder hơn. Developer nó sẽ là nhà phát
+
+00:51:55.240 --> 00:51:57.150
+triển tức là người dựa trên những cái gì
+
+00:51:57.160 --> 00:51:59.309
+đã có xong rồi mình sẽ ngồi phân tích để
+
+00:51:59.319 --> 00:52:01.349
+mà
+
+00:52:01.359 --> 00:52:04.109
+mình sẽ đưa kế hoạch để làm. Thì gần như
+
+00:52:04.119 --> 00:52:06.030
+là bây giờ là lập trình viên giống như
+
+00:52:06.040 --> 00:52:09.870
+một PM hơn và AI sẽ là công cụ để mà
+
+00:52:09.880 --> 00:52:12.309
+mình làm. Đương nhiên, đương nhiên là có
+
+00:52:12.319 --> 00:52:14.990
+những cái mình vẫn phải tự code bởi vì
+
+00:52:15.000 --> 00:52:17.829
+vì mình phải có những cái button chuẩn
+
+00:52:17.839 --> 00:52:21.190
+để cho ai học theo để mà ai biết được là
+
+00:52:21.200 --> 00:52:24.510
+mình dựa theo cái design button nào đấy.
+
+00:52:24.520 --> 00:52:26.990
+Tránh việc là nó tự nghĩa là code rồi
+
+00:52:27.000 --> 00:52:30.390
+code cứ loạn hết cả lên và không clean
+
+00:52:30.400 --> 00:52:33.150
+đúng không ạ?
+
+00:52:33.160 --> 00:52:36.670
+So I
+
+00:52:36.680 --> 00:52:41.230
+I show you guys
+
+00:52:46.200 --> 00:52:49.829
+guys may think that I lot about the
+
+00:52:49.839 --> 00:52:54.150
+summary and
+
+00:52:58.480 --> 00:53:02.870
+deeper is not coder. We don't write we
+
+00:53:02.880 --> 00:53:04.589
+don't
+
+00:53:04.599 --> 00:53:08.589
+write down the code repe repeatly. We
+
+00:53:08.599 --> 00:53:12.510
+must think first and make plan that we
+
+00:53:12.520 --> 00:53:15.510
+must deploy
+
+00:53:15.520 --> 00:53:19.670
+that application already have but in
+
+00:53:19.680 --> 00:53:22.390
+some case we must
+
+00:53:22.400 --> 00:53:26.589
+design first and
+
+00:53:26.599 --> 00:53:31.470
+must write clean code have
+
+00:53:31.480 --> 00:53:34.990
+button first so AI can
+
+00:53:35.000 --> 00:53:41.829
+learn for to à make code à make new code
+
+00:53:41.839 --> 00:53:44.549
+à
+
+00:53:44.559 --> 00:53:55.430
+l pattern and make it clear and clean.
+
+00:53:57.440 --> 00:54:02.069
+gửi lại code đúng không ạ?
+
+00:54:06.599 --> 00:54:12.270
+comment này video này.
+
+00:54:22.760 --> 00:54:25.670
+hope I can see you guys soon.
+
+00:54:25.680 --> 00:54:27.720
+Yeah.
