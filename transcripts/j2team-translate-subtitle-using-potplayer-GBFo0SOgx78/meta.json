@@ -1,0 +1,18 @@
+{
+  "kind": "video",
+  "channel_id": "UCnL9cDH4iZcLmOIF8SzNGYw",
+  "channel": "J2TeamNNL Blog",
+  "id": "GBFo0SOgx78",
+  "title": "J2Team Translate  Subtitle using PotPlayer",
+  "url": "https://www.youtube.com/watch?v=GBFo0SOgx78",
+  "language": null,
+  "subtitle_source": null,
+  "subtitles_available": false,
+  "upload_date": "20170731",
+  "published_at": "2017-07-31",
+  "published": "2017-07-31",
+  "duration": 77,
+  "note": "Captions file present but parsed zero usable cues; stubbing.",
+  "folder": "j2team-translate-subtitle-using-potplayer-GBFo0SOgx78",
+  "subtitle_method": null
+}
