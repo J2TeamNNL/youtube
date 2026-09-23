@@ -1,0 +1,451 @@
+WEBVTT
+
+00:00:04.839 --> 00:00:08.070
+muốn giới thiệu chia sẻ cho các bạn cái
+
+00:00:08.080 --> 00:00:11.430
+mà vấn đề mình gặp phải đó là mình muốn
+
+00:00:11.440 --> 00:00:14.350
+xuất cái file pdf kiểu như này file pdf
+
+00:00:14.360 --> 00:00:18.990
+kiểu như này nó có tận 200 hơn 200 trang
+
+00:00:19.000 --> 00:00:23.150
+và hơn 100 m nên thành ra là các tool
+
+00:00:23.160 --> 00:00:24.950
+miễn phí trên mạng nó đang không hỗ trợ
+
+00:00:24.960 --> 00:00:27.349
+bắt phải trả phí nên là mình nghĩ là
+
+00:00:27.359 --> 00:00:30.029
+mình là dân lập trình như mình sẽ tự
+
+00:00:30.039 --> 00:00:32.190
+code thì mình tra trên mạng có mấy cái
+
+00:00:32.200 --> 00:00:35.350
+thư viện để mà ngồi làm xong rồi tìm ra
+
+00:00:35.360 --> 00:00:38.350
+được vấn đề đó là bản chất là cái file
+
+00:00:38.360 --> 00:00:41.510
+này là file pdf Đây là hình ảnh Nên là
+
+00:00:41.520 --> 00:00:44.630
+nếu mà dùng một cái thư viện là pdf to
+
+00:00:44.640 --> 00:00:47.110
+tex nó không được Bởi vì nó không phải
+
+00:00:47.120 --> 00:00:51.029
+là chữ mà nó phải nhận diện từ ảnh sang
+
+00:00:51.039 --> 00:00:53.510
+chữ nên là mình dùng
+
+00:00:53.520 --> 00:00:56.229
+cái mình Cuối cùng thì mình dùng mấy cái
+
+00:00:56.239 --> 00:01:02.029
+thư viện xuất này nó TC này Đấy mình sẽ
+
+00:01:02.039 --> 00:01:03.990
+hướng dẫn các bạn nhé thì các bạn lên
+
+00:01:04.000 --> 00:01:07.030
+đây này các bạn chọn release đây thì
+
+00:01:07.040 --> 00:01:09.670
+chọn cái phiên bản mới nhất này Tải về
+
+00:01:09.680 --> 00:01:13.510
+cài các thứ các thứ đấy ví dụ bây giờ
+
+00:01:13.520 --> 00:01:17.550
+mình thử cài cài lại các bạn xem
+
+00:01:20.640 --> 00:01:22.710
+next finish thôi Đây mình chấp nhận xóa
+
+00:01:22.720 --> 00:01:24.910
+đi gỡ đi cài lại
+
+00:01:24.920 --> 00:01:30.310
+này đấy next next các thứ thứ thì riêng
+
+00:01:30.320 --> 00:01:32.910
+ở chỗ này thì các bạn nên chọn thêm một
+
+00:01:32.920 --> 00:01:35.870
+cái là hỗ trợ tiếng ngôn ngữ của các bạn
+
+00:01:35.880 --> 00:01:37.469
+cần trong trường hợp này mình ngôn ngữ
+
+00:01:37.479 --> 00:01:42.350
+tiếng Việt đấy để tải thêm đấy các thứ
+
+00:01:42.360 --> 00:01:47.030
+Ok th đây xong một cái tiếp theo là các
+
+00:01:47.040 --> 00:01:50.190
+bạn phải dùng thêm cả cái thư viện này
+
+00:01:50.200 --> 00:01:54.630
+nữa là cái này là cái này là sẽ nhận
+
+00:01:54.640 --> 00:01:57.069
+diện từ ảnh sang chữ nhưng mà bây giờ
+
+00:01:57.079 --> 00:01:58.990
+mình cần phải biến file pdf thành ảnh
+
+00:01:59.000 --> 00:02:02.910
+nữa mình sẽ tải thêm cái này Đấy cái này
+
+00:02:02.920 --> 00:02:05.910
+cũng tải về giải nén các thứ các thứ thì
+
+00:02:05.920 --> 00:02:08.430
+mình thực ra mình đã giải nén rồi Mình
+
+00:02:08.440 --> 00:02:10.510
+đã giải nén ở trong thư mục Download của
+
+00:02:10.520 --> 00:02:14.350
+mình đấy mình đã giải nén ra xong rồi
+
+00:02:14.360 --> 00:02:17.309
+các bạn ấn vào các bạn chọn Library này
+
+00:02:17.319 --> 00:02:20.750
+cái pin này Đấy nó thư viện các thứ thứ
+
+00:02:20.760 --> 00:02:23.229
+ở đây thì mình copy cái đường dẫn này
+
+00:02:23.239 --> 00:02:26.430
+kết hợp với cái đường dẫn của cái của
+
+00:02:26.440 --> 00:02:30.030
+cái vừa nãy mình cài Nếu giả sử các bạn
+
+00:02:30.040 --> 00:02:32.030
+chưa biết được là cái cài nó nằm ở thư
+
+00:02:32.040 --> 00:02:33.670
+mục nào thì các bạn dùng thêm cả cái
+
+00:02:33.680 --> 00:02:38.470
+ting này để tìm nó dễ đấy nó sẽ vừa nãy
+
+00:02:38.480 --> 00:02:40.390
+mình cài trong thườ mục này này đấy các
+
+00:02:40.400 --> 00:02:43.830
+bạn thấy copy addp đứng dẫn như này kiểu
+
+00:02:43.840 --> 00:02:47.309
+thế sau đó thì các bạn sẽ mở Ctrl Panel
+
+00:02:47.319 --> 00:02:51.350
+này mình đang dùng win 11 nhá nên là có
+
+00:02:51.360 --> 00:02:53.149
+thể nó sẽ hơi khác một tí nhưng các bạn
+
+00:02:53.159 --> 00:02:57.390
+chỉ cần tìm cái system này đấy đấy các
+
+00:02:57.400 --> 00:03:00.670
+bạn sẽ vào Advance system setting này
+
+00:03:00.680 --> 00:03:04.470
+environment này xong rồi chọn cái p này
+
+00:03:04.480 --> 00:03:07.149
+đấy các bạn sẽ thêm hai cái đường dẫn
+
+00:03:07.159 --> 00:03:09.110
+này Thực ra bản chất thêm hai đường dẫn
+
+00:03:09.120 --> 00:03:11.430
+này để làm gì Để mỗi khi mà các bạn Gõ
+
+00:03:11.440 --> 00:03:13.789
+cái lệnh liên quan đến cái thằng này hay
+
+00:03:13.799 --> 00:03:15.350
+liên quan thư viện này các bạn sẽ không
+
+00:03:15.360 --> 00:03:17.589
+phải gõ lại đầy đủ cái đứng dẫn nó nữa
+
+00:03:17.599 --> 00:03:20.070
+các bạn chỉ cần gõ tên của cái file này
+
+00:03:20.080 --> 00:03:22.910
+thôi đấy Nói chung là các bạn sẽ thêm
+
+00:03:22.920 --> 00:03:25.030
+hai một cái đương dẫn rồi các bạn chèn
+
+00:03:25.040 --> 00:03:28.390
+hai cái là như này ok rồi cứ ok ok lại
+
+00:03:28.400 --> 00:03:33.990
+được nhá Sau đó đểm gì đấy để các bạn
+
+00:03:34.000 --> 00:03:37.190
+Ờ
+
+00:03:40.959 --> 00:03:44.550
+dùng hai thằng Đan senen đây đây hướng
+
+00:03:44.560 --> 00:03:48.070
+dẫn này tải này cài đặt này thêm và pass
+
+00:03:48.080 --> 00:03:51.589
+này Đấy xong rồi các bạn chạy lại lệnh
+
+00:03:51.599 --> 00:03:54.990
+như này thì nó sẽ ra kiểu
+
+00:03:55.000 --> 00:03:58.030
+version là được ok
+
+00:03:58.040 --> 00:04:02.270
+đấy tiếp theo là mình bởi vì là có tận
+
+00:04:02.280 --> 00:04:06.470
+200 file à 200 trang Tức là mình xuất ra
+
+00:04:06.480 --> 00:04:10.350
+200 ảnh x từ 200 ảnh đấy xuất ra 200 chữ
+
+00:04:10.360 --> 00:04:13.470
+nên thh rất là dài nên là mình muốn ghi
+
+00:04:13.480 --> 00:04:17.749
+một cái lệnh để mà để mà chạy trong kiểu
+
+00:04:17.759 --> 00:04:20.789
+nó tự động chạy cho mình ấ thì mình cũng
+
+00:04:20.799 --> 00:04:23.350
+tí mình sẽ CP lệnh cho các bạn đây mình
+
+00:04:23.360 --> 00:04:25.230
+lệnh trong command bản chất nó là
+
+00:04:25.240 --> 00:04:28.110
+command pro này xong mình Thực ra lúc
+
+00:04:28.120 --> 00:04:30.629
+đầu chạy cũng bị lỗi đế mình báo lỗi cho
+
+00:04:30.639 --> 00:04:33.550
+nó các thứ thứ Thì đấy bây giờ sẽ lệnh
+
+00:04:33.560 --> 00:04:36.029
+hoàn chỉnh như này và lưu lại file sẽ là
+
+00:04:36.039 --> 00:04:40.070
+lưu ch bass đây mình sẽ copy này
+
+00:04:40.080 --> 00:04:44.950
+đấy thì ở đây mình có cái thư mục thư
+
+00:04:44.960 --> 00:04:49.390
+mục đây cái file của mình Đây nhá Đấy
+
+00:04:49.400 --> 00:04:51.790
+file của mình đây mình tạo một thư mục
+
+00:04:51.800 --> 00:04:56.230
+như này Đấy xong mình mình chạy cái lệnh
+
+00:04:56.240 --> 00:04:58.790
+để mà mình xuất ra được cái thư mục này
+
+00:04:58.800 --> 00:05:02.909
+thì sẽ lệnh như
+
+00:05:06.240 --> 00:05:13.830
+xem
+
+00:05:22.680 --> 00:05:26.029
+cái đy bến file
+
+00:05:26.039 --> 00:05:31.830
+pdf thành ảnh
+
+00:05:34.240 --> 00:05:39.430
+sẽ bởi vì cái cái file pdf này mình có
+
+00:05:39.440 --> 00:05:42.230
+cả dấu cách nên mình sẽ nằm ở trong dấu
+
+00:05:42.240 --> 00:05:45.110
+nháy như này Đấy sau đó thì mình muốn
+
+00:05:45.120 --> 00:05:48.670
+cho nó hẳn vào một thư mục là scv vừa
+
+00:05:48.680 --> 00:05:52.270
+rồi và gạch chéo tên của cái thư mục ảnh
+
+00:05:52.280 --> 00:05:54.830
+là image như này gạch chéo phát nữa đấy
+
+00:05:54.840 --> 00:05:58.309
+rồi tên file ả là kiểu inmate xong rồi
+
+00:05:58.319 --> 00:06:09.110
+010203 gì gì đó xong mình
+
+00:06:14.319 --> 00:06:17.390
+mình reset này rồi mà nhỉ Đợi mình tí
+
+00:06:17.400 --> 00:06:20.469
+Đợi mình
+
+00:06:32.039 --> 00:06:34.270
+mục kia không tồn tại phải tạo Hàn Thư
+
+00:06:34.280 --> 00:06:38.070
+mục đi sccv đi Có khi là thươ mục không
+
+00:06:38.080 --> 00:06:43.070
+tồn tại nh nó sẽ báo lỗi
+
+00:06:46.800 --> 00:06:49.749
+tại nhá image
+
+00:06:49.759 --> 00:06:52.950
+này À đấy Chắc là do thương mộc không
+
+00:06:52.960 --> 00:06:56.309
+tồn tại ok ok đấy các bạn thấy nó sẽ ra
+
+00:06:56.319 --> 00:06:58.670
+được rất nhiều ảnh đúng không ạ Tại
+
+00:06:58.680 --> 00:07:00.790
+thông bao exit in thì tôi tưởng đã tồn
+
+00:07:00.800 --> 00:07:04.909
+tại rồi hoặ là không tồn
+
+00:07:08.720 --> 00:07:12.670
+này để ra một loạt ảnh đúng không ạ Đấy
+
+00:07:12.680 --> 00:07:14.589
+mình cứ ví dụ trước các bạn thấy thực ra
+
+00:07:14.599 --> 00:07:16.990
+nhiều lắm Mình cứ ví dụ để các bạn tua
+
+00:07:17.000 --> 00:07:19.550
+nhanh nha Sau đó thì mình
+
+00:07:19.560 --> 00:07:24.110
+sẽ kéo xống mình sẽ có cái đoạn lệnh này
+
+00:07:24.120 --> 00:07:28.029
+Đấy mình tạo một cái thươ mục ở đây là T
+
+00:07:28.039 --> 00:07:29.830
+hoặc thực ra đôi khi không cần tạo thu
+
+00:07:29.840 --> 00:07:32.390
+mục đó Vì cái lệnh này của mình là đã hỗ
+
+00:07:32.400 --> 00:07:34.670
+trợ tạo thu mục Nếu không tồn tại rồi
+
+00:07:34.680 --> 00:07:37.510
+đấy các bạn chỉn copy thế này Mở cái
+
+00:07:37.520 --> 00:07:41.869
+file notp lên được new này tạo một cái
+
+00:07:41.879 --> 00:07:48.110
+thử một cái file nop kiểu như
+
+00:07:51.080 --> 00:07:56.670
+à à à Thôi cứ chấm tt
+
+00:07:56.680 --> 00:08:00.790
+đi đấy Mình lưu như này đúng không ạ sau
+
+00:08:00.800 --> 00:08:04.230
+đó thì mình sẽ đổi đổi đường dẫn thành
+
+00:08:04.240 --> 00:08:06.629
+chấm bass là
+
+00:08:06.639 --> 00:08:10.110
+được mình đặt tên nó orc đi cũng được
+
+00:08:10.120 --> 00:08:27.189
+đấy chấm bass như này Đấy xong mình
+
+00:08:31.240 --> 00:08:33.630
+à hình như là do cái đường dẫn mình chưa
+
+00:08:33.640 --> 00:08:36.509
+đổi đường dẫn mình phải như này đúng lỗi
+
+00:08:36.519 --> 00:08:40.230
+lỗi lỗi lỗi mình lỗi mình đừng dẫn nó là
+
+00:08:40.240 --> 00:08:44.350
+inmate như này vừa nãy mình thêm chữ add
+
+00:08:44.360 --> 00:08:47.670
+ở đây mình sửa lại cái này nhá các bạn
+
+00:08:47.680 --> 00:08:50.550
+thể ấn Open edit in p các bạn sửa lại
+
+00:08:50.560 --> 00:08:53.030
+cũng được vậy Đứng dẫn nó thêm chữ s như
+
+00:08:53.040 --> 00:08:56.030
+này được
+
+00:09:03.360 --> 00:09:07.509
+không cái này nó sẽ có vài cái nó không
+
+00:09:07.519 --> 00:09:10.269
+đúng là kiểu nó nếu là ảnh hay là cái gì
+
+00:09:10.279 --> 00:09:13.829
+gì đó nhưng mà có phải về cơ bản về cơ
+
+00:09:13.839 --> 00:09:15.870
+bản là nó cũng hỗ trợ rất là tốt các bạn
+
+00:09:15.880 --> 00:09:18.190
+thấy không Nó hỗ trợ tương đối tương đối
+
+00:09:18.200 --> 00:09:20.790
+rất là tốt rồi nhận diện các thứ các thứ
+
+00:09:20.800 --> 00:09:23.430
+và quan trọng là miễn phí đúng không ạ
+
+00:09:23.440 --> 00:09:25.990
+Đấy Các bạn cứ để cắm nó chạy khi nà nó
+
+00:09:26.000 --> 00:09:29.430
+ngừng thì nó sẽ thông báo nhá sẽ ngừng
+
+00:09:29.440 --> 00:09:34.839
+sẽ tự động chạy ngừng lại Ok không ạ
